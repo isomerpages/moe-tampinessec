@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Information Technology Department.md
       - Physical Education Department.md
       - Craft & Technology.md
