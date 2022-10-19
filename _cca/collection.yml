@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Co Curricular ATTAINMENT Scheme.md
       - CCA SCHEDULE 2022.md
       - Co Curricular Activities (CCAs).md
