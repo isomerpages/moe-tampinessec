@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Information.md
       - Tampinesian Code of Conduct/.keep
       - Tampinesian Code of Conduct/Tampinesian Code of Conduct.md
       - Tampinesian Code of Conduct/Image of Tampinesian.md
