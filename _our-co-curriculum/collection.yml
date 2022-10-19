@@ -2,5 +2,6 @@ collections:
   our-co-curriculum:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - Student Development Team (SDT).md
       - Character and Citizenship Education (CCE).md
