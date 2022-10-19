@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - 35th Anniversary Family Photo.md
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Our Stories.md
