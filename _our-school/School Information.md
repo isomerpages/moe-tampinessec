@@ -61,7 +61,7 @@ Opening Hours:&nbsp;**0730 to 1730 ,Monday to Friday, excluding Public Holidays*
   <tr>
     <td class="tg-baqh">Bus Stop A (76071)</td>
     <td class="tg-baqh">Blk 141</td>
-    <td class="tg-baqh"><img width="16" src="https://tampinessec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif">#8, 17, 18, 20, 28, 34, 39, 59, 292, 518</td>
+    <td class="tg-baqh">8, 17, 18, 20, 28, 34, 39, 59, 292, 518</td>
   </tr>
   <tr>
     <td class="tg-baqh">Bus Stop B (76079)</td>
