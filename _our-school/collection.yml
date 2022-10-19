@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Tampinesian Code of Conduct/Conduct Grading Rubrics.md
       - Tampinesian Code of Conduct/Mobile Phone Policy.md
       - Tampinesian Code of Conduct/Minor and Major Offences.md
       - Tampinesian Code of Conduct/Discipline Procedures.md
