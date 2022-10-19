@@ -3,8 +3,7 @@ title: English Language and Literature Department
 permalink: /our-curriculum/english-language-and-literature-department/
 description: ""
 ---
-<img src="/images/Photo%20from%20Pek%20Jia%20Hui.jpg" 
-     style="width:75%">
+<img style="width:75%" src="/images/Photo%20from%20Pek%20Jia%20Hui.jpg">
 		 
 ### TEACHERS
 
@@ -77,4 +76,28 @@ description: ""
   </tr>
 </tbody>
 </table>
-		 
+
+### KEY PROGRAMMES&nbsp;
+
+##### As Learners...
+
+**English Language**
+
+_English Language Trail_&nbsp;
+
+*   experiential learning to make grammar and language appreciation come alive&nbsp;
+*   self-directed research on possible language games&nbsp;
+*   adapt them into their proposal writing exercise
+
+This programme provides an&nbsp;**authentic learning experience**&nbsp;for students to see how the learning process can create a real-life impact to their lives.
+
+**Literature in English**
+
+_Passion Arts Festival_&nbsp;where the following are displayed throughout the year:  
+
+*   graphic novels (Secondary 1)  
+*   comics (Secondary 2)  
+*   shape poems (Secondary 3)&nbsp;
+*   anthology of poems titled ‘My Father’ (Secondary 4)
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSa09pdgb5fgk9JDBQmcL5LvjnNN9BR0ukLXM21hiDHuS1JPyfw1Wk_3ys92wwMFnhJ8EdZVM-N2T1k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
