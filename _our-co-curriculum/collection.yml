@@ -2,6 +2,7 @@ collections:
   our-co-curriculum:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - Trips for International Experience (TIE).md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
