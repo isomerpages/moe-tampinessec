@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Form Teachers.md
       - Staff Organisational Structure.md
