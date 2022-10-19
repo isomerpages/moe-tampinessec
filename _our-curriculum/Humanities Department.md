@@ -106,3 +106,48 @@ The department seeks to develop critical thinkers who are able to work collabora
 
 ### KEY PROGRAMS FOR EACH LEVEL
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f4yw"><span style="font-weight:bold">Geographical Investigation Field Trips for </span><br><span style="font-weight:bold">Sec 1 and Sec 3 students</span></th>
+    <th class="tg-dgl5"><span style="font-weight:400;font-style:normal">The Sec 1 and 3 students visited the Sengkang Floating Wetland and Little India Arcade respectively. They collected primary data which enabled them to draw conclusions on the notions of water conservation and the local heritage of these sites.</span><br><br><img src="/images/3-1.jpg" alt="3.jpg" width="284" height="170"><br><br><span style="font-weight:400;font-style:normal">Secondary 1 students exploring Sengkang Floating Wetland as part of their Geographical Investigation</span></th>
+    <th class="tg-ktyi"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb"><span style="background-color:initial">Sec 1 Humanities Trail </span></td>
+    <td class="tg-ktyi"><span style="background-color:initial">To promote the joy of learning History and Geography through experiential and collaborative learning, and to help students appreciate the history and significance of significant landmarks in the Civic District Area, Sec 1 students went on a Humanities trail to uncover Singapore’s heritage at the National Gallery and the Singapore River. </span><br><span style="background-color:initial">The trail included an exploration of how Singapore has transformed in its young nationhood journey. </span><br><br><br><img src="/images/4-1.jpg" alt="4.jpg" width="414" height="233"><br><br><span style="color:#000">Teacher explaining to students about the transformation of Singapore’s landscape.</span><br></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb"><span style="background-color:initial">Sec 2 Learning on the Move</span></td>
+    <td class="tg-zr06">To spark curiosity in students and to prepare them for the Upper Secondary Social Studies curriculum, LOTM is about experiential learning in an authentic setting. <br>Students work collaboratively to explore concepts of governance, diversity, and globalization at the Singapore Changi Airport through fun tasks such as figuring out currency exchange, and observing the infrastructural set-up which promotes social harmony and inclusiveness. </td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb"><span style="background-color:initial">Upper Secondary Stretch Programme</span> </td>
+    <td class="tg-zr06">As part of enriching students’ experiences in Humanities, opportunities are provided to students to participate in externally organized competitions and interaction sessions. <br>An example is the Geography Challenge where students gather data to connect learning to real-life issues and sense-make and participate in challenge tasks.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb"><span style="background-color:initial">Sec 4/5 SS Talk Series</span></td>
+    <td class="tg-zr06">Expert speakers are invited to share with students issues discussed in Social Studies classroom, such as political impacts of globalization and Singapore’s response’s to security. </td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
