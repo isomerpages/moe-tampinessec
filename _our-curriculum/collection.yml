@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mother Tongue Department.md
       - Science Department.md
       - Mathematics Department.md
       - English Language and Literature Department.md
