@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Identity.md
       - School Song.md
       - Vision Mission Motto Values.md
       - Principal's Message.md
