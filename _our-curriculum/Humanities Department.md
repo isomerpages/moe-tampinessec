@@ -171,3 +171,14 @@ Students from Lower Secondary were exposed to a variety of competitions such as 
 <img src="/images/1-1.jpg">
 <figcaption> Students interacting with Dr Yaacob Ibrahim at Singapore History Day</figcaption>
 </figure>
+
+**3. Transnational Terrorism Talk by Mr Salim Bin Mohd Nasir, RRG Secretariat**
+
+Mr Salim shared his experiences and research on terrorism with the graduating cohort. He clarified misconceptions the general public had on associating terrorism with certain religious groups. He also emphasized the importance of social harmony as a defense against terrorist attacks.
+
+
+
+<figure>
+<img src="/images/2-1.jpg">
+<figcaption> Students listening to talk given by Mr Nasir on Transnational Terrorism</figcaption>
+</figure>
