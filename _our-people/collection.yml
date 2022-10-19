@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Alumni/Achievements.md
       - Alumni/Join Us.md
       - Alumni/Upcoming Alumni Events.md
       - Alumni/Our Stories.md
