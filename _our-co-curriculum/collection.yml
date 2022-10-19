@@ -1,4 +1,5 @@
 collections:
   our-co-curriculum:
     output: true
-    order: []
+    order:
+      - Character and Citizenship Education (CCE).md
