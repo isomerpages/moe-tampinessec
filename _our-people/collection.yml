@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Parents as Partners Network.md
       - School Advisory Committee.md
       - Form Teachers.md
       - Staff Organisational Structure.md
