@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Alumni/Alumni.md
       - Alumni/.keep
       - Parents as Partners Network.md
       - School Advisory Committee.md
