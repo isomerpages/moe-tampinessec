@@ -83,3 +83,40 @@ All pupils will love their Mother Tongue language. 
   
 **Its Mission is:**   <br>
 To maximise language competence and inculcate the love for the language.
+
+### KEY PROGRAMS FOR EACH LEVEL
+
+**LOWER SECONDARY**
+
+1. Reading Programme
+
+The reading programme aims to cultivate an interest and passion in Mother Tongue language and culture through literary works. The materials are carefully curated to include all genres so that students of all levels can build their interest in reading. 
+
+2. MTL fortnight
+
+The MTL fortnight is organised to create an immersive environment for the learning of MTL through a range of activities, competitions and workshops.
+
+![](/images/mt%201.png)
+
+**UPPER SECONDARY**
+
+1. Learning Journey
+
+Learning Journeys are organised to give students an opportunity to experience a more in-depth appreciation of the MTL culture through drama and/or performances. The programme provides an authentic experience beyond the classroom.
+
+<img src="/images/MT3.jpg" 
+     style="width:80%">
+		 
+2. Stretch Programme
+
+Students are identified to represent the school in various competitions, attend workshops and act as ambassadors in our partnership with external stakeholders. In this programme, students are further developed in areas of Mother Tongue language and culture.
+
+<img src="/images/MT4.jpg" 
+     style="width:80%">
+		 
+<img src="/images/MT5.jpg" 
+     style="width:80%">
+		 
+**These photos show students participating in a debate competition conducted via Zoom**
+
+![](/images/MT6.png)
