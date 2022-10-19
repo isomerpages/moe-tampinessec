@@ -2,12 +2,12 @@ collections:
   our-people:
     output: true
     order:
-      - Alumni/Achievements.md
-      - Alumni/Join Us.md
-      - Alumni/Upcoming Alumni Events.md
-      - Alumni/Our Stories.md
-      - Alumni/Alumni.md
       - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Our Stories.md
+      - Alumni/Upcoming Alumni Events.md
+      - Alumni/Join Us.md
+      - Alumni/Achievements.md
       - Parents as Partners Network.md
       - School Advisory Committee.md
       - Form Teachers.md
