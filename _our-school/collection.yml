@@ -2,7 +2,11 @@ collections:
   our-school:
     output: true
     order:
-      - School Information.md
+      - Principal's Message.md
+      - Vision Mission Motto Values.md
+      - School Song.md
+      - Our Identity.md
+      - History.md
       - Tampinesian Code of Conduct/.keep
       - Tampinesian Code of Conduct/Tampinesian Code of Conduct.md
       - Tampinesian Code of Conduct/Image of Tampinesian.md
@@ -12,8 +16,4 @@ collections:
       - Tampinesian Code of Conduct/Conduct Grading Rubrics.md
       - Tampinesian Code of Conduct/Code of Conduct for Test and Examinations.md
       - Tampinesian Code of Conduct/Tips for Examinations.md
-      - History.md
-      - Our Identity.md
-      - School Song.md
-      - Vision Mission Motto Values.md
-      - Principal's Message.md
+      - School Information.md
