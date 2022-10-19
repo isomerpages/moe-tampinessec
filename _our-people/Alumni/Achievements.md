@@ -23,7 +23,11 @@ This prestigious scholarship is given to students with outstanding academic achi
 ### OTHER TAMPINESIAN ALUMNI ACHIEVERS
 
 ![](/images/Alumnus%20-%20Kenneth.png)
+
 ![](/images/TP%20Alumnus%20-%20Guo%20Xiaoting.png)
+
 ![](/images/TP%20Alumnus%20-%20Nurul.png)
+
 ![](/images/TP%20Alumnus%20-%20Tang%20Zijian.png)
+
 ![](/images/FADZLI.jpg)
