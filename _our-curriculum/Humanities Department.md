@@ -151,3 +151,23 @@ The department seeks to develop critical thinkers who are able to work collabora
 </tbody>
 </table>
 
+### HIGHLIGHTS OF 2019
+
+**1. Bicentennial Experience**
+
+  
+
+In celebration of Singapore’s Bicentennial in 2019, Secondary Two students were brought to Fort Canning House to visit the Bicentennial Experience to  better understand the History of Singapore. Also, the History Department organised a series of quizzes over the months to get students to find out more about Singapore’s past.
+
+  
+
+**2. History Competitions**
+
+  
+
+Students from Lower Secondary were exposed to a variety of competitions such as the Singapore History Day competition and the Istana Heritage Gallery competition. Such competitions help them to better appreciate Singapore’s history.
+
+<figure>
+<img src="/images/1-1.jpg">
+<figcaption> Students interacting with Dr Yaacob Ibrahim at Singapore History Day</figcaption>
+</figure>
