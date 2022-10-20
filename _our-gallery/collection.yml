@@ -2,4 +2,5 @@ collections:
   our-gallery:
     output: true
     order:
+      - Media coverage.md
       - Publications.md
