@@ -3,7 +3,7 @@ title: Photos
 permalink: /our-gallery/photos/
 description: ""
 ---
-### Follow us
+### Follow Us
 
 <a href="https://www.facebook.com/TampinesSec/">
 <img align="left" style="width:25%" src="/images/5296499_fb_facebook_facebook%20logo_icon.png">
