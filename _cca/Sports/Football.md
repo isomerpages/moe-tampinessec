@@ -143,7 +143,7 @@ When face-to-face CCA resumed, our footballers were raring to go and actively to
   </tr>
   <tr>
     <td class="tg-baqh">‘B’ Boys East Zone Schools League 2017</td>
-    <td class="tg-nrix"> <br>Champions<br><br></td>
+    <td class="tg-nrix"> Champions</td>
   </tr>
   <tr>
     <td class="tg-nrix"> SSSC<span style="color:#222"> FAS Football National 'C' Division Girls 2017</span></td>
