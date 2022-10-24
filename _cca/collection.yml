@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Badminton.md
-      - Sports/.keep
-      - Co Curricular ATTAINMENT Scheme.md
-      - CCA SCHEDULE 2022.md
       - Co Curricular Activities (CCAs).md
+      - CCA SCHEDULE 2022.md
+      - Co Curricular ATTAINMENT Scheme.md
+      - Sports/.keep
+      - Sports/Badminton.md
