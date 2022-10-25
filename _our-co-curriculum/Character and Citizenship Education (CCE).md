@@ -106,7 +106,7 @@ Tampinesians who are:
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHpDwZpcS1xhXNd8UpVBl22LgdTN16w4CWz5WAsmCT6et94wvhZwq3eM0KgLikXf4IvsW6w4FEGa-i/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHpDwZpcS1xhXNd8UpVBl22LgdTN16w4CWz5WAsmCT6et94wvhZwq3eM0KgLikXf4IvsW6w4FEGa-i/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### Cyberwellness
 
@@ -116,7 +116,7 @@ Tampinesians who are:
 
 **Leader:**&nbsp;Students&nbsp;who advocate for responsible digital citizenship
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSek8zVXly116QFFLGy7C-OoxykhvGUueth16Y17nptWIGLLxwdj76BP40ajJFmUoIiwevRrFkkLXPH/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSek8zVXly116QFFLGy7C-OoxykhvGUueth16Y17nptWIGLLxwdj76BP40ajJFmUoIiwevRrFkkLXPH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### National Education
 
@@ -153,7 +153,7 @@ NRIC Issuance Ceremony
 
 NS Engagement talk
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLDM3TeYbUq3Swelhxu-k2MEu9KLGgnulVy8Yw_VO60y_IN3hJl9P6IFKG3LaFEDo_v61daXRffHWh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLDM3TeYbUq3Swelhxu-k2MEu9KLGgnulVy8Yw_VO60y_IN3hJl9P6IFKG3LaFEDo_v61daXRffHWh/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### I-Care Environment
 
@@ -182,3 +182,5 @@ Sec 4/5: Biodiversity Programme
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kindness Week (Term 3) - Clean TPSS in conjunction with SG Clean
 
 - Partnerships: Alba, Tampines West , NEA, Singapore Green Council, One Tampines Hub
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT43zoqu1i7jhro9LVFNubB4kle9C8_oweMuj08_b-M7xKWKw9NGvaDRinbMWwPvHSFTYue4YnkoE0H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
