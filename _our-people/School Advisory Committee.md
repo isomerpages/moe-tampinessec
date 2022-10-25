@@ -19,4 +19,27 @@ The School Advisory Committee is a key partner of Tampines Secondary School. Mem
 <figcaption> <strong>Mr Adrian Phuah<br>Member</strong> </figcaption>
 </figure>
 
+<figure>
+<img src="/images/sac%203.jpg" 
+     style="width:40%">
+<figcaption> <strong>Ms Yvonne Aw<br>Member</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/sac%204.jpg" 
+     style="width:40%">
+<figcaption> <strong>Ms Cheryl Koh<br>Member</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Mr%20Markus%20Poh.jpg" 
+     style="width:40%">
+<figcaption> <strong>Mr Markus Poh<br>Member</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Mr%20Roland%20Teo.jpg" 
+     style="width:40%">
+<figcaption> <strong>Mr Roland Teo<br>Member</strong> </figcaption>
+</figure>
 
