@@ -58,3 +58,35 @@ Last year, at least 95% of the ICC members participated in the national NEmation
 Besides being involved in Cyber Wellness activities and participating in NEmation national competitions, the club is also undergoing intensive training on games development using CoSpaces. By the end of the training, we hope that the students will be able to create their own games related to Cyber Wellness.
 
 ![](/images/QR.png)
+
+### Photo
+
+
+<figure>
+<img src="/images/CCA%20display.jpg">
+<figcaption> <strong> CCA Display Day</strong> </figcaption>
+</figure>
+
+
+<figure>
+<img src="/images/cyber%20smart%20badges.jpg">
+<figcaption> <strong>Cyber Smart Badges</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/eCCA.jpg" style="width:60%">
+<figcaption> <strong>eCCA Session</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NEmation%20ceremony.jpg" style="width:60%">
+<figcaption> <strong>NEmation Ceremony</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Top%2010%20finalist.jpg">
+<figcaption> <strong>Top 10 Finalist</strong> </figcaption>
+</figure>
+
+
+
