@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs/Maker Faire.md
       - Clubs/InfoComm Club.md
       - Clubs/.keep
       - Uniformed Groups/.keep
