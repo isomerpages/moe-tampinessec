@@ -55,3 +55,125 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Selection Process**
+
+3. Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and registration will start on 5 May 2022 (11am) and end on 1 June 2022 (3pm). For more details, please refer to MOE website [here](https://www.moe.gov.sg/secondary/dsa).  
+  
+
+4. Shortlisted applicants will be notified to attend an in-person audition and interview at Tampines Secondary School.  
+
+5. The interview panel will comprise of a School Leader, a DSA coordinator and teacher I/Cs or instructors (where relevant). Thereafter, all applicants will be informed of the outcome (i.e. ‘Confirmed Offer’, ‘Wait List’ or ‘Unsuccessful’), via email or phone call.  
+  
+
+6. In addition to a 10-minute interview, shortlisted applicants will need to prepare the following for their audition:
+
+a) **For Dance-related Talent Areas:**  
+
+- Performance of a prepared item, such as a 1min dance solo featuring any genre that can be done within a 3x3m space. Students may perform dance(s) learnt in school (e.g. CCA, LLP) or self-choreographed pieces and should be in suitable dance or PE attire.
+
+  
+
+b) **For Drama – English:**
+
+- A prepared 1-2min solo performance (e.g. a monologue). Students may perform something scripted, devised, or improvised, and this can be something learnt in school (in class or CCA).
+
+c) **For Music-related Talent Areas:**
+
+- A 2-5min performance on voice/instrument in your Talent Area (if student has access to the necessary instrument and if solo performance is possible), or
+
+- A 1-2min performance of pieces/songs learnt in primary school Music lessons or CCA, using voice or instruments available.
+
+d) **For Visual Arts:**
+
+- Discussion of the student’s past artwork, which might consist of art completed either in school or on their own time.
+
+e) **For STEM – Creative Engineering and Modelling:**
+
+- Open-ended challenges to assess aptitude for design thinking and creativity.
+
+f) **For Football**
+
+- Demonstration of individual skills and movements that showcase agility.
+
+  
+
+7. The table below contains a summary of key dates for the **application** and **selection** stages of the DSA-Sec process (more information can be found at MOE’s website [here](https://www.moe.gov.sg/secondary/dsa))
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt" colspan="3">Application Stage</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k" colspan="2">5 May 2022 (11am)<br>to 1 Jun 2022 (3pm)</td>
+    <td class="tg-ii8k">Once you have explored and shortlisted the schools of your choice, submit your application online through the DSA-Sec portal by 3pm on the final day.</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt" colspan="3">Selection Stage</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">27 Jun to 1 Sep 2022</td>
+    <td class="tg-ii8k" colspan="2">Shortlisted students will be invited to attend an interview and/or audition in person.<br>Selected students will receive DSA-Sec confirmed offers from schools by 12 September 2022.<br>‘Wait Listed’ and ‘Unsuccessful’ applicants will also be notified.</td>
+  </tr>
+</tbody>
+</table>
+
+8. Please note that successful DSA-Sec candidates who took PSLE are NOT allowed to participate in the S1 Posting. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.
+
+9. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4. Successful DSA-Sec candidates are also NOT allowed to transfer to another school after the release of the PSLE results.
+
+10. Unsuccessful DSA-Sec candidates will be notified of the outcome and participate in the centralised S1 Posting to opt for schools.
+
+11. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+**Contact Details**
+
+12. For clarification, please contact:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-qumd{background-color:#EAEAEA;color:#2A4734;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Visual and Performing Arts</th>
+    <th class="tg-n4qt">Mr Christopher TanHead of Department<br>English Language and Literature</th>
+    <th class="tg-qumd"><a href="mailto:tan_ming_quan@moe.edu.sg">tan_ming_quan@moe.edu.sg</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">STEM – Creative Engineering and Modelling</td>
+    <td class="tg-n4qt">Mr Benjamin Low<br>Head of Department<br>Craft and Technology</td>
+    <td class="tg-qumd"><a href="mailto:benjamin_low_yick_loong@moe.edu.sg">benjamin_low_yick_loong@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">Football</td>
+    <td class="tg-n4qt">Mr S Elangovan<br>Head of Department PE / CCA<br>or<br>Mr John Ng<br>Subject Head PE / CCA</td>
+    <td class="tg-qumd"><a href="mailto:s_elangovan@moe.edu.sg" target="_blank" rel="noopener noreferrer">s_elangovan@moe.edu.sg</a><br> <br><br><a href="mailto:ng_lee_wei_john@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_lee_wei_john@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
+
+13.  Thank you.
+
+**DSA Coordination Team** <br>
+**Tampines Secondary School**
