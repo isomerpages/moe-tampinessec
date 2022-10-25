@@ -100,7 +100,7 @@ _Passion Arts Festival_&nbsp;where the following are displayed throughout the ye
 *   shape poems (Secondary 3)&nbsp;
 *   anthology of poems titled ‘My Father’ (Secondary 4)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSa09pdgb5fgk9JDBQmcL5LvjnNN9BR0ukLXM21hiDHuS1JPyfw1Wk_3ys92wwMFnhJ8EdZVM-N2T1k/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSa09pdgb5fgk9JDBQmcL5LvjnNN9BR0ukLXM21hiDHuS1JPyfw1Wk_3ys92wwMFnhJ8EdZVM-N2T1k/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="569" height="960" allowfullscreen="true"></iframe>
 
 ##### As Thinkers...
 
@@ -125,7 +125,7 @@ _NewsMaker_&nbsp;_Programme_&nbsp;
     
 *   partnership&nbsp;with the NLB for the re-opening of the Tampines Regional Library at Our Tampines Hub
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2w1VMSP-g_oiUJxrAqsswLzMEdzAiaGTowxbxsJ9KhQUEqTjpYYSTuHRRXOm8bNlEu20cRSap32wH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="569" height="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2w1VMSP-g_oiUJxrAqsswLzMEdzAiaGTowxbxsJ9KhQUEqTjpYYSTuHRRXOm8bNlEu20cRSap32wH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### As Leaders...
 
@@ -143,4 +143,4 @@ _Commonwealth Essay Prize_&nbsp;
 
 *   E6 Unseen Challenge (July)
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRE2OuVYShwrlaAKc-OxfC6VMLHOLd-beN44rx6UErpQ9bsgiChI_8aCDlDZXYbD3nPUssaOyergMYJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="569" height="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRE2OuVYShwrlaAKc-OxfC6VMLHOLd-beN44rx6UErpQ9bsgiChI_8aCDlDZXYbD3nPUssaOyergMYJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
