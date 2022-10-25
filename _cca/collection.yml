@@ -2,15 +2,15 @@ collections:
   cca:
     output: true
     order:
-      - Visual & Performing Arts/Concert Band.md
-      - Visual & Performing Arts/Show Choir.md
-      - Visual & Performing Arts/Modern Chinese Dance.md
-      - Visual & Performing Arts/Malay Dance.md
-      - Visual & Performing Arts/Photo Media Club.md
-      - Visual & Performing Arts/Dance Dynamics.md
-      - Visual & Performing Arts/Drama Club.md
-      - Visual & Performing Arts/Art Club.md
       - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Art Club.md
+      - Visual & Performing Arts/Drama Club.md
+      - Visual & Performing Arts/Dance Dynamics.md
+      - Visual & Performing Arts/Photo Media Club.md
+      - Visual & Performing Arts/Malay Dance.md
+      - Visual & Performing Arts/Modern Chinese Dance.md
+      - Visual & Performing Arts/Show Choir.md
+      - Visual & Performing Arts/Concert Band.md
       - Clubs/.keep
       - Clubs/InfoComm Club.md
       - Clubs/Maker Faire.md
