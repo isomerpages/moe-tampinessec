@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/National Cadet Corps (Land).md
       - Uniformed Groups/.keep
       - Co Curricular Activities (CCAs).md
       - CCA SCHEDULE 2022.md
