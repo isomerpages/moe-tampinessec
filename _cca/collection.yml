@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/National Cadet Corps (Land).md
       - Uniformed Groups/.keep
       - Co Curricular Activities (CCAs).md
