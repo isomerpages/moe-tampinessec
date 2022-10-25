@@ -46,7 +46,7 @@ With such support and resources put in place, Thomas feels that teachers will be
 ### MR MUHD SYUKRI
 
 <img src="/images/alumni3.jpg" 
-     style="width:50%">
+     style="width:35%">
 		 
 Football is a very popular sport and it is not surprising that many Tampinesians are passionate with the sport. However, despite their dedication to the sport, few actually achieve the level of skill necessary to compete at a higher level. A rare example would be Syukri of 5N2, as he has represented Singapore in the Asian Schools Under-18 Tournament.   
   
