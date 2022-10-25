@@ -52,8 +52,12 @@ NPCC has grown in number and substance. Its popularity amongst our youths is lar
 2017: UOPA Gold <br>
 2016: UOPA Bronze <br>
 2015: UOPA Silver <br>
-2014 : UOPA Bronze  <br>
+2014 : UOPA Bronze&nbsp; <br>
 2013 : Area 9 Games Day: Soccer Runner-Up <br>
 2012 : UOPA Silver <br>
 2011 : UOPA Gold <br>
 2005 – 2010: UOPA Silver
+
+### Photos
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYUfAgPoYqOt1VCSnLEtvhsvqduWiAGe3Xw3Bi8GY_Uwm0KUET5t9uRdvM9bcJ6JFO8U7EecyacDCX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
