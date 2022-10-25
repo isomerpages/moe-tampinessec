@@ -136,7 +136,7 @@ of modern technology
   </tr>
   <tr>
     <td class="tg-0lax">Secondary 3</td>
-    <td class="tg-0lax"><span style="font-weight:bold;text-decoration:underline">Financial Literacy Programme</span><br><br><span style="font-weight:400;font-style:normal">A programme to develop and enhance our students’ financial literacy.</span><br><br><img src="/images/MAth%20sec%203%20key%20programs.png" alt="MAth sec 3 key programs.PNG" width="295" height="335"></td>
+    <td class="tg-0lax"><span style="font-weight:bold;text-decoration:underline">Financial Literacy Programme</span><br><br><span style="font-weight:400;font-style:normal">A programme to develop and enhance our students’ financial literacy.</span><br><br><img src="/images/MAth%20sec%203%20key%20programs.png" alt="MAth sec 3 key programs.PNG" style="width:70%"></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-style:normal">Secondary 4</span></td>
