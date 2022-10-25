@@ -57,7 +57,7 @@ TPGG has clinched several accolades, including the Unit Puan Noor Aishah Award (
 
 ### HIGHLIGHTS
 
-**TPGG exciting events**  
+**TPGG&nbsp;exciting events**&nbsp;&nbsp;
 
 * World Thinking Day Celebrations
 * East Division Day
@@ -78,38 +78,42 @@ TPGG has clinched several accolades, including the Unit Puan Noor Aishah Award (
 * First-aid Course
 * Orienteering and hikes
 * Company bonding events through excursions
-* Collaboration with St. John's Home for the elderly for Tier 2 VIA   
+* Collaboration with St. John's Home for the elderly for Tier 2 VIA&nbsp;  
 
   
 
 #### ACHIEVEMENTS
 
 **2021:** <br>
-East Division Day Singing Competition 2021 - **Silver** <br>
-East Division Day Toy-Making (With Recycled Materials) Competition 2021 - **Silver** <br>
-East Division Day Mini-Gadget Competition 2021 - **Silver**
+East Division Day Singing Competition 2021 -&nbsp;**Silver** <br>
+East Division Day Toy-Making (With Recycled Materials) Competition 2021 -&nbsp;**Silver** <br>
+East Division Day Mini-Gadget Competition 2021 -&nbsp;**Silver**
 
 **2020:** <br>
-Puan Noor Aishah Unit Award - **Gold** <br>
-Guider achievement (CPT Li Kaiying) – **Clover Award**
+Puan Noor Aishah Unit Award -&nbsp;**Gold** <br>
+Guider achievement (CPT Li Kaiying)&nbsp;–&nbsp;**Clover Award**
 
-**2019:**  <br>
-Puan Noor Aishah Unit Award – **Gold**
+**2019:**&nbsp; <br>
+Puan Noor Aishah Unit Award –&nbsp;**Gold**
 
-**2018:**  <br>
-Puan Noor Aishah Unit Award – **Gold** <br>
-East Division Outdoor Cooking Competition 2018 – **Best Dish Award**  <br>
+**2018:**&nbsp; <br>
+Puan Noor Aishah Unit Award –&nbsp;**Gold** <br>
+East Division Outdoor Cooking Competition 2018 –&nbsp;**Best Dish Award**  <br>
 East Division Day 2018 Snack Making Competition – **Bronze Award** <br>
-East Division Day 2018 Captain's Ball Competition – **Merit Award** <br>
-Smoke Free Advocacy Badge Competition 2018 (Cigarette Box Model) – **Third Place**
+East Division Day 2018 Captain's Ball Competition –&nbsp;**Merit Award** <br>
+Smoke Free Advocacy Badge Competition 2018 (Cigarette Box Model) –&nbsp;**Third Place**
 
-**2017:**  <br>
-Puan Noor Aishah Unit Award – **Gold** <br>
-Smoke Free Advocacy Badge Competition (Painting) – **Third place**
+**2017:**&nbsp; <br>
+Puan Noor Aishah Unit Award –&nbsp;**Gold** <br>
+Smoke Free Advocacy Badge Competition (Painting) –&nbsp;**Third place**
 
   
 
-**2016:**  <br>
-Puan Noor Aishah Unit Award - **Gold** <br>
-Smoke Free Advocacy Badge Competition (Video) - **First place**  <br>
-Pioneer Skills Competition (East Division) - **Second place**
+**2016:**&nbsp; <br>
+Puan Noor Aishah Unit Award -&nbsp;**Gold** <br>
+Smoke Free Advocacy Badge Competition (Video) -&nbsp;**First place**&nbsp; <br>
+Pioneer Skills Competition (East Division) -&nbsp;**Second place**
+
+### Photos
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtb7E_GsxJW1Oyk495LRn_W5izMOobhdYPSJv-hedw7pGRr6tZzfdktTPGFR1yLhAz-gxRnLxpG172/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
