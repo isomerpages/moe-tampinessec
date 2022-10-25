@@ -63,8 +63,7 @@ third_nav_title: Uniformed Groups
 ### INTRODUCTION
 
 
-<img src="/images/st%20john.png" 
-     style="width:75%">
+<img style="width:75%" src="/images/st%20john.png">
 
 The history of St. John Brigade (SJB) in Tampines Secondary School can be traced back to 1986, when it became one of the 4 Uniformed Groups (NPCC, NCC, SJB and School Military Band) that were first introduced in the school after its official opening. The first St. John squad was made up of 16 cadets and they were trained by Officers and Non Commissioned Officers (N.C.Os) from Dunman High School. The first St. John Teacher In-Charge of the school was Mrs Low Leng who was once a St. John member during her schooling days.
 
@@ -76,13 +75,13 @@ TPSJB continues to conduct training programmes and enrichment activities for the
 
 **SOME ACTIVITIES TO LOOK FORWARD TO IN TPSJAB:**
 
-*   Basic NCO & Advanced NCO Training Course
+*   Basic NCO &amp; Advanced NCO Training Course
 *   CPR+AED/ BCLS Course
 *   First Aid and Home Nursing Competition
-*   Basic First Aid & Adult First Aid Qualification
+*   Basic First Aid &amp; Adult First Aid Qualification
 *   Standard 4 Passing out parade
 *   Annual General Inspection
-*   Fundraising activities like Flag Day & Walkathon 
+*   Fundraising activities like Flag Day &amp; Walkathon&nbsp;
 *   Leisure Camp
 *   Public Duties
 *   Values In Action
@@ -93,5 +92,9 @@ TPSJB continues to conduct training programmes and enrichment activities for the
 **HIGHLIGHTS**
 
 *   Corps Achievement Awards: 2009 - 2016, 2019-2020 : GOLD
-*    Zone 8 First Aid Competition 2016 Results 
+*   &nbsp;Zone 8 First Aid Competition 2016 Results&nbsp;
 *   Ambulance Adult: 3rd
+
+### Photos
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEQetNZv-Tu-1dD7ncKdl8DfcuFruZxg0ua5sK5fI5_8xz9Cp9vNaEYr1vDwYo_lVZVkAdLSHYwzn1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
