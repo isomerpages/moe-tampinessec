@@ -40,7 +40,7 @@ third_nav_title: Visual & Performing Arts
 </table>
 
 ### DESCRIPTION OF CCAS
-Art Club aims to instill in students an appreciation and love for visual art. Art Club students are exposed to varied art forms, ranging from traditional arts to digital designs. Through engaging in drawing, design and craft activities, Art Club students tap on their boundless creativity to create original works through fun art-making experiences with their peers. Art enrichment workshops and competitions further enable students to gain exposure to a wide repertoire of artistic experiences. Such workshops include marbling art, embroidery, water colouring and digital fashion illustration designs.
+Art Club aims to instill in students an appreciation and love for visual art. Art Club students&nbsp;are exposed to varied art forms, ranging from traditional arts to digital designs. Through engaging in drawing, design and craft activities, Art Club students tap on their boundless creativity to create original works through fun art-making experiences with their peers. Art enrichment workshops and competitions further enable students to gain exposure to a wide repertoire of artistic experiences. Such workshops include marbling art, embroidery, water colouring and digital fashion illustration designs.
 
 ### HIGHLIGHTS
 
@@ -56,7 +56,7 @@ Art Club aims to instill in students an appreciation and love for visual art. Ar
 
 **2020**
 
-* ‘Tampines Together, #TampinesUnited’ drawing competition organised by Tampines Town Council (Consolation prize) 
+* ‘Tampines Together, #TampinesUnited’ drawing competition organised by Tampines Town Council (Consolation prize)&nbsp;
 * Online art exhibition on Zoom hosted by St Hilda’s Secondary
 
   
@@ -79,7 +79,7 @@ Art Club aims to instill in students an appreciation and love for visual art. Ar
 
 **2017**
 
-* Designed Sec 2 and 3 Camp T-Shirts 
+* Designed Sec 2 and 3 Camp T-Shirts&nbsp;
 
 * Designed TPSS Fiesta banner
 
@@ -90,3 +90,5 @@ Art Club aims to instill in students an appreciation and love for visual art. Ar
 * Participated in E6 Young Illustrator Awards competition
 
 ### PHOTOS
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ9I3PnQ2EvLPMnXEvdSTpsLwb8s0yamvEDO3SUb9lIoRktBn13JTlwsH8FmTy00UaM0oqTCDS2bWb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
