@@ -62,4 +62,21 @@ We are committed to develop our pupils holistically through a wide array of prog
 
 ### KEY PROGRAMS FOR EACH LEVEL
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax">SECONDARY 1</td>
+    <td class="tg-0lax">1. Sports (handball) <br><br>2. CPR / AED<br><br>3. Principles of Games<br><br><br><span style="font-weight:400;font-style:normal">The Principle of Games or POG is based on the concept of Teaching Games for Understanding which was developed by researchers at Loughborough University. It focuses on student learning through playing games.</span><br><br><br><span style="font-weight:400;font-style:normal">Our students were taught games principles under the following 3 categories:</span><br><span style="font-weight:400;font-style:normal">1) Net/Barrier</span><br><span style="font-weight:400;font-style:normal">2) Striking/Fielding</span><br><span style="font-weight:400;font-style:normal">3) Invasion/Territorial</span><br><br><span style="font-weight:400;font-style:normal">POG's main idea is:</span><br><span style="font-weight:400;font-style:normal">1)     Break the games down into key ideas and concepts and allowing our students to play even with a beginner’s ability.</span><br><span style="font-weight:400;font-style:normal">2)     Highlight the transference of games concepts across sports within the same category.
+<img src="/images/PE.png" style="width:50%"></span></td>
+  </tr>
+</thead>
+</table>
 
