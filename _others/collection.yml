@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Parents/3) Education and Career Guidance.md
       - Parents/2) Financial Assistance.md
       - Parents/1) Important Helplines.md
       - Parents/Parents Gateway.md
