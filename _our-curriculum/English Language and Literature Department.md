@@ -133,7 +133,7 @@ _NewsMaker_&nbsp;_Programme_&nbsp;
 
 _Commonwealth Essay Prize_&nbsp;
 
-*   promotes literacy, expression and creativity among young people by celebrating excellence and&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;imagination
+*   promotes literacy, expression and creativity among young people by celebrating excellence and imagination
 
 **Literature in English**  
 
