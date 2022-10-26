@@ -33,3 +33,15 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 [Sec 2 Normal (Academic) & Normal (Technical) [SBB]](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%202NA%20%202NT%20SBB_FINAL.pdf)
 
 [Sec 2 Normal (Technical)](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%202NT%20SBB_FINAL.pdf)
+
+**Secondary 3**
+
+[Sec 3 Express & Normal (Academic) [OOS]](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%203E%20%203NAOOS_FINAL.pdf)
+
+[Sec 3 Normal (Academic) & Normal (Technical) [OOS]](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%203NA%20%203NTOOS_FINAL.pdf)
+
+[Sec 3 Normal (Technical)](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%203NT_FINAL.pdf)
+
+**Secondary 4 & 5**
+
+[4 Express & 5 Normal (Academic) & 4 NormalAcademic [OOS]](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%204E5N%20%204NAOOS_FINAL.pdf)
