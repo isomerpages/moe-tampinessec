@@ -173,7 +173,7 @@ f) **For Football**
 </tbody>
 </table>
 
-13.  Thank you.
+13. Thank you.
 
 **DSA Coordination Team** <br>
 **Tampines Secondary School**
