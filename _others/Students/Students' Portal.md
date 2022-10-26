@@ -81,4 +81,8 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 [Sec3 Subject Combination Microsite](https://sites.google.com/moe.edu.sg/tpsssubjectcombi/home)
 
 <img src="/images/Subject%20combi%202023.png" 
-     style="width:50%">
+     style="width:40%">
+		 
+### 2022 STUDENT HANDBOOK
+
+Dear students, you can download the Tampines Companion [here](/files/Tampines%20Companion%202022%20Version.pdf)
