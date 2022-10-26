@@ -49,3 +49,9 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 [4 Normal (Academic) & Normal (Technical) [OOS]](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%204NA%20%204NTOOS_FINAL.pdf)
 
 [4Normal (Technical)](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%204NT_FINAL.pdf)
+
+### WA (TERM 2) & MYE 2022
+
+[Term 2 Assessment Format](/files/Term%202%20ASSESSMENT%20FORMAT%202022.pdf)
+
+[Term 2 Assessment Timetable](/files/WA%20Term%202%20%20MYE%20TIMETABLE%202022.pdf)
