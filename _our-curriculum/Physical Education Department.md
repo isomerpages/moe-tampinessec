@@ -136,3 +136,22 @@ We are committed to develop our pupils holistically through a wide array of prog
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-7yig">ALL LEVELS</td>
+    <td class="tg-ktyi">TPSS Sports Leaders Workshop<br><br><span style="color:#000">The TPSS Sports Leader Workshop was conducted during the March holidays for potential leaders from various sports CCAs. </span><br><span style="color:#000">The sports leaders attended the two-day course, equipping them with various skills such as tournament-organizing, fitness training knowledge and logistic planning.</span><br><br><img src="/images/ALL%20LEVEL.jpg" style="width:50%"><br><br>2. TPSS Inter-House &amp; Inter-Class Games<br><br><span style="font-weight:400;font-style:normal">The Inter-House &amp; Inter-Class Games are conducted across the levels to foster camaraderie amongst peers</span><br><span style="font-weight:400;font-style:normal">and to provide an additional platform for students to display sportsmanship, team-work and leadership qualities.</span></td>
+  </tr>
+</thead>
+</table>
+
