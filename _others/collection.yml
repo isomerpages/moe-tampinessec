@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Teachers' Portal.md
       - Parents/.keep
       - Parents/Parents Gateway.md
       - Parents/1) Important Helplines.md
@@ -21,3 +20,4 @@ collections:
       - Students/Homework Policy.md
       - Students/Reset of PASSWORD.md
       - Students/PDLP portal.md
+      - Teachers' Portal.md
