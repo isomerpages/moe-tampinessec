@@ -155,3 +155,49 @@ We are committed to develop our pupils holistically through a wide array of prog
 </thead>
 </table>
 
+### HIGHLIGHTS
+
+**TPSS Gym Program**
+
+**OBJECTIVES**
+
+To train all students to be able to handle gym equipment.
+
+To enable the students to take ownership of their own fitness by planning their own training programme.
+
+To encourage students to use the gym to supplement their physical training.
+
+**PROGRAMME OUTLINE**
+
+Our school’s external gym instructor provided training for all Secondary One students in the following areas:
+
+* Gym safety & rules.
+
+* Operation of machines and free weights.
+
+* Concepts, myths, and benefits of weight training for health and performance.
+
+* Major muscles, their actions, and exercises to train those muscles.
+
+* Knowledge of sport-specific target muscles and exercises.
+
+* Development of basic programme for sports-specific needs.
+
+**Inaugural Inter-House OE Challenge 2019**
+
+The PE department organized the inaugural Inter-House Outdoor Education Challenge on 4 Sep 2019. Sec 3 participants from the 4 houses took part in challenges comprising of the different components taught during their Outdoor Education Module.
+
+These challenges include
+
+1. First aid
+
+2. Outdoor cooking
+
+3. Structure building
+
+4. Basha building
+
+This event culminates the completion of their OE modules and allowed students to put into practice what was taught. Polaris house emerged as champions for this event.
+
+![](/images/a_2.jpg)
+![](/images/a_1.jpg)
