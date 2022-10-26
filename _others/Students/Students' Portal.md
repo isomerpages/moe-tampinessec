@@ -75,3 +75,10 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 [Sec 4 Normal Technical](/files/FOR%20SCH%20WEBSITE%202022%204NT%20Parent%20Engagement%20Talk.pdf)
 
 [Additional Resources](/files/FOR%20SCH%20WEBSITE%20Additional%20Resources%204E5N4NA4NT.pdf)
+
+### 2023 SEC 3 SUBJECT COMBINATION EXERCISE
+
+[Sec3 Subject Combination Microsite](https://sites.google.com/moe.edu.sg/tpsssubjectcombi/home)
+
+<img src="/images/Subject%20combi%202023.png" 
+     style="width:50%">
