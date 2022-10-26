@@ -62,3 +62,6 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 
 [Sec 2 Express](/files/FOR%20SCH%20WESBITE%202022%202E%20Parent%20Engagement%20Talk.pdf)
 
+[Sec 2 Normal Academic](/files/FOR%20SCH%20WEBSITE%202022%202NA%20Parent%20Engagement%20Talk.pdf)
+
+[Sec 2 Normal Technical](/files/FOR%20SCH%20WEBSITE%202022%202NT%20Parent%20Engagement%20Talk.pdf)
