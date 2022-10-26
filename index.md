@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Tampines Secondary School
-      background: /images/hero-banner.png
+      background: /images/hero banner.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -21,11 +21,9 @@ sections:
         - title: Teachers' Portal
           description: ""
           url: /others/teachers-portal/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: TPSS Open House
+      button: Button Text
+      image: /images/TPSS Open House 2022.jpg
+      alt: Image alt text
 ---
-
