@@ -6,7 +6,7 @@ third_nav_title: Students
 ---
 ### 2022 CCW (T4W7) CLASS TIMETABLE
 
-Dear students, this is the [**T4W7 Class Timetable**]()
+Dear students, this is the [**T4W7 Class Timetable**]
 
 
 ### 2022 SEMESTER TWO TIMETABLE
@@ -65,3 +65,13 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 [Sec 2 Normal Academic](/files/FOR%20SCH%20WEBSITE%202022%202NA%20Parent%20Engagement%20Talk.pdf)
 
 [Sec 2 Normal Technical](/files/FOR%20SCH%20WEBSITE%202022%202NT%20Parent%20Engagement%20Talk.pdf)
+
+**2022 Sec 4 Parent Engagement Talk**
+
+[Sec 4 Express / Sec 5 Normal Academic](/files/FOR%20SCH%20WEBSITE%202022%204E5NA%20Parent%20Engagement%20Talk.pdf)
+
+[Sec 4 Normal Academic](/files/FOR%20SCH%20WEBSITE%202022%204NA%20Parent%20Engagement%20Talk.pdf)
+
+[Sec 4 Normal Technical](/files/FOR%20SCH%20WEBSITE%202022%204NT%20Parent%20Engagement%20Talk.pdf)
+
+[Additional Resources](/files/FOR%20SCH%20WEBSITE%20Additional%20Resources%204E5N4NA4NT.pdf)
