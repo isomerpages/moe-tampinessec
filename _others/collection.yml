@@ -2,14 +2,14 @@ collections:
   others:
     output: true
     order:
-      - Students/PDLP portal.md
-      - Students/Reset of PASSWORD.md
-      - Students/Homework Policy.md
-      - Students/Calendar Of Events 2022.md
-      - Students/School Library.md
-      - Students/Student Learning Space (SLS).md
-      - Students/Students' Portal.md
       - Students/.keep
+      - Students/Students' Portal.md
+      - Students/Student Learning Space (SLS).md
+      - Students/School Library.md
+      - Students/Calendar Of Events 2022.md
+      - Students/Homework Policy.md
+      - Students/Reset of PASSWORD.md
+      - Students/PDLP portal.md
       - Parents/.keep
       - Parents/Parents Gateway.md
       - Parents/1) Important Helplines.md
