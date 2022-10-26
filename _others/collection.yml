@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Students/Student Learning Space (SLS).md
       - Students/Students' Portal.md
       - Students/.keep
       - Parents/.keep
