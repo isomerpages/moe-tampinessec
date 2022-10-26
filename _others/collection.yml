@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Students/Reset of PASSWORD.md
       - Students/Homework Policy.md
       - Students/Calendar Of Events 2022.md
       - Students/School Library.md
