@@ -2,8 +2,8 @@ title: Tampines Secondary
 url: https://tampinessec.moe.edu.sg
 favicon: /images/tpss.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#fecc4b"
+  secondary-color: "#2a4734"
   media-colors:
     - title: media-color-one
       color: "#49759a"
