@@ -79,4 +79,20 @@ We are committed to develop our pupils holistically through a wide array of prog
   </tr>
 </thead>
 </table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-9hzb">SECONDARY 2</td>
+    <td class="tg-ktyi"><span style="color:#000">1. Sports (Football/Netball/Floorball)</span><br><br><br>2. Outdoor Education<br><span style="color:#000">The Outdoor Education lessons provide the foundation for the knowledge, skills and attitudes that will enable students to be comfortable and safe in the outdoors. </span><br><br><span style="color:#000">The module provides opportunities for theoretical concepts such as risk management to be enacted in authentic outdoor settings. It focuses on three strands:</span><br><span style="color:#000">a)</span>	<span style="color:#000">enhancing physical health and wellbeing;</span><br><span style="color:#000">b)</span>	<span style="color:#000">building competency in assessing and managing risk; and</span><br><span style="color:#000">c)</span>	<span style="color:#000">developing a sense of place. </span><br><img src="/images/PE%20diagram.png" alt="PE diagram.png" width="510" height="421"></td>
+  </tr>
+</thead>
+</table>
