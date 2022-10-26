@@ -96,3 +96,27 @@ We are committed to develop our pupils holistically through a wide array of prog
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-9hzb">SECONDARY 3</td>
+    <td class="tg-ktyi"><span style="color:#000">1. Sports (Badminton/Volleyball/Tchoukball/Handball)</span><br><span style="color:#000">2. Outdoor Education</span><br><img src="/images/PE%20diagram.png" alt="PE diagram.png" width="506" height="419"><br><br><span style="color:#000">3. MOE-OBS Challenge</span><br><br><span style="color:#000">MOE-OBS Challenge was introduced with these objectives in mind:</span><br><br>·        <span style="color:#000">Develop well-rounded individuals</span><br>·        <span style="color:#000">Outdoor Education (OE) provides rich learning experiences outside the classroom and helps our students to develop holistically, building up their resilience and ruggedness</span><br>·        <span style="color:#000">Authentic learning experiences help our students to develop 21st century competencies as well as competencies for sustainable, active and healthy living
+<img src="/images/SEC%203.jpg" 
+     style="width:50%">
+<img src="/images/SECC%203%20PIC.jpg" 
+     style="width:50%"></span></td>
+  </tr>
+</thead>
+</table>
+
+
