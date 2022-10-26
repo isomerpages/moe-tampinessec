@@ -23,7 +23,6 @@ sections:
           url: /others/teachers-portal/
   - infopic:
       title: TPSS Open House
-      button: Button Text
       image: /images/TPSS Open House 2022.jpg
       alt: Image alt text
 ---
