@@ -45,3 +45,7 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 **Secondary 4 & 5**
 
 [4 Express & 5 Normal (Academic) & 4 NormalAcademic [OOS]](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%204E5N%20%204NAOOS_FINAL.pdf)
+
+[4 Normal (Academic) & Normal (Technical) [OOS]](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%204NA%20%204NTOOS_FINAL.pdf)
+
+[4Normal (Technical)](/files/2022%20TPSS%20Mid-Year%20Hol%20Homework%204NT_FINAL.pdf)
