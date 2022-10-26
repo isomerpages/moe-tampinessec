@@ -55,3 +55,10 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 [Term 2 Assessment Format](/files/Term%202%20ASSESSMENT%20FORMAT%202022.pdf)
 
 [Term 2 Assessment Timetable](/files/WA%20Term%202%20%20MYE%20TIMETABLE%202022.pdf)
+
+### MATERIALS FROM THE 11 MARCH PARENT ENGAGEMENT
+
+**2022 Sec 2 Parent Engagement Talk**
+
+[Sec 2 Express](/files/FOR%20SCH%20WESBITE%202022%202E%20Parent%20Engagement%20Talk.pdf)
+
