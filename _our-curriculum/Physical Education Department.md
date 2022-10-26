@@ -92,7 +92,7 @@ We are committed to develop our pupils holistically through a wide array of prog
 <thead>
   <tr>
     <td class="tg-9hzb">SECONDARY 2</td>
-    <td class="tg-ktyi"><span style="color:#000">1. Sports (Football/Netball/Floorball)</span><br><br><br>2. Outdoor Education<br><span style="color:#000">The Outdoor Education lessons provide the foundation for the knowledge, skills and attitudes that will enable students to be comfortable and safe in the outdoors. </span><br><br><span style="color:#000">The module provides opportunities for theoretical concepts such as risk management to be enacted in authentic outdoor settings. It focuses on three strands:</span><br><span style="color:#000">a)</span>	<span style="color:#000">enhancing physical health and wellbeing;</span><br><span style="color:#000">b)</span>	<span style="color:#000">building competency in assessing and managing risk; and</span><br><span style="color:#000">c)</span>	<span style="color:#000">developing a sense of place. </span><br><img src="/images/PE%20diagram.png" alt="PE diagram.png" width="510" height="421"></td>
+    <td class="tg-ktyi"><span style="color:#000">1. Sports (Football/Netball/Floorball)</span><br><br><br>2. Outdoor Education<br><span style="color:#000">The Outdoor Education lessons provide the foundation for the knowledge, skills and attitudes that will enable students to be comfortable and safe in the outdoors. </span><br><br><span style="color:#000">The module provides opportunities for theoretical concepts such as risk management to be enacted in authentic outdoor settings. It focuses on three strands:</span><br><span style="color:#000">a)</span>	<span style="color:#000">enhancing physical health and wellbeing;</span><br><span style="color:#000">b)</span>	<span style="color:#000">building competency in assessing and managing risk; and</span><br><span style="color:#000">c)</span>	<span style="color:#000">developing a sense of place. </span><br><img src="/images/PE%20diagram.png" alt="PE diagram.png" style="width:50%"></td>
   </tr>
 </thead>
 </table>
@@ -110,7 +110,7 @@ We are committed to develop our pupils holistically through a wide array of prog
 <thead>
   <tr>
     <td class="tg-9hzb">SECONDARY 3</td>
-    <td class="tg-ktyi"><span style="color:#000">1. Sports (Badminton/Volleyball/Tchoukball/Handball)</span><br><span style="color:#000">2. Outdoor Education</span><br><img src="/images/PE%20diagram.png" alt="PE diagram.png" width="506" height="419"><br><br><span style="color:#000">3. MOE-OBS Challenge</span><br><br><span style="color:#000">MOE-OBS Challenge was introduced with these objectives in mind:</span><br><br>·        <span style="color:#000">Develop well-rounded individuals</span><br>·        <span style="color:#000">Outdoor Education (OE) provides rich learning experiences outside the classroom and helps our students to develop holistically, building up their resilience and ruggedness</span><br>·        <span style="color:#000">Authentic learning experiences help our students to develop 21st century competencies as well as competencies for sustainable, active and healthy living
+    <td class="tg-ktyi"><span style="color:#000">1. Sports (Badminton/Volleyball/Tchoukball/Handball)</span><br><span style="color:#000">2. Outdoor Education</span><br><img src="/images/PE%20diagram.png" alt="PE diagram.png" style="width:50%"><br><br><span style="color:#000">3. MOE-OBS Challenge</span><br><br><span style="color:#000">MOE-OBS Challenge was introduced with these objectives in mind:</span><br><br>·        <span style="color:#000">Develop well-rounded individuals</span><br>·        <span style="color:#000">Outdoor Education (OE) provides rich learning experiences outside the classroom and helps our students to develop holistically, building up their resilience and ruggedness</span><br>·        <span style="color:#000">Authentic learning experiences help our students to develop 21st century competencies as well as competencies for sustainable, active and healthy living
 <img src="/images/SEC%203.jpg" 
      style="width:50%">
 <img src="/images/SECC%203%20PIC.jpg" 
@@ -119,4 +119,20 @@ We are committed to develop our pupils holistically through a wide array of prog
 </thead>
 </table>
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-f4yw">SECONDARY 4</td>
+    <td class="tg-zr06">1)     Sports (Rugby/Ultimate + Tchoukball/Handball)<br> <br>2)     Games Creation<br>The Games Creation  module is a cumulation of what the students have learnt in their four years of the PE program.<br> <br>By applying the concepts learnt in PE, the objective of the module is for students to exercise their creativity and teamwork to come up with either:<br> <br>a)     Entirely new games<br>b)     Modified games<br>c)     Games with modified equipment</td>
+  </tr>
+</thead>
+</table>
