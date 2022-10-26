@@ -2,4 +2,5 @@ collections:
   others:
     output: true
     order:
+      - Parents/Parents Gateway.md
       - Parents/.keep
