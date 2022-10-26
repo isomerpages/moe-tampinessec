@@ -86,3 +86,18 @@ Dear students, this is the **[Semester 2 Class Timetable](/files/Timetable%2020
 ### 2022 STUDENT HANDBOOK
 
 Dear students, you can download the Tampines Companion [here](/files/Tampines%20Companion%202022%20Version.pdf)
+
+### 2022 TERM TWO TIMETABLE
+
+Dear students, this is the [Term 2 Class Timetable](/files/TIMETABLE%202022%20TERM%202_B1%20CLASSES.pdf).
+
+### HOMEBASED LEARNING (HBL)
+
+
+Should there be any news on HBL, please refer to the following link for more information. You will need to log in with your Iconmail account.  
+  
+If you have forgotten your iconmail, you may click on self reset or contact Mr Syed at 67835423 for assistance.
+
+### STUDENTS' SUGGESTION PLATFORM 
+
+Dear students, if you would like to submit a suggestion, please click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSd0DVbapkQ1kSpGcwO3ws9aBsnvS2le1xz7iSTZ17LJTgWRJQ/viewform?usp=sf_link).
