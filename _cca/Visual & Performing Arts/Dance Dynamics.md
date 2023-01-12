@@ -74,39 +74,6 @@ third_nav_title: Visual & Performing Arts
 <thead>
   <tr>
     <th class="tg-441j">VISION</th>
-    <th class="tg-emg8"><br>Uncovering and Nurturing the Dance Talent and Values in Every Individual<br> </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-441j"><br>MISSION</td>
-    <td class="tg-emg8"><br>Providing a holistic aesthetic experience with opportunities to perform and develop character<br> </td>
-  </tr>
-  <tr>
-    <td class="tg-441j"><span style="font-weight:bold;color:#E35C26"> </span>TEACHERS</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><br><span style="color:#222">Mrs Kwan Simin [I/C]</span><br><span style="color:#222">Ms Amy Lui</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-441j"><br>TRAINING SCHEDULE</td>
-    <td class="tg-emg8"><span style="color:#000">Tuesday, 2:30pm to 5:30pm</span><br><br><span style="color:#000">Friday, 2.30pm to 5.30pm</span><br></td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-441j{background-color:#ECECEC;color:#E35C26;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-441j">VISION</th>
     <th class="tg-emg8">Uncovering and Nurturing the Dance Talent and Values in Every Individual<br></th>
   </tr>
 </thead>
