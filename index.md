@@ -1,32 +1,28 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Tampines Secondary
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/tpss.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Tampines Secondary School
+      background: /images/hero banner.gif
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: For Parents
+          description: Useful Links & Information
+          url: /others/parents-portal/parents-gateway/
+        - title: For Students
+          description: Useful Links & Information
+          url: /others/students-portal/
+        - title: Teachers' Portal
+          description: ""
+          url: /others/teachers-portal/
+  - infopic:
+      title: TPSS Open House
+      image: /images/TPSS Open House 2022.jpg
+      alt: Image alt text
 ---
-

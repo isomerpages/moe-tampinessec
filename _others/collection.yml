@@ -1,0 +1,23 @@
+collections:
+  others:
+    output: true
+    order:
+      - Parents/.keep
+      - Parents/Parents Gateway.md
+      - Parents/1) Important Helplines.md
+      - Parents/2) Financial Assistance.md
+      - Parents/3) Education and Career Guidance.md
+      - Parents/4) Sexuality Education.md
+      - Parents/5) School Safety Information.md
+      - Parents/6) Uniform Sales.md
+      - Parents/7) Group Personal Accident Insurance for Students.md
+      - Parents/8) PDLP Parents Engagement Session.md
+      - Students/.keep
+      - Students/Students' Portal.md
+      - Students/Student Learning Space (SLS).md
+      - Students/School Library.md
+      - Students/Calendar Of Events 2022.md
+      - Students/Homework Policy.md
+      - Students/Reset of PASSWORD.md
+      - Students/PDLP portal.md
+      - Teachers' Portal.md

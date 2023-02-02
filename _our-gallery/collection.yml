@@ -1,0 +1,8 @@
+collections:
+  our-gallery:
+    output: true
+    order:
+      - Photos.md
+      - Videos.md
+      - Media coverage.md
+      - Publications.md

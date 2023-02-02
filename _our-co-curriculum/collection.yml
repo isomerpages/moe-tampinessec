@@ -1,0 +1,10 @@
+collections:
+  our-co-curriculum:
+    output: true
+    order:
+      - Character and Citizenship Education (CCE).md
+      - Student Development Team (SDT).md
+      - Learning for Life Programme (LLP).md
+      - Applied Learning Programme (ALP).md
+      - Trips for International Experience (TIE).md
+      - Direct School Admission (DSA).md

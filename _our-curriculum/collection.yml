@@ -1,0 +1,13 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English Language and Literature Department.md
+      - Mathematics Department.md
+      - Science Department.md
+      - Mother Tongue Department.md
+      - Humanities Department.md
+      - Craft & Technology.md
+      - Physical Education Department.md
+      - Information Technology Department.md
+      - Full Subject Based Banding.md

@@ -1,0 +1,15 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Staff Organisational Structure.md
+      - Form Teachers.md
+      - School Advisory Committee.md
+      - Parents as Partners Network.md
+      - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Our Stories.md
+      - Alumni/Upcoming Alumni Events.md
+      - Alumni/Join Us.md
+      - Alumni/Achievements.md
+      - 35th Anniversary Family Photo.md
