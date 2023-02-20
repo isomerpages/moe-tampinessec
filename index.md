@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Tampines Secondary
+title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
@@ -22,3 +22,4 @@ sections:
           description: ""
           url: /others/teachers-portal/
 ---
+
