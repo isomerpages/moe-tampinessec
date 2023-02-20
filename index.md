@@ -7,7 +7,6 @@ permalink: /
 notification: This website is under construction.
 sections:
   - hero:
-      title: Tampines Secondary School
       background: /images/hero banner.gif
       button: Contact Us
       url: /contact-us/
@@ -22,4 +21,3 @@ sections:
           description: ""
           url: /others/teachers-portal/
 ---
-
