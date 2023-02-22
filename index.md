@@ -9,8 +9,6 @@ notification: Our school's website is currently being updated after migration to
 sections:
   - hero:
       background: /images/School Facade.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: For Parents
           description: ""
