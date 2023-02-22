@@ -12,10 +12,10 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: For Parents
-          description: Useful Links & Information
+          description: ""
           url: /others/parents-portal/parents-gateway/
         - title: For Students
-          description: Useful Links & Information
+          description: ""
           url: /others/students-portal/
         - title: Teachers' Portal
           description: ""
