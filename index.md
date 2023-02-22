@@ -16,7 +16,7 @@ sections:
         - title: For Students
           description: ""
           url: /others/students-portal/
-        - title: Teachers' Portal
+        - title: For teachers
           description: ""
           url: /others/teachers-portal/
 ---
