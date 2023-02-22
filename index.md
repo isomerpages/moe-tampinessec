@@ -1,13 +1,12 @@
 ---
 layout: homepage
-title: Tampines Secondary
+title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This website is under construction.
 sections:
   - hero:
-      title: Tampines Secondary School
       background: /images/hero banner.gif
       button: Contact Us
       url: /contact-us/
@@ -21,8 +20,4 @@ sections:
         - title: Teachers' Portal
           description: ""
           url: /others/teachers-portal/
-  - infopic:
-      title: TPSS Open House
-      image: /images/TPSS Open House 2022.jpg
-      alt: Image alt text
 ---
