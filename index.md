@@ -8,7 +8,6 @@ notification: Our school's website is currently being updated after migration to
   a new platform. Thank you for your patience.
 sections:
   - hero:
-      background: /images/School Facade.jpg
       key_highlights:
         - title: For Parents
           description: ""
