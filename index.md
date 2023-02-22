@@ -8,7 +8,7 @@ notification: Our school's website is currently being updated after migration to
   a new platform. Thank you for your patience.
 sections:
   - hero:
-      background: /images/hero banner.gif
+      background: /images/School Facade.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
