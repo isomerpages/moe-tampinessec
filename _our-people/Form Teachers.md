@@ -3,6 +3,26 @@ title: Form Teachers
 permalink: /our-people/form-teachers/
 description: ""
 ---
+### Secondary 1
+|Class|Form Teacher|Email Address|
+| -------- | -------- | -------- |
+|1-1| Mdm Xiao Min | xiao_min@moe.edu.sg|
+|1-1| Mr Ezekiel Goh | goh_zhuang_yuan_ezekiel@moe.edu.sg|
+|1-2| Mdm Norfatihah Hanim Norazlan | norfatihah_hanim_norazlan@moe.edu.sg|
+|1-3| Mr Mohd Faaiz Ishar | mohd_faaiz_ishar@moe.edu.sg| 
+|1-3| Ms Lim Zhi Ying | lim_zhi_ying@moe.edu.sg|
+|1-4| Ms Amy Lui | lui_amy@moe.edu.sg|
+|1-4| Mr Ee Sien Ming Bryan| ee_sien_ming_bryan@moe.edu.sg|
+|1-5| Mrs Amy De Cruz|prameeta_menon@moe.edu.sg|
+|1-5| Mr Esfan Rizal Rahwom| esfan_rizal_rahwom@moe.edu.sg| 
+
+### Secondary 2
+
+### Secondary 3
+
+### Secondary 4 & 5
+
+
 Lower Secondary
 <table style="width:495.05pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt" width="660" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:17.1pt"><td style="width:85.0pt;border:solid windowtext 1.0pt;
