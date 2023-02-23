@@ -42,6 +42,7 @@ description: ""
 |  2T1  |  Ms | Jasmine Tan Jie Min       | jasmine_tan_jie_min@moe.edu.sg           |
 
 ### Upper Secondary 
+
 | Class |     | Form Teacher           | Email Address                     |
 |:-----:|:---:|------------------------|-----------------------------------|
 |  3E1  | Mdm | Loh Ming Woon          | loh_ming_woon@moe.edu.sg          |
