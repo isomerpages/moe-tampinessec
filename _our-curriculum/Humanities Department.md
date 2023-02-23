@@ -33,28 +33,20 @@ description: ""
     <td class="tg-dgl5">Mrs Preeti Sheri <br></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">SDT Year Head</td>
-    <td class="tg-dgl5">Mr Benny Lim Leong Thye</td>
+    <td class="tg-dgl5">Assistant Year Head</td>
+    <td class="tg-dgl5">Mrs Ong-Yip Wan Wei Nicole</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">SH History <br></td>
-    <td class="tg-dgl5">Ms Andrea Lee Shu Qi<br></td>
+    <td class="tg-dgl5">SH CCE<br></td>
+    <td class="tg-dgl5">Mr Nallu Dhinakharan<br></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Senior Teacher History</td>
-    <td class="tg-dgl5">Mr Shahril Bin Mohd Shah</td>
+    <td class="tg-dgl5">SH History</td>
+    <td class="tg-dgl5">Ms Lim Zhi Ying</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Teachers </td>
-    <td class="tg-ktyi">Mdm Shaheeda Supar</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06">Mr Nallu Dhinakharan</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-ktyi">Mr Poh Yang Han<br></td>
+    <td class="tg-ktyi">Mr Shahril Bin Mohd Shah</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
@@ -62,11 +54,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-zr06">Ms Chow Jia Xuan</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-zr06">Ms Chia Yu Ru <br></td>
+    <td class="tg-zr06">Ms Chia Yu Ru</td>
   </tr>
   <tr>
     <td class="tg-f4yw"> </td>
@@ -75,10 +63,6 @@ description: ""
   <tr>
     <td class="tg-f4yw"> </td>
     <td class="tg-zr06">Mr Nicholas Seow Wei Ming</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> </td>
-    <td class="tg-zr06">Ms Nicole Yip Wan Wei</td>
   </tr>
 </tbody>
 </table>
