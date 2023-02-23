@@ -18,5 +18,5 @@ sections:
         - title: For teachers
           description: ""
           url: /others/teachers-portal/
-      background: /images/Schho Facade.jpg
+      background: /images/School Facade.jpg
 ---
