@@ -334,4 +334,7 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
-}
+/* extra */
+.bg-hero {
+background-blend-mode: normal;
+	}
