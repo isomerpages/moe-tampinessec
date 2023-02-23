@@ -335,6 +335,8 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 /* extra */
-.bg-hero {
-background-blend-mode: normal;
+.bp-hero-body {
+    flex-grow: 1;
+    flex-shrink: 0;
+    padding: 3rem 1.5rem;
 	}
