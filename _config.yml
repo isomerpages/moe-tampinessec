@@ -2,7 +2,7 @@ title: Tampines Secondary School
 url: https://tampinessec.moe.edu.sg
 favicon: /images/tpss.png
 colors:
-  primary-color: "#fecc4b"
+  primary-color: "#fdbe17"
   secondary-color: "#2a4734"
   media-colors:
     - title: media-color-one
@@ -14,7 +14,7 @@ colors:
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#f5a623"
 description: ""
 permalink: none
 baseurl: ""

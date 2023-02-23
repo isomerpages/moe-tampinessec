@@ -36,8 +36,5 @@ We invite you to refer to the following resources to learn how to support your c
 	*   Tips and advice on ECG and considerations at key education stages to guide your children.
 
 *   **What's Next**
-
-	*   An interactive resource to support students' decision making process at their key education stages.
-
-		*   [For N-Level students](https://www.moe.gov.sg/microsites/whats-next/for-gce-n-level-students/index.html)
-		*   [For O-Level students](https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html)
+	*   [N & O-Level Info Sheet for Parents](/files/N-O%20Level%20Info%20Sheet%20for%20Parents_28%20Sept.pdf)
+	* [2022 O-Level Results Release (Information for Parents)](/files/2022%20O-Level%20Results%20Release%20Message%20and%20Information%20Sheet%20for%20Parents_Final-TPSS.pdf)
