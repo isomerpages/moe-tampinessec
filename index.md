@@ -17,5 +17,5 @@ sections:
         - title: For teachers
           description: ""
           url: /others/teachers-portal/
-      background: /images/animated banner optimized.gif
+      background: /images/School Facade Edited.png
 ---
