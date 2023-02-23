@@ -11,8 +11,7 @@ We seek to improve and achieve as team players as we are responsible for our own
 
 ### SYMBOLS
 
-<img src="/images/tree.png" 
-     style="width:35%">
+<img src="/images/Tempinis%20tree.jpg" style="width:50%">
 		 
 The name **“TAMPINES”** is derived from the Malay name of the **“Riau ironwood”** tree which grew abundantly in the east region where this school is located.  
 

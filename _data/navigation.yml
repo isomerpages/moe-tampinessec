@@ -24,4 +24,13 @@ links:
       - title: Direct School Admission (DSA)
         url: /our-co-curriculum/direct-school-admission-dsa/
   - title: Our Gallery
-    collection: our-gallery
+    url: /our-gallery/social-media
+    sublinks:
+      - title: Social Media
+        url: /our-gallery/social-media
+      - title: Media Coverage
+        url: /our-gallery/media-coverage
+      - title: Tampines Connection 2022
+        url: https://drive.google.com/file/d/1gg8L6SQis1ZZ2tK0B0ERc7ShT24Flt8D/view
+  - title: Contact Us
+    url: /contact-us

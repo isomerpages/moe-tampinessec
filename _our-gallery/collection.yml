@@ -2,7 +2,7 @@ collections:
   our-gallery:
     output: true
     order:
-      - Photos.md
-      - Videos.md
+      - Social Media.md
       - Media coverage.md
       - Publications.md
+      - Photos.md

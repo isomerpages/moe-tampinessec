@@ -15,4 +15,4 @@ By 2024, secondary schools will have implemented the following aspects of Full S
 
 *   Offering of Humanities subjects at a more demanding level from Secondary 2; and
 
-Mixed form classes with the provision of a common curriculum.
+* Mixed form classes with the provision of a common curriculum.

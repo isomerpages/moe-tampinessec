@@ -334,7 +334,11 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
 /* extra */
 div.bp-hero-body {
     background-color: none !important;
 	}
+.bp-hero-body {
+	background: unset;
+}

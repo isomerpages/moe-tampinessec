@@ -10,26 +10,15 @@ TPSS Alumni comprises graduates of various ages who have been inspired by their 
 
 ![](/images/Alumni.png)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Alumni Chairperson</span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr John Lim</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Alumni Vice-Chairperson </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Benedict Li</span></td>
-  </tr>
-</tbody>
-</table>
+| Designation | Name |
+| -------- | -------- |
+| Chairperson     | Mr John Lim     |
+| Vice-Chairperson | Mr Benedict Li| 
+
+### Join Us
+
+We want to stay connected and engaged with you, our alumni. Please take a minute to fill up the form at the url below with your most up-to-date contact information.
+
+Thank you.
+
+[https://sites.google.com/view/tpss-alumni/home](https://sites.google.com/view/tpss-alumni/home)
