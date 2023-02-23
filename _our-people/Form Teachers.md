@@ -15,7 +15,7 @@ description: ""
 |  1-3  |  Mr | Mohd Faaiz Ishar          | mohd_faaiz_ishar@moe.edu.sg              |
 |  1-3  |  Ms | Lim Zhi Ying              | lim_zhi_ying@moe.edu.sg                  |
 |  1-4  |  Ms | Amy Lui                   | lui_amy@moe.edu.sg                       |
-|  1-4  |  Mr | Ee Sien Ming Bryan (TSN)  | ee_sien_ming_bryan@moe.edu.sg            |
+|  1-4  |  Mr | Ee Sien Ming Bryan   | ee_sien_ming_bryan@moe.edu.sg            |
 |  1-5  | Mrs | Amy De Cruz               | prameeta_menon@moe.edu.sg                |
 |  1-5  |  Mr | Esfan Rizal Rahwom        | esfan_rizal_rahwom@moe.edu.sg            |
 |  1-6  |  Mr | Chen Chang Jin            | chen_changjin@moe.edu.sg                 |
