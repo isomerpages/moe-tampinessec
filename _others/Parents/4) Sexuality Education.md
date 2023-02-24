@@ -25,3 +25,6 @@ third_nav_title: Parents
 ![](/images/eTeens.png)
 
 #### Information for Parents
+10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/TPSS_SEd_OptOut.pdf). The completed form is to be submitted by 25/01/2023. 
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/TPSS_ETeens_OptOut.pdf).  The completed form is to be submitted by 25/01/2023.
