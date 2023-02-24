@@ -3,7 +3,7 @@ title: Humanities Department
 permalink: /our-curriculum/humanities-department/
 description: ""
 ---
-![](/images/humanities%20department.png)
+![](/images/Humanities%20Department%202023.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -33,28 +33,20 @@ description: ""
     <td class="tg-dgl5">Mrs Preeti Sheri <br></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">SDT Year Head</td>
-    <td class="tg-dgl5">Mr Benny Lim Leong Thye</td>
+    <td class="tg-dgl5">Assistant Year Head</td>
+    <td class="tg-dgl5">Mrs Ong-Yip Wan Wei Nicole</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">SH History <br></td>
-    <td class="tg-dgl5">Ms Andrea Lee Shu Qi<br></td>
+    <td class="tg-dgl5">SH CCE<br></td>
+    <td class="tg-dgl5">Mr Nallu Dhinakharan<br></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Senior Teacher History</td>
-    <td class="tg-dgl5">Mr Shahril Bin Mohd Shah</td>
+    <td class="tg-dgl5">SH History</td>
+    <td class="tg-dgl5">Ms Lim Zhi Ying</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Teachers </td>
-    <td class="tg-ktyi">Mdm Shaheeda Supar</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06">Mr Nallu Dhinakharan</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-ktyi">Mr Poh Yang Han<br></td>
+    <td class="tg-ktyi">Mr Shahril Bin Mohd Shah</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
@@ -62,11 +54,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-zr06">Ms Chow Jia Xuan</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-zr06">Ms Chia Yu Ru <br></td>
+    <td class="tg-zr06">Ms Chia Yu Ru</td>
   </tr>
   <tr>
     <td class="tg-f4yw"> </td>
@@ -75,10 +63,6 @@ description: ""
   <tr>
     <td class="tg-f4yw"> </td>
     <td class="tg-zr06">Mr Nicholas Seow Wei Ming</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> </td>
-    <td class="tg-zr06">Ms Nicole Yip Wan Wei</td>
   </tr>
 </tbody>
 </table>
@@ -151,34 +135,56 @@ The department seeks to develop critical thinkers who are able to work collabora
 </tbody>
 </table>
 
-### HIGHLIGHTS OF 2019
+### HIGHLIGHTS OF 2022
 
-**1. Bicentennial Experience**
+ 
 
-  
+**ACES GO PLACES!**
 
-In celebration of Singapore’s Bicentennial in 2019, Secondary Two students were brought to Fort Canning House to visit the Bicentennial Experience to  better understand the History of Singapore. Also, the History Department organised a series of quizzes over the months to get students to find out more about Singapore’s past.
+Pursuing its goals of moulding future-ready students and providing a holistic education and development, the Humanities Department harnessed the Authentic, Constructivist and Experiential (ACE) approach to drive its 2022 instructional programmes, events, and activities:
 
-  
+_January – March_
 
-**2. History Competitions**
+**Annual NUS Geography Challenge (NUS Geography Department and the NUS Geographical Society)**
 
-  
+Our team designed, scripted, recorded and produced a 5-minute video on the school’s position as an Eco-Stewardship pilot school. Walden Raine Longdid (4E1) Silver Medal recipient, Kawaguchi Nae (4E1) Bronze Medal recipient Kendrick Chua (4E1),  and Loretta Kek (4E2) Certificates of Participation recipients did the school proud in the competition that saw the participation of 119 school teams.
 
-Students from Lower Secondary were exposed to a variety of competitions such as the Singapore History Day competition and the Istana Heritage Gallery competition. Such competitions help them to better appreciate Singapore’s history.
+_May_
 
-<figure>
-<img src="/images/1-1.jpg">
-<figcaption> Students interacting with Dr Yaacob Ibrahim at Singapore History Day</figcaption>
-</figure>
+**The Istana Heritage Challenge**
 
-**3. Transnational Terrorism Talk by Mr Salim Bin Mohd Nasir, RRG Secretariat**
+This august building was the first Learning Journey destination for the 2022 Secondary 1 cohort.  The cohort was exposed to the nation’s historical development through the various displays and had fun teachable moments through the various station activities.
 
-Mr Salim shared his experiences and research on terrorism with the graduating cohort. He clarified misconceptions the general public had on associating terrorism with certain religious groups. He also emphasized the importance of social harmony as a defense against terrorist attacks.
+_July_
 
+**ASEAN Symposium (by ISEAS & Kranji Secondary School)**
 
+This was a fruitful experience for our Secondary 3 and 4 students who were engaged in the sharing of diplomats’   experience and insight on role and activities of ASEAN.  Our students’ focus in the Symposium was on the topic of trafficking, studying various case studies and linking it back to the role of ASEAN.
 
-<figure>
-<img src="/images/2-1.jpg">
-<figcaption> Students listening to talk given by Mr Nasir on Transnational Terrorism</figcaption>
-</figure>
+_July_
+
+**NASMUN (Ngee Ann Secondary School)**
+
+Chin Huan, Amirul, Elijah, Naomi and Erika from Secondary 3E4 - our student delegates to the conference submitted their position papers reflecting their country’s stance and thoughts regarding the topic being debated in the council. Chin Huan (delegate of Jamaica) won the best UNEP position paper. Through NASMUN, our student delegates have strengthened their communication and problem-solving skills through collaborating and hearing differing perspectives from students at other schools
+
+_August_
+
+**Temasek Distinguished Guest Series (Temasek Junior College)**
+
+10 students from the Secondary 3 cohort participated in the Temasek Distinguished Guest Series focusing on issues such as Hustle Culture, NFTs, Russian-Ukraine conflict. They also had the privilege to attend a symposium session with guest speaker Professor Inderjit Singh.
+
+_September_
+
+**Humanities Department Learning Journey to **Singapore’s First Community-Based Circular Ecosystem for Sustainable Food Production****
+
+The department had an enriching and fun time visiting the Tampines Black Soldier Fly Eco-Farm facility, tilapia pond, and the vertical vegetable farm at Blk 146.
+
+_October_
+
+**Social Studies Talk on Transnational Terrorism**
+
+A sharing cum Q & A session by Mr Salim Mohamed Nasir from the RSIS, NTU on the threat and management of transnational terrorism to Singapore to our Secondary 3 cohort.
+
+**Learning on the Move**
+
+A fun-filled and enriching item mounted by the Humanities Department for the Secondary 2 cohort as an introduction to the issues in Social Studies in Secondary 3.
