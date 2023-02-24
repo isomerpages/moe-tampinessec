@@ -17,5 +17,5 @@ sections:
         - title: For teachers
           description: ""
           url: /others/teachers-portal/
-      background: https://srv641.hstgr.io:7443/62e4c35df43b4294/files/Misc/Website%20Hero%20Background.gif
+      background: /images/School Facade Edited.png
 ---
