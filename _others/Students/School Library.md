@@ -8,7 +8,7 @@ Dear Students,
 
 You may refer to the links below for your library needs:
 
-1.     **[Titles in our schoollibrary](https://schoolibrary.moe.edu.sg/tampinessec)**
+1.     **[Titles in our school library](https://schoolibrary.moe.edu.sg/tampinessec)**
 
 2.     [**discoveReads**](http://www.nlb.gov.sg/discovereads/)
 
