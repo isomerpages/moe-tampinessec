@@ -28,7 +28,7 @@ sections:
       title: Follow TPSS on Facebook and Instagram!
       subtitle: Announcement
       description: "Our Instagram handle is @tampinessec. Click on the link below to
-        visit our FB page. "
+        visit our Facebook page. "
       button: Click here
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
