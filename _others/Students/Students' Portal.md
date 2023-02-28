@@ -20,3 +20,5 @@ If you have forgotten your iconmail, you may click on self reset or contact Mr S
 ### STUDENTS' SUGGESTION PLATFORM 
 
 Dear students, if you would like to submit a suggestion, please click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSd0DVbapkQ1kSpGcwO3ws9aBsnvS2le1xz7iSTZ17LJTgWRJQ/viewform?usp=sf_link).
+
+![](/images/Collage%20Template.jpg)
