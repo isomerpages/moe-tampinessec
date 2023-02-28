@@ -24,4 +24,13 @@ sections:
         link below.
       button: Click here
       url: https://www.tampinessec.moe.edu.sg/our-school/principals-message/
+  - infopic:
+      title: Follow TPSS on Facebook and Instagram!
+      subtitle: Announcement
+      description: "Our Instagram handle is @tampinessec. Click on the link below to
+        visit our FB page. "
+      button: Click here
+      url: https://www.facebook.com/TampinesSec/
+      image: /images/Social media annoucement.gif
+      alt: Image alt text
 ---
