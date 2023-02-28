@@ -19,7 +19,7 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infobar:
-      title: Principal's Message
+      title: Principal's Message 2023
       description: Read Mr Lan's message to the school for the year 2023 by clicking
         on the link below.
       button: Click here
