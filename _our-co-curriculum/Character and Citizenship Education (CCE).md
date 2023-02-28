@@ -108,4 +108,3 @@ Sec 4/5: Biodiversity Programme
 - Partnerships: Alba, Tampines West , NEA, Singapore Green Council, One Tampines Hub
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT43zoqu1i7jhro9LVFNubB4kle9C8_oweMuj08_b-M7xKWKw9NGvaDRinbMWwPvHSFTYue4YnkoE0H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
