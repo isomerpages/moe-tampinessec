@@ -7,11 +7,12 @@ The School Advisory Committee is a key partner of Tampines Secondary School. Mem
 
 ### SAC MEMBERS
 ![](/images/School%20Advisory%20Committee.jpg)
-|          | SAC Member                 |
-|----------|----------------------|
-| Chairman | Mr Suhaimi Bin Rafdi |
-| Member   | Ms Cheryl Koh        |
-| Member   | Ms Yvonne Aw         |
-| Member   | Mr Roland Teo        |
-| Member   | Mr Adrian Phuah      |
-| Member   | Mr Markus Poh        |
+
+|          	| SAC Member           	|
+|----------	|----------------------	|
+| Chairman 	| Mr Suhaimi Bin Rafdi 	|
+| Member   	| Ms Cheryl Koh        	|
+| Member   	| Ms Yvonne Aw         	|
+| Member   	| Mr Roland Teo        	|
+| Member   	| Mr Adrian Phuah      	|
+| Member   	| Mr Markus Poh        	|
