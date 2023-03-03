@@ -18,4 +18,19 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
+  - infobar:
+      title: Principal's Message 2023
+      description: Read Mr Lan's message to the school community by clicking on the
+        link below.
+      button: Click here
+      url: https://www.tampinessec.moe.edu.sg/our-school/principals-message/
+  - infopic:
+      title: Follow TPSS on Facebook and Instagram!
+      subtitle: Announcement
+      description: "Our Instagram handle is @tampinessec. Click on the link below to
+        visit our Facebook page. "
+      button: Click here
+      url: https://www.facebook.com/TampinesSec/
+      image: /images/Social media annoucement.gif
+      alt: Image alt text
 ---
