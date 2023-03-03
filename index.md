@@ -5,7 +5,7 @@ description: Brief site description here
 image: /images/tpss.png
 permalink: /
 notification: "Support the B Div Football girls at the Finals! Details: 7 March
-  (Tuesday) | Bedok Stadium | 4.45p.m. "
+  (Tuesday) | 4.45p.m. | Bedok Stadium"
 sections:
   - hero:
       key_highlights:
