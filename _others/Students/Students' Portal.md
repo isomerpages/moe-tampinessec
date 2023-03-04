@@ -4,7 +4,7 @@ permalink: /others/students-portal/
 description: ""
 third_nav_title: Students
 ---
-### Resources for Class of 2022
+## Resources for Class of 2022
 
 [GCE O-Level Results Release Briefing Slides](/files/2022%20O-Level%20ECG%20%20Briefing%20Slides%20for%20Students_TPSS%20-%2012%20Jan%20%202023.pdf)
 
