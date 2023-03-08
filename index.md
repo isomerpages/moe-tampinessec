@@ -4,8 +4,7 @@ title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
-notification: "Support the B Div Football girls at the Finals! Details: 7 March
-  (Tuesday) | 4.45p.m. | Bedok Stadium"
+notification: ""
 sections:
   - hero:
       key_highlights:
