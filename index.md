@@ -18,11 +18,6 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
-  - infopic:
-      title: Support the B Div Football girls at the upcoming Finals!
-      subtitle: Announcement
-      image: /images/footballgirlsfinals.jpeg
-      alt: Image alt text
   - infobar:
       title: Principal's Message 2023
       description: Read Mr Lan's message to the school community by clicking on the
