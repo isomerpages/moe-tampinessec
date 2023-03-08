@@ -4,8 +4,7 @@ title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
-notification: "Support the B Div Football girls at the Finals! Details: 7 March
-  (Tuesday) | 4.45p.m. | Bedok Stadium"
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -19,11 +18,6 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
-  - infopic:
-      title: Support the B Div Football girls at the upcoming Finals!
-      subtitle: Announcement
-      image: /images/footballgirlsfinals.jpeg
-      alt: Image alt text
   - infobar:
       title: Principal's Message 2023
       description: Read Mr Lan's message to the school community by clicking on the
