@@ -8,7 +8,7 @@ third_nav_title: Tampinesian Code of Conduct
 
 *Disciplinary actions will be taken if the child repeatedly fails to do so.
 
-### SCHOOL UNIFORM
+### School Uniform
 
 *   Students are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
 *   Students are allowed to wear the school polo T-shirt, approved CCA or House T-shirt on prescribed days of the week.
@@ -18,23 +18,23 @@ third_nav_title: Tampinesian Code of Conduct
 *   Slippers are not allowed at all times. Sandals with straps can be worn ONLY in cases of foot injury.
 *   The security officers stationed at the school gate reserve the right to refuse entry to students who are not properly attired.
 
-#### BOYS
+#### Boys
 
 *   Lower Sec Uniform: beige shirt and green shorts. Shorts must be of knee-length.
 *   Upper Sec Uniform: beige shirt and green trousers.
 *   Name tag is sewn just above the pocket.
 
-#### GIRLS
+#### Girls
 
 *   Uniform: Beige shirt and green skirt. Skirt must be of knee-length.
 *   Name tag is sewn above the school badge.
 
-#### PE ATTIRE
+#### PE Attire
 
 *   Students are to wear the approved PE attire during PE lessons.
 *   Students must change out of their PE attire by the end of recess. 
 
-#### DURING EXAMINATION PERIODS
+#### During Examination Periods
 
 *   All students are expected to be in full uniform during examinations.
 
