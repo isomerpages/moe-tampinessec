@@ -37,3 +37,23 @@ third_nav_title: Tampinesian Code of Conduct
 #### DURING EXAMINATION PERIODS
 
 *   All students are expected to be in full uniform during examinations.
+
+### Hairstyle and Appearance
+
+#### General
+*   Hair should not be coloured or tinted.
+*   Tinted glasses and coloured contact lenses are not allowed.
+*   Cosmetics and perfume are not allowed.
+*   Jewellery, ornaments or accessories including ear-sticks are not allowed, except for one pair of plain small identical ear studs for girls.
+*   Tongue/nose/face/body piercing and tattoos are not allowed.
+*   Fingernails must be kept short and clean, and not coloured.
+
+#### Boys
+*   Hair should be short, neat and tidy. Hair at the back should be sloped and not touch the collar. Hair at the sides should not touch the ears. Side-burns are not allowed. Fringe should be short and must be above the eyebrows.
+*   Overlap, undercut, undershave, spiky or outlandish hairstyles are not allowed.
+*   Facial hair (e.g. moustache or beard) is not allowed. The face must be clean-shaven at all times.
+
+#### Girls
+*   Hair must be simply-styled. Hair longer than shoulder-length should be tied up neatly. Fringe should be short and must be above the eyebrow. Fringe that falls below the eyebrow should be clipped up.
+*   Hair accessories must be plain coloured and must not be fanciful.
+*   Only one pair of plain small identical ear studs is allowed on the ears, with 1 ear stud on each ear lobe.
