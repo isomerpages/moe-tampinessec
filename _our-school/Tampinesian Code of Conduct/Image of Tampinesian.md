@@ -8,7 +8,7 @@ third_nav_title: Tampinesian Code of Conduct
 
 *Disciplinary actions will be taken if the child repeatedly fails to do so.
 
-### SCHOOL UNIFORM
+### School Uniform
 
 *   Students are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
 *   Students are allowed to wear the school polo T-shirt, approved CCA or House T-shirt on prescribed days of the week.
@@ -18,22 +18,42 @@ third_nav_title: Tampinesian Code of Conduct
 *   Slippers are not allowed at all times. Sandals with straps can be worn ONLY in cases of foot injury.
 *   The security officers stationed at the school gate reserve the right to refuse entry to students who are not properly attired.
 
-#### BOYS
+#### Boys
 
 *   Lower Sec Uniform: beige shirt and green shorts. Shorts must be of knee-length.
 *   Upper Sec Uniform: beige shirt and green trousers.
 *   Name tag is sewn just above the pocket.
 
-#### GIRLS
+#### Girls
 
 *   Uniform: Beige shirt and green skirt. Skirt must be of knee-length.
 *   Name tag is sewn above the school badge.
 
-#### PE ATTIRE
+#### PE Attire
 
 *   Students are to wear the approved PE attire during PE lessons.
 *   Students must change out of their PE attire by the end of recess. 
 
-#### DURING EXAMINATION PERIODS
+#### During Examination Periods
 
 *   All students are expected to be in full uniform during examinations.
+
+### Hairstyle and Appearance
+
+#### General
+*   Hair should not be coloured or tinted.
+*   Tinted glasses and coloured contact lenses are not allowed.
+*   Cosmetics and perfume are not allowed.
+*   Jewellery, ornaments or accessories including ear-sticks are not allowed, except for one pair of plain small identical ear studs for girls.
+*   Tongue/nose/face/body piercing and tattoos are not allowed.
+*   Fingernails must be kept short and clean, and not coloured.
+
+#### Boys
+*   Hair should be short, neat and tidy. Hair at the back should be sloped and not touch the collar. Hair at the sides should not touch the ears. Side-burns are not allowed. Fringe should be short and must be above the eyebrows.
+*   Overlap, undercut, undershave, spiky or outlandish hairstyles are not allowed.
+*   Facial hair (e.g. moustache or beard) is not allowed. The face must be clean-shaven at all times.
+
+#### Girls
+*   Hair must be simply-styled. Hair longer than shoulder-length should be tied up neatly. Fringe should be short and must be above the eyebrow. Fringe that falls below the eyebrow should be clipped up.
+*   Hair accessories must be plain coloured and must not be fanciful.
+*   Only one pair of plain small identical ear studs is allowed on the ears, with 1 ear stud on each ear lobe.
