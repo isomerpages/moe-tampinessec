@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Students
 ---
 ## Sec 3 Subject Combination Exercise
-[TPSS Sec 3 Subject Combination Information Site](https://sites.google.com/moe.edu.sg/tpsssubjectcombi/home)
+Please visit the microsite for information about the Sec 3 Subject Combination Exercise:
+<br>[TPSS Sec 3 Subject Combination Information Site](https://sites.google.com/moe.edu.sg/tpsssubjectcombi/home)
 ## Resources for Class of 2022
 
 [GCE O-Level Results Release Briefing Slides](/files/2022%20O-Level%20ECG%20%20Briefing%20Slides%20for%20Students_TPSS%20-%2012%20Jan%20%202023.pdf)
