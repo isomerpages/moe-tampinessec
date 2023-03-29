@@ -33,4 +33,14 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infopic:
+      title: 37th Annual Awards Day and Speech Day
+      subtitle: Announcement
+      description: TPSS will be commemorating its 37th Annual Awards Day and Speech
+        Day on 9th and 12th of May respectively. Click on the link to find out
+        more!
+      button: Click here
+      url: https://www.tampinessec.moe.edu.sg/37-speech-day
+      image: /images/37th speech and award day logo.png
+      alt: Image alt text
 ---
