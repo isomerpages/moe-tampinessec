@@ -21,7 +21,7 @@ description: ""
 |  1-6  |  Mr | Chen Chang Jin            | chen_changjin@moe.edu.sg                 |
 |  1-6  |  Ms | Hernie Binte Salleh       | hernie_salleh@moe.edu.sg                 |
 |  1-7  |  Mr | Khyrul Anwar Jamil        | khyrul_anwar_jamil@moe.edu.sg            |
-|  1-7  | Mdm | Jene Wei Yihui            | wei_yihui_jene@moe.edu.sg                |
+|  1-7  | Ms | Li Sijie            | li_sijie@moe.edu.sg                |
 |  1-8  |  Mr | James Lim Choy Kee        | james_lim@moe.edu.sg                     |
 |  1-8  |  Ms | Sarinah  Mohamed          | sarinah_mohamed@moe.edu.sg               |
 |  2E1  |  Mr | Mohammed Ariff Mohtar     | mohammed_ariff_mohtar@moe.edu.sg         |
@@ -33,7 +33,6 @@ description: ""
 |  2E4  | Mdm | Veni Thavasagayan         | veni_thavasagayan@moe.edu.sg             |
 |  2E4  |  Ms | Hannah Rheya Devaser      | hannah_rheya_devaser@moe.edu.sg          |
 |  2N1  | Mdm | Sun Yu                    | sun_yu@moe.edu.sg                        |
-|  2N1  |  Ms | Li Sijie                  | li_sijie@moe.edu.sg                      |
 |  2N1  |  Mr | John Ng Lee Wei           | ng_lee_wei_john@moe.edu.sg               |
 |  2N2  | Mdm | Lim Chu Toh               | lim_chu_toh@moe.edu.sg                   |
 |  2N2  |  Mr | Kevin Ng Woon Bing        | ng_woon_bing_kevin@moe.edu.sg            |
