@@ -18,8 +18,8 @@ description: ""
 | OPERATIONS MANAGER                         	| Mr Michael Toh                  	|
 | ADMINISTRATION MANAGER                     	| Mdm Angeline Hong               	|
 | ADMINISTRATION MANAGER                     	| Mr Fahmi Fiasal                 	|
-| HOD CRAFT & TECHNOLOGY                     	| Mr Benjamin Low Yick Loong      	|
-| HOD ENGLISH LANGUAGE & LITERATURE          	| Mr Christopher Tan Ming Quan    	|
+| HOD CRAFT &amp; TECHNOLOGY                     	| Mr Benjamin Low Yick Loong      	|
+| HOD ENGLISH LANGUAGE &amp; LITERATURE          	| Mr Christopher Tan Ming Quan    	|
 | HOD HUMANITIES                             	| Mdm Lena Yeo Hwee Koon          	|
 | HOD MATHEMATICS                            	| Mr Thomas Wan Chee Wai          	|
 | HOD SCIENCE                                	| Mr Victor Ng Vic Meng           	|
@@ -30,7 +30,7 @@ description: ""
 | YEAR HEAD                                  	| Mdm Koh Mei Ling                	|
 | YEAR HEAD                                  	| Mr Lee Kah Wai                  	|
 | SCHOOL STAFF DEVELOPER                     	| Mdm Zarinah Begum D/O Karam Din 	|
-| SH DESIGN & TECHNOLOGY                     	| Mr Lee Kwee Wei                 	|
+| SH DESIGN &amp; TECHNOLOGY                     	| Mr Lee Kwee Wei                 	|
 | SH CHINESE LANGUAGE                        	| Ms Li Kaiying                   	|
 | SH MALAY LANGUAGE                          	| Mr Esfan Rizal Bin Rahwom       	|
 | SH LITERATURE                              	| Ms Hannah Rheya Devaser         	|
@@ -39,7 +39,7 @@ description: ""
 | SH MATHEMATICS                             	| Mdm Jene Wei Yihui              	|
 | SH PE / CCA                                	| Mr John Ng Lee Wei              	|
 | SH STUDENT MANAGEMENT                      	| Mr Joshua Foo Chuan Teck        	|
-| SH STUDENT LEADERSHIP & WELL-BEING 	| Ms Peh Hui Ling                 	|
+| SH STUDENT LEADERSHIP &amp; WELL-BEING 	| Ms Peh Hui Ling                 	|
 | SH ICT (Internal)                          	| Mdm Kwang-Zhang Simin           	|
 | Asst. YEAR HEAD                            	| Mr Aloysius Ong                 	|
 | Asst. YEAR HEAD                            	| Mrs Nicole Ong                  	|
@@ -47,3 +47,5 @@ description: ""
 | ST ART                                     	| Mdm Tan Shin Shin               	|
 | ST ENGLISH LANGUAGE                        	| Mdm Shen Simin Nicole           	|
 | ST BIOLOGY                                 	| Mr Hafiz Ahmad                  	|
+| ST MATHEMATICS                       | Mr Charles Yip Wai Kit          |
+| ST LEARNING NEEDS (Internal) | Mr Gerard Chan Choe Seng
