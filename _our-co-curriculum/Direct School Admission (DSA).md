@@ -11,7 +11,7 @@ description: ""
 
 **Admission Criteria**
 
-1.  We welcome students who are talented in any of the following areas:
+2.  We welcome students who are talented in any of the following areas:
 
 | Talent Area                                                                                                                            	| Admission Criteria                                                                                                                                                                                                                                                                                                                                                                                                                          	|
 |----------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -22,10 +22,10 @@ description: ""
 Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.                        	|                                                                
 ### **Selection Process**
 
-1.  Application for DSA-Sec can be submitted through the online **DSA-Sec Portal**. The application is free-of-charge and will be open from **early May**. For more details, please refer to MOE’s website on DSA [here](https://www.moe.gov.sg/secondary/dsa), which will be updated with exact dates and times by mid-April.
-2.  Unless otherwise stated, DSA selection interviews are conducted in-person at Tampines Secondary School. Details for each selection interview will be shared with shortlisted students in due course.
-3.  The interview panel will include a School Leader, a TPSS DSA coordinator and teacher I/Cs or instructors (where relevant). Thereafter, all applicants will be informed of the outcome (i.e. ‘Confirmed Offer’, ‘Wait List’ or ‘Unsuccessful’), via email or phone call, before the selection period ends in September (the exact date will be made known when MOE has updated the abovementioned DSA website).
-4.  In addition to a 10-minute interview for each shortlisted applicant, the following modes of selection are also used.
+3.  Application for DSA-Sec can be submitted through the online **DSA-Sec Portal**. The application is free-of-charge and will be open from **early May**. For more details, please refer to MOE’s website on DSA [here](https://www.moe.gov.sg/secondary/dsa), which will be updated with exact dates and times by mid-April.
+4.  Unless otherwise stated, DSA selection interviews are conducted in-person at Tampines Secondary School. Details for each selection interview will be shared with shortlisted students in due course.
+5.  The interview panel will include a School Leader, a TPSS DSA coordinator and teacher I/Cs or instructors (where relevant). Thereafter, all applicants will be informed of the outcome (i.e. ‘Confirmed Offer’, ‘Wait List’ or ‘Unsuccessful’), via email or phone call, before the selection period ends in September (the exact date will be made known when MOE has updated the abovementioned DSA website).
+6.  In addition to a 10-minute interview for each shortlisted applicant, the following modes of selection are also used.
 a) For Dance-related Talent Areas:
 
 *   Performance of a prepared item, such as a 1min dance solo featuring any genre that can be done within a classroom space. Students may perform dance(s) learnt in school (e.g. CCA, LLP) or self-choreographed pieces and should be in suitable dance or PE attire.
@@ -51,19 +51,14 @@ For Football
 
 *   Demonstration of individual skills and movements that showcase agility.
 
-7. The table below contains a summary of key dates for the **application** and **selection** stages of the DSA-Sec process (more information can be found at MOE’s website [here](https://www.moe.gov.sg/secondary/dsa)):
-<table class="simple-table" id="56365601-d2ea-4b4c-aa73-3e48db091a4b"><tbody><tr id="9f6daeff-17b4-4210-9804-6fc6b98f91b3"><td class="" id="rGNC"><strong>Application Stage</strong></td><td style="width:444px" class="" id="@zGN"></td></tr><tr id="c2a4cb30-a758-4a34-bdd3-fb3c6791b058"><td class="" id="rGNC">Wed, xx MAY to xx JUNE 2023 (TBC)</td><td style="width:444px" class="" id="@zGN">Once you have explored and shortlisted the schools of your choice, submit your application online through the DSA-Sec portal by 3pm on the final day.</td></tr></tbody></table>
-
-<table class="simple-table" id="fb5b1831-a30a-4f03-8c13-c908a799a3d4"><tbody><tr id="6518ce31-dffd-4432-b22b-3d1d90e43eb1"><td style="width:238.7624969482422px" class="" id="gAWw"><strong>Selection Stage</strong></td><td style="width:445px" class="" id="^D\J"></td></tr><tr id="d487e482-fe61-49bd-9654-c8c8c1d1d82e"><td style="width:238.7624969482422px" class="" id="gAWw">xx JUNE 2023 – xx SEPT 2023</td><td style="width:445px" class="" id="^D\J">Shortlisted students will be invited to attend an interview and/or audition via electronic modes such as video conferencing, depending on their selected talent area. Selected students will receive DSA-Sec offers from schools by XXXXXX, xx September 2023. ‘Wait Listed’ and ‘Unsuccessful’ applicants will also be notified by xx September 2023.</td></tr></tbody></table>
-
-8. Please note that successful DSA-Sec candidates who took the PSLE are NOT allowed to participate in the S1 Posting. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.
-9. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4. Successful DSA-Sec candidates are also NOT allowed to transfer to another school after the release of the PSLE results.
-10. Unsuccessful DSA-Sec candidates will be notified of the outcome and participate in the centralised S1 Posting to opt for schools.
-11. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+7. Please note that successful DSA-Sec candidates who took the PSLE are NOT allowed to participate in the S1 Posting. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.
+8. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4. Successful DSA-Sec candidates are also NOT allowed to transfer to another school after the release of the PSLE results.
+9. Unsuccessful DSA-Sec candidates will be notified of the outcome and participate in the centralised S1 Posting to opt for schools.
+10. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 **Contact Details**
 
-1.  For clarification, please contact:
+11.  For clarification, please contact:
 
 | Area 	| In-charge 	| Email 	|
 |---	|---	|---	|
@@ -71,7 +66,7 @@ For Football
 | STEM – Creative Engineering and Modelling 	| Mr Victor Ng Vic Meng Head of Department Science 	| ng_vic_meng@moe.edu.sg 	|
 | Football 	| Mr S Elangovan Head of Department PE and CCA   or   Mr John Ng Subject Head PE / CCA 	| s_elangovan@moe.edu.sg<br>ng_lee_wei_john@moe.edu.sg 	|
 
-13.  Thank you.
+12.  Thank you.
 
 **DSA Coordination Team**<br>
 **Tampines Secondary School**
