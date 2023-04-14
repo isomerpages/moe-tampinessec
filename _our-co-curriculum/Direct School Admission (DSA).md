@@ -30,8 +30,7 @@ The interview panel will include a School Leader, a TPSS DSA coordinator and tea
 
 In addition to a 10-minute interview for each shortlisted applicant, the following modes of selection are also used.
 
-**a) For Dance-related Talent Areas:
-**
+**a) For Dance-related Talent Areas**
 *   Performance of a prepared item, such as a 1min dance solo featuring any genre that can be done within a classroom space. Students may perform dance(s) learnt in school (e.g. CCA, LLP) or self-choreographed pieces and should be in suitable dance or PE attire.
 
 **b) For Drama – English**
