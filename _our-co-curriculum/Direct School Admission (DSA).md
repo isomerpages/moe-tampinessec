@@ -19,7 +19,7 @@ description: ""
 | STEM – Creative Engineering and Modelling                                                                                              	| Candidates should meet at least one of the following criteria:<br>1. Prior experience as a member of a CCA which has STEM related activities (e.g. coding, robotics, drones)<br>2. Represented school in STEM related competitions<br>3. Able to demonstrate and showcase creativity in STEM with photos or videos of past projects                                                                                                              	|
 | Football                                                                                                                               	| Candidates should meet  at least one of the following criteria:<br>1. Prior experience as a member of Football CCA or equivalent (e.g. external football training programme)  OR<br>2. Past participation in football competitions/events. |
 
-Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.                        	|                                                                
+Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.                        	                                                               
 ### **Selection Process**
 
 3.  Application for DSA-Sec can be submitted through the online **DSA-Sec Portal**. The application is free-of-charge and will be open from **early May**. For more details, please refer to MOE’s website on DSA [here](https://www.moe.gov.sg/secondary/dsa), which will be updated with exact dates and times by mid-April.
