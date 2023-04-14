@@ -68,9 +68,9 @@ For clarification, please contact:
 
 | Area 	| In-charge 	| Email 	|
 |---	|---	|---	|
-| Visual and Performing Arts 	| Mr Christopher Tan Head of Department English Language and Literature 	| tan_ming_quan@moe.edu.sg 	|
-| STEM – Creative Engineering and Modelling 	| Mr Victor Ng Vic Meng Head of Department Science 	| ng_vic_meng@moe.edu.sg 	|
-| Football 	| Mr S Elangovan Head of Department PE and CCA   or   Mr John Ng Subject Head PE / CCA 	| s_elangovan@moe.edu.sg<br>ng_lee_wei_john@moe.edu.sg 	|
+| Visual and Performing Arts 	| Mr Christopher Tan<br>Head of Department English Language and Literature 	| tan_ming_quan@moe.edu.sg 	|
+| STEM – Creative Engineering and Modelling 	| Mr Victor Ng Vic Meng<br>Head of Department Science 	| ng_vic_meng@moe.edu.sg 	|
+| Football 	| Mr S Elangovan<br>Head of Department PE and CCA or<br>Mr John Ng<br>Subject Head PE / CCA 	| s_elangovan@moe.edu.sg<br>ng_lee_wei_john@moe.edu.sg 	|
 
 Thank you.
 
