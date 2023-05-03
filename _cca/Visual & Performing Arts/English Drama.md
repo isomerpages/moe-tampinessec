@@ -1,6 +1,6 @@
 ---
-title: Drama Club
-permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/drama-club/
+title: English Drama
+permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/english-drama/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
