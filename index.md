@@ -43,4 +43,8 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - resources:
+      title: Tampinesians Connect!
+      subtitle: Our Stories
+      button: Click here for more
 ---
