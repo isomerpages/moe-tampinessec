@@ -7,6 +7,8 @@ third_nav_title: Students
 ## Sec 3 Subject Combination Exercise
 Please visit the microsite for information about the Sec 3 Subject Combination Exercise:
 <br>[TPSS Sec 3 Subject Combination Information Site](https://sites.google.com/moe.edu.sg/tpsssubjectcombi/home)
+## Student Handbook 2023
+[Please download Tampines Companion 2023 here. ](/files/tampines%20companion%202023%20version.pdf)
 ## Resources for Class of 2022
 
 [GCE O-Level Results Release Briefing Slides](/files/2022%20O-Level%20ECG%20%20Briefing%20Slides%20for%20Students_TPSS%20-%2012%20Jan%20%202023.pdf)
@@ -20,6 +22,6 @@ Should there be any news on HBL, please refer to the following link for more inf
   
 If you have forgotten your iconmail, you may click on self reset or contact Mr Syed at 67835423 for assistance.
 
-### STUDENTS' SUGGESTION PLATFORM 
+### STUDENTS' SUGGESTION PLATFORM&nbsp;
 
-Dear students, if you would like to submit a suggestion, please click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSd0DVbapkQ1kSpGcwO3ws9aBsnvS2le1xz7iSTZ17LJTgWRJQ/viewform?usp=sf_link).
+Dear students, if you would like to submit a suggestion, please click&nbsp;[**here**](https://docs.google.com/forms/d/e/1FAIpQLSd0DVbapkQ1kSpGcwO3ws9aBsnvS2le1xz7iSTZ17LJTgWRJQ/viewform?usp=sf_link).
