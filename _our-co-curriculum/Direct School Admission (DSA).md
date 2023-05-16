@@ -22,7 +22,7 @@ We welcome students who are talented in any of the following areas:
 Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.                        	                                                               
 ### **Selection Process**
 
-Application for DSA-Sec can be submitted through the online **DSA-Sec Portal**. The application is free-of-charge and will be open from **early May**. For more details, please refer to MOE’s website on DSA [here](https://www.moe.gov.sg/secondary/dsa), which will be updated with exact dates and times by mid-April.
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4th May 2023, 11am. For more details, please refer to MOE’s website on DSA [here](https://www.moe.gov.sg/secondary/dsa).
 
 Unless otherwise stated, DSA selection interviews are conducted in-person at Tampines Secondary School. Details for each selection interview will be shared with shortlisted students in due course.
 
