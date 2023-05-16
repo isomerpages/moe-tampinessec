@@ -18,6 +18,10 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
+  - resources:
+      title: Tampinesians Connect!
+      subtitle: Our Stories
+      button: Click here for more
   - infopic:
       title: 37th Annual Awards Day and Speech Day
       subtitle: Announcement

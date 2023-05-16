@@ -22,7 +22,7 @@ We welcome students who are talented in any of the following areas:
 Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.                        	                                                               
 ### **Selection Process**
 
-Application for DSA-Sec can be submitted through the online **DSA-Sec Portal**. The application is free-of-charge and will be open from **early May**. For more details, please refer to MOE’s website on DSA [here](https://www.moe.gov.sg/secondary/dsa), which will be updated with exact dates and times by mid-April.
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4th May 2023, 11am. For more details, please refer to MOE’s website on DSA [here](https://www.moe.gov.sg/secondary/dsa).
 
 Unless otherwise stated, DSA selection interviews are conducted in-person at Tampines Secondary School. Details for each selection interview will be shared with shortlisted students in due course.
 
@@ -53,6 +53,20 @@ In addition to a 10-minute interview for each shortlisted applicant, the followi
 **f) For Football**
 
 *   Demonstration of individual skills and movements that showcase agility.
+
+The table below contains a summary of key dates for the application and selection stages of the DSA-Sec process (more information can be found at MOE’s website [here](https://www.moe.gov.sg/secondary/dsa)):
+
+
+
+| Application Stage |  | 
+| -------- | -------- | 
+| 11am on Thursday, 4 May 2023 to <br>3pm on Wednesday, 31 May 2023.| Once you have explored and shortlisted the schools of your choice, submit your application online through the DSA-Sec portal by 3pm on the final day.     | 
+
+
+
+| Selection Stage |  | 
+| -------- | -------- | 
+| by Monday, 11 September 2023     | Shortlisted students will be invited to attend an interview and/or audition at Tampines Secondary School’s campus, depending on their selected talent area.<br> Selected students will receive DSA-Sec offers from schools by 11 September 2023. <br>‘Wait Listed’ and ‘Unsuccessful’ applicants will also be notified by 11 September 2023.| 
 
 Please note that successful DSA-Sec candidates who took the PSLE are NOT allowed to participate in the S1 Posting. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.
 
