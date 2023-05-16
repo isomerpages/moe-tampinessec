@@ -60,7 +60,7 @@ The table below contains a summary of key dates for the application and selectio
 
 | Application Stage |  | 
 | -------- | -------- | 
-| 11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023.| Once you have explored and shortlisted the schools of your choice, submit your application online through the DSA-Sec portal by 3pm on the final day.     | 
+| 11am on Thursday, 4 May 2023 to <br>3pm on Wednesday, 31 May 2023.| Once you have explored and shortlisted the schools of your choice, submit your application online through the DSA-Sec portal by 3pm on the final day.     | 
 
 
 
