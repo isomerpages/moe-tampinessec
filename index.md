@@ -19,6 +19,19 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infopic:
+      title: 37th Awards Day and Speech Day
+      subtitle: Event
+      description: On the 9th and 12th of May respectively, Tampines Secondary School
+        commemorated its 37th Annual Awards Day and Speech Day.
+      button: Read More...
+      url: https://tampinessec.moe.edu.sg/tampinesians-connect/events/awardsspeechday2023/
+      alt: Image alt text
+      image: /images/230512_speech_day_parade_0034.jpg
+  - resources:
+      title: Tampinesians Connect!
+      subtitle: Our Stories
+      button: Read More
+  - infopic:
       title: 37th Annual Awards Day and Speech Day
       subtitle: Announcement
       description: TPSS will be commemorating its 37th Annual Awards Day and Speech
@@ -37,8 +50,8 @@ sections:
   - infopic:
       title: Follow TPSS on Facebook and Instagram!
       subtitle: Announcement
-      description: "Our Instagram handle is @tampinessec. Click on the link below to
-        visit our Facebook page. "
+      description: Our Instagram handle is @tampinessec. Click on the link below to
+        visit our Facebook page.
       button: Click here
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
