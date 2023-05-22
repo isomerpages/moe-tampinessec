@@ -27,10 +27,6 @@ sections:
       url: https://tampinessec.moe.edu.sg/tampinesians-connect/events/awardsspeechday2023/
       alt: Image alt text
       image: /images/230512_speech_day_parade_0034.jpg
-  - resources:
-      title: Tampinesians Connect!
-      subtitle: Our Stories
-      button: Read More
   - infopic:
       title: 37th Annual Awards Day and Speech Day
       subtitle: Announcement
