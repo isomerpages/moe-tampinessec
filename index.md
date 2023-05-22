@@ -37,10 +37,14 @@ sections:
   - infopic:
       title: Follow TPSS on Facebook and Instagram!
       subtitle: Announcement
-      description: "Our Instagram handle is @tampinessec. Click on the link below to
-        visit our Facebook page. "
+      description: Our Instagram handle is @tampinessec. Click on the link below to
+        visit our Facebook page.
       button: Click here
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - resources:
+      title: Tampinesians Connect!
+      subtitle: Our Stories
+      button: Click here
 ---
