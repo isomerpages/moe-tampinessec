@@ -21,7 +21,7 @@ sections:
   - resources:
       title: Tampinesians Connect!
       subtitle: Our Stories
-      button: Click here
+      button: Read More
   - infopic:
       title: 37th Annual Awards Day and Speech Day
       subtitle: Announcement
