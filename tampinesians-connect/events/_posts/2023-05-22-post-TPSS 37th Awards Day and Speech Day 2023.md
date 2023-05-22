@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-On the 9th and 12th of May respectively, Tampines Secondary School joyously commemorated its 37th Annual Awards Day and Speech Day. These twin events not only celebrated the spectrum of academic and co-curricular accomplishments but also served as a platform for our students to spotlight their talents. Embodying this year's theme, 'With Compassion and Courage, Growing Stronger Together', we celebrated the undying Tampinesian spirit—a spirit that compels us to stand firm for our convictions, fortified by a shared empathy. This theme underscores the role of compassion and courage in shaping a resilient and supportive community. By demonstrating empathy and courage in overcoming challenges, we believe we can foster growth and achieve more together than we could individually.
+On the 9th and 12th of May respectively, Tampines Secondary School joyously commemorated its 37th Annual Awards Day and Speech Day. These twin events not only celebrated the spectrum of academic and co-curricular accomplishments but also served as a platform for our students to spotlight their talents. Embodying this year's theme, 'With Compassion and Courage, Growing Stronger Together', we celebrated the undying Tampinesian spirit—a spirit that compels us to stand firm for our convictions, fortified by a shared empathy. This theme underscores the role of compassion and courage in shaping a resilient and supportive community. By demonstrating empathy and courage in overcoming challenges, we believe we can foster growth and achieve more together than we could individually.<br>
+[Awards Recipients Photos for Awards Day and Speech Day 2023](https://drive.google.com/drive/folders/1Ig50KnctIJiqFjg39C0Q2uYwQHfu6AmT)
 
 ![](/images/230512_speech_day_parade_0004.jpg)
 *TPSS Uniform Group Marching Contingent*
@@ -24,4 +25,3 @@ The Speech Day festivities kicked off on May 12th at the school's parade square 
 The Speech Day spectacle further unfolded with an array of performances by our Modern Chinese Dance, Malay Dance, Show Choir, Dance Dynamics, Wushu, Concert Band, and DramaInk groups, a testament to our school's rich diversity and talent. These performances mirrored our commitment to fostering a comprehensive education that cultivates our students' creative and passionate pursuits.
 
 These Annual Awards Day and Speech Day celebrations are key milestones on our school calendar, spotlighting our students' and staff's accomplishments while reaffirming the values that shape our school's vision and mission. We eagerly anticipate many more successful celebrations in the coming years, as we continue to foster and motivate our students to grow stronger together, with compassion and courage.<br>
-[Awards Recipients Photos for Awards Day and Speech Day 2023](https://drive.google.com/drive/folders/1Ig50KnctIJiqFjg39C0Q2uYwQHfu6AmT)
