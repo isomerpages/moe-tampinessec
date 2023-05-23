@@ -27,16 +27,6 @@ sections:
       url: https://tampinessec.moe.edu.sg/tampinesians-connect/events/awardsspeechday2023/
       alt: Image alt text
       image: /images/230512_speech_day_parade_0034.jpg
-  - infopic:
-      title: 37th Annual Awards Day and Speech Day
-      subtitle: Announcement
-      description: TPSS will be commemorating its 37th Annual Awards Day and Speech
-        Day on 9th and 12th of May respectively. Click on the link to find out
-        more!
-      button: Click here
-      url: https://www.tampinessec.moe.edu.sg/37-speech-day
-      image: /images/37th speech and award day logo.png
-      alt: Image alt text
   - infobar:
       title: Principal's Message 2023
       description: Read Mr Lan's message to the school community by clicking on the
