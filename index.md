@@ -35,6 +35,13 @@ sections:
       button: Click here to learn more
       url: https://tampinessec.moe.edu.sg/moneysense2023
   - infobar:
+      title: 2023 Mid-Year Holiday Homework
+      subtitle: Announcement
+      description: Dear Tampinesians, please go to the Students' Portal for the list
+        of assignments to be completed during the June holidays.
+      button: Students' Portal
+      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
+  - infobar:
       title: Principal's Message 2023
       description: Read Mr Lan's message to the school community by clicking on the
         link below.
@@ -49,11 +56,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: 2023 Mid-Year Holiday Homework
-      subtitle: Announcement
-      description: "Dear Tampinesians, please go to the Students' Portal for the list
-        of assignments to be completed during the June holidays. "
-      button: Students' Portal
-      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
 ---
