@@ -48,5 +48,5 @@ sections:
       description: Dear Parents, learn more about MoneySense, a workshop conducted by
         IFL to help you guide your child in financial literacy.
       button: Click here to learn more
-      url: https://
+      url: https://tampinessec.moe.edu.sg/moneysense2023
 ---
