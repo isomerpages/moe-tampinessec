@@ -28,6 +28,13 @@ sections:
       alt: Image alt text
       image: /images/230512_speech_day_parade_0034.jpg
   - infobar:
+      title: Financial Literacy Workshop for Parents
+      subtitle: Announcement
+      description: Dear Parents, learn more about MoneySense, a workshop conducted by
+        IFL to help you guide your child in financial literacy.
+      button: Click here to learn more
+      url: https://tampinessec.moe.edu.sg/moneysense2023
+  - infobar:
       title: Principal's Message 2023
       description: Read Mr Lan's message to the school community by clicking on the
         link below.
@@ -42,11 +49,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: Financial Literacy Workshop for Parents
-      subtitle: Announcement
-      description: Dear Parents, learn more about MoneySense, a workshop conducted by
-        IFL to help you guide your child in financial literacy.
-      button: Click here to learn more
-      url: https://tampinessec.moe.edu.sg/moneysense2023
 ---
