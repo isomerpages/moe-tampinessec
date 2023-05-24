@@ -4,6 +4,13 @@ permalink: /others/students-portal/
 description: ""
 third_nav_title: Students
 ---
+## 2023 Mid-Year Holiday Homework
+Please refer the tab corresponding to your level / stream to check the homework assigned for the June holidays. <br>
+[Sec 1](https://docs.google.com/spreadsheets/d/1wpUVmyn85qp0zN1yAJZYZjLmhNXRKIUQ3noTOBCebJ8/edit?usp=sharing)<br>
+[Sec 2](https://docs.google.com/spreadsheets/d/1IpFdB5GkmNJ_bWK44OcWquiXXfaPDaCaGapgovH9IJs/edit?usp=sharing)<br>
+[Sec 3](https://docs.google.com/spreadsheets/d/16dWJ6W0g27deLNFz01pg-eT6uPJr8gvrFuAd3I4n0o8/edit?usp=sharing)<br>
+[Sec 4/5](https://docs.google.com/spreadsheets/d/1xzr-kWIyglamNplOuJzUttvILHO9uzqIBshoQsMr15w/edit?usp=sharing)
+
 ## Sec 3 Subject Combination Exercise
 Please visit the microsite for information about the Sec 3 Subject Combination Exercise:
 <br>[TPSS Sec 3 Subject Combination Information Site](https://sites.google.com/moe.edu.sg/tpsssubjectcombi/home)
