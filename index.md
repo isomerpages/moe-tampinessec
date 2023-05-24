@@ -45,8 +45,8 @@ sections:
   - infobar:
       title: Financial Literacy Workshop for Parents
       subtitle: Announcement
-      description: Dear Parents, learn more about MoneySense, a workshop conduction by
-        IFL (Institude for Financial Literacy).
+      description: Dear Parents, learn more about MoneySense, a workshop conducted by
+        IFL to help you guide your child in financial literacy.
       button: Click here to learn more
       url: https://
 ---
