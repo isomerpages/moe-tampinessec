@@ -28,7 +28,7 @@ sections:
       alt: Image alt text
       image: /images/230512_speech_day_parade_0034.jpg
   - infobar:
-      title: Financial Literacy Workshop for Parents
+      title: Financial Literacy Programmes for Parents
       subtitle: Announcement
       description: Dear Parents, learn more about MoneySense, a workshop conducted by
         IFL to help you guide your child in financial literacy.
