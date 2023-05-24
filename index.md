@@ -30,7 +30,7 @@ sections:
   - infobar:
       title: Financial Literacy Programme for Parents
       subtitle: Announcement
-      description: Dear Parents, learn more about MoneySense, a workshop conducted by
+      description: Dear Parents, learn more about MoneySense, a programme curated by
         IFL to help you guide your child in financial literacy.
       button: Click here to learn more
       url: https://tampinessec.moe.edu.sg/moneysense2023
