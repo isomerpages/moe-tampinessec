@@ -42,4 +42,11 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: Financial Literacy Workshop for Parents
+      subtitle: Announcement
+      description: Dear Parents, learn more about MoneySense, a workshop conduction by
+        IFL (Institude for Financial Literacy).
+      button: Click here to learn more
+      url: https://
 ---
