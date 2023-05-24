@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 ---
 ## 2023 Mid-Year Holiday Homework
-Please refer the tab corresponding to your level / stream to check the homework assigned for the June holidays. <br>
+Please refer the tab corresponding to your subject group / stream to check the homework assigned for the June holidays. <br>
 [Sec 1](https://docs.google.com/spreadsheets/d/1wpUVmyn85qp0zN1yAJZYZjLmhNXRKIUQ3noTOBCebJ8/edit?usp=sharing)<br>
 [Sec 2](https://docs.google.com/spreadsheets/d/1IpFdB5GkmNJ_bWK44OcWquiXXfaPDaCaGapgovH9IJs/edit?usp=sharing)<br>
 [Sec 3](https://docs.google.com/spreadsheets/d/16dWJ6W0g27deLNFz01pg-eT6uPJr8gvrFuAd3I4n0o8/edit?usp=sharing)<br>
