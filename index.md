@@ -4,7 +4,8 @@ title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
-notification: ""
+notification: Dear students, visit the Students' Portal for the list of
+  assignments to be completed during the June holidays!
 sections:
   - hero:
       key_highlights:
@@ -27,6 +28,20 @@ sections:
       url: https://tampinessec.moe.edu.sg/tampinesians-connect/events/awardsspeechday2023/
       alt: Image alt text
       image: /images/230512_speech_day_parade_0034.jpg
+  - infobar:
+      title: Financial Literacy Programme for Parents
+      subtitle: Announcement
+      description: Dear Parents, learn more about MoneySense, a programme curated by
+        IFL, to help you guide your child in financial literacy.
+      button: Click here to learn more
+      url: https://tampinessec.moe.edu.sg/moneysense2023
+  - infobar:
+      title: 2023 Mid-Year Holiday Homework
+      subtitle: Announcement
+      description: Dear Tampinesians, please go to the Students' Portal for the list
+        of assignments to be completed during the June holidays.
+      button: Students' Portal
+      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
   - infobar:
       title: Principal's Message 2023
       description: Read Mr Lan's message to the school community by clicking on the
