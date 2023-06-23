@@ -19,6 +19,10 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
   - infopic:
       title: 37th Awards Day and Speech Day
       subtitle: Event
