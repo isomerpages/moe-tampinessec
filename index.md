@@ -23,14 +23,6 @@ sections:
       title: Tampinesians Connect!
       subtitle: Our Stories
       button: Read More
-  - infopic:
-      title: Semester 2 Timetable for All Classes
-      subtitle: Announcement
-      description: Dear Tampinesians, please go to the Students' Portal for the
-        Semester 2 timetable.
-      button: Students' portal
-      alt: Image alt text
-      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
   - infobar:
       title: Semester 2 Timetable for All Classes
       subtitle: Announcement
