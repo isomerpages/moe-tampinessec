@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 ---
 ## Semester 2 Timetable for All Classes
-[Please download the Semester 2 Timetable here](/files/2023%20sem%202%20tt%20final%20classes%20(23%20june).pdf)
+[Please download the Semester 2 Timetable here.](/files/2023%20sem%202%20tt%20final%20classes%20(23%20june).pdf)
 
 ## 2023 Mid-Year Holiday Homework
 Please refer the tab corresponding to your subject group / stream to check the homework assigned for the June holidays. <br>
