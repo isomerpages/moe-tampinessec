@@ -61,4 +61,10 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infopic:
+      title: Semester 2 Timetable for All Classes
+      subtitle: Announcement
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
