@@ -24,10 +24,10 @@ sections:
       subtitle: Our Stories
       button: Read More
   - infobar:
-      title: Semester 2 Timetable for All Classes
+      title: Semester 2 Timetable
       subtitle: Announcement
-      description: Dear Tampinesians, please go to the Students' Portal for the
-        Semester 2 timetable.
+      description: Dear Tampinesians, please visit the Students' Portal to download
+        the Semester 2 timetable.
       button: Students' portal
       url: https://www.tampinessec.moe.edu.sg/others/students-portal/
   - infopic:
