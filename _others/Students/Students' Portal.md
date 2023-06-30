@@ -4,6 +4,10 @@ permalink: /others/students-portal/
 description: ""
 third_nav_title: Students
 ---
+## Semester 2 Timetable for All Classes and CCA Schedule
+[Please download the Semester 2 Timetable here.](/files/2023%20sem%202%20tt%20final%20classes%20(23%20june).pdf)
+
+[Please download the CCA Schedule here.](/files/cca%20schedule%202023.pdf)
 ## 2023 Mid-Year Holiday Homework
 Please refer the tab corresponding to your subject group / stream to check the homework assigned for the June holidays. <br>
 [Sec 1](https://docs.google.com/spreadsheets/d/1wpUVmyn85qp0zN1yAJZYZjLmhNXRKIUQ3noTOBCebJ8/edit?usp=sharing)<br>

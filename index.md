@@ -23,6 +23,13 @@ sections:
       title: Tampinesians Connect!
       subtitle: Our Stories
       button: Read More
+  - infobar:
+      title: Semester 2 Timetable and CCA Schedule
+      subtitle: Announcement
+      description: Dear Tampinesians, please visit the Students' Portal to download
+        the Semester 2 Timetable and CCA Schedule.
+      button: Students' portal
+      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
   - infopic:
       title: 37th Awards Day and Speech Day
       subtitle: Event
