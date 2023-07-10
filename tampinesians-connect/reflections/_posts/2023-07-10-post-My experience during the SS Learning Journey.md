@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: /images/we had a lot of fun!.jpg
 ---
-**Written by:**Hannah Sofea Rustam Effendy and Lam Si Ying, Jerlynn
+**Written by:**Hannah Sofea Rustam Effendy & Lam Si Ying, Jerlynn
 
 Considering that this year is my first time studying Social Studies, I was thrilled to be able to go on this learning journey to the Harmony In Diversity Gallery. This was especially so since this learning journey had limited spots and I knew I was lucky to be able to go for it. 
 
@@ -22,4 +22,3 @@ After the tour, we headed back to the gallery to thank the instructors and wait 
 
 My classmate Leiniz also agreed with me, saying, “I had a lot was fun because I got to explore famous buildings that have been there for a long time, as well as learn about their history.”
 
-[We had a lot of fun!](/images/we%20had%20a%20lot%20of%20fun!.jpg)
