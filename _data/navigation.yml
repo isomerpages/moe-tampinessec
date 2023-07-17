@@ -38,4 +38,8 @@ links:
     url: /ecg
     sublinks:
       - title: JAE Website
-        url: /permalink
+        url: https://www.moe.gov.sg/jae
+      - title: SchoolFinder
+        url: https://www.moe.gov.sg/schoolfinder
+      - title: CourseFinder
+        url: http://www.moe.gov.sg/coursefinder
