@@ -67,4 +67,12 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: Discontinuation of JAE Information Booklet
+      subtitle: Announcement
+      description: "Dear graduating students, please find all the critical JAE
+        information on the Students' Portal or under the 'ECG' menu in the
+        navigation bar. "
+      button: Go to Students' Portal
+      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
 ---
