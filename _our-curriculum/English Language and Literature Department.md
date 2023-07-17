@@ -15,14 +15,14 @@ description: ""
 |  	| Ms Chen Liwen (EL / Lit) 	|
 |  	| Mr Ee Sien Ming Bryan (EL) 	|
 |  	| Mr Ezekiel Goh Zhuang Yuan (EL / Math) 	|
-|  	| Ms Hernie Binte Salleh 	|
+|  	| Ms Hernie Binte Salleh (EL)	|
 |  	| Mdm Lee Whye Gwan (EL) 	|
-|  	| Ms Li Sijie (EL / Lit) 	|
+|  	| Ms Li Sijie (Lit) 	|
 |  	| Mr Mohamad Imran B AB Malek (EL) 	|
 |  	| Mr Ng Woon Bing Kevin (EL) 	|
 |  	| Ms Nurasyikin Hapet (EL) 	|
 |  	| Ms Pek Jia Hui (EL) 	|
-|  	| Ms Sarinah Mohamed 	|
+|  	| Ms Sarinah Mohamed (EL / Lit)	|
 
 ### KEY PROGRAMMES&nbsp;
 
