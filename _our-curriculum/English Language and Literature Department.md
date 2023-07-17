@@ -19,7 +19,7 @@ description: ""
 |  	| Mdm Lee Whye Gwan (EL) 	|
 |  	| Ms Li Sijie (EL / Lit) 	|
 |  	| Mr Mohamad Imran B AB Malek (EL) 	|
-|  	| Mr Ng Woon Bing Kevin (EL / Geography) 	|
+|  	| Mr Ng Woon Bing Kevin (EL) 	|
 |  	| Ms Nurasyikin Hapet (EL) 	|
 |  	| Ms Pek Jia Hui (EL) 	|
 |  	| Ms Sarinah Mohamed 	|
