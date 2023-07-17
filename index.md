@@ -4,8 +4,7 @@ title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
-notification: Dear students, visit the Students' Portal for the list of
-  assignments to be completed during the June holidays!
+notification: ""
 sections:
   - hero:
       key_highlights:
