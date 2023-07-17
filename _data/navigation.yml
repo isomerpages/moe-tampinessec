@@ -36,4 +36,6 @@ links:
     url: /contact-us
   - title: ECG
     url: /ecg
-    sublinks: []
+    sublinks:
+      - title: JAE Website
+        url: /permalink
