@@ -2,8 +2,8 @@ collections:
   our-co-curriculum:
     output: true
     order:
-      - Education & Career Guidance.md
       - Character and Citizenship Education (CCE).md
+      - Education & Career Guidance.md
       - Student Development Team (SDT).md
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
