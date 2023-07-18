@@ -3,7 +3,7 @@ title: English Language and Literature Department
 permalink: /our-curriculum/english-language-and-literature-department/
 description: ""
 ---
-![](/images/ell%20dept%20collage%202023.png)
+![](/images/ell%20dept%20collage%202023%20a.png)
 		 
 ### TEACHERS
 
