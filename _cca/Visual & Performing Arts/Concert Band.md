@@ -30,7 +30,8 @@ third_nav_title: Visual & Performing Arts
   </tr>
   <tr>
     <td class="tg-xd6j">TEACHERS<br><br><br><br></td>
-    <td class="tg-b4br">Mr Jamalullail Salim [I/C]<br>Mr Zac Chen ChangJin<br>Ms Sunyu<br>Ms Nur Sahilah Rasid<br></td>
+    <td class="tg-b4br">Mr Chen Changjin [I/C]<br>Mr Abdul Jalil<br>Mdm Chew
+Poh Kim</td>
   </tr>
   <tr>
     <td class="tg-xd6j">TRAINING SCHEDULE<br><br></td>
