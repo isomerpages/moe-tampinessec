@@ -11,6 +11,8 @@ links:
     sublinks:
       - title: CCE
         url: /our-co-curriculum/character-and-citizenship-education-cce/
+      - title: ECG
+        url: /educationcareerguidance
       - title: Student Development Team (SDT)
         url: /our-co-curriculum/student-development-team-sdt/
       - title: Co-Curricular Activities (CCA)
@@ -34,3 +36,12 @@ links:
         url: https://drive.google.com/file/d/1gg8L6SQis1ZZ2tK0B0ERc7ShT24Flt8D/view
   - title: Contact Us
     url: /contact-us
+  - title: ECG
+    url: /ecg
+    sublinks:
+      - title: JAE Website
+        url: https://www.moe.gov.sg/jae
+      - title: SchoolFinder
+        url: https://www.moe.gov.sg/schoolfinder
+      - title: CourseFinder
+        url: http://www.moe.gov.sg/coursefinder

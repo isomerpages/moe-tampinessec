@@ -4,8 +4,7 @@ title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
-notification: Dear students, visit the Students' Portal for the list of
-  assignments to be completed during the June holidays!
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -23,6 +22,14 @@ sections:
       title: Tampinesians Connect!
       subtitle: Our Stories
       button: Read More
+  - infobar:
+      title: Discontinuation of JAE Information Booklet
+      subtitle: Announcement
+      description: Dear graduating students, please find all the critical JAE
+        information on the ECG page or under the 'ECG' menu in the navigation
+        bar.
+      button: Go to ECG Page
+      url: https://www.tampinessec.moe.edu.sg/others/educationcareerguidance/
   - infobar:
       title: Semester 2 Timetable and CCA Schedule
       subtitle: Announcement
