@@ -35,7 +35,7 @@ Poh Kim</td>
   </tr>
   <tr>
     <td class="tg-xd6j">TRAINING SCHEDULE<br><br></td>
-    <td class="tg-emg8">Tuesday 3pm to 6pm<br>Friday 2pm to 5pm<br></td>
+    <td class="tg-emg8">Tuesday 1445 to 1800<br>Friday 1400 to 1715<br></td>
   </tr>
 </tbody>
 </table>
