@@ -29,7 +29,7 @@ sections:
         information on the ECG page or under the 'ECG' menu in the navigation
         bar.
       button: Go to ECG Page
-      url: https://www.tampinessec.moe.edu.sg/others/educationcareerguidance/
+      url: /our-co-curriculum/educationcareerguidance/
   - infobar:
       title: Semester 2 Timetable and CCA Schedule
       subtitle: Announcement
