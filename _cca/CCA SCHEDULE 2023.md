@@ -5,4 +5,5 @@ description: ""
 ---
 Please refer below for the CCA schedule. 
 
-[CCA Schedule 2023](/files/cca%20schedule%20june%202023.pdf)
+[CCA Schedule 2023](/files/cca%20schedule%202023_june.pdf)
+
