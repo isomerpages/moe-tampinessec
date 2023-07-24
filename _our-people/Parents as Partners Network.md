@@ -6,6 +6,7 @@ description: ""
 <img src="/images/ppn.png" style="width:80%">
 
 ![](/images/ppn%20cny%20celebration%202023.jpeg)
+#### PPN EXECUTIVE COMMITTEE ( 2023-2024)
 
 | Role 	| Member 	|
 |---	|---	|
