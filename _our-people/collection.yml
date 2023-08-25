@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Executive and Administrative Staff.md
       - Staff Organisational Structure.md
       - Form Teachers.md
       - School Advisory Committee.md
