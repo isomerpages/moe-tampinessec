@@ -23,6 +23,13 @@ sections:
       subtitle: Our Stories
       button: Read More
   - infobar:
+      title: MOE-OBS Challenge Programme 2024
+      subtitle: Announcement
+      description: Dear Parents, please visit the Parents' Portal for the briefing
+        slides on the OBS Challenge Programme for 2024 Secondary 3 students.
+      button: Parents' portal
+      url: https://www.tampinessec.moe.edu.sg/others/parents-portal/parents-gateway/
+  - infobar:
       title: Discontinuation of JAE Information Booklet
       subtitle: Announcement
       description: Dear graduating students, please find all the critical JAE
@@ -75,11 +82,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: MOE-OBS Challenge Programme 2024
-      subtitle: Announcement
-      description: Dear Parents, please visit the Parents' Portal for the briefing
-        slides on the OBS Challenge Programme for 2024 Secondary 3 students.
-      button: Parents' portal
-      url: https://www.tampinessec.moe.edu.sg/others/parents-portal/parents-gateway/
 ---
