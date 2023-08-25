@@ -75,4 +75,11 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: MOE-OBS Challenge Programme 2024
+      subtitle: Announcement
+      description: Dear Parents, please visit the Parents' Portal for the briefing
+        slides on the OBS Challenge Programme for 2024 Secondary 3 students.
+      button: Parents' portal
+      url: https://www.tampinessec.moe.edu.sg/others/parents-portal/parents-gateway/
 ---
