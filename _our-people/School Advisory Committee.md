@@ -7,7 +7,7 @@ The School Advisory Committee is a key partner of Tampines Secondary School. Mem
 
 ### SAC MEMBERS
 
-![](/images/school%20advisory%20committee%202023.png)
+![](/images/school%20advisory%20committee%202023%20aug.png)
 
 |  	| SAC Member 	|
 |---	|---	|
@@ -16,3 +16,4 @@ The School Advisory Committee is a key partner of Tampines Secondary School. Mem
 | Member 	| Mr Markus Poh 	|
 | Member 	| Mr Roland Teo 	|
 | Member 	| Ms Felice Low 	|
+| Member 	| Mr Terrence Tang 	|
