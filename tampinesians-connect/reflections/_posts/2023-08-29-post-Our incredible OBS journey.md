@@ -8,7 +8,7 @@ image: ""
 ---
 **Written by:** Hannah Sofea Rustam Effendy, Annalyn Lee Nian En, Lee Wen Le, Gaile & Leila Koh Jit Man (3E2)
 
-
+![moeobs](/images/1690287648813.jpg)
 
 Our Outward Bound Experience was tough yet meaningful and memorable. Everyone’s experience at Outward Bound Singapore (OBS) differed, but everyone shared similar emotions of joy, exhaustion, excitement and sadness throughout the few days. Before we went for it, everyone dreaded it and hated the idea of sleeping in tents, trekking long distances with heavy backpacks and not having our phones for days. However, our minds changed after the 5D4N programme. 
 
