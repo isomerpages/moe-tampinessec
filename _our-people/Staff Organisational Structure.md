@@ -17,7 +17,6 @@ description: ""
 | VICE PRINCIPAL                             	| Mr Cheong Tien Beng             	|
 | OPERATIONS MANAGER                         	| Mr Michael Toh                  	|
 | ADMINISTRATION MANAGER                     	| Mdm Angeline Hong               	|
-| ADMINISTRATION MANAGER                     	| Mr Fahmi Fiasal                 	|
 | HOD CRAFT &amp; TECHNOLOGY                     	| Mr Benjamin Low Yick Loong      	|
 | HOD ENGLISH LANGUAGE &amp; LITERATURE          	| Mr Christopher Tan Ming Quan    	|
 | HOD HUMANITIES                             	| Mdm Lena Yeo Hwee Koon          	|
@@ -38,9 +37,10 @@ description: ""
 | SH CHEMISTRY                               	| Ms Liy Lee Ping                 	|
 | SH MATHEMATICS                             	| Mdm Jene Wei Yihui              	|
 | SH PE / CCA                                	| Mr John Ng Lee Wei              	|
+| SH CCE                                	| Mr Nallu Dhinakaran              	|
 | SH STUDENT MANAGEMENT                      	| Mr Joshua Foo Chuan Teck        	|
 | SH STUDENT LEADERSHIP &amp; WELL-BEING 	| Ms Peh Hui Ling                 	|
-| SH ICT (Internal)                          	| Mdm Kwan-Zhang Simin           	|
+| SH ICT (Internal)                          	| Mrs Kwan-Zhang Simin           	|
 | Asst. YEAR HEAD                            	| Mr Aloysius Ong                 	|
 | Asst. YEAR HEAD                            	| Mrs Nicole Ong                  	|
 | LT CHEMISTRY                               	| Ms Julie Koh                    	|
