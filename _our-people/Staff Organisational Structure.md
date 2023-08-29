@@ -40,7 +40,7 @@ description: ""
 | SH PE / CCA                                	| Mr John Ng Lee Wei              	|
 | SH STUDENT MANAGEMENT                      	| Mr Joshua Foo Chuan Teck        	|
 | SH STUDENT LEADERSHIP &amp; WELL-BEING 	| Ms Peh Hui Ling                 	|
-| SH ICT (Internal)                          	| Mdm Kwang-Zhang Simin           	|
+| SH ICT (Internal)                          	| Mdm Kwan-Zhang Simin           	|
 | Asst. YEAR HEAD                            	| Mr Aloysius Ong                 	|
 | Asst. YEAR HEAD                            	| Mrs Nicole Ong                  	|
 | LT CHEMISTRY                               	| Ms Julie Koh                    	|

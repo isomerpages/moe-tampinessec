@@ -24,6 +24,12 @@ description: ""
 |  	| Ms Pek Jia Hui (EL) 	|
 |  	| Ms Sarinah Mohamed (EL / Lit)	|
 
+### Vision
+To nurture empathetic communicators, discerning readers and creative inquirers.
+
+### Mission
+At Tampines Secondary School's English Language and Literature Department, we cultivate a passion for language and storytelling. Through rigorous exploration and thoughtful discourse, we empower students to connect with diverse perspectives, critically engage with texts, and express themselves with authenticity and flair. Together, we build a community of lifelong learners who embrace language as a tool for understanding, empathy, and innovation.
+
 ### KEY PROGRAMMES&nbsp;
 
 ##### As Learners...
