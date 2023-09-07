@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-<img src="/images/mr lan profile pic.jpeg" style="width:70%">
+<img src="/images/mr lan profile pic.jpeg" style="width:60%">
 		 
 A warm welcome to the Tampines Secondary School (TPSS) website!
 
