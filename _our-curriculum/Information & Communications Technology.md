@@ -3,7 +3,7 @@ title: Information & Communications Technology
 permalink: /our-curriculum/information-technology-department/
 description: ""
 ---
-![](/images/CPA%20IT%20department.png)
+![](/images/2023tpss16ict.jpg)
 
 ### NATIONAL DIGITAL LEARNING PROGRAMME ( NDLP)
 
