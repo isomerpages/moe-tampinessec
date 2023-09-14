@@ -5,6 +5,19 @@ description: ""
 ---
 ![](/images/2023tpss16ict.jpg)
 
+### Staff
+| Designation 	| Name 	|
+|---	|---	|
+| HOD ICT   	| NEO SHUFEN 	|
+| SH ICT (Internal) 	| ZHANG SIMIN 	|
+| CPA Coordinator  	| CHEN CHANGJIN 	|
+| Teachers  	| ONG CHIH FAAH 	|
+|  	| CHAN CHOE SENG GERARD 	|
+|  	| TAN LEE HOCK JAMES 	|
+|  	| VENI THAVASAGAYAN 	|
+| IT Manager  	| AHMAD LUTFI BIN ABDUL RASHID 	|
+| Desktop Engineer 	| CHUA KAI ERN 	|
+
 ### NATIONAL DIGITAL LEARNING PROGRAMME ( NDLP)
 
 The NDLP was launched in March 2020 to&nbsp;make digital learning inclusive&nbsp;by&nbsp;equipping students with the digital literacies&nbsp;to be future-ready.&nbsp;
