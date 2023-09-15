@@ -30,3 +30,10 @@ Our dancers are trained in diverse genres like Chinese dance, contemporary dance
 Our resident instructor, Ms. Zhao Yiming, specializes in Chinese and contemporary dance. Typically, half of our annual training sessions delve into Chinese dance techniques, while the remaining sessions cover ballet and contemporary dance.
 
 Notably, we have had promising students identified during our training who were recommended for further training at the Nanyang Academy of Fine Arts.
+
+### Highlights &amp; Achievements
+- SYF Arts Presentation for Dances (2013) - Certificate of Distinction
+- SYF Arts Presentation for Dances (2017)&nbsp;- Certificate of Accomplishment
+- SYF Arts Presentation for Dances (2019)&nbsp;- Certificate of Accomplishment
+- SYF Arts Presentation for Dances (2021)&nbsp;- Certificate of Distinction
+- SYF Arts Presentation for Dances (2023)&nbsp;- Certificate of Distinction
