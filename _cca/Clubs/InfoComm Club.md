@@ -27,6 +27,10 @@ To cultivate the students’ passion for different forms of Digital Media partic
 ### Introduction 
 All Infocomm Club members receive training in animation and game design. Our goal is to empower each member with these skills, enabling them to showcase their animation talent and compete at national levels. Additionally, our members serve as cyber wellness ambassadors, championing online safety both in school and the broader community.
 
+### Photo Gallery
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnz9tVlz14oMtfqj1haFB3rK4lIw1ZXQ9ISQ0PexP49A3uSCxv9NZjc58HlgFhht6ANKdzAGGaCItO/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 ### Highlights &amp; Achievements
 This year, the Infocomm Club is focusing on Cyber Wellness and Animation &amp; Game Designing. Our members are creating cyber safety-themed posters and comics, which will be featured on the school's official social media platforms.
 
@@ -37,7 +41,3 @@ On another note, we're immensely proud of our team who participated in the Natio
 Below are the projects done by Infocomm Club members. [You may visit our microsite](https://sites.google.com/moe.edu.sg/tpssinfocommclub/home) to view more projects.
 
 ![](/images/icc%20projects%20semester%201.png)
-
-### Photo Gallery
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnz9tVlz14oMtfqj1haFB3rK4lIw1ZXQ9ISQ0PexP49A3uSCxv9NZjc58HlgFhht6ANKdzAGGaCItO/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
