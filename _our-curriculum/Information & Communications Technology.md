@@ -70,4 +70,3 @@ In collaboration with the Arts Department, a Cyberwellness Art Competition is al
 To encourage intergeneration bonding, IT bootcamps were also conducted in parternership with IMDA. During this bootcamp, our students share with elderly community members on how to make use of social media platforms such as Facebook and some online safety knowledge
 
 ![](/images/ict%205.png)
-
