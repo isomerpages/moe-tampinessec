@@ -24,7 +24,6 @@ To Serve with Excellence and Bring Visualisation to Life
 
 ### Mission 
 To cultivate the students’ passion for different forms of Digital Media particularly in digital animation tool and game design.
-
 ### Introduction 
 All Infocomm Club members receive training in animation and game design. Our goal is to empower each member with these skills, enabling them to showcase their animation talent and compete at national levels. Additionally, our members serve as cyber wellness ambassadors, championing online safety both in school and the broader community.
 
