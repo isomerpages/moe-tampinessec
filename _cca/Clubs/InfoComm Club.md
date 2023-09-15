@@ -4,89 +4,37 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/clubs/infocomm-club/
 description: ""
 third_nav_title: Clubs
 ---
-![](/images/infocomm%20club.png)
+![](/images/2023_icc_02.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uu3v{background-color:#FFF;color:#E35C26;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-uu3v">VISION</th>
-    <th class="tg-ktyi"><span style="background-color:transparent">To Serve with Excellence and Bring Visualization to Life</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-uu3v">MISSION</td>
-    <td class="tg-ktyi"><span style="color:#000">To cultivate the students’ passion for different forms of Digital Media</span><br><span style="color:#000">particularly in digital animation tool and game design.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-uu3v"><span style="background-color:transparent">TRAINING SCHEDULE</span><br></td>
-    <td class="tg-dgl5"><span style="background-color:transparent">Day/s:  </span><br><span style="background-color:transparent">Every Friday</span><br>Timing:<br>2:00 – 5:00 p.m<br>Teachers-in-charge:<br><span style="background-color:initial">Mdm Mazni Abu Bakar &amp; Mdm Veni Thavasagayan</span></td>
-  </tr>
-</tbody>
-</table>
+### CCA Teachers
 
-### INTRODUCTION
+| Role | Teacher |
+|---|---|
+| OIC | Mdm Mazni Abu Bakar |
+| 2IC | Ms Pek Jia Hui |
 
+### Training Schedule
+Fridays: 2.30–5.30 p.m.
 
-All Infocomm Club members will be trained in animation and game design training. The club aims that every club member 
+### Microsite
+Visit ICC's microsite by clicking on this link! 
 
-is equipped with the animation and game designing skills so as to unleash their talent in animation and challenge their potential 
+### Vision
+To Serve with Excellence and Bring Visualisation to Life
 
-by participating in national competitions. Infocomm club members are also cyber wellness ambassadors. They will be trained to be advocates of cyber wellness in school as well as the community.
+### Mission 
+To cultivate the students’ passion for different forms of Digital Media particularly in digital animation tool and game design.
 
-### HIGHLIGHTS
+### Introduction 
+All Infocomm Club members receive training in animation and game design. Our goal is to empower each member with these skills, enabling them to showcase their animation talent and compete at national levels. Additionally, our members serve as cyber wellness ambassadors, championing online safety both in school and the broader community.
 
+### Highlights & Achievements
+This year, the Infocomm Club is focusing on Cyber Wellness and Animation & Game Designing. Our members are creating cyber safety-themed posters and comics, which will be featured on the school's official social media platforms.
 
-Cyber Wellness and Animation and Game Designing are the two key events and the areas of focus for the Infocomm Club this year. Infocomm Club members will be gearing up to produce posters and comics based on cyber safety. These posters and comics will be shared with the school on the official social media platforms. 
+Additionally, our concentration spans Artificial Intelligence, animation, and cyber wellness. Sec 2s and Sec 3s are delving deeper into Artificial Intelligence through a rigorous 36-hour training during their CCA. This culminates in a workshop at Temasek Polytechnic's School of Information and Technology on May 29, 2023. Meanwhile, Sec 1s collaborated with Sec 4s to produce Lego animation clips on Cyber Citizenship. These clips were then highlighted during a Cyber Wellness roadshow, prompting Tampinesians to pledge their commitment to cyber wellness at our booth. Furthermore, Sec 4s had the honor of promoting Cyber Citizenship during a morning assembly, enhancing the overall experience for all club members.
 
-  
+On another note, we're immensely proud of our team who participated in the National Cyber Wellness Advocacy Challenge 2022: Gonzales Alexandra Isabelle Jabola (4E1), Ilhan Danial Bin Yussri (4E2), Tan Yu Han Celeste, and Jarrett Seow Jia Yu (4E4). They secured a Bronze Award in this esteemed competition. Congratulations to the team!
 
-Last year, at least 95% of the ICC members participated in the national NEmation competition. 5 teams were shortlisted to be in the Top 100. Out of the 5 teams, 4 teams were selected for the qualifying rounds and finally, 1 team emerged as a Top 10 Finalist. Well done to the team, the Average Animators!
+Below are the projects done by Infocomm Club members. [You may visit our microsite](https://sites.google.com/moe.edu.sg/tpssinfocommclub/home) to view more projects.
 
-  
-
-Besides being involved in Cyber Wellness activities and participating in NEmation national competitions, the club is also undergoing intensive training on games development using CoSpaces. By the end of the training, we hope that the students will be able to create their own games related to Cyber Wellness.
-
-![](/images/QR.png)
-
-### Photo
-
-
-<figure>
-<img src="/images/CCA%20display.jpg">
-<figcaption> <strong> CCA Display Day</strong> </figcaption>
-</figure>
-
-
-<figure>
-<img src="/images/cyber%20smart%20badges.jpg">
-<figcaption> <strong>Cyber Smart Badges</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/eCCA.jpg" style="width:60%">
-<figcaption> <strong>eCCA Session</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/NEmation%20ceremony.jpg" style="width:60%">
-<figcaption> <strong>NEmation Ceremony</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Top%2010%20finalist.jpg">
-<figcaption> <strong>Top 10 Finalist</strong> </figcaption>
-</figure>
-
-
-
+![](/images/icc%20projects%20semester%201.png)
