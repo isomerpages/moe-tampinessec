@@ -30,6 +30,9 @@ The Show Choir prides ourselves in combining choral singing along with choreogra
 
 As performers, the students learn the techniques on vocal projection and quality in singing. Students also learn the importance of dance showmanship to better express themselves through movement and body gestures.
 
+### Photo Gallery 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQMvMnjIF_Bn6A4dpEnRQnyvjn4rcxCnk_Wt8q6TD2k3E3orBTd91kCNo_vlehavNpgMeyM-Rq-VQR/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 ### Highlights &amp; Achievements
 #### Learning Journeys
 2017: ITE Show Choir Musical<br>
@@ -54,3 +57,4 @@ As performers, the students learn the techniques on vocal projection and quality
 2021: National Day, Teachers' Day
 
 2020: Racial Harmony Day, Teachers' Day
+
