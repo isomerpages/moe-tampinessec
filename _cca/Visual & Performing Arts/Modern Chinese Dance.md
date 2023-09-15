@@ -31,6 +31,9 @@ Our resident instructor, Ms. Zhao Yiming, specializes in Chinese and contemporar
 
 Notably, we have had promising students identified during our training who were recommended for further training at the Nanyang Academy of Fine Arts.
 
+### Photo Gallery 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnculI8DPgyNAmypnd2qlhbGw13f6L9Nd97uVa7dN2Qcgm-hMc2u8x7uNYsRpEW56uQVUsIOi_Gmc9/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 ### Highlights &amp; Achievements
 - SYF Arts Presentation for Dances (2013) - Certificate of Distinction
 - SYF Arts Presentation for Dances (2017)&nbsp;- Certificate of Accomplishment
