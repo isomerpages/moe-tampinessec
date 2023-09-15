@@ -49,3 +49,5 @@ At the end of the graduating year, students’ co-curricular attainment will be 
 | Clubs | Uniformed Groups |
 |---|---|
 | Infocomm Club<br>Maker Faire Club | National Cadet Corps (B)<br>National Police Cadet Corps (B/G)<br>St John Brigade (B/G)<br>Girl Guides |
+
+For further details on Co-Curricular Attainment Recognition Scheme (LEAPS 2.0), please log in to&nbsp;[https://www.moe.gov.sg/education-in-sg/our-programmes/cca](https://www.moe.gov.sg/education-in-sg/our-programmes/cca)
