@@ -7,16 +7,16 @@ description: ""
 
 ### Staff
 | Designation | Name |
-|------------------- |------------------------------ |
-| HOD ICT           	| NEO SHUFEN                   	|
-| SH ICT (Internal) 	| ZHANG SIMIN                  	|
-| CPA Coordinator   	| CHEN CHANGJIN                	|
-| Teachers          	| ONG CHIH FAAH                	|
-|                   	| CHAN CHOE SENG GERARD        	|
-|                   	| TAN LEE HOCK JAMES           	|
-|                   	| VENI THAVASAGAYAN            	|
-| IT Manager        	| AHMAD LUTFI BIN ABDUL RASHID 	|
-| Desktop Engineer  	| CHUA KAI ERN                 	|
+|---|---|
+| HOD ICT   | NEO SHUFEN |
+| SH ICT (Internal) | ZHANG SIMIN |
+| CPA Coordinator  | CHEN CHANGJIN |
+| Teachers  | ONG CHIH FAAH |
+|  | CHAN CHOE SENG GERARD |
+|  | TAN LEE HOCK JAMES |
+|  | VENI THAVASAGAYAN |
+| IT Manager  | AHMAD LUTFI BIN ABDUL RASHID |
+| Desktop Engineer | CHUA KAI ERNc |
 
 ### NATIONAL DIGITAL LEARNING PROGRAMME ( NDLP)
 
