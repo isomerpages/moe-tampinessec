@@ -39,4 +39,6 @@ Below are the projects done by Infocomm Club members. [You may visit our microsi
 
 ![](/images/icc%20projects%20semester%201.png)
 
+### Photo Gallery
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnz9tVlz14oMtfqj1haFB3rK4lIw1ZXQ9ISQ0PexP49A3uSCxv9NZjc58HlgFhht6ANKdzAGGaCItO/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
