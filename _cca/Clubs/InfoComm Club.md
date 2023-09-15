@@ -17,7 +17,7 @@ third_nav_title: Clubs
 Fridays: 2.30–5.30 p.m.
 
 ### Microsite
-Visit ICC's microsite by clicking on this link! 
+Visit ICC's microsite by clicking on [this link](https://sites.google.com/moe.edu.sg/tpssinfocommclub/home)! 
 
 ### Vision
 To Serve with Excellence and Bring Visualisation to Life
