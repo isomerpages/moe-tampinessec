@@ -4,91 +4,39 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/modern%20chinese%20dance.png)
+![](/images/2023_modern_chinese%20dance_01.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ii8k">Chairperson</th>
-    <th class="tg-ii8k"> Tan Ching Hui Sherina (4E1)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Vice-Chairperson</td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Chang Si Yan Jolin (4T1)</span></td>
-  </tr>
-</tbody>
-</table>
+### CCA Teachers
+| Role | Teacher |
+|---|---|
+| OIC | Ms Xiao Min |
+| 2IC | Mdm Loh Ming Woon |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-441j{background-color:#ECECEC;color:#E35C26;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-441j">VISION</th>
-    <th class="tg-emg8">Inherit the art of Chinese Dance and pass on the love for Chinese Culture to the next generation.<br><br> </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-441j"><br>MISSION</td>
-    <td class="tg-emg8"><br>To promote appreciation and awareness of the Chinese Culture and Instill the love for dance in our students.<br> </td>
-  </tr>
-  <tr>
-    <td class="tg-441j">TEACHERS</td>
-    <td class="tg-b4br">Ms Leong Jia En [I/C]<br>Ms Xiao Min<br></td>
-  </tr>
-  <tr>
-    <td class="tg-441j">TRAINING SCHEDULE<br></td>
-    <td class="tg-emg8">Day/s: Tuesday(2.30-5.30pm)<br><br>           Friday (1.30-4.30pm)</td>
-  </tr>
-</tbody>
-</table>
+### Training Schedule 
+Tuesdays: 2.30–5.30 p.m.<br>Fridays: 1.30–4.30 p.m.
 
-### DESCRIPTION OF CCAS
-Our dancers are exposed to a variety of dance genres, allowing them to develop their potential. These include Chinese dance, contemporary dance and ballet. In addition, we organise enrichment programmes such as Chinese dance, contemporary dance and ballet show appreciation. Our dancers also participate in workshops and public performances, which allow them to improve on their technique, gain greater exposure and widen their horizons.
+### MCD Committee 2023
+Click on [this link](https://docs.google.com/document/d/1Zfc8MherQNZwOMLOjuyA02bE4Za5rqxdMe4KS1CfaCM/edit?usp=sharing). 
 
-Our resident instructor and choreographer, Ms Zhao Yiming, specialises in Chinese dance and contemporary dance. Usually, in a year, half of the dance practice sessions are spent on learning the techniques of Chinese dance, while the other half are for other forms of dance such as ballet and contemporary dance.
+### Vision 
+Inherit the art of Chinese Dance and pass on the love for Chinese Culture to the next generation.
 
-Our talented students could be identified during these dance training sessions. Subsequently, they might be recommended for training at the Nanyang Academy of Fine Arts.
+### Mission 
+To promote appreciation and awareness of the Chinese Culture and Instill the love for dance in our students.
 
-### ACHIEVEMENTS
+### Introduction 
+Our dancers are trained in diverse genres like Chinese dance, contemporary dance, and ballet, nurturing their potential in each. We also offer enrichment programmes focused on dance appreciation, coupled with workshops and public performances. These opportunities hone their techniques and broaden their experience.
 
-MCD
+Our resident instructor, Ms. Zhao Yiming, specializes in Chinese and contemporary dance. Typically, half of our annual training sessions delve into Chinese dance techniques, while the remaining sessions cover ballet and contemporary dance.
 
-*   SYF Arts Presentation for Dances (2013)&nbsp;&nbsp;\- Certificate of Accomplishment  
-    
+Notably, we have had promising students identified during our training who were recommended for further training at the Nanyang Academy of Fine Arts.
 
-*   SYF Arts Presentation for Dances (2013) - Certificate of Distinction
-    
-*   SYF Arts Presentation for Dances (2017)&nbsp;&nbsp;\- Certificate of Accomplishment
-    
-*   SYF Arts Presentation for Dances (2019)&nbsp;&nbsp;\- Certificate of Accomplishment
-    
-*   SYF Arts Presentation for Dances (2021)&nbsp;&nbsp;\- Certificate of Distinction
-    
+### Photo Gallery 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnculI8DPgyNAmypnd2qlhbGw13f6L9Nd97uVa7dN2Qcgm-hMc2u8x7uNYsRpEW56uQVUsIOi_Gmc9/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-### Photos
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSg7CHlb6hKq-OHOtxnP1MRj5ii92LBisypiY1mKfLzMn-JyjuSkKJLu8oF5_5g5awrNSlwOIVUGHdt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-
+### Highlights &amp; Achievements
+- SYF Arts Presentation for Dances (2013) - Certificate of Distinction
+- SYF Arts Presentation for Dances (2017)&nbsp;- Certificate of Accomplishment
+- SYF Arts Presentation for Dances (2019)&nbsp;- Certificate of Accomplishment
+- SYF Arts Presentation for Dances (2021)&nbsp;- Certificate of Distinction
+- SYF Arts Presentation for Dances (2023)&nbsp;- Certificate of Distinction
