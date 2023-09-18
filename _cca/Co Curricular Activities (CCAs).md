@@ -42,6 +42,7 @@ At the end of the graduating year, students’ co-curricular attainment will be 
 ![](/images/CCA%20Attainment%20Recognition%20Scheme.jpg)
 
 ### CCAs in TPSS
+
 | Sports | Visual &amp; Performing Arts |
 |---|---|
 | Badminton (B/G)<br>Basketball (B/G)<br>Football (B/G)<br>Wushu (B/G)<br>Netball | Art ClubPhoto Media ClubShow ChoirEnglish DramaDance DynamicsMalay DanceModern Chinese DanceConcert Band  |
