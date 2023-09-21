@@ -32,6 +32,8 @@ To promote appreciation and awareness of the Malay culture and practices through
 ### Introduction 
 The TPSS Malay Dance group, more fondly known as Dendang Remaja, is involved in many stage performances, both inside and outside of school. Starting at an early age, the junior as well as senior dancers are exposed to indoor and outdoor performances to enhance their stage confidence and presence. At the same time, we also aim to promote Malay Dance to the community at large.
 
+### Photo Gallery
+
 #### Some annual TPSS Malay Dance Perfomances: 
 
 1.  TPSS Arts Festival
@@ -71,4 +73,3 @@ Sri Warisan’s Mutiara Tari 2022:
 
 **Certificate of Participation**
 
-### Photo Gallery
