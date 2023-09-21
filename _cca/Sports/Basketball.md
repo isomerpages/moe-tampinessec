@@ -10,42 +10,15 @@ third_nav_title: Sports
 – Mike Krzyzewski</figcaption>
 </figure>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jorn{background-color:#FFF;color:#E35C26;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-eqr6{background-color:#FFF;color:#e35c26;text-align:left;vertical-align:top}
-.tg .tg-rysv{background-color:#E5E5E5;color:#E35C26;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ys4c{background-color:#EEE;color:#E35C26;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ys4c"><span style="background-color:#EEE">VISION</span></th>
-    <th class="tg-faf8"> Every member a sportsperson with integrity, discipline and sportsmanship</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-jorn">MISSION</td>
-    <td class="tg-ktyi">To bring out the potential in our students and help them achieve a positive attitude towards life, basketball and their studies.<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rysv">CCA TEACHERS</td>
-    <td class="tg-mdf1">Mr Joseph Lum Mum Kit [OIC]<br>Ms Yu Hsin Ju [2IC]<br>Mdm Lim Chu Toh<br>Mr Ridzafir Syah Abdul Rahim</td>
-  </tr>
-  <tr>
-    <td class="tg-eqr6"><br><span style="font-weight:bold">TRAINING SCHEDULE</span></td>
-    <td class="tg-ktyi">C Boys    – Mondays and Fridays<br>B Boys    – Tuesdays and Fridays<br>Girls        – Tuesdays and Fridays<br> * Please note that the training schedule is subject to change during competition season.</td>
-  </tr>
-</tbody>
-</table>
+### CCA Teachers 
+
+| Role | Teacher |
+|---|---|
+| OIC | Mr Joseph Lum Mum Kit |
+| 2IC | Ms Yu Hsin Ju |
+|  | Mdm Lim Chu Toh |
+|  | Mr Bryan Ee Sien Ming |
+|  | Mr Ridzafir Syah Abdul Rahim |
 
 ### INTRODUCTION
 
