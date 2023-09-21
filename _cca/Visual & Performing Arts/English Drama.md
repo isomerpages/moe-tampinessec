@@ -25,6 +25,9 @@ To have members who are critical, creative and collaborative in all areas of the
 ### Introduction
 The Drama Club’s ultimate goal is to nurture students into confident and independent young adults. They will be self-directed learners and pursue challenges with an open mind and creative spirit. They will also become cultured individuals who appreciate the arts.
 
+### Photo Gallery
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwihK8sLPheQbgRkiO6JcGSmyC7nAChSHkbyMSufbILS-VKbXh2-0mnL21QICod8KdM-gAsH6pOXks/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 #### Training Activities
 
 *   ACTING
@@ -92,5 +95,3 @@ The Drama Club’s ultimate goal is to nurture students into confident and indep
 *   Visit to Esplanade Theatres by The Bay to catch The Necessary Stage’s ‘Survivor Singapore’ in Term 3
 *   National Day 2023 Concert on 8th August 2023
 
-### Photo Gallery
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwihK8sLPheQbgRkiO6JcGSmyC7nAChSHkbyMSufbILS-VKbXh2-0mnL21QICod8KdM-gAsH6pOXks/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
