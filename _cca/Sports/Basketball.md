@@ -60,6 +60,6 @@ C Division Basketball Girls were awarded the Fair Play Award.
 
 <img style="width:60%" src="/images/Girls%20Team.jpg">
 		 
-### Photo
+### Photo Gallery
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXwIfUw2iO3l9AcduUdXEhTIMl1GUtZwVH3Fdq5N1BS9afiSif_Z5yLt35RFSVRS3CjRTS5Q2Nz_JF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
