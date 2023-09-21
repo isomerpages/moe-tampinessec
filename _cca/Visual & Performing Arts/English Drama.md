@@ -93,4 +93,4 @@ The Drama Club’s ultimate goal is to nurture students into confident and indep
 *   National Day 2023 Concert on 8th August 2023
 
 ### Photo Gallery
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwihK8sLPheQbgRkiO6JcGSmyC7nAChSHkbyMSufbILS-VKbXh2-0mnL21QICod8KdM-gAsH6pOXks/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
