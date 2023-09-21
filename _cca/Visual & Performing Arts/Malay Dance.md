@@ -34,6 +34,8 @@ The TPSS Malay Dance group, more fondly known as Dendang Remaja, is involved in 
 
 ### Photo Gallery
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvdYIBop_7zeAz8ayyc9lyNdIO1ohDWYaTazI3zEkPFZYFGnRLujE0cYH1zWEFXdOHjsO_P4yKseXs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 #### Some annual TPSS Malay Dance Perfomances: 
 
 1.  TPSS Arts Festival
@@ -72,4 +74,3 @@ P3NTAS: Gelanggang Tari 2022:
 Sri Warisan’s Mutiara Tari 2022:
 
 **Certificate of Participation**
-
