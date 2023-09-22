@@ -8,7 +8,6 @@ third_nav_title: Visual & Performing Arts
 
 ### CCA Teachers
 
-
 | Role | Teacher | 
 | -------- | -------- | 
 | OIC     | Mdm Tan Yoke Leng     | 
