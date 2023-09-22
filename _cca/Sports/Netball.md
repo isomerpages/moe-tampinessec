@@ -6,47 +6,24 @@ third_nav_title: Sports
 ---
 ![](/images/Photo%20from%20Pek%20Jia%20Hui2.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uu3v{background-color:#FFF;color:#E35C26;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-vdac{background-color:#FFF;color:#e35c26;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-uu3v">VISION</th>
-    <th class="tg-ktyi">Good player, good student, good daughter<span style="background-color:transparent"> </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-uu3v"><span style="background-color:transparent">MISSION</span><br></td>
-    <td class="tg-ktyi"><br><span style="background-color:transparent">Together everyone achieves more</span><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-uu3v">CCA TEACHERS</td>
-    <td class="tg-ktyi"><span style="background-color:initial">Mdm Ho Sam Hong [I/C] </span><br><span style="background-color:initial">Ms Pek Jia Hui </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-uu3v">TRAINING SCHEDULE</td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Day/s: Tuesday, Friday</span><br><br>Timing: 3.00 – 6.00pm</td>
-  </tr>
-  <tr>
-    <td class="tg-vdac"><span style="font-weight:bold">Captain </span></td>
-    <td class="tg-zr06">Yong Xinyi (4E1) </td>
-  </tr>
-  <tr>
-    <td class="tg-vdac"><span style="font-weight:bold"> Vice-captains</span></td>
-    <td class="tg-zr06">Iqlimah Binte Amli (3E1)<br>Kwok Xin Yun, Chloe (3E4)  </td>
-  </tr>
-</tbody>
-</table>
+### CCA Teachers
+
+
+| Role | Teacher | 
+| -------- | -------- | 
+| OIC     | Mdm Ho Sam Hong     | 
+| 2IC     | Joel Chew Chong Wei     | 
+
+
+### Training Schedule
+
+Tuesdays &amp; Fridays: 2.45–5.45 p.m. 
+
+### Vision
+Good player, good student, good daughter
+### Mission
+Together everyone achieves more
+
 
 ### INTRODUCTION
 
