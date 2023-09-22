@@ -6,41 +6,28 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/NCC.png)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-xd6j{background-color:#ECECEC;color:#E35C26;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xd6j">VISION<br><br><br></th>
-    <th class="tg-emg8">The Singapore National Cadet Corps is a world-class organization that nurtures responsible, resilient and resourceful cadets to become successful citizens. <br>We are a thinking and learning team driven by our Core Values.<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-xd6j">CORE VALUES<br><br><br><br><br><br><br></td>
-    <td class="tg-emg8">Loyalty To Country<br>Uprightness (Ethics)<br>Leadership<br>Discipline<br>Commitment &amp; Responsibility (Professionalism)<br>Care For Fellow Cadets (Care for Fellow Soldiers)<br>Adventurous Spirit (Fighting Spirit)<br>Safety</td>
-  </tr>
-  <tr>
-    <td class="tg-xd6j">MISSION<br><br></td>
-    <td class="tg-emg8">Tampines NCC(LAND) aims to maximize the potential in every cadet by providing them the discipline and opportunities for their future contribution to nation building.<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-xd6j"><br><span style="font-weight:bold;color:#E35C26">CCA TEACHERS</span><br><br></td>
-    <td class="tg-emg8">Mr Lim Soo Kian John (OIC)<br>Ms Choo Weilin (2nd OIC)<br>Mr Gerard Chan<br><span style="color:#000">Mr Ahmad Kamarudin Masudi</span></td>
-  </tr>
-  <tr>
-    <td class="tg-xd6j">TRAINING SCHEDULE<br></td>
-    <td class="tg-emg8">Day/s: Friday<br>Timing: 2.30pm - 6.00pm<br></td>
-  </tr>
-</tbody>
-</table>
+### CCA Teachers
+
+| Role | Teacher | 
+| -------- | -------- | 
+| OIC     | Mr Lim Soo Kian John     | 
+| 2IC     | Ms Choo Weilin     | 
+|      | Mr Chan Choe Seng Gerard     | 
+|      | Mr Chew Chong Wei Joel     | 
+|      | Mr Ahmad Kamarudin Masudi     | 
+
+### Training Schedule
+Fridays: 2.30–6 p.m. 
+### Vision
+The Singapore National Cadet Corps is a world-class organization that nurtures responsible, resilient and resourceful cadets to become successful citizens.
+
+We are a thinking and learning team driven by our Core Values.
+
+
+### Mission
+Tampines NCC(LAND) aims to maximize the potential in every cadet by providing them the discipline and opportunities to hone their leadership potential for their future contribution to nation building.
+
+
 
 ### Introduction
 
@@ -128,4 +115,3 @@ Reasons to join TPSS NCC(Land)
 ### Photos
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUTZSuE1eVk34Van7YakEB34l7gSBdb99tny4vEEeBxB6LRIJAP9KExbFfd453snCiGCTm4nyoAmAS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
