@@ -11,7 +11,7 @@ third_nav_title: Visual & Performing Arts
 | Role | Teacher |
 |---|---|
 | OIC | Ms Hernie Binte Salleh |
-| 2IC | Mr Ezekiel Goh |
+| 2IC | Mr Goh Zhuang Yuan Ezekiel |
 
 ### Training Schedule
 Tuesdays: 2.30pm to 5.00pm <br>Fridays: 2.30pm to 5.00pm
@@ -94,4 +94,3 @@ The Drama Club’s ultimate goal is to nurture students into confident and indep
 *   Singapore Youth Festival 2023 Arts Presentation for Drama (English)
 *   Visit to Esplanade Theatres by The Bay to catch The Necessary Stage’s ‘Survivor Singapore’ in Term 3
 *   National Day 2023 Concert on 8th August 2023
-
