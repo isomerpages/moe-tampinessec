@@ -31,68 +31,7 @@ Tampines NCC(LAND) aims to maximize the potential in every cadet by providing th
 
 ### Introduction
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="2" class="tg-y7qa">Key members of the CCA</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rj1p">Name</td>
-    <td class="tg-rj1p">Designation </td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Qaisy Bin Omar</td>
-    <td class="tg-y7qa">Unit Sergeant Major</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Adam Putra Abu Marhalim</td>
-    <td class="tg-y7qa">Assistant Sergeant Major</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Hau Wei En Josiah </td>
-    <td class="tg-y7qa">Physical Training Instructor (PTI)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Chung Kaifeng, Aloysius </td>
-    <td class="tg-y7qa">Platoon Commander (Junior Cadets)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Shahrul Hafiz Bin Shahrudin</td>
-    <td class="tg-y7qa">Platoon Commander (Senior Cadets)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Toh Yong Jiang</td>
-    <td class="tg-y7qa">Platoon Commander (Cadet Leaders)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Adam Putra Abu Marhalim</td>
-    <td class="tg-y7qa">Platoon Commander (Senior Cadet Leaders)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Kendrick Chua Jun Hao Torida</td>
-    <td class="tg-y7qa">Head Logistics</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Ong Li Xiang</td>
-    <td class="tg-y7qa">Logistics 2IC</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Wong Chee Yuen Derek </td>
-    <td class="tg-y7qa">Head Medic</td>
-  </tr>
-</tbody>
-</table>
+
 
 Tampines Secondary School NCC(Land) unit was formed in 1st January 1987. Over the years, the unit has matured and achieved greater performance with a milestone in 2001 when the first GOLD award in the NCC Best Unit Competition was achieved. Thus, through the dedicated and the commitment of the cadets and teacher officers, the unit has been achieving GOLD award since 2004.
 
