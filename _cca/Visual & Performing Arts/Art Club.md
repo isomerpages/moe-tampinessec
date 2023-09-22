@@ -6,38 +6,24 @@ third_nav_title: Visual & Performing Arts
 ---
 ![](/images/art%20club.png)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-441j{background-color:#ECECEC;color:#E35C26;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-441j">VISION</th>
-    <th class="tg-emg8"><span style="background-color:transparent">To develop and nurture a love for visual art</span><br><br> </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-441j">MISSION</td>
-    <td class="tg-emg8"><span style="background-color:transparent">To create artworks from traditional arts to design concepts</span><br><br> </td>
-  </tr>
-  <tr>
-    <td class="tg-441j">CCA TEACHERS</td>
-    <td class="tg-b4br">Mdm Tan Yoke Leng [I/C] <br>Ms Li Sijie [2 I/C]</td>
-  </tr>
-  <tr>
-    <td class="tg-441j">TRAINING SCHEDULE</td>
-    <td class="tg-emg8"><span style="background-color:transparent">Day: Tuesday</span><br><br>Timing: 3:15pm – 6:15pm<br></td>
-  </tr>
-</tbody>
-</table>
+### CCA Teachers
+
+
+| Role | Teacher | 
+| -------- | -------- | 
+| OIC     | Mdm Tan Yoke Leng     | 
+| 2IC     | Mdm Nurlina Binte Ibrahim     | 
+
+### Training Schedule
+Tuesdays: 2.30 – 5.30 p.m.
+
+### Vision
+To develop and nurture a love for visual art
+
+### Mission
+To create artworks from traditional arts to design concepts
+
+
 
 ### DESCRIPTION OF CCAS
 Art Club aims to instill in students an appreciation and love for visual art. Art Club students&nbsp;are exposed to varied art forms, ranging from traditional arts to digital designs. Through engaging in drawing, design and craft activities, Art Club students tap on their boundless creativity to create original works through fun art-making experiences with their peers. Art enrichment workshops and competitions further enable students to gain exposure to a wide repertoire of artistic experiences. Such workshops include marbling art, embroidery, water colouring and digital fashion illustration designs.
