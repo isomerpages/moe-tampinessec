@@ -16,7 +16,8 @@ third_nav_title: Clubs
 | TSO     | Mohd Yusoff Rahamattula Sahib     | 
 
 ### Training Schedule
-
+Tuesdays: 2.30–5 p.m.<br>
+Fridays: 2.30–6 p.m.
 ### Vision
 
 ### Mission
