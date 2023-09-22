@@ -6,6 +6,21 @@ third_nav_title: Clubs
 ---
 ![](/images/maker%20faire.png)
 
+### CCA Teachers
+
+| Role | Teacher | 
+| -------- | -------- | 
+| OIC     | Mr Koh Gim Koon     | 
+| 2IC     | Mr Zulkifli Bin Mohamed     | 
+|      | Mdm Warda Mohammed Shariff     | 
+| TSO     | Mohd Yusoff Rahamattula Sahib     | 
+
+### Training Schedule
+
+### Vision
+
+### Mission
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
