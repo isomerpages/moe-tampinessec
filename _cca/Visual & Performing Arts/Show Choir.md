@@ -7,6 +7,7 @@ third_nav_title: Visual & Performing Arts
 ![](/images/showchoir2023.jpg)
 
 ### CCA Teachers
+
 | Role | Teacher |
 |---|---|
 | OIC | Mdm Nurasyikin Binte Hapet |
@@ -57,4 +58,3 @@ As performers, the students learn the techniques on vocal projection and quality
 2021: National Day, Teachers' Day
 
 2020: Racial Harmony Day, Teachers' Day
-
