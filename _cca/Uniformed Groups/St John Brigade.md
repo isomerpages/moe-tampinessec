@@ -6,59 +6,30 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/St%20John%20Brigade.png)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-441j{background-color:#ECECEC;color:#E35C26;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-tojq{background-color:#ECECEC;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-441j">ST JOHN BRIGADE VISION:</th>
-    <th class="tg-fxx4"><span style="color:#222">A premier uniformed organisation to develop empathetic leaders with a heart to serve through excellence in first aid and home nursing.</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-441j">EAST DIVISION VISION:</td>
-    <td class="tg-fxx4"><span style="color:#222">Strong Leadership, Fun and Fulfilling Experience, Excellence in everything we do, A place we call home.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-441j"> <span style="background-color:transparent">TPSS SJB MISSION:</span></td>
-    <td class="tg-fxx4"><span style="color:#222">A reputable CCA Training Body recognized for empowering its members through inculcating CORE values in them, resulting in a positive impact on society.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">  </span><span style="color:#E35C26;background-color:transparent">SJ SINGAPORE MISSION:</span></td>
-    <td class="tg-fxx4"><span style="color:#222">To serve mankind through training in life saving skills and health care in schools, homes, organisations and the workplace in Singapore.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-441j"> TPSS CORPS MISSION:</td>
-    <td class="tg-emg8">For our seniors’ efforts.<br>For our standard mate memories.<br>For our juniors best.<br>For all to call home.</td>
-  </tr>
-  <tr>
-    <td class="tg-441j">TPSS CORPS CORE VALUES: </td>
-    <td class="tg-emg8">Courage<br>Oriented to social services<br>Responsibility<br>Exemplary</td>
-  </tr>
-  <tr>
-    <td class="tg-441j">TPSS CORPS MOTTO: </td>
-    <td class="tg-emg8">Our Corps, Our Pride</td>
-  </tr>
-  <tr>
-    <td class="tg-441j"> TEACHERS</td>
-    <td class="tg-fxx4"><span style="color:#222">Mr Lim Choy Kee James (I/C)</span><br><span style="color:#000">Ms Jasmine Tan Jie Min</span><br>Ms Koh Siew Tian Samantha</td>
-  </tr>
-  <tr>
-    <td class="tg-441j"> TRAINING SCHEDULE</td>
-    <td class="tg-emg8">Day/s: Fridays <br>Timing: 2.30 -6.00 pm  </td>
-  </tr>
-</tbody>
-</table>
+### CCA Teachers
+
+| Role | Teacher | 
+| -------- | -------- | 
+| OIC     | Mr Lim Choy Kee James     | 
+| 2IC     | Ms Jasmine Tan Jie Min     | 
+
+
+### Training Schedule
+Fridays: 2.30–6 p.m.
+### Vision
+| ST JOHN BRIGADE VISION: | A premier uniformed organisation to develop empathetic leaders with a heart to serve through excellence in first aid and home nursing. |
+| --- | --- |
+| EAST DIVISION VISION: | Strong Leadership, Fun and Fulfilling Experience, Excellence in everything we do, A place we call home. |
+
+### Mission
+| TPSS SJB MISSION: | A reputable CCA Training Body recognized for empowering its members through inculcating CORE values in them, resulting in a positive impact on society. |
+| --- | --- |
+| SJ SINGAPORE MISSION: | To serve mankind through training in life saving skills and health care in schools, homes, organisations and the workplace in Singapore. |
+| TPSS CORPS MISSION: | For our seniors’ efforts. <br>For our standard mate memories.  <br>For our juniors best.  <br>For all to call home. |
+| TPSS CORPS CORE VALUES: | Courage  <br>Oriented to social services  <br>Responsibility  <br>Exemplary |
+| TPSS CORPS MOTTO: | Our Corps, Our Pride |
+
+
 
 ### INTRODUCTION
 

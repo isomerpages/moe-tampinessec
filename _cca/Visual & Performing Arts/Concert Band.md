@@ -6,71 +6,21 @@ third_nav_title: Visual & Performing Arts
 ---
 ![](/images/Concert%20band%20photo.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-xd6j{background-color:#ECECEC;color:#E35C26;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xd6j">VISION<br><br></th>
-    <th class="tg-emg8">To share passion for music and increase music appreciation amongst society. </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-xd6j">MISSION</td>
-    <td class="tg-emg8">To develop and nurture musical intelligence within the impressionable young minds.</td>
-  </tr>
-  <tr>
-    <td class="tg-xd6j">TEACHERS<br><br><br><br></td>
-    <td class="tg-b4br">Mr Chen Changjin [I/C]<br>Mr Abdul Jalil<br>Mdm Chew
-Poh Kim</td>
-  </tr>
-  <tr>
-    <td class="tg-xd6j">TRAINING SCHEDULE<br><br></td>
-    <td class="tg-emg8">Tuesday 1445 to 1800<br>Friday 1400 to 1715<br></td>
-  </tr>
-</tbody>
-</table>
+### CCA Teachers
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5">MEMBERS</th>
-    <th class="tg-dgl5">DESIGNATION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">MUHAMMAD HANIF WICAKSONO (4E1)</td>
-    <td class="tg-ktyi">BAND MAJOR</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">CHEN YIHAO (4E2)</td>
-    <td class="tg-ktyi"> DRUM MAJOR</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">LU NIANXI (4E2)</td>
-    <td class="tg-ktyi">ASSISTANT BAND MAJOR</td>
-  </tr>
-</tbody>
-</table>
+| Role | Teacher | 
+| -------- | -------- | 
+| OIC     | Mr Chen ChangJjn     | 
+| 2IC     | Mr Abdul Jalil     | 
+|    | Mdm Chew Poh Kim     | 
+|      | Nur Sahilah     | 
+
+
+### Training Schedule
+Tuesdays: 2.45–6 p.m. <br>
+Fridays: 2–5.15 p.m. 
+
+
 
 ### DESCRIPTION OF CCAS
 

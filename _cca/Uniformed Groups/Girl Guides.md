@@ -5,45 +5,21 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ![](/images/GG%20Pic.jpg)
+### CCA Teachers
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-61iw{background-color:#FFF;color:#F00;text-align:left;vertical-align:top}
-.tg .tg-jorn{background-color:#FFF;color:#E35C26;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-q8a1{background-color:#FFF;color:#E36C0A;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-uu3v{background-color:#FFF;color:#E35C26;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-uu3v">MISSION<br></th>
-    <th class="tg-ktyi">To enable girls and young women to develop to their fullest potential as responsible citizens of the world<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-uu3v">VISION<br><br><br>MOTTO<br><br><br>THE PROMISE</td>
-    <td class="tg-ktyi"><span style="background-color:initial">All Guides are valued and take action to change the world.</span><br><br><br><br>Be Prepared<br><br>I promise to do my best; <br>To do my duty to God; <br>To serve my country and help other people <br>And to keep the Guide Law<br></td>
-  </tr>
-  <tr>
-    <td class="tg-q8a1"> <span style="color:#E36C0A">GUIDE LAWS</span><br></td>
-    <td class="tg-ktyi">- A Guide is loyal and can be trusted <br>- A Guide is useful and helps others <br>- A Guide is polite, considerate and respects her elders <br>- A Guide is friendly and a sister to all Guides <br>- A Guide is kind to all living things <br>- A Guide is obedient <br>- A Guide has courage and is cheerful in all difficulties<br>- A Guide takes care of her own possessions and those of other people <br>- A Guide is thrifty and diligent <br>- A Guide is self-disciplined in what she thinks, says and does </td>
-  </tr>
-  <tr>
-    <td class="tg-uu3v">TRAINING SCHEDULE</td>
-    <td class="tg-ktyi">Day &amp; Time:<br>Every Friday, 2:30pm – 5:30pm<br>Ad-hoc weekday and weekend sessions</td>
-  </tr>
-  <tr>
-    <td class="tg-jorn"><br>CCA TEACHERS </td>
-    <td class="tg-61iw"><span style="color:#222">CPT Chia Yu Ru (OIC)</span><br><span style="color:#222">LT Ng Yi Ting Rachel (2IC)</span><br><span style="color:#222">LT Nurasykin Binte Hapet</span></td>
-  </tr>
-</tbody>
-</table>
+| Role | Teacher | 
+| -------- | -------- | 
+| OIC     | Chia Yu Ru     | 
+| 2IC     | Sri Nur Amanina Kamil     | 
+|      | Nur Sakinah Binte Abdul Ghani     | 
+
+### Training Schedule
+Fridays: 2.30–6 p.m.
+### Vision
+All Guides are valued and take action to change the world.
+### Mission
+To enable girls and young women to develop to their fullest potential as responsible citizens of the world
+
 
 ### INTRODUCTION
 

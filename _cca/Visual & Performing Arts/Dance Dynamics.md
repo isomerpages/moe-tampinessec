@@ -6,6 +6,22 @@ third_nav_title: Visual & Performing Arts
 ---
 ![](/images/dance%20dynamics.png)
 
+### CCA Teachers
+
+| Role | Teacher | 
+| -------- | -------- | 
+| OIC     | Ms Lui Amy     | 
+| 2IC     | Mrs Kwan Simin     | 
+| 2IC     | Mr Muhammad Atiqullah Ismail     | 
+
+
+### Training Schedule
+Tuesdays &amp; Fridays: 2.30–5.30 p.m.
+
+### Vision
+Providing a holistic aesthetic experience with opportunities to perform and develop character
+### Mission 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
