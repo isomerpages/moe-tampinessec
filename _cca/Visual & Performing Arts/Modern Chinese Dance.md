@@ -7,6 +7,7 @@ third_nav_title: Visual & Performing Arts
 ![](/images/2023_modern_chinese%20dance_01.jpg)
 
 ### CCA Teachers
+
 | Role | Teacher |
 |---|---|
 | OIC | Ms Xiao Min |
