@@ -20,7 +20,7 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infopic:
-      title: Caring Teacher Award (CTA)
+      title: Caring Teacher Awards (CTA)
       subtitle: announcement
       id: infopic
       description: Nominate now @ www.cta.nie.edu.sg from now till 12 January 2024!
