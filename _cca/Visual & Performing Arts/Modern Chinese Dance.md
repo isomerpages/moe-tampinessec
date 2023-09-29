@@ -7,10 +7,13 @@ third_nav_title: Visual & Performing Arts
 ![](/images/2023_modern_chinese%20dance_01.jpg)
 
 ### CCA Teachers
+
+
 | Role | Teacher |
 |---|---|
 | OIC | Ms Xiao Min |
 | 2IC | Mdm Loh Ming Woon |
+
 
 ### Training Schedule 
 Tuesdays: 2.30–5.30 p.m.<br>Fridays: 1.30–4.30 p.m.
