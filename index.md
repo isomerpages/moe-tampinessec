@@ -82,4 +82,15 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infopic:
+      title: "Caring Teachers Award (CTA) "
+      subtitle: announcement
+      id: infopic
+      description: "Nominate now @ www.cta.nie.edu.sg from now till 12 January 2024!
+        See the poster for more information. Click the link below for the
+        nomination form. "
+      button: Nomination form
+      url: /files/nomination%20form%20-%20cta%202024.pdf
+      image: /images/poster - cta 2024_page-0001.jpg
+      alt: Image alt text
 ---
