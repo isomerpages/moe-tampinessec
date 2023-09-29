@@ -4,8 +4,8 @@ title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
-notification: "Nomination for The Caring Teachers Award 2024 is open from now
-  till 12 January 2024! Read our announcement for more details. "
+notification: Nomination for The Caring Teachers Award 2024 is open from now
+  till 12 January 2024! Read our announcement for more details.
 sections:
   - hero:
       key_highlights:
@@ -20,7 +20,7 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infopic:
-      title: Caring Teachers Award (CTA)
+      title: Caring Teacher Award (CTA)
       subtitle: announcement
       id: infopic
       description: Nominate now @ www.cta.nie.edu.sg from now till 12 January 2024!
