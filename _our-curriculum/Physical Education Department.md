@@ -3,7 +3,6 @@ title: Physical Education Department
 permalink: /our-curriculum/physical-education-department/
 description: ""
 ---
-
 ![](/images/2023_tpss_61_pe.JPG)
 ### TEACHERS
 
@@ -45,3 +44,4 @@ Our students were taught games principles under the following 3 categories:
 POG's main idea is:
 1.  Break the games down into key ideas and concepts and allowing our students to play even with a beginner’s ability.
 2.  Highlight the transference of games concepts across sports within the same category.
+
