@@ -19,3 +19,18 @@ description: ""
 | Special Needs Officer | Ms Chua Wan Ling |
 | School Counsellor | Mr Jonathan Yuen Yee Chuck Ms S Manjushree |
 | Student Welfare Officer | Ms Nur Hadhinah Sheikh Najib Bagharib |
+
+### Mission
+The SDT seeks to build a culture of care in which every student is engaged in learning and is motivated to give their best.
+
+### Goals
+1.  designs and implements processes, programmes and structures to promote and support a whole-school approach to student development and student well-being for all students.
+2.  provides support and intervention for specific groups of students who require additional help, including students with special educational needs.
+3.  works closely with all Instructional and non-Instructional Programme Departments to develop students to be confident and resilient learners and leaders through the following strategies:
+
+*   student empowerment in school experiences
+*   intentional reinforcement across multiple contexts in total curriculum
+*   consistent messaging in school and at home by adult role-models
+*   supportive networks with peers and adults
+*   positive behaviour and management of challenging or bullying behaviour
+*   early intervention through identification and referral for students who need additional help.
