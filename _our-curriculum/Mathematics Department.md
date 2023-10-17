@@ -71,15 +71,12 @@ An annual national competition to test and stretch the ingenuity of our high-abi
 
 ### Highlights &amp; Achievements
 #### Singapore Mathematics Olympiad 2023
-
 1 Bronze, 2 Honorable Mentions in the Senior Category
 
 2 Honorable Mentions in the Junior Category
 
 #### NIE Mathematics Challenge
-
 4 Distinction Awards
 
 #### National Accounting Challenge 2023
-
 Second Runner-Up
