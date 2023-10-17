@@ -75,7 +75,6 @@ Honoured with the Unit Puan Noor Aishah Award (Gold), we continually strive to f
 *   Collaboration with St. John’s Home for the elderly for VIA
 #### Achievements
 **2023:**
-
 East Division Day Skit Competition 2023 -&nbsp;**Silver** <br>
 East Division Day Poster Design Competition 2023 -&nbsp;**Silver**
 
