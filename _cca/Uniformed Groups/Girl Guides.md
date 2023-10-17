@@ -50,9 +50,9 @@ Aligned with 21st Century Competencies, TPGG actively participates in community 
 Honoured with the Unit Puan Noor Aishah Award (Gold), we continually strive to fulfil our motto, 'Be Prepared', shaping resilient, confident, and caring citizens. #ForTheGirl!
 
 ### Photo Gallery 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFMv1A8HrUmWOS3dhK7558vjr8T3FvsUPZ0--n1KqT3l764bzu2Ar8Y12O2CpN1CaMSSpQFXXeSfxD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-
-### Highlights & Achievements
+### Highlights &amp; Achievements
 #### TPGG Exciting Events
 *   World Thinking Day Celebrations
 *   East Division Day
@@ -76,43 +76,43 @@ Honoured with the Unit Puan Noor Aishah Award (Gold), we continually strive to f
 #### Achievements
 **2023:**
 
-East Division Day Skit Competition 2023 - **Silver**
-East Division Day Poster Design Competition 2023 - **Silver**
+East Division Day Skit Competition 2023 -&nbsp;**Silver**
+East Division Day Poster Design Competition 2023 -&nbsp;**Silver**
 
 **2022:**
 
-Puan Noor Aishah Unit Award - **Gold**
-East Division Day Toy-Making Competition 2022 - **Merit**
+Puan Noor Aishah Unit Award -&nbsp;**Gold**
+East Division Day Toy-Making Competition 2022 -&nbsp;**Merit**
 
 **2021:**
 
-Puan Noor Aishah Unit Award - **Gold**
-East Division Day Singing Competition 2021 - **Silver**
-East Division Day Toy-Making (With Recycled Materials) Competition 2021 - **Silver**
-East Division Day Mini-Gadget Competition 2021 - **Silver**
+Puan Noor Aishah Unit Award -&nbsp;**Gold**
+East Division Day Singing Competition 2021 -&nbsp;**Silver**
+East Division Day Toy-Making (With Recycled Materials) Competition 2021 -&nbsp;**Silver**
+East Division Day Mini-Gadget Competition 2021 -&nbsp;**Silver**
 **2020:**
-Puan Noor Aishah Unit Award - **Gold**
-Guider achievement (CPT Li Kaiying) – **Clover Award**
+Puan Noor Aishah Unit Award -&nbsp;**Gold**
+Guider achievement (CPT Li Kaiying)&nbsp;–&nbsp;**Clover Award**
 
 **2019:**
 
-Puan Noor Aishah Unit Award – **Gold**
+Puan Noor Aishah Unit Award –&nbsp;**Gold**
 
 **2018:**
 
-Puan Noor Aishah Unit Award – **Gold**
-East Division Outdoor Cooking Competition 2018 – **Best Dish Award**
-East Division Day 2018 Snack Making Competition – **Bronze Award**
-East Division Day 2018 Captain’s Ball Competition – **Merit Award**
-Smoke Free Advocacy Badge Competition 2018 (Cigarette Box Model) – **Third Place**
+Puan Noor Aishah Unit Award –&nbsp;**Gold**
+East Division Outdoor Cooking Competition 2018 –&nbsp;**Best Dish Award**
+East Division Day 2018 Snack Making Competition –&nbsp;**Bronze Award**
+East Division Day 2018 Captain’s Ball Competition –&nbsp;**Merit Award**
+Smoke Free Advocacy Badge Competition 2018 (Cigarette Box Model) –&nbsp;**Third Place**
 
 **2017:**
 
-Puan Noor Aishah Unit Award – **Gold**
-Smoke Free Advocacy Badge Competition 2017 (Painting) – **Third place**
+Puan Noor Aishah Unit Award –&nbsp;**Gold**
+Smoke Free Advocacy Badge Competition 2017 (Painting) –&nbsp;**Third place**
 
 **2016:**
 
-Puan Noor Aishah Unit Award - **Gold**
-Smoke Free Advocacy Badge Competition 2016 (Video) - **First place**
-Pioneer Skills Competition (East Division) - **Second place**
+Puan Noor Aishah Unit Award -&nbsp;**Gold**
+Smoke Free Advocacy Badge Competition 2016 (Video) -&nbsp;**First place**
+Pioneer Skills Competition (East Division) -&nbsp;**Second place**
