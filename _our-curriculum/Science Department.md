@@ -41,3 +41,18 @@ We provide students with Authentic, Constructivist and Experiential Science lear
 *   inspired by science
 *   inquire like scientists
 *   innovate using science
+
+### Key Programmes
+#### Secondary 1
+The LSS at Sec 1 employs a thematic, inquiry-based approach to science education. Under the Diversity theme, students explore variety and commonalities to deepen their understanding of the world. In the Models theme, they learn how physical and conceptual frameworks aid in understanding unobservable phenomena. All Sec 1 students engage in an end-of-year in-house experiential learning programme.
+#### Secondary 2
+The LSS at Sec 2 likewise utilises a thematic, inquiry-based approach to science education. In the Systems theme, students explore how system components and inputs influence outputs. The Interactions theme covers energy transfer, force application, and their effects on system stability or change. All Sec 2 students partake in a mid-year in-house experiential learning programme.
+#### Upper Secondary (3-5)
+We offer a myriad of subject combinations to our upper secondary students, which include all three Pure Sciences (Chemistry, Physics, Biology) and Combined Sciences (Chemistry/Physics or Chemistry/Biology).
+
+Note: Secondary 3 Students will get the chance to participate in engaging experiential learning programmes offered by the Science Center or Temasek Polytechnic.
+
+#### Stretch Programme
+Selected Sec 1 to 3 students who show an aptitude for Science are selected for a science stretch program. They will be exposed to more scientific phenomena to broaden their knowledge and skills.
+
+### Highlights & Achievements
