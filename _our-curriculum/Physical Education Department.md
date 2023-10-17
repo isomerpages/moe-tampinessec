@@ -54,7 +54,7 @@ The module provides opportunities for theoretical concepts such as risk manageme
 3.  Developing a sense of place.
 
 ![](/images/pe%20outdoor%20education.png)
-Objectives of Outdoor Education 
+Objectives of Outdoor Education <br>
 
 ![](/images/structure%20building.jpg)
 Outdoor Education Module: Structure Building
@@ -126,7 +126,7 @@ Runners warming up for the run
 ![](/images/pe%20massrun%202.jpg)
 Running while enjoying the picturesque view of Bedok Reservoir
 
-### Highlights & Achievements
+### Highlights &amp; Achievements
 **Tampines Secondary School Flag Ceremony **
 
 CCAs are an important and integral part of our holistic education. Students develop their interests through their participation in CCAs as they learn values and life skills, develop their identity, build relationships, and learn to make the right choices that prepare them for the future beyond school.
