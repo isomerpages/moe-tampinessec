@@ -4,92 +4,115 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/uniformed-groups/gir
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/GG%20Pic.jpg)
-### CCA Teachers
+![](/images/2023_girl%20guides_03.jpg)
 
-| Role | Teacher | 
-| -------- | -------- | 
-| OIC     | Chia Yu Ru     | 
-| 2IC     | Sri Nur Amanina Kamil     | 
-|      | Nur Sakinah Binte Abdul Ghani     | 
+### Teachers
 
-### Training Schedule
-Fridays: 2.30–6 p.m.
-### Vision
+| Role | Teacher |
+|---|---|
+| OIC | CPT Chia Yu Ru |
+| 2IC | LT Sri Nur Amanina Kamil |
+
+### Training Schedule 
+Fridays: 2.30–5.30 p.m.
+
+### Vision 
 All Guides are valued and take action to change the world.
-### Mission
+
+### Mission 
 To enable girls and young women to develop to their fullest potential as responsible citizens of the world
 
+### Introduction 
+#### Motto
+Be Prepared
+#### The Promise
+I promise to do my best;
+To do my duty to God;
+To serve my country and help other people
+And to keep the Guide Law
+#### Guide Laws
+*   A Guide is loyal and can be trusted
+*   A Guide is useful and helps others
+*   A Guide is polite, considerate and respects her elders
+*   A Guide is friendly and a sister to all Guides
+*   A Guide is kind to all living things
+*   A Guide is obedient
+*   A Guide has courage and is cheerful in all difficulties
+*   A Guide takes care of her own possessions and those of other people
+*   A Guide is thrifty and diligent
+*   A Guide is self-disciplined in what she thinks, says and does
 
-### INTRODUCTION
+#### Overview
+Founded in 2015, Tampines Girl Guides (TPGG) is a Uniformed Group committed to empowering young women through values-based, non-formal education. We focus on life skills, leadership, and decision-making across five key areas: Personal, Home, Outdoors, Community, and International. Our diverse activities range from outdoor cooking and kayaking to crafts and dance.
 
-Tampines Girl Guides (TPGG) was established in 2015, where we pride ourselves as a Uniformed Group that is dedicated to enabling girls and young women to develop their fullest potential as responsible citizens of the world. Girl Guiding creates youth-empowering learning experiences through a values-based and non-formal educational approach that provides training in life skills, leadership and decision-making. Our varied enrichment programmes are anchored in values that inspire and enable our girls to grow in confidence, develop life skills and take the lead in their communities.
+Aligned with 21st Century Competencies, TPGG actively participates in community and national outreach. We've partnered with organisations like the Singapore Cancer Society and Institute of Mental Health, and engage in international events such as World Thinking Day.
 
-TPGG believes in enabling our girls to become resilient, confident and caring members of the society. Following our motto, ‘Be Prepared’, we nurture our students on five main aspects: Personal, Home, Outdoors, Community, and International, and offer a diverse range of programmes such as outdoor cooking, tent-pitching, orienteering, kayaking, gadget-tying, craft, songs, dance and many more! Our Guides are also given opportunities to pursue skills of their personal interests.
+Honoured with the Unit Puan Noor Aishah Award (Gold), we continually strive to fulfil our motto, 'Be Prepared', shaping resilient, confident, and caring citizens. #ForTheGirl!
 
-In line with the 21st Century Competencies, we have embarked on a series of community and national outreach programmes to further develop our girls as active contributors to the society. Some of our special projects include the Girl Guides cookie sale for charity, and advocate for societal causes through collaborations with Singapore Cancer Society, Public Utilities Board, Singapore Anti-Narcotics Association amongst many others. We also partake in international events such as the World Thinking Day celebrations and International Camp, where our girls learn to interact with and host international visitors.
+### Photo Gallery 
 
-TPGG has clinched several accolades, including the Unit Puan Noor Aishah Award (Gold), which is testament to the commitment of our Guide and Guiders to their Guide Promise. Our dynamic yet rigorous Guiding programme will continue to enrich every young woman as we will always be #ForTheGirl!
 
-### HIGHLIGHTS
+### Highlights & Achievements
+#### TPGG Exciting Events
+*   World Thinking Day Celebrations
+*   East Division Day
+*   East Division Learning Day
+*   Outdoor Steward Fest
+*   Let’s Go Camping
+*   International Camp
+*   Girl Guides Cookie Sales for Charity
+*   Camping at Camp Christine under canvas
+*   Leaders’ Training Course (organised by GGS HQ)
+*   PUB Water Challenge Badge
+*   Smoke-Free Advocacy Badge with Singapore Cancer Society
+*   SANA Badge Course
+*   Mental Health Advocacy Badge with Temasek Foundation and Institute of Mental Health
+*   BP Eco-Challenge (Water and Land Obstacle Course) at Camp Christine
+*   1-Star Kayaking Course
+*   First-Aid Course
+*   Orienteering and hikes
+*   Company bonding events through excursions
+*   Collaboration with St. John’s Home for the elderly for VIA
+#### Achievements
+**2023:**
 
-**TPGG&nbsp;exciting events**&nbsp;&nbsp;
+East Division Day Skit Competition 2023 - **Silver**
+East Division Day Poster Design Competition 2023 - **Silver**
 
-* World Thinking Day Celebrations
-* East Division Day
-* East Division Learning Day
-* East Division Wide Game Challenge
-* Wee Kim Wee Challenge
-* Camp Galore - Pioneer Skills Competition
-* Baden Powell Award
-* Girl Guides Cookie Sales for Charity
-* Camping at Camp Christine under canvas
-* Company Leaders Training Course (organised by GGS HQ)
-* Patrol Leaders’ Training Course (organised by GGS HQ)
-* National Day Parade Marching Contingent (National/TPSS)
-* PUB Water Challenge Badge
-* Smoke-Free Advocacy Badge with Singapore Cancer Society
-* SANA Badge Course
-* 1-Star Kayaking Course
-* First-aid Course
-* Orienteering and hikes
-* Company bonding events through excursions
-* Collaboration with St. John's Home for the elderly for Tier 2 VIA&nbsp;  
+**2022:**
 
-  
+Puan Noor Aishah Unit Award - **Gold**
+East Division Day Toy-Making Competition 2022 - **Merit**
 
-#### ACHIEVEMENTS
+**2021:**
 
-**2021:** <br>
-East Division Day Singing Competition 2021 -&nbsp;**Silver** <br>
-East Division Day Toy-Making (With Recycled Materials) Competition 2021 -&nbsp;**Silver** <br>
-East Division Day Mini-Gadget Competition 2021 -&nbsp;**Silver**
+Puan Noor Aishah Unit Award - **Gold**
+East Division Day Singing Competition 2021 - **Silver**
+East Division Day Toy-Making (With Recycled Materials) Competition 2021 - **Silver**
+East Division Day Mini-Gadget Competition 2021 - **Silver**
+**2020:**
+Puan Noor Aishah Unit Award - **Gold**
+Guider achievement (CPT Li Kaiying) – **Clover Award**
 
-**2020:** <br>
-Puan Noor Aishah Unit Award -&nbsp;**Gold** <br>
-Guider achievement (CPT Li Kaiying)&nbsp;–&nbsp;**Clover Award**
+**2019:**
 
-**2019:**&nbsp; <br>
-Puan Noor Aishah Unit Award –&nbsp;**Gold**
+Puan Noor Aishah Unit Award – **Gold**
 
-**2018:**&nbsp; <br>
-Puan Noor Aishah Unit Award –&nbsp;**Gold** <br>
-East Division Outdoor Cooking Competition 2018 –&nbsp;**Best Dish Award**  <br>
-East Division Day 2018 Snack Making Competition – **Bronze Award** <br>
-East Division Day 2018 Captain's Ball Competition –&nbsp;**Merit Award** <br>
-Smoke Free Advocacy Badge Competition 2018 (Cigarette Box Model) –&nbsp;**Third Place**
+**2018:**
 
-**2017:**&nbsp; <br>
-Puan Noor Aishah Unit Award –&nbsp;**Gold** <br>
-Smoke Free Advocacy Badge Competition (Painting) –&nbsp;**Third place**
+Puan Noor Aishah Unit Award – **Gold**
+East Division Outdoor Cooking Competition 2018 – **Best Dish Award**
+East Division Day 2018 Snack Making Competition – **Bronze Award**
+East Division Day 2018 Captain’s Ball Competition – **Merit Award**
+Smoke Free Advocacy Badge Competition 2018 (Cigarette Box Model) – **Third Place**
 
-  
+**2017:**
 
-**2016:**&nbsp; <br>
-Puan Noor Aishah Unit Award -&nbsp;**Gold** <br>
-Smoke Free Advocacy Badge Competition (Video) -&nbsp;**First place**&nbsp; <br>
-Pioneer Skills Competition (East Division) -&nbsp;**Second place**
+Puan Noor Aishah Unit Award – **Gold**
+Smoke Free Advocacy Badge Competition 2017 (Painting) – **Third place**
 
-### Photos
+**2016:**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtb7E_GsxJW1Oyk495LRn_W5izMOobhdYPSJv-hedw7pGRr6tZzfdktTPGFR1yLhAz-gxRnLxpG172/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+Puan Noor Aishah Unit Award - **Gold**
+Smoke Free Advocacy Badge Competition 2016 (Video) - **First place**
+Pioneer Skills Competition (East Division) - **Second place**
