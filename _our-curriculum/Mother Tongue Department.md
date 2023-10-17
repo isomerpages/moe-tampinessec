@@ -44,7 +44,7 @@ The reading programme aims to cultivate an interest and passion in Mother Tongue
 #### Stretch Programme
 Students are identified to represent the school in various competitions, attend workshops and act as ambassadors in our partnership with external stakeholders. In this programme, students are further developed in areas of Mother Tongue language and culture.<br>
 
-**Collaboration with Bei An Junior High (Taipei) **
+**Collaboration with Bei An Junior High (Taipei)**
 ![](/images/mt%20bei%20an%20junior%20high.JPG)
 
 **Debate Competition (conducted via Zoom)**
