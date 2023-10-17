@@ -29,8 +29,7 @@ The 2014 PE syllabus articulates an inclusive approach to physical education and
 
 Across the years in TPSS, our students will experience physical health and fitness conditioning, running module, principle of games, skills acquisition in sports like football, netball, badminton, volleyball, ultimate frisbee, tag rugby, softball, floorball, tchoukball and outdoor education.
 
-**Key Programmes**
-**Principles of Games**
+#### Principles of Games
 The Principle of Games or POG is based on the concept of Teaching Games for Understanding which was developed by researchers at Loughborough University. It focuses on student learning through playing games.
 
 Our students were taught games principles under the following 3 categories:
