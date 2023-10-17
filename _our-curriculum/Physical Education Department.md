@@ -94,3 +94,69 @@ OBS: Kayaking Safety Brief
 ![](/images/pe%20obs%20confidence%20course.jpeg)
 OBS: Confidence Course
 
+![](/images/pe%20sea%20expedition.jpg)
+OBS: Sea Expedition
+
+#### Games Creation
+The Games Creation module is a cumulation of what the students have learnt in their four years of the PE program.
+
+By applying the concepts learnt in PE, the objective of the module is for students to exercise their creativity and teamwork to come up with either:
+
+1.  Entirely new games
+2.  Modified games
+3.  Games with modified equipment
+
+#### TPSS Inter-Class Games
+The Inter-Class Games are conducted across the levels to foster camaraderie amongst peers and to provide an additional platform for students to display sportsmanship, team-work and leadership qualities.
+
+![](/images/floorball.jpg)
+Inter-Class Floorball Competition
+
+![](/images/pe%20handball.jpg)
+Inter-Class Handball Competition
+
+![](/images/pe%20inter-class%20games%20dinosaur%20mascot.jpg)
+Class 1- 4 with Dinosaur Mascot during Inter-Class Games!
+
+#### Tampines Secondary School Mass Run
+The TPSS Mass Run is an annual event held:
+1.  To inculcate a culture of healthy living amongst our staff, students and parents.
+2.  Provide an outlet of friendly competition for Tampinesians.
+3.  Provide an authentic environment to demonstrate our school values.
+
+![](/images/pe%20mass%20run.jpg)
+Runners warming up for the run
+
+![](/images/pe%20massrun%202.jpg)
+Running while enjoying the picturesque view of Bedok Reservoir
+
+### Highlights & Achievements
+**Tampines Secondary School Flag Ceremony **
+
+CCAs are an important and integral part of our holistic education. Students develop their interests through their participation in CCAs as they learn values and life skills, develop their identity, build relationships, and learn to make the right choices that prepare them for the future beyond school.
+
+The CCA Flags are a symbol for students’ affiliation and CCA pride. The ceremony symbolises the school entrusting the various CCAs to develop students holistically and allowing students to feel proud of their CCAs.
+
+![](/images/pe_nsg_flag.jpg)
+Proud CCA Teacher and Captain receiving the Flag from Principal Mr Lan
+
+The flag ceremony is also held in conjunction with the start of our National School Games. This is where our student athletes take their athletes oath for fair play at the games. It is also a time for the for the school to show their support for the hard work and dedication these student athletes put in to represent the school in their individual sports.
+
+![](/images/230117_039_pledge_athlete.jpg)
+Student representatives taking the Athletes’ Oath
+
+![](/images/230117_061_pledge_spectator.jpg)
+Student supporters taking the Spectator’s Oath
+
+![](/images/230117_047_pledge_coach.jpg)
+Teachers and Coaches taking the Coaches’ Oath
+
+#### TPSS Boardminton
+The PE department team conceptualized the idea of using board game to teach the tactical concepts in Net-barrier games. The Boardminton project started in 2019 and the final product was finally completed in Nov 2021. In 2022, the board game was used as a teaching tool to aid in the teaching of tactical concepts in badminton which was a sport that was taught at the Secondary 3 level.
+
+![](/images/230224_15_boardminton.jpg)
+PE HOD, Mr Elangovan sharing with colleagues the rules of the game
+
+Through the game, we were able to engage students and teach them concepts that might not have happened in the game-play due to the student’s technical ability. The students very quickly grasped the concept of attacking and defending space in badminton.
+
+During one of the school’s staff sharing session, the PE department shared the project with the rest of the school staff who agreed that the board game was fun and engaging. The department also subsequently shared the project as one of the presentations during the TCEF 2023 Conference and was well received by its attendees.
