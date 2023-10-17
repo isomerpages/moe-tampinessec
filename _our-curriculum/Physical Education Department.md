@@ -127,8 +127,8 @@ Runners warming up for the run
 Running while enjoying the picturesque view of Bedok Reservoir
 
 ### Highlights &amp; Achievements
-**Tampines Secondary School Flag Ceremony **
 
+#### Tampines Secondary School Flag Ceremony 
 CCAs are an important and integral part of our holistic education. Students develop their interests through their participation in CCAs as they learn values and life skills, develop their identity, build relationships, and learn to make the right choices that prepare them for the future beyond school.
 
 The CCA Flags are a symbol for students’ affiliation and CCA pride. The ceremony symbolises the school entrusting the various CCAs to develop students holistically and allowing students to feel proud of their CCAs.
