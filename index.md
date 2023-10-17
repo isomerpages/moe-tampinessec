@@ -4,8 +4,7 @@ title: Tampines Secondary School
 description: Brief site description here
 image: /images/tpss.png
 permalink: /
-notification: Nomination for The Caring Teacher Awards 2024 is open from now
-  till 12 January 2024! Read our announcement for more details.
+notification: ""
 sections:
   - hero:
       key_highlights:

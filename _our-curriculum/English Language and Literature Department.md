@@ -3,26 +3,26 @@ title: English Language and Literature Department
 permalink: /our-curriculum/english-language-and-literature-department/
 description: ""
 ---
-![](/images/ell%20dept%20collage%202023%20a.png)
+![](/images/2023_tpss_31_english.JPG)
 		 
 ### TEACHERS
 
-| Designation 	| Name 	|
-|---	|---	|
-| Head of Department, English Language &amp; Literature 	| Mr Christopher Tan Ming Quan 	|
-| Subject Head, Literature 	| Ms Hannah Rheya Devaser 	|
-| Senior Teacher, English Language 	| Mdm Shen Simin Nicole 	|
-|  	| Ms Chen Liwen (EL / Lit) 	|
-|  	| Mr Ee Sien Ming Bryan (EL) 	|
-|  	| Mr Ezekiel Goh Zhuang Yuan (EL / Math) 	|
-|  	| Ms Hernie Binte Salleh (EL)	|
-|  	| Mdm Lee Whye Gwan (EL) 	|
-|  	| Ms Li Sijie (Lit) 	|
-|  	| Mr Mohamad Imran B AB Malek (EL) 	|
-|  	| Mr Ng Woon Bing Kevin (EL) 	|
-|  	| Ms Nurasyikin Hapet (EL) 	|
-|  	| Ms Pek Jia Hui (EL) 	|
-|  	| Ms Sarinah Mohamed (EL / Lit)	|
+| Designation | Name |
+|---|---|
+| Head of Department, English Language &amp; Literature | Mr Christopher Tan Ming Quan |
+| Subject Head, Literature | Ms Hannah Rheya Devaser |
+| Senior Teacher, English Language | Mdm Shen Simin Nicole |
+|  | Ms Chen Liwen (EL / Lit) |
+|  | Mr Ee Sien Ming Bryan (EL) |
+|  | Mr Ezekiel Goh Zhuang Yuan (EL / Math) |
+|  | Ms Hernie Binte Salleh |
+|  | Mdm Lee Whye Gwan (EL) |
+|  | Ms Li Sijie (EL / Lit) |
+|  | Mr Mohamad Imran B AB Malek (EL) |
+|  | Mr Ng Woon Bing Kevin (EL / Geography) |
+|  | Ms Nurasyikin Hapet (EL) |
+|  | Ms Pek Jia Hui (EL) |
+|  | Ms Sarinah Mohamed |
 
 ### Vision
 To nurture empathetic communicators, discerning readers and creative inquirers.
