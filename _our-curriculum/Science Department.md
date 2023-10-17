@@ -56,3 +56,10 @@ Note: Secondary 3 Students will get the chance to participate in engaging experi
 Selected Sec 1 to 3 students who show an aptitude for Science are selected for a science stretch program. They will be exposed to more scientific phenomena to broaden their knowledge and skills.
 
 ### Highlights & Achievements
+#### Science Stretch Programme
+The Science Stretch programme serves as a platform for students who exhibit aptitude and interest in science to explore their scientific passions, develop experimental skills, and lay a strong foundation for future academic and professional success in the field of science. This year, selected Sec 3 students participated actively in an educational program focused on the study of biodegradable bag, bioplastics and soap making.
+![](/images/sci%20stretch%20prog%201.jpg)
+
+#### Science Experiential Learning Programme
+Offering a dynamic and engaging approach to science education, the science experiential learning programme immerses students in hands-on experiences, igniting a love for learning, and the development of inquiry skills. 
+![](/images/sci%20experiential%20learning%201.jpg)
