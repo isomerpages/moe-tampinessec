@@ -22,9 +22,6 @@ A department that develops the whole person.
 ### Mission
 We are committed to develop our pupils holistically through a wide array of programmes based on the school’s strategic thrusts and shared values.
 
-### Photo Gallery
-
-
 ### Key Programmes
 **Overview of PE Programmme in Tampines Secondary School**
 
