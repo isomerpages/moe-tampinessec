@@ -45,3 +45,52 @@ POG's main idea is:
 1.  Break the games down into key ideas and concepts and allowing our students to play even with a beginner’s ability.
 2.  Highlight the transference of games concepts across sports within the same category.
 
+![](/images/pogpedept.png)
+An overview of the Principle of Games
+
+#### Outdoor Education
+The Outdoor Education lessons provide the foundation for the knowledge, skills and attitudes that will enable students to be comfortable and safe in the outdoors.
+
+The module provides opportunities for theoretical concepts such as risk management to be enacted in authentic outdoor settings. It focuses on three strands:
+
+1.  Enhancing physical health and wellbeing;
+2.  Building competency in assessing and managing risk; and
+3.  Developing a sense of place.
+
+![](/images/pe%20outdoor%20education.png)
+Objectives of Outdoor Education 
+
+![](/images/structure%20building.jpg)
+Outdoor Education Module: Structure Building
+
+**Secondary One Experiential Camp**
+As part of the National Outdoor Adventure Education Masterplan the programme seeks to develop ruggedness, resilience, and build cohesion amongst our students.
+
+Through the camp, or students will be able to:
+1.  Learn about themselves
+2.  Build friendships amongst their team and actively help each other to achieve team goals in an inclusive manner; and
+3.  Understand the importance of caring for the environment
+
+![](/images/pe%20tent%20pitching.jpg)
+Secondary One Experiential Camp - Tent Pitching
+
+![](/images/pe%20flying%20fox.jpeg)
+Secondary One Experiential Camp - Flying fox
+
+![](/images/team%20bonding%20games.jpeg)
+Secondary One Experiential Camp - Team Bonding Games / Low Elements
+
+#### MOE-OBS Challenge
+MOE-OBS Challenge was introduced with these objectives in mind:
+1.  Develop well-rounded individuals
+2.  Outdoor Education (OE) provides rich learning experiences outside the classroom and helps our students to develop holistically, building up their resilience and ruggedness
+3.  Authentic learning experiences help our students to develop 21st century competencies as well as competencies for sustainable, active and healthy living
+
+Every year, it has become a rite of passage for our Secondary 3 students to go through the programme.
+
+![](/images/pe%20kayaking.png)
+OBS: Kayaking Safety Brief
+
+![](/images/pe%20obs%20confidence%20course.jpeg)
+OBS: Confidence Course
+
