@@ -54,7 +54,7 @@ The module provides opportunities for theoretical concepts such as risk manageme
 3.  Developing a sense of place.
 
 ![](/images/pe%20outdoor%20education.png)
-Objectives of Outdoor Education <br>
+Objectives of Outdoor Education
 
 ![](/images/structure%20building.jpg)
 Outdoor Education Module: Structure Building
