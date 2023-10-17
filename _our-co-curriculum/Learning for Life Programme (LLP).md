@@ -41,7 +41,7 @@ In lower secondary, a 14-week arts enrichment program forms part of the curricul
 
 Over the last 3 years a wide range of arts-related activities have been organized for the secondary one cohort. Each activity lasts 3 to 4 weeks and, by the end of the programme, the cohort would have participated in up to 3 different art forms. These activities range from visual arts like batik painting, metal tooling, mosaic art to playing the ukulele or vigorous activities such as hip-hop dance.
 
-<img src="/images/llp1.jpg" style="width:70%">
+<img src="/images/llp1.jpg">
 Mosaic art is just like piecing together a jigsaw puzzle – it engages students both cognitively and aesthetically.
 
 When the students move up to secondary two, they undergo a 14-week drama programme. Drama allows students the opportunity to express themselves confidently, an essential 21st&nbsp;century core competency, and they get to learn how to project their voices and to use dramatic movement to express themselves. They also collaborate with one another to write scripts and act them out.
