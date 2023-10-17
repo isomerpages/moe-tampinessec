@@ -59,7 +59,7 @@ Objectives of Outdoor Education
 ![](/images/structure%20building.jpg)
 Outdoor Education Module: Structure Building
 
-**Secondary One Experiential Camp**
+#### Secondary One Experiential Camp
 As part of the National Outdoor Adventure Education Masterplan the programme seeks to develop ruggedness, resilience, and build cohesion amongst our students.
 
 Through the camp, or students will be able to:
