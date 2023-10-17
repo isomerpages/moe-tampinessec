@@ -49,8 +49,10 @@ Students are identified to represent the school in various competitions, attend 
 
 **Debate Competition (conducted via Zoom)**
 ![](/images/capture1.JPG)
+
 **Opening of OurHeartforSG (OHFSG) Learning Gallery**
 ![](/images/capture2.JPG)
+
 **National Chinese Challenge**
 ![](/images/national%20chinese%20challenge.JPG)
 
