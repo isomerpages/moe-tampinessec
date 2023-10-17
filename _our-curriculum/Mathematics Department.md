@@ -43,5 +43,43 @@ To nurture students to become confident problem solvers by equipping them with t
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQS1eEJmKPVyS0rKLhFu9-TZzI6WUWPup4BCYtxWp01MdpYbTUgDJC6Bv7jOsCpjeAb4esxyN_Ilywt/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
+### Key Programmes
+#### Secondary 1
 
+NIE Mathematics Challenge
 
+Students take part in the 90 minutes national online Mathematics Quiz to receive personalized feedback on their Mathematical problem solving abilities.
+
+#### Secondary 2
+
+**Alge-Tournament**
+Students play games specially designed to apply their knowledge and skills in algebra manipulation.
+
+*Singapore Mathematics Olympiad Competition (Junior Category)*
+
+An annual national competition to test and stretch the ingenuity of our high-ability students in mathematical problem solving.
+
+#### Secondary 3
+
+**Financial Literacy Programme**
+A programme to develop and enhance our students’ financial literacy.
+
+#### Secondary 4
+
+**Singapore Mathematics Olympiad**
+An annual national competition to test and stretch the ingenuity of our high-ability students in mathematical problem solving
+
+### Highlights &amp; Achievements
+#### Singapore Mathematics Olympiad 2023
+
+1 Bronze, 2 Honorable Mentions in the Senior Category
+
+2 Honorable Mentions in the Junior Category
+
+#### NIE Mathematics Challenge
+
+4 Distinction Awards
+
+#### National Accounting Challenge 2023
+
+Second Runner-Up
