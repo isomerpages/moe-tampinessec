@@ -3,7 +3,7 @@ title: Humanities Department
 permalink: /our-curriculum/humanities-department/
 description: ""
 ---
-![](/images/Humanities%20Department%202023.jpg)
+![](/images/humanities.jpg)
 
 ## Teachers
 
