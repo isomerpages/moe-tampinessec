@@ -63,3 +63,5 @@ The Science Stretch programme serves as a platform for students who exhibit apti
 #### Science Experiential Learning Programme
 Offering a dynamic and engaging approach to science education, the science experiential learning programme immerses students in hands-on experiences, igniting a love for learning, and the development of inquiry skills. 
 ![](/images/sci%20experiential%20learning%201.jpg)
+![](/images/picture2.jpg)
+![](/images/untitled%20(3).png)
