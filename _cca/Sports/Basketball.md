@@ -34,8 +34,26 @@ Every member a disciplined student athlete, active contributor to the team and a
 To bring out the best in every student athlete in the CCA through Discipline in training, Identity in Teamwork and demand for Excellence in results.
 
 ### Introduction
+The Tampines Basketball Team comprises of both the Boys’ and Girls’ Teams. Every year, we take part in the National School Games, East Zone Basketball Competition. We are looking to improve our results year after year!
 
+![](/images/basketballpic1.jpg)
 
+![](/images/basektball%20pic2.jpg)
+
+![](/images/basketball%20pic3.jpg)
+
+![](/images/basketball%20pic4.jpg)
+Our players put their 100% in both training and competition.
+
+We work hard...
+
+![](/images/basketball%20pic5.jpg)
+
+We work hard...
+
+![](/images/basketball%20pic6.jpg)
+You can always find us at our home ground, at our school’s Sports Arena.
+See you there!
 
 ### Highlights &amp; Achievements
 
