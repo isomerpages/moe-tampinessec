@@ -55,6 +55,9 @@ We work hard...
 You can always find us at our home ground, at our school’s Sports Arena.
 See you there!
 
+### Photo Gallery
+
+
 ### Highlights &amp; Achievements
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCfJVJs3R5bfliO3ZaCCtjBPTBc2MAoRRLEJlYi1rUM8q_jM0lW85Fiff8uioQYISmBaJX99WXFWMt/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -68,5 +71,3 @@ TPSS Basketball 2020 - 2023
 “As a secondary 4 student, I've realized that this is my final year participating in NSG. With this, I gave my all to the team. Although we fell short of victory, I've come to understand that basketball is not just about winning; it's about the bonds formed with teammates, coaches, and teachers. The joy of victories and the heartache of losses have given me a deeper appreciation for these connections. The strong relationships forged through these experiences are treasures I will carry with me for life.<br>
 Shandy, Boys Team Captain 2023,<br>
 TPSS Basketball 2020 - 2023
-
-### Photo Gallery
