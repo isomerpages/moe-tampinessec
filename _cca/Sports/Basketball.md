@@ -4,7 +4,7 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcCjUNeXjg3kE-dX4x4BMkQkBIrroXkd0432OWBNcVdlwto4Lp2YJygyDMcT5KMh7G59p3AAtqrIdI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcCjUNeXjg3kE-dX4x4BMkQkBIrroXkd0432OWBNcVdlwto4Lp2YJygyDMcT5KMh7G59p3AAtqrIdI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### CCA Teachers 
 
@@ -36,31 +36,24 @@ To bring out the best in every student athlete in the CCA through Discipline in 
 ### Introduction
 The Tampines Basketball Team comprises of both the Boys’ and Girls’ Teams. Every year, we take part in the National School Games, East Zone Basketball Competition. We are looking to improve our results year after year!
 
-![](/images/basketballpic1.jpg)
-
 ![](/images/basektball%20pic2.jpg)
 
 ![](/images/basketball%20pic3.jpg)
-
-![](/images/basketball%20pic4.jpg)
 Our players put their 100% in both training and competition.
 
+![](/images/basketball%20pic4.jpg)
 We work hard...
 
-![](/images/basketball%20pic5.jpg)
-
-We work hard...
-
-![](/images/basketball%20pic6.jpg)
 You can always find us at our home ground, at our school’s Sports Arena.
 See you there!
 
 ### Photo Gallery
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRESw_30KvjXBjW3Llg6nRVm19vvZP3hqwAq6_jXXvtc_r52kONwuNc3jA9xB2Y2kyUP5WVsQsdTsJw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### Highlights &amp; Achievements
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCfJVJs3R5bfliO3ZaCCtjBPTBc2MAoRRLEJlYi1rUM8q_jM0lW85Fiff8uioQYISmBaJX99WXFWMt/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCfJVJs3R5bfliO3ZaCCtjBPTBc2MAoRRLEJlYi1rUM8q_jM0lW85Fiff8uioQYISmBaJX99WXFWMt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### Sound Bites
 
