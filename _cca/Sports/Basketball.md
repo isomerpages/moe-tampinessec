@@ -4,7 +4,7 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcCjUNeXjg3kE-dX4x4BMkQkBIrroXkd0432OWBNcVdlwto4Lp2YJygyDMcT5KMh7G59p3AAtqrIdI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcCjUNeXjg3kE-dX4x4BMkQkBIrroXkd0432OWBNcVdlwto4Lp2YJygyDMcT5KMh7G59p3AAtqrIdI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### CCA Teachers 
 
@@ -57,6 +57,16 @@ See you there!
 
 ### Highlights &amp; Achievements
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCfJVJs3R5bfliO3ZaCCtjBPTBc2MAoRRLEJlYi1rUM8q_jM0lW85Fiff8uioQYISmBaJX99WXFWMt/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-		 
+#### Sound Bites
+
+“Being part of the basketball team has been an incredible experience. We have fostered priceless friendships and unparalleled team spirit. If given the opportunity, I would do it all over again!<br>
+Hazel, Girls’ Team Captain 2023,<br>
+TPSS Basketball 2020 - 2023
+
+“As a secondary 4 student, I've realized that this is my final year participating in NSG. With this, I gave my all to the team. Although we fell short of victory, I've come to understand that basketball is not just about winning; it's about the bonds formed with teammates, coaches, and teachers. The joy of victories and the heartache of losses have given me a deeper appreciation for these connections. The strong relationships forged through these experiences are treasures I will carry with me for life.<br>
+Shandy, Boys Team Captain 2023,<br>
+TPSS Basketball 2020 - 2023
+
 ### Photo Gallery
