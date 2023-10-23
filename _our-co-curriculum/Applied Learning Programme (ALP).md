@@ -71,89 +71,17 @@ Highly passionate students identified through Direct School Admissions (DSA), CC
 
 ### MEMBERS OF THE DEPARTMENT
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-az2b{background-color:#FFF;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-az2b">S/N</th>
-    <th class="tg-az2b">Teachers</th>
-    <th class="tg-az2b">Designation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">1 </span></td>
-    <td class="tg-ktyi"><span style="color:#000">Benjamin Low </span></td>
-    <td class="tg-ktyi"><span style="color:#000">HOD Craft &amp; Technology</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">2</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Victor Ng</span></td>
-    <td class="tg-ktyi"><span style="color:#000">HOD Science</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">3</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Lee Kwee Wei</span></td>
-    <td class="tg-ktyi"><span style="color:#000">SH Design &amp; Technology</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">4</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Joshua Foo </span></td>
-    <td class="tg-ktyi"><span style="color:#000">SH Student Management </span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">5</span></td>
-    <td class="tg-ktyi"><span style="color:#000">James Lim</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Science teacher</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">6</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Sng Ah Soon</span></td>
-    <td class="tg-ktyi"><span style="color:#000">D&amp;T Teacher </span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">7 </span></td>
-    <td class="tg-ktyi"><span style="color:#000">Koh Gim Koon </span></td>
-    <td class="tg-ktyi"><span style="color:#000">D&amp;T Teacher / Maker Faire OIC</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">8 </span></td>
-    <td class="tg-ktyi"><span style="color:#000">Zulkifli mohamed </span></td>
-    <td class="tg-ktyi"><span style="color:#000">D&amp;T Teacher / Maker Faire Teacher</span></td>
-  </tr>
-  <tr>
-    <td class="tg-az2b">S/N</td>
-    <td class="tg-az2b">Support Staff</td>
-    <td class="tg-az2b">Designation</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">1</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Abdul Nadzir</span></td>
-    <td class="tg-ktyi"><span style="color:#000">D&amp;T TSO</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">2</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Chow Siew Leong</span></td>
-    <td class="tg-ktyi"><span style="color:#000">D&amp;T TSO</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">3</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Saburudin Samad</span></td>
-    <td class="tg-ktyi"><span style="color:#000">D&amp;T TSO / Maker Faire Support Staff</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="color:#000">4</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Koh Moi Kia</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Science TSO</span></td>
-  </tr>
-</tbody>
-</table>
+| Teachers | Designation |
+|---|---|
+| Benjamin Low | HOD Craft &amp; Technology |
+| Victor Ng | HOD Science |
+| James Lim | Science teacher |
+| Koh Gim Koon | D&amp;T Teacher / Maker Faire OIC |
+| Zulkifli mohamed | D&amp;T Teacher / Maker Faire Teacher |
+
+| Support Staff | Designation |
+|---|---|
+| Abdul Nadzir | D&amp;T TSO |
+| Chow Siew Leong | D&amp;T TSO |
+| Mohd Yusoff | D&amp;T TSO / Maker Faire Support Staff |
+| Koh Moi Kia | Science TSO |
