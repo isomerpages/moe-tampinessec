@@ -59,7 +59,7 @@ Sec 4/5 on Education and career **decision** **making**.
 
 | Resource | Brief Description |
 |---|---|
-| My Skillsfuture Portal:(https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html) | A one-stop platform to understand yourself, interests and strengths. You  can also explore various education and career pathways. |
+| My Skillsfuture Portal:(https://go.gov.sg/tpssecglinks) | A one-stop platform to understand yourself, interests and strengths. You  can also explore various education and career pathways. |
 | Day in the Life (https://www.nyc.gov.sg/omw/dayinthelife) | A website to check out bite-sized videos and information about the day in the life of more than 80 professionals. |
 | On my way, Know it all (https://www.nyc.gov.sg/omw/knowitall) | Lesser known facts, handy tips and answers to common questions about Careers in Singapore. This is a chance to explore the growing list of job roles in Singapore, to get an in-depth idea of what different jobs entail. |
 | JAE website (www.moe.gov.sg/jae) | Contains essential information on JAE, such as an overview of the JAE process and timeline (the key stages and respective dates/periods). |
