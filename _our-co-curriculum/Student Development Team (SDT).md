@@ -6,7 +6,7 @@ description: ""
 ### TEACHERS
 
 | Designation | Teacher |
-|:---:|:---:|
+|---|---|
 | Year Head/Upper Secondary & Sec 3 SDT Level Coordinator | Mdm Winnie Koh |
 | Year Head/Lower Secondary & Sec 1 SDT Level Coordinator | Mr Lee Kah Wai |
 | Asst Year Head & Sec 4&5 SDT Level Coordinator | Mr Aloysius Ong Eng Kia |

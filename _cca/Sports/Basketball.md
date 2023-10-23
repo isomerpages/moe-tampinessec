@@ -4,11 +4,7 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-<figure>
-<img src="/images/basketball.png">
-<figcaption>“Teamwork is the beauty of our sport, where you have five acting as one.” <br>
-– Mike Krzyzewski</figcaption>
-</figure>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcCjUNeXjg3kE-dX4x4BMkQkBIrroXkd0432OWBNcVdlwto4Lp2YJygyDMcT5KMh7G59p3AAtqrIdI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### CCA Teachers 
 
@@ -20,46 +16,51 @@ third_nav_title: Sports
 |  | Mr Bryan Ee Sien Ming |
 |  | Mr Ridzafir Syah Abdul Rahim |
 
-### INTRODUCTION
+### Training Schedule 
+#### C Boys 
+Mon &amp; Fri: 3.30–6p.m.
+#### B Boys
+Tue: 3–5 p.m.<br>
+Fri: 3.30–6 p.m. 
+#### Girls
+Tue: 4.30–6.30 p.m.<br>
+Fri: 1.30–4 p.m. <br>
+*Please note that the training schedule is subject to change during competition season.
 
-The Tampines Basketball Team comprises 3&nbsp; training groups:
+### Vision
+Every member a disciplined student athlete, active contributor to the team and a pursuer of excellence.
 
-  
+### Mission
+To bring out the best in every student athlete in the CCA through Discipline in training, Identity in Teamwork and demand for Excellence in results.
 
-1. C Division Boys
+### Introduction
+The Tampines Basketball Team comprises of both the Boys’ and Girls’ Teams. Every year, we take part in the National School Games, East Zone Basketball Competition. We are looking to improve our results year after year!
 
-2. B Division Boys
+![](/images/basektball%20pic2.jpg)
 
-<img style="width:60%" src="/images/Boys%20Team.jpg">
+![](/images/basketball%20pic3.jpg)
+Our players put their 100% in both training and competition.
 
-3. Girls Team
+![](/images/basketball%20pic4.jpg)
+We work hard...
 
-<img style="width:60%" src="/images/Girls%20Team.jpg">
+You can always find us at our home ground, at our school’s Sports Arena.
+See you there!
 
-Our players train and participate in different competitions such as the East Zone Basketball Championships and the National School Championships.
-
-The Girls Team participates in both 'B' and 'C' Division competitions, but we come together to train as a single team in every training session.
-
-### HIGHLIGHTS
-
-Our students enjoyed a clinic with the Singapore Slingers. Thank you for the Basketball Clinic. See you again!
-
-<img style="width:60%" src="/images/Highlight.jpg">
-		 
-**Players with Integrity and Sportsmanship**
-
-We are proud to share that TPSS Basketball has been awarded the ‘Fair Play Award’ twice in the past two seasons of the National School Games. The award is an affirmation of our students' exemplary behaviour in upholding the spirit of fair play and compassion in the sport.
-
-2019 <br>
-C Division Basketball Boys were awarded the Fair Play Award
-
-<img style="width:60%" src="/images/Fair%20Play%20Boys.jpg">
-		 
-2018 <br>
-C Division Basketball Girls were awarded the Fair Play Award.
-
-<img style="width:60%" src="/images/Girls%20Team.jpg">
-		 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXwIfUw2iO3l9AcduUdXEhTIMl1GUtZwVH3Fdq5N1BS9afiSif_Z5yLt35RFSVRS3CjRTS5Q2Nz_JF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRESw_30KvjXBjW3Llg6nRVm19vvZP3hqwAq6_jXXvtc_r52kONwuNc3jA9xB2Y2kyUP5WVsQsdTsJw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+### Highlights &amp; Achievements
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCfJVJs3R5bfliO3ZaCCtjBPTBc2MAoRRLEJlYi1rUM8q_jM0lW85Fiff8uioQYISmBaJX99WXFWMt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+#### Sound Bites
+
+“Being part of the basketball team has been an incredible experience. We have fostered priceless friendships and unparalleled team spirit. If given the opportunity, I would do it all over again!<br>
+Hazel, Girls’ Team Captain 2023,<br>
+TPSS Basketball 2020 - 2023
+
+“As a secondary 4 student, I've realized that this is my final year participating in NSG. With this, I gave my all to the team. Although we fell short of victory, I've come to understand that basketball is not just about winning; it's about the bonds formed with teammates, coaches, and teachers. The joy of victories and the heartache of losses have given me a deeper appreciation for these connections. The strong relationships forged through these experiences are treasures I will carry with me for life.<br>
+Shandy, Boys Team Captain 2023,<br>
+TPSS Basketball 2020 - 2023
