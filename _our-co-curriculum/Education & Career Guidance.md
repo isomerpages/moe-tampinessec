@@ -34,18 +34,9 @@ Sec 4/5 on Education and career **decision** **making**.
 
 #### Careers Day for Secondary 4 and 5 Tampinesians
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCraKiLPLxEbB4rmY_yfK1n9BocrobHECFsCpyN6a-XrW3wXO7ZER6Cj_tzMBXT5FJ1i2Y_pbPkkUJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCraKiLPLxEbB4rmY_yfK1n9BocrobHECFsCpyN6a-XrW3wXO7ZER6Cj_tzMBXT5FJ1i2Y_pbPkkUJ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Day X Programme (Day of Career Exploration) for Secondary 2 and 3 Tampinesians
 
-![](/images/day%20x%202022%201.jpg)
-![](/images/day%20x%202022%202.jpg)
-
-#### Experience ITE Programme for Secondary 2, 3 and 4 Tampinesians
-
-![](/images/ite%20programme%202022%201.jpg)
-![](/images/ite%20programme%202022%202.jpg)
-
-#### APLM (Applied Learning Modules) at TPSS for Secondary 3 Tampinesians
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVg-RKOjq381coS43y2mvkAj595gR-GUeTHpNHrrVXVsqN4lqxVZGTqYpZAxUogSTZc-OiarA9X0Wx/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+![](/images/img_8894.jpg)
+![](/images/bzop8595.jpg)
