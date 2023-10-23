@@ -3,7 +3,8 @@ title: Education & Career Guidance
 permalink: /our-co-curriculum/educationcareerguidance/
 description: ""
 ---
-#### What is Education and Career Guidance (ECG)?
+### ****What is Education and Career Guidance (ECG)?****
+
 Education and Career Guidance (ECG) helps students develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and a resilient attitude to embrace future opportunities and appreciate the value of all occupations.
 
 ### ECG in Tampines Secondary School
@@ -30,8 +31,3 @@ Sec 2 will focus on Education and career **exploration** of these strengths and 
 Sec 3 will focus on Education and career **planning** and
 
 Sec 4/5 on Education and career **decision** **making**.
-
-#### Careers Day for Secondary 4 and 5 Tampinesians
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCraKiLPLxEbB4rmY_yfK1n9BocrobHECFsCpyN6a-XrW3wXO7ZER6Cj_tzMBXT5FJ1i2Y_pbPkkUJ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
