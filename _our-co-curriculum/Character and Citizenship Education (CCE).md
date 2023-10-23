@@ -3,7 +3,7 @@ title: Character and Citizenship Education (CCE)
 permalink: /our-co-curriculum/character-and-citizenship-education-cce/
 description: ""
 ---
-<img style="max-width: 70%" src="/images/cce%20logo.png">
+<img src="/images/cce%20logo.png" style="max-width: 70%">
 
 ### OBJECTIVES
 
@@ -25,7 +25,7 @@ Tampinesians who are:
 
 VIA Curriculum includes: VIA Lessons, VIA Talks by external partneres, VIA Ambassadors Training and assembly sharing of reflections of VIA Journey.
 
-(Photos) 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeOqsChKhBpAj6UKVoe0iWUFnBgQVOb4F8cn-1JppelV6QA55QKsNxedS0S04DF0ClltjRJJk9_AtW/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### Cyberwellness
 
@@ -35,7 +35,7 @@ VIA Curriculum includes: VIA Lessons, VIA Talks by external partneres, VIA Ambas
 
 **Leader:**&nbsp;Students&nbsp;who advocate for responsible digital citizenship
 
-(Photos) 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsetsQcQrOaIoki1BZq_roaMvLhSi9YIoi7k31Qf6kr2qWuBgjWqFKigyt1_qJArkXJoRmN5vCI5A0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### National Education
 
@@ -50,7 +50,7 @@ VIA Curriculum includes: VIA Lessons, VIA Talks by external partneres, VIA Ambas
 - NRIC Issuance Ceremony
 - NS Engagement talk
 
-(Photos) 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwC6l9g5B96OBN0SNLuemg7ZOx5JUTPqYFYYBDu1CBVGHN9Xs_lKMOf9gZzzkUGOuf98jddvkcRMTw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### I-Care Environment
 
@@ -84,4 +84,4 @@ Sec 4/5: Global Efforts in Eco Stewardship
 **Partnerships**
 Temasek Polytechnic, Alba, Tampines West , NEA, Singapore Green Council, Tampines Community.
 
-(Photos)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTt-asdipRMgvhf3cC6Wa-52QhsWz8x65M8I94tjRTYUu96bvDcgAGOp2qoKFtp8HqLSncIvSB3y9jR/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
