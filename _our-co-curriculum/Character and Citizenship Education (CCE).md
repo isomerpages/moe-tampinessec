@@ -3,6 +3,8 @@ title: Character and Citizenship Education (CCE)
 permalink: /our-co-curriculum/character-and-citizenship-education-cce/
 description: ""
 ---
+<img style="max-width: 70%" src="/images/cce%20logo.png">
+
 ### OBJECTIVES
 
 **Nurturing a caring community of Learners, Thinkers and Leaders**
@@ -52,11 +54,11 @@ VIA Curriculum includes: VIA Lessons, VIA Talks by external partneres, VIA Ambas
 
 ### I-Care Environment
 
-**Learner:** Students learn about the challenges and opportunities to contribute to a clean, green and caring school, Singapore and world.
+**Learner:**&nbsp;Students learn about the challenges and opportunities to contribute to a clean, green and caring school, Singapore and world.
 
-**Thinker:** Students think how to contribute to a green mindset and culture.
+**Thinker:**&nbsp;Students think how to contribute to a green mindset and culture.
 
-**Leader:** Students to carry out advocacy projects to promote sustainable living and city in nature.
+**Leader:**&nbsp;Students to carry out advocacy projects to promote sustainable living and city in nature.
 
 **Level Theme**
 
@@ -75,7 +77,7 @@ Sec 4/5: Global Efforts in Eco Stewardship
 3. Caterpillar adoption Programme
 4. Sustainable - Fashion Booth
 5. Sec 2 Music lessons
-6. Sec 2 & 3 Eco - Amazing race
+6. Sec 2 &amp; 3 Eco - Amazing race
 7. Assembly talks by Horticulturists,
 8. Community outreach activities
 
