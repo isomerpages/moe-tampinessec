@@ -70,19 +70,16 @@ Sec 4/5: Global Efforts in Eco Stewardship
 
 **Activities:**
 
-1.    Green Week in conjunction with earth Day
-
-2.    E-waste Drive
-
-3.    Caterpillar adoption Programme
-
-1.  Sustainable - Fashion Booth
-2.  Sec 2 Music lessons
-3.  Sec 2 & 3 Eco - Amazing race
-4.  Assembly talks by Horticulturists,
-5.  Community outreach activities
+1. Green Week in conjunction with earth Day
+2. E-waste Drive
+3. Caterpillar adoption Programme
+4. Sustainable - Fashion Booth
+5. Sec 2 Music lessons
+6. Sec 2 & 3 Eco - Amazing race
+7. Assembly talks by Horticulturists,
+8. Community outreach activities
 
 **Partnerships**
 Temasek Polytechnic, Alba, Tampines West , NEA, Singapore Green Council, Tampines Community.
 
-(Photos) 
+(Photos)
