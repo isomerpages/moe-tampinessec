@@ -32,18 +32,16 @@ In Sec 1, students have hands-on learning experiences in Upcycling and Drones (a
 
 In Sec 2, students have hands-on learning experiences in constructing a solar toy car and learning coding with Microbits before forming Junior Tech Start-up groups to solve a real-world challenge related to “Energy” or “Aging”.
 
-All ALP lessons and activities are carried out in a Maker Hub equipped with 3D Printers, laser craft cutters, electronics kits and more.
-
-Mass Tinkering activities are also organized for all students as post-exam activities to further enthuse students in tinkering and making.
+All ALP sessions occur in a Maker Hub, equipped with 3D printers, laser cutters, and electronics kits. Post-exam Mass Tinkering activities further fuel student interest in hands-on making.
 
 <figure>
 <img src="/images/ALP%201.png">
 <figcaption> <strong> Figure 1: QR Code of ALP Tier 1 Resource Site </strong> </figcaption>
 </figure>
 
-**ALP Tier 2**&nbsp;targets students who have a passion in STEM. Interested students are free to walk into the Maker Hub to tinker, design and create student-initiated projects under the supervision of our Maker student leaders and/or support staff.
+**ALP Tier 2** targets STEM-enthusiastic students, offering an open-door Maker Hub for student-led projects under the guidance of Maker student leaders and support staff.
 
-Students who exhibit a very strong passion in STEM through the Direct School Admissions (DSA) or CCA trials or otherwise, will be placed on a talent development programme via the Maker Faire CCA. Students in the Maker Faire CCA are exposed to STEM and Maker activities at a higher level through their commitment and participation in competitions, exhibitions and showcases. Residency makers and trainers are invited on a regular basis to coach and teach Maker Faire CCA students new skills. Oversea trips to broaden our students’ exposure and cultural perspectives have also been planned but are currently suspended due to the on-going pandemic.
+Highly passionate students identified through Direct School Admissions (DSA), CCA trials, or other means join the talent development track via Maker Faire CCA. This advanced program involves competitions, exhibitions, and showcases, with expert makers and trainers regularly invited for skill development. International trips for broadening cultural perspectives are planned but currently on hold due to the ongoing pandemic.
 
 <figure>
 <img src="/images/ALP%202.png">
