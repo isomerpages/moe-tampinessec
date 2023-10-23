@@ -3,12 +3,26 @@ title: Applied Learning Programme (ALP)
 permalink: /our-co-curriculum/applied-learning-programme-alp/
 description: ""
 ---
+### Members of the Committee
+
+| Teachers | Designation |
+|---|---|
+| Benjamin Low | HOD Craft &amp; Technology |
+| Victor Ng | HOD Science |
+| James Lim | Science teacher |
+| Koh Gim Koon | D&amp;T Teacher / Maker Faire OIC |
+| Zulkifli mohamed | D&amp;T Teacher / Maker Faire Teacher |
+
+| Support Staff | Designation |
+|---|---|
+| Abdul Nadzir | D&amp;T TSO |
+| Chow Siew Leong | D&amp;T TSO |
+| Mohd Yusoff | D&amp;T TSO / Maker Faire Support Staff |
+| Koh Moi Kia | Science TSO |
+
 ### WHAT IS ALP?
 
-Applied Learning is a Maker education approach to authentic and practice-oriented learning. The purpose of the Applied Learning Programme (ALP) is to help students appreciate the relevance and value of what they are learning in the academic curriculum with regards to the real world, and develop stronger motivation and purpose to acquire new knowledge and skills.  
-  
-
-At Tampines Secondary School, our Applied Learning Programme (ALP) employs an active learning pedagogy through making to provide students with opportunities to explore and experiment with technologies in Science, Technology, Engineering and Mathematics (STEM). The programme aims to imbue students with a Maker mindset and equip them with the relevant knowledge and skills.
+At Tampines Secondary School, our Applied Learning Programme (ALP) adopts a Maker-based, practical learning approach. It aims to link academic curriculum to real-world relevance, boosting student motivation and purpose for knowledge and skill acquisition. Utilising active learning methods, the programme provides hands-on experience in STEM fields, fostering a Maker mindset and equipping students with pertinent skills.
 
 ### OVERVIEW
 
@@ -18,39 +32,33 @@ Tinker, Design, Innovate </center>
 
 **Why it matters:**
 
-There is a need to prepare our youth for a future that is increasingly volatile, uncertain, complex and uncertain (VUCA). The STEM ALP imbibes in our students the appreciation, acquisition, and application of STEM related skills and technologies.
+To equip our youth for an increasingly VUCA future, the STEM ALP instills an understanding and application of STEM skills and technologies. The programme cultivates curious, creative problem-solvers who grasp STEM's broader applications. This exposure may also guide students towards STEM-related fields in their post-secondary education.
 
-Through the ALP, our students will be curious and creative problem solvers who can appreciate the broader applications of STEM.
+**The ALP is structured into Tier 1 &amp; Tier 2:**
 
-By discovering their own talents and interest in STEM, students may in future consider related pursuits in their post-secondary education. 
+**ALP Tier 1**&nbsp;targets all students.
 
-**The ALP is structured into Tier 1 & Tier 2:**
+In Sec 1, students engage in hands-on projects like Upcycling and Drones, then form Junior Tech Start-up groups to tackle real-world challenges in "Water" or "Technology."
 
-**ALP Tier 1** targets all students.
+In Sec 2, they construct solar toy cars and learn coding with Microbits, before forming groups to address issues in "Energy" or "Aging."
 
-In Sec 1, students have hands-on learning experiences in Upcycling and Drones (aka Quad-copters) before forming themselves into Junior Tech Start-up groups to solve a real-world challenge related to the theme “Water” or “Technology”.
-
-In Sec 2, students have hands-on learning experiences in constructing a solar toy car and learning coding with Microbits before forming Junior Tech Start-up groups to solve a real-world challenge related to “Energy” or “Aging”.
-
-All ALP lessons and activities are carried out in a Maker Hub equipped with 3D Printers, laser craft cutters, electronics kits and more.
-
-Mass Tinkering activities are also organized for all students as post-exam activities to further enthuse students in tinkering and making.
+All ALP sessions occur in a Maker Hub, equipped with 3D printers, laser cutters, and electronics kits. Post-exam Mass Tinkering activities further fuel student interest in hands-on making.
 
 <figure>
 <img src="/images/ALP%201.png">
 <figcaption> <strong> Figure 1: QR Code of ALP Tier 1 Resource Site </strong> </figcaption>
 </figure>
 
-**ALP Tier 2** targets students who have a passion in STEM. Interested students are free to walk into the Maker Hub to tinker, design and create student-initiated projects under the supervision of our Maker student leaders and/or support staff.
+**ALP Tier 2** targets STEM-enthusiastic students, offering an open-door Maker Hub for student-led projects under the guidance of Maker student leaders and support staff.
 
-Students who exhibit a very strong passion in STEM through the Direct School Admissions (DSA) or CCA trials or otherwise, will be placed on a talent development programme via the Maker Faire CCA. Students in the Maker Faire CCA are exposed to STEM and Maker activities at a higher level through their commitment and participation in competitions, exhibitions and showcases. Residency makers and trainers are invited on a regular basis to coach and teach Maker Faire CCA students new skills. Oversea trips to broaden our students’ exposure and cultural perspectives have also been planned but are currently suspended due to the on-going pandemic.
+Highly passionate students identified through Direct School Admissions (DSA), CCA trials, or other means join the talent development track via Maker Faire CCA. This advanced program involves competitions, exhibitions, and showcases, with expert makers and trainers regularly invited for skill development. International trips for broadening cultural perspectives are planned but currently on hold due to the ongoing pandemic.
 
 <figure>
 <img src="/images/ALP%202.png">
 <figcaption> <strong> Figure 2: QR Code of ALP Tier 2 – Maker Hub Resource Site</strong> </figcaption>
 </figure>
 
-### Our Achievements & Accolades:
+### Our Achievements &amp; Accolades:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
