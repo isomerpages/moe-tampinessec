@@ -4,7 +4,6 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/uniformed-groups/st-
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ![](/images/2023_sjb_01.jpg)
 
 ### CCA Teachers
@@ -28,7 +27,7 @@ To serve mankind through training in life saving skills and health care in schoo
 
 ### Introduction
 
-<img style="width:70%" src="/images/st%20john%20singapore.png">
+<img src="/images/st%20john%20singapore.png" style="width:70%">
 
 The history of St. John Brigade (SJB) in Tampines Secondary School can be traced back to 1986, when it became one of the 4 Uniformed Groups (NPCC, NCC, SJB and School Military Band) that were first introduced in the school after its official opening. The first St. John squad was made up of 16 cadets and they were trained by Officers and Non Commissioned Officers (N.C.Os) from Dunman High School. The first St. John Teacher In-Charge of the school was Mrs Low Leng who was once a St. John member during her schooling days.
 
@@ -52,13 +51,13 @@ TPSJB continues to conduct training programmes and enrichment activities for the
 *   Values In Action
 *   Cadet Proficiency Badge Courses
 
+### Photo Gallery
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8fiFMjR9ObgwNEOf8ix1awulMUjAcM2_5WQo1LrwvM0uNSOiLGHoKVUWNwHBH4HY_2Yp2ZJA51NJf/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 ### Highlights &amp; Achievements
 
 *   Corps Achievement Awards (CAA): 2009 to 2023 : GOLD
 *   Zone 8 First Aid Competition 2016 Results
 *   1st Runner Up (Nursing Cadet category) for East District First Aid &amp; Home Nursing Competition 2023
 *   2nd Runner Up (Ambulance Adult category) for East District First Aid &amp; Home Nursing Competition 2023
-
-### Photos
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEQetNZv-Tu-1dD7ncKdl8DfcuFruZxg0ua5sK5fI5_8xz9Cp9vNaEYr1vDwYo_lVZVkAdLSHYwzn1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
