@@ -24,7 +24,6 @@ To mould the builders of a safe and secure home.
 To develop its cadets into caring and responsible citizens.
 
 ### Introduction
-
 NPCC has grown in number and substance. Its popularity amongst our youths is largely attributed to its stature as the only uniformed youth organisation to enjoy a close affiliation with the Singapore Police Force. Our cadets are given unique opportunities to gain exposure to and be familiar with Singapore’s crime prevention efforts to build a Safe and Secure Home. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated in our cadets to develop them into Caring and Responsible Citizens.
 
 ### Photo Gallery
