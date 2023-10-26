@@ -60,6 +60,10 @@ Our students in both B and C divisions are given opportunities to practise perso
 
 Captains and ICs are actively engaged in providing encouragement, coordination and guidance to their peers.
 
+### Photo Gallery
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgPMzVVPn1ddP532NgI8EUHaC2KxuIkR2gaW4aQLKQbT4LOgMuftFoV5zA1NqepD9-O71xNz5ivO79/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 ### Highlights &amp; Achievements 
 
 1. Participated in National School Games Netball B and C Div in 2021
