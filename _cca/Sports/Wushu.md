@@ -35,4 +35,3 @@ Established in March 2003, the TPSS Wushu Team was set up to foster a better und
 *   National School Games Wushu Championships 2023
 *   Speech Day Concert 2023
 *   Wushu Camp 2023
-
