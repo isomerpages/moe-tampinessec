@@ -75,7 +75,3 @@ Captains and ICs are actively engaged in providing encouragement, coordination a
 *   Day of fun-filled bonding activites
 *   Bubble soccer in 2022
 *   Tag Archery in 2023
-
-### Photos
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_8nVCyCldjkzFvr3HKUypOOodaI3c-y2ElCCNQdaU6QmBo9J6JbI6qqEMDqptj34rsONTNhEqlHoa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
