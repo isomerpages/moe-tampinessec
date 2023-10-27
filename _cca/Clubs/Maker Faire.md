@@ -32,6 +32,10 @@ Maker@Tpss is a hands-on and project-based CCA that emphasizes creativity, innov
 
 Maker Education CCA students are encouraged to apply their knowledge and skills to solve real-world problems. They may work on projects in a variety of areas, including engineering, design, technology, and art.
 
+### Photo Gallery
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJQQoDaDe4MkTQLaSNALrJkm8bmFyO_O5s88CVuQkRRgXar4_Scld9ezYnplq4hzvtENylIqXlI9KD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 ### Highlights &amp; Achievements
 Makerspaces workshops were held in TPSS in the year 2016. Students were exposed to apply what they have learnt in the classroom to solve real life problems. They were allowed to “tinker” with LED shoes, scribbling machines, table top robots, 3D pen and electronically generated music.
 
