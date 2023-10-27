@@ -18,6 +18,14 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
+  - infobar:
+      title: 2023 Year-End Holiday Homework
+      subtitle: Announcement
+      id: infobar
+      description: Dear Tampinesians, please go to the Students' Portal for the list
+        of assignments to be completed during the year-end holidays.
+      button: Students' Portal
+      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
   - infopic:
       title: Caring Teacher Awards (CTA)
       subtitle: announcement
@@ -93,12 +101,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: 2023 Year-End Holiday Homework
-      subtitle: Announcement
-      id: infobar
-      description: Dear Tampinesians, please go to the Students' Portal for the list
-        of assignments to be completed during the year-end holidays.
-      button: Students' Portal
-      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
 ---
