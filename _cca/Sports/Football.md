@@ -4,8 +4,7 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/football/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/football.png)
-![](/images/football%202.png)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEJxPhqS02y8tL4a_SM-fK8W_wDp7UmmhFEAPqV_SDMKRVUdxx2gZzcJXtgunpF3pM-yrrGVaHoNQ1/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### CCA Teachers
 
@@ -16,6 +15,8 @@ third_nav_title: Sports
 | 2IC     | Mr Khyrul Anwar     | 
 |     | Mr Sufian Amir    | 
 |     | Mdm Norfatihah     | 
+|     | Mr Shahril     | 
+
 
 ### Training Schedule
 Mondays &amp; Tuesdays: 2.45 to 5.30 p.m. 
@@ -28,118 +29,26 @@ The Tampines TiTANS are dedicated in recognising and bringing out the sporting t
 A team that is not only recognised for its sporting excellence, but also for important positive influence in the community.
 
 
-### INTRODUCTION
+### Introduction
 
-The Tampines TiTANS was officially formed in early 2009 and we are committed in developing the sporting talent in every TiTAN. In addition to the development of sporting excellence, we also seek to inspire others by being exemplary sportspersons exhibiting strong convictions to sporting integrity.
+![](/images/football%20titans%20banner.png)
 
-The TiTANS are not only active in the school sports scene, we are also always on the lookout for competitions and tournaments organised by football clubs, academies and organisations. In order to further strengthen the TiTANS community involvement, we organised a free football carnival for primary schools annually.
+Established in early 2009, the Tampines TiTANS are dedicated to nurturing athletic talent in each member. Beyond the pursuit of sporting excellence, we aim to set a positive example by upholding the highest standards of sportsmanship and integrity.
 
-The TiTANS will be exposed to friendly matches at least once a month and TiTANS can also expect to partake in tournaments during the June and December holidays. Every March, the TiTANS will also participated in the annual East Zone Football Championships.
+We are not only involved in school-based sports; we actively seek out external competitions and tournaments hosted by football clubs, academies, and organizations. To further engage with the community, we host an annual free football carnival for primary schools.
 
-### HIGHLIGHTS
+Members of the TiTANS can expect to compete in friendly matches at least monthly. Additionally, we participate in tournaments during the June and December school breaks. Every March, the team also competes in the annual National School Games.
 
-2021 began with hopes of returning to competitive action. Unfortunately, COVID-19 continued to linger and we had to adapt to the changes. Nonetheless, the football team members remained resilient and kept their morale high.&nbsp;
+### Photo Gallery
 
-CCA sessions evolved to e-CCA with everyone developing their individual skills, increasing tactical knowledge and strengthening core muscles. The football team had the opportunity to explore other forms of learning, similar to professional players. These included tactical analysis and team discussions.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYStsQ1RgxPxCLrZ1DoLG01qh22ETpvibeGg8tdBeW4Z23zhkjgRaybmPjRFhZseTYNvRHTbUV45Ap/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-When face-to-face CCA resumed, our footballers were raring to go and actively took part in regaining their teamwork and fitness on the field. It was a refreshing change, and the Titans and Titanides fully embraced the chance to play outdoors.&nbsp;
+### Highlights &amp; Achievements
 
-2021 has been as much a challenge as 2020. We hope for a better year ahead in 2022!
+The year 2023 marked a significant chapter for both the TPSS Titans and Titanides as competitions resumed in full force. We actively participated in every division of this year's Football NSG.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="2" class="tg-baqh"><span style="font-weight:bold">2015</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Competition</span></td>
-    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Title</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">East Zone SSC Inter-School Football Championship ‘B’ boys<br></td>
-    <td class="tg-f4yw">2nd Round<br></td>
-  </tr>
-</tbody>
-</table>
+This was a milestone year for us, as it was the first time we inducted DSA students into our football teams. Four of these players contributed to the C Division Titans, who advanced to the Tier 2 League but narrowly missed the Quarterfinals, landing us among the top 32 schools in Singapore. The B Division Titans competed in the Tier 3 League and reached the Quarterfinals, ultimately falling to St. Joseph's Institution and securing a spot among the top 40 schools.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="2" class="tg-baqh"><span style="font-weight:bold">2016</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Competition</span></td>
-    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Title</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">‘B’ Boys in East Zone 2016<br></td>
-    <td class="tg-f4yw">Top 8 </td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> ‘C’ Boys in East Zone 2016</td>
-    <td class="tg-f4yw"> Top 8 </td>
-  </tr>
-</tbody>
-</table>
+Our female athletes had a standout year, with the B Division Titanides going unbeaten and making history by reaching our first NSG National Finals. Although they fought valiantly, they were narrowly defeated in penalty kicks by Meridian Secondary. The C Division Titanides also made history by becoming our first team to play at the National Stadium for the 3rd/4th place match, where they ultimately secured 4th place.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="2" class="tg-baqh"><span style="font-weight:bold">2017</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Competition</span></td>
-    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Title</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">‘C’ Boys in East Zone 2017<br></td>
-    <td class="tg-nrix">Top 8 </td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">‘B’ Boys East Zone Schools League 2017</td>
-    <td class="tg-nrix"> Champions</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> SSSC<span style="color:#222"> FAS Football National 'C' Division Girls 2017</span></td>
-    <td class="tg-nrix">National 3rd place</td>
-  </tr>
-</tbody>
-</table>
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNwnKQTvBRsnhrQqwZ3bY7036C0jgaYxi99lZD3hm3gB6FBxGOV1TRCTptxi6SoKhsgWGCH9tTxC5f/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+It's been an uplifting return to competitive school football, and we are grateful for the valuable lessons learned through the highs and lows of the season. These experiences have contributed significantly to the character development of our CCA members. We're eager to build on this momentum and aim for even greater achievements in 2024. Thank you, Tampinesians, for your unwavering support!

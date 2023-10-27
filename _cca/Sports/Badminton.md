@@ -4,7 +4,7 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/badminton-1.png)
+![](/images/badminton%20cca%20photo%202023.jpg)
 
 ### CCA Teachers
 

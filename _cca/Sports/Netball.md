@@ -4,7 +4,7 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/netball/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/Photo%20from%20Pek%20Jia%20Hui2.jpg)
+![](/images/2023_netball_02.jpg)
 
 ### CCA Teachers
 
@@ -16,16 +16,16 @@ third_nav_title: Sports
 
 
 ### Training Schedule
-
 Tuesdays &amp; Fridays: 2.45–5.45 p.m. 
 
 ### Vision
 Good player, good student, good daughter
+
 ### Mission
 Together everyone achieves more
 
 
-### INTRODUCTION
+### Introduction
 
 
 **TRAINING SESSIONS INCLUDE:**
@@ -60,32 +60,22 @@ Our students in both B and C divisions are given opportunities to practise perso
 
 Captains and ICs are actively engaged in providing encouragement, coordination and guidance to their peers.
 
-### HIGHLIGHTS
+### Photo Gallery
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgPMzVVPn1ddP532NgI8EUHaC2KxuIkR2gaW4aQLKQbT4LOgMuftFoV5zA1NqepD9-O71xNz5ivO79/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-**ANNUAL EAST ZONE INTER-SCHOOL NETBALL TOURNAMENT:**
+### Highlights &amp; Achievements 
 
-*   C Div finished 10th place out of 20 schools  
-    
-*   B Div played in the preliminary rounds  
-    
+1. Participated in National School Games Netball B and C Div in 2021
 
-**ANNUAL BONDING CAMP**
+2. Participated in National School Games Netball B and C Div in 2022
 
-*   Day of fun-filled bonding activites  
-    
-*   Sports Nutrition Talk&nbsp;
-*   Springfield Secondary Invitational Carnival - C Div 1st place&nbsp;  
-    
-*   Speed Netball Carnival - B Div Team A Quarter Finals&nbsp;  
-    
+3. Participated in National School Games Netball B and C Div in 2023
 
-**INTER-CCA EXCHANGE DAY**
+*   Participated in School League
 
-*   Friendly matches with Springfield Sec, Changkat Changi Sec, Bedok South Sec, Pasir Ris Sec, Pasir Ris Crest Sec, Chung Cheng High (Main)  
-    
-*   Inter-school Netball training exchange with Springfield Secondary School
+4. Netball Bonding Camp in 2022 and 2023
 
-### Photos
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_8nVCyCldjkzFvr3HKUypOOodaI3c-y2ElCCNQdaU6QmBo9J6JbI6qqEMDqptj34rsONTNhEqlHoa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+*   Day of fun-filled bonding activites
+*   Bubble soccer in 2022
+*   Tag Archery in 2023

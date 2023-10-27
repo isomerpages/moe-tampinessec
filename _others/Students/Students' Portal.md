@@ -4,6 +4,12 @@ permalink: /others/students-portal/
 description: ""
 third_nav_title: Students
 ---
+## 2023 Year-End Holiday Assignment
+
+Dear Tampinesians, please refer to the tabs corresponding to your subject group / stream for the homework allocated.
+
+[Sec 1](https://docs.google.com/spreadsheets/d/1bt5F__oUuQiUNv3KU0v3s3EFBpYSzd1Cb1qjAVj4j_A/edit?usp=sharing) <br> [Sec 2](https://docs.google.com/spreadsheets/d/15BpXumIk2SrExcwoEGzHUrYVvSCGJw2mM_s7-zxdu5Q/edit#gid=1799117092) <br> [Sec 3](https://docs.google.com/spreadsheets/d/1knWDrtT9CosuE8iEcRnLTGnyL2tw8FUF2qLNpet_xgw/edit?usp=sharing)
+
 ## Semester 2 Timetable for All Classes and CCA Schedule
 [Please download the Semester 2 Timetable here.](/files/2023%20sem%202%20tt%20final%20classes%20(23%20june).pdf)
 
