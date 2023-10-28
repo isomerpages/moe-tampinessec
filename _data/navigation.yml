@@ -1,0 +1,47 @@
+logo: /images/tpss.png
+links:
+  - title: Our School
+    collection: our-school
+  - title: Our People
+    collection: our-people
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Co-Curriculum
+    url: /our-co-curriculum/character-and-citizenship-education-cce/
+    sublinks:
+      - title: CCE
+        url: /our-co-curriculum/character-and-citizenship-education-cce/
+      - title: ECG
+        url: /our-co-curriculum/educationcareerguidance/
+      - title: Student Development Team (SDT)
+        url: /our-co-curriculum/student-development-team-sdt/
+      - title: Co-Curricular Activities (CCA)
+        url: /our-co-curriculum/co-curricular-activities-ccas/
+      - title: Learning for Life Programme
+        url: /our-co-curriculum/learning-for-life-programme-llp/
+      - title: Applied Learning Programme
+        url: /our-co-curriculum/applied-learning-programme-alp/
+      - title: International Experience
+        url: /our-co-curriculum/trips-for-international-experience-tie/
+      - title: Direct School Admission (DSA)
+        url: /our-co-curriculum/direct-school-admission-dsa/
+  - title: Our Gallery
+    url: /our-gallery/social-media
+    sublinks:
+      - title: Social Media
+        url: /our-gallery/social-media
+      - title: Media Coverage
+        url: /our-gallery/media-coverage
+      - title: Tampines Connection 2022
+        url: https://drive.google.com/file/d/1gg8L6SQis1ZZ2tK0B0ERc7ShT24Flt8D/view
+  - title: Contact Us
+    url: /contact-us
+  - title: ECG
+    url: /ecg
+    sublinks:
+      - title: JAE Website
+        url: https://www.moe.gov.sg/jae
+      - title: SchoolFinder
+        url: https://www.moe.gov.sg/schoolfinder
+      - title: CourseFinder
+        url: http://www.moe.gov.sg/coursefinder
