@@ -21,13 +21,11 @@ Tuesdays: 2.45–5.40 p.m. <br>
 Fridays: 1.30–4.40 p.m. 
 
 
-### 
+### Introduction
 
-Under the baton of Mr Chris Goh and assistant conductor, Mr Alvin Quek, Tampines Concert Band (TPCB) was formed by a group of dedicated musicians from all levels who are&nbsp; committed to achieving excellence in music. With the support of the alumni, instructors and school community, TPCB clinched the Certificate of Accomplishment in the Singapore Youth Festival (SYF) Arts Presentations 2021.&nbsp;
+Under the baton of Mr Chris Goh and assistant conductor, Mr Alvin Quek, Tampines Concert Band (TPCB) was formed by a group of dedicated musicians from all levels who are committed to achieving excellence in music. With the support of the alumni, instructors and school community, TPCB clinched the Certificate of Accomplishment in the Singapore Youth Festival (SYF) Arts Presentations 2021.<br>
 
-  
-
-TPCB has gone to many countries to perform, which has enhanced our global awareness and cross-cultural skills. These invaluable experiences are in line with MOE’s policy of ‘Teach Less, Learn More'.&nbsp;&nbsp;
+TPCB has gone to many countries to perform, which has enhanced our global awareness and cross-cultural skills. These invaluable experiences are in line with MOE’s policy of ‘Teach Less, Learn More'.
 
  ### Introduction
 Under the baton of Mr. Chris Goh and assistant conductor, Mr. Alvin Quek and Mr. Lee Chong Fong, Tampines Concert Band (TPCB) was formed by a group of dedicated musicians from all levels who are committed to achieving excellence in music. With the support of the alumni, instructors and school community, TPCB clinched the Certificate of Accomplishment in the Singapore Youth Festival (SYF) Arts Presentations 2023.
