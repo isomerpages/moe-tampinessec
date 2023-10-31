@@ -26,6 +26,8 @@ Under the baton of Mr. Chris Goh and assistant conductor, Mr. Alvin Quek and Mr.
 
 TPCB has gone to many places and countries to perform, which has enhanced our global awareness and cross-cultural skills.
 
+
+
 ### Highlights and Achievements
 
 ##### Singapore Youth Festival 
