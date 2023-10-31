@@ -36,14 +36,14 @@ Our co-curricular activity (CCA) boasts a strong performance record. We offer nu
 
 ### Highlights &amp; Achievements
 
-### 2018
+#### 2018
 
 *   Super 24 Secondary National Finals 2018 – 1st&nbsp;Runner up
 *   Collaboration with Metta School, SYF Dance Extravaganza 2018
 *   Speech Day Performance 2018
 *   Teachers’ Day Performance 2018
 
-### 2019
+#### 2019
 
 *   Singapore Youth Festival 2019 – Certificate of Distinction
 *   Collaboration with Metta School, SYF Dance Extravaganza 2019
@@ -52,26 +52,26 @@ Our co-curricular activity (CCA) boasts a strong performance record. We offer nu
 *   National Day Performance 2019
 *   Teachers’ Day Performance 2019
 
-### 2020
+#### 2020
 
 *   Racial Harmony Day e-concert
 *   Teachers’ Day e-concert
 
-### 2021
+#### 2021
 
 *   National Day Parade –&nbsp;The Float@Marina Bay
 *   Singapore Youth Festival 2021 – Certificate of Distinction
 *   Chinese New Year e-concert
 *   Teachers’ Day e-concert
 
-### 2022
+#### 2022
 
 *   Chinese New Year concert
 *   Speech Day Performance
 *   Open Stage Dance Competition - Highest achievement of five stars
 *   School Open House
 
-### 2023
+#### 2023
 
 *   CCA Open House
 *   Chinese New Year concert
