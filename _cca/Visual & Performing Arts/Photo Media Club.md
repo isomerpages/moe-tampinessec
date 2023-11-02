@@ -4,6 +4,8 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+
+![](/images/2023_pmc_1.JPG)
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAnk3xVGa48EMAHSlCEEjPdwzbwDoLeHCeL3u8eeeAFPR_YUGb7h1UKdVphJ95xiEubE_3JFgfiq1T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### CCA Teachers
