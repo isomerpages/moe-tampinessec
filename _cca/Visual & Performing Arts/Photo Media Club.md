@@ -4,7 +4,6 @@ permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 ![](/images/2023_pmc_1.JPG)
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAnk3xVGa48EMAHSlCEEjPdwzbwDoLeHCeL3u8eeeAFPR_YUGb7h1UKdVphJ95xiEubE_3JFgfiq1T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -17,8 +16,8 @@ third_nav_title: Visual & Performing Arts
 
 
 ### Training Schedule
-Tuesdays: 3–6 p.m. 
-Fridays: 2–5.30 p.m. 
+Tuesdays: 3 – 5.30 p.m. 
+<br>Fridays: 2.30 – 5.30 p.m. 
 
 ### Vision
 To produce highly skilled and passionate photographers and videographers
