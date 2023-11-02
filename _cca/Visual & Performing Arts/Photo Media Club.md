@@ -39,7 +39,7 @@ The PMC also provides public address system (PA system) services to the school. 
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAnk3xVGa48EMAHSlCEEjPdwzbwDoLeHCeL3u8eeeAFPR_YUGb7h1UKdVphJ95xiEubE_3JFgfiq1T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1D2mAqN7KLwrhJAgdhdLCK7QW3xz1AReoru3l0k0mtUE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Highlights &amp; Achievements
 
