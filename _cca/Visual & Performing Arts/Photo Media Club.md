@@ -20,9 +20,9 @@ Tuesdays: 3 – 5.30 p.m.
 <br>Fridays: 2.30 – 5.30 p.m. 
 
 ### Vision
-To produce highly skilled and passionate photographers and videographers
+To produce highly skilled and passionate photographers, videographers and operators of audio visual equipment.
 ### Mission 
-To train students with the skills and inculcate interest in photography and videography.
+To train students with the skills and inculcate interest in photography and videography and audio visual equipment.
 
 
 ### INTRODUCTION
