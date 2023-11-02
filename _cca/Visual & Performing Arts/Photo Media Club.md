@@ -41,8 +41,8 @@ The PMC also provides public address system (PA system) services to the school. 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAnk3xVGa48EMAHSlCEEjPdwzbwDoLeHCeL3u8eeeAFPR_YUGb7h1UKdVphJ95xiEubE_3JFgfiq1T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-**HIGHLIGHTS**
+### Highlights &amp; Achievements
 
-*   Students will complete their photography course by end of Semester 1. Their grading was carried out at a themed photo project. Their works are planned to be exhibited in school.  
-    
-*   Successful course attendees are then tasked to take up photo assignments in most school activities including the school concerts, Speech Day, Mass Run, Fiesta.
+*   Students will complete their photography course by end of Semester 1, and successful course attendees are then tasked to take up photo assignments in school activities including the school concerts, Speech Day, Mass Run, National Day, Staff Appreciation Day, just to name a few.
+*   Students also learn how to operate audio visual equipment by end of their first year and carry out assigned duties by the beginning of their second year in the club.
+*   There are 2 outings per year: June and November, to various parts of Singapore, where the members can get to know each other better and hone their skills
