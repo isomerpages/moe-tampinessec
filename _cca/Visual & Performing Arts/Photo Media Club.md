@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 ![](/images/2023_pmc_1.JPG)
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAnk3xVGa48EMAHSlCEEjPdwzbwDoLeHCeL3u8eeeAFPR_YUGb7h1UKdVphJ95xiEubE_3JFgfiq1T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
 
 ### CCA Teachers
 
@@ -36,6 +36,10 @@ Since then, the club has grown from strength to strength: In 2022, the club was 
 In 2023, this role was expanded. The club was tasked with taking ALL group photos of the school: Staff and Department photos, CCA photos and Class photos.
 
 The PMC also provides public address system (PA system) services to the school. Every PA system needs good operators: students who can think on their feet to provide the best solution to every situation, and to trouble shoot when things do not go as planned. In addition, the club trains students to be professionals in sound and lights so as to provide the best experience for the audience.
+
+### Photo Gallery
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAnk3xVGa48EMAHSlCEEjPdwzbwDoLeHCeL3u8eeeAFPR_YUGb7h1UKdVphJ95xiEubE_3JFgfiq1T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 **HIGHLIGHTS**
 
