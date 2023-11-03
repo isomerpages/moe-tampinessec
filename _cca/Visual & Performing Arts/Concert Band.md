@@ -29,7 +29,9 @@ Under the baton of Mr. Chris Goh and assistant conductor, Mr. Alvin Quek and Mr.
 
 TPCB has gone to many places and countries to perform, which has enhanced our global awareness and cross-cultural skills.
 
+### Photo Gallery
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTz7SxQ_KMRkvNQeBsJ1PbFkEajEkugaaZnwAi3fqX_KQCmtTmzGgpUMxnTuoyG9rMYfjtznDLEToxe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Highlights and Achievements
 
@@ -76,8 +78,3 @@ TPCB has gone to many places and countries to perform, which has enhanced our gl
 
 ##### 2006
 Festival of Winds, Kuala Lumpur: Gold Award
-
-
-### Photos
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTz7SxQ_KMRkvNQeBsJ1PbFkEajEkugaaZnwAi3fqX_KQCmtTmzGgpUMxnTuoyG9rMYfjtznDLEToxe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
