@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![Concert Band 2023](/images/concertband.jpeg)
 
@@ -79,4 +80,4 @@ Festival of Winds, Kuala Lumpur: Gold Award
 
 ### Photos
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlDGClF5ssi6DtwjPVubZtAj7RKmUwDtOy5mVAOR3Nrth2GlUquU6714hKzXudNoZagHKNwwsYe9EX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTz7SxQ_KMRkvNQeBsJ1PbFkEajEkugaaZnwAi3fqX_KQCmtTmzGgpUMxnTuoyG9rMYfjtznDLEToxe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
