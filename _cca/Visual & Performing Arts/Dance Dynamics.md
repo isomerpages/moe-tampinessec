@@ -84,4 +84,4 @@ Our co-curricular activity (CCA) boasts a strong performance record. We offer nu
 
 ### Photos
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTffb1U-Ndfp9lMbgKq-3dDlq0Gqu1RAQvzxYklJ7Jm7ZLw7J7B9AJfGU7aawxp_vvQhHqzvgy8bQ-J/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTffb1U-Ndfp9lMbgKq-3dDlq0Gqu1RAQvzxYklJ7Jm7ZLw7J7B9AJfGU7aawxp_vvQhHqzvgy8bQ-J/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
