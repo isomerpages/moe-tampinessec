@@ -3,6 +3,7 @@ title: Art Club
 permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/art-club/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/2023_art_05.jpg)
 
@@ -27,15 +28,19 @@ To create artworks from traditional arts to design concepts
 ### Introduction
 Art Club aims to instill in students an appreciation and love for visual art. Art Club students&nbsp;are exposed to varied art forms, ranging from traditional arts to digital designs. Through engaging in drawing, design and craft activities, Art Club students tap on their boundless creativity to create original works through fun art-making experiences with their peers. Art enrichment workshops and competitions further enable students to gain exposure to a wide repertoire of artistic experiences. Such workshops include marbling art, embroidery, water colouring and digital fashion illustration designs.
 
-### Highlights & Achievements
+### Photo Gallery
 
-**2022 & 2023**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSxQB2C7j7OHEdZsckUSm3rw2Om9rJBYlIUitqCHmumSwPSkTilQ4H8I-_T8pWSOuuBwfwPBKFkQe3V/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Highlights &amp; Achievements
+
+**2022 &amp; 2023**
 *   Oil Painting Workshop
 *   Block Printing Workshop
 *   Sculpturing Workshop
 *   Pottery Workshop @ Thow Kwang Dragon Pottery
 *   2022 SYF Art Exhibition \_ students works featured [the exhbition](https://www.notion.so/the-exhbition-42ec790b43224b8e9fe84d75f07d553f?pvs=21)
-*   2022 & 2023 : Participated at the “Write for Kindness” Competition organised by the Singapore Kindness Movement
+*   2022 &amp; 2023 : Participated at the “Write for Kindness” Competition organised by the Singapore Kindness Movement
 *   Tampines Town Council Drawing Competition 2023: Eco-Warrior Powers Up Tampines
 *   Art Club members conducted the “Digital Art Workshop” , “Batik Painting Workshop”, “ Block Printing Workshop” for school students of all levels.
 *   “Immerse into the Diverse” an Art Exhibition by Art Club at the PaSSion Arts Festival 2023
