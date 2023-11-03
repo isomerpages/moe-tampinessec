@@ -3,8 +3,10 @@ title: Dance Dynamics
 permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/dance-dynamics/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
-![](/images/dance%20dynamics.png)
+![](/images/image%201%20dare%20to%20dream%20dare%20to%20dance.JPG)
+
 
 ### CCA Teachers
 
@@ -82,4 +84,4 @@ Our co-curricular activity (CCA) boasts a strong performance record. We offer nu
 
 ### Photos
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBRw7AXUs5iGE0kAD6f-Yp0nScTIPjSlW_LYpRhQDyd1p4tiMwBBIr-C2cjvsxZGkfAT0r08RptCA7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTffb1U-Ndfp9lMbgKq-3dDlq0Gqu1RAQvzxYklJ7Jm7ZLw7J7B9AJfGU7aawxp_vvQhHqzvgy8bQ-J/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
