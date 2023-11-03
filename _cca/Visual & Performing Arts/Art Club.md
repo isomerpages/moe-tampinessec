@@ -34,7 +34,7 @@ Art Club aims to instill in students an appreciation and love for visual art. Ar
 
 ### Highlights &amp; Achievements
 
-**2022 &amp; 2023**
+**2022 &amp; 2023**<br>
 *   Oil Painting Workshop
 *   Block Printing Workshop
 *   Sculpturing Workshop
@@ -46,7 +46,7 @@ Art Club aims to instill in students an appreciation and love for visual art. Ar
 *   “Immerse into the Diverse” an Art Exhibition by Art Club at the PaSSion Arts Festival 2023
 *   2022 SYF Arts Presentation Showcase at The PaSSion Arts Festival.
 
-**2021**
+**2021**<br>
 
 *   ‘Celebrating our Healthcare Heroes’ youth art competition organised by Asian Scientist Magazine (3rd prize and Merit prize in the Intermediate Category)
     
@@ -54,12 +54,12 @@ Art Club aims to instill in students an appreciation and love for visual art. Ar
     
 *   Selected artworks from ‘Celebrating our Healthcare Heroes’ competition exhibited at ION Art Gallery (13-17 March 2021)
 
-**2020**
+**2020**<br>
 
 *   ‘Tampines Together, #TampinesUnited’ drawing competition organised by Tampines Town Council (Consolation prize)
 *   Online art exhibition on Zoom hosted by St Hilda’s Secondary
 
-**2019**
+**2019**<br>
 
 *   Participated in SYF Logo Design competition
 *   Yeo’s Pink Dolphin Packaging Design competition (finalist in Junior category)
@@ -67,13 +67,13 @@ Art Club aims to instill in students an appreciation and love for visual art. Ar
 *   Marbling art workshop
 *   Digital fashion illustration design workshop
 
-**2018**
+**2018**<br>
 
 *   SYF Art Competition - ‘Iconic’ Artwork selected for curated SYF Art Exhibition at National Gallery
 *   SYF Learning Journey to National Gallery
 *   Singapore Kindness Movement’s ‘Gracious’ poster design competition
 
-**2017**
+**2017**<br>
 
 *   Designed Sec 2 and 3 Camp T-Shirts
 *   Designed TPSS Fiesta banner
