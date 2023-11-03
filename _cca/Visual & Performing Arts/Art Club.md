@@ -53,3 +53,30 @@ Art Club aims to instill in students an appreciation and love for visual art. Ar
 *   ‘Celebrating our Healthcare Heroes’ youth art competition organised by Asian Scientist Magazine (3rd prize and Merit prize in the Intermediate Category)
     
 *   Selected artworks from ‘Celebrating our Healthcare Heroes’ competition exhibited at ION Art Gallery (13-17 March 2021)
+
+**2020**
+
+*   ‘Tampines Together, #TampinesUnited’ drawing competition organised by Tampines Town Council (Consolation prize)
+*   Online art exhibition on Zoom hosted by St Hilda’s Secondary
+
+**2019**
+
+*   Participated in SYF Logo Design competition
+*   Yeo’s Pink Dolphin Packaging Design competition (finalist in Junior category)
+*   Wall mural painting and acrylic assemblage at Tampines Care Home (ViA)
+*   Marbling art workshop
+*   Digital fashion illustration design workshop
+
+**2018**
+
+*   SYF Art Competition - ‘Iconic’ Artwork selected for curated SYF Art Exhibition at National Gallery
+*   SYF Learning Journey to National Gallery
+*   Singapore Kindness Movement’s ‘Gracious’ poster design competition
+
+**2017**
+
+*   Designed Sec 2 and 3 Camp T-Shirts
+*   Designed TPSS Fiesta banner
+*   Created plank art designs for Tampines Changkat CC
+*   Brooch-making for Cats Welfare Society (ViA)
+*   Participated in E6 Young Illustrator Awards competition
