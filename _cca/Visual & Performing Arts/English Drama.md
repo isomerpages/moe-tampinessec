@@ -60,7 +60,7 @@ The Drama Club’s ultimate goal is to nurture students into confident and indep
     
 *   Singapore Youth Festival 2020 Online! – Virtual Stage (with training given during eCCA)
     
-*   Singapore Youth Festival 2020 Online! – Drama on Air (with training given during eCCA)(**Featured in SYF YouTube Page)**
+*   Singapore Youth Festival 2020 Online! – Drama on Air (with training given during eCCA) (**Featured in SYF YouTube Page)**
     
 *   Singapore Youth Festival 2020 Online! – Collaborative performance with Bukit View Secondary School (**Featured in SYF YouTube Page)**
     
