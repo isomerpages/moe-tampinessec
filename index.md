@@ -18,6 +18,16 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
+  - infopic:
+      title: Open House 2023
+      subtitle: announcement
+      id: infopic
+      description: TPSS warmly invites all Primary 6 students and parents to our Open
+        House on 25 November 2023! The event will be held from 9am to 1pm.
+      button: Visit our Facebook Page for more
+      url: https://www.facebook.com/TampinesSec
+      image: /images/openhouse_2023.jpg
+      alt: TPSS Open House 2023
   - infobar:
       title: 2023 Year-End Holiday Homework
       subtitle: Announcement
