@@ -26,7 +26,7 @@ sections:
         House on 25 November 2023! The event will be held from 9am to 1pm.
       button: Visit our Facebook Page for more
       url: https://www.facebook.com/TampinesSec
-      image: /images/openhouse_2023.jpg
+      image: /images/WhatsApp_Image_2023_11_24_at_13_47_07.jpeg
       alt: TPSS Open House 2023
   - infobar:
       title: 2023 Year-End Holiday Homework
