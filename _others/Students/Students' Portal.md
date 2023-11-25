@@ -3,7 +3,19 @@ title: Students' Portal
 permalink: /others/students-portal/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
+## 2024 Booklists (Sec 2 to 5)
+
+[Sec 2](/files/Sec_2_Booklist_2024.pdf) <br>
+[Sec 3 Express](/files/Sec_3E_Booklist_2024.pdf) <br>
+[Sec 3 Normal (Academic)](/files/Sec_3NA_Booklist_2024.pdf) <br>
+[Sec 3 Normal (Technical)](/files/Sec_3NT_Booklist_2024.pdf)<br>
+[Sec 4 Express](/files/Sec_4E_Booklist_2024.pdf)<br>
+[Sec 4 Normal (Academic)](/files/Sec_4NA_Booklist_2024.pdf)<br>
+[Sec 4 Normal (Technical)](/files/Sec_4NT_Booklist_2024.pdf)<br>
+[Sec 5 Normal (Academic)](/files/Sec_5NA_Booklist_2024.pdf)
+
 ## 2023 Year-End Holiday Assignment
 
 Dear Tampinesians, please refer to the tabs corresponding to your subject group / stream for the homework allocated.
