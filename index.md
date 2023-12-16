@@ -19,11 +19,12 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infobar:
-      title: Release of 2023 N level results
-      subtitle: 2023 N level students
+      title: 2023 N level results release
+      subtitle: N level students and parents
       id: infobar
-      description: Results for the N level examination will be released on the 18
-        December, Monday. Please visit the link below for detailed instructions.
+      description: "The N level are released on 18 December! We have provided some
+        resources on navigating this milestone, available through the link
+        below. "
       button: More details
       url: /others/students/examresults/
   - infobar:
