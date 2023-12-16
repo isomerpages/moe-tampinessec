@@ -2,7 +2,7 @@ collections:
   others:
     output: true
     order:
-      - Parents/National Exam Results Release.md
+      - Parents/10) National Exam Results Release.md
       - Parents/.keep
       - Parents/Parents Gateway.md
       - Parents/1) Important Helplines.md
