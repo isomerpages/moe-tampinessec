@@ -22,9 +22,9 @@ sections:
       title: Release of N level results
       subtitle: 2023 N level students
       id: infobar
-      description: "N level results will be released on the 18 December, Monday. "
+      description: N level results will be released on the 18 December, Monday.
       button: More details
-      url: Placeholder
+      url: /others/students/examresults/
   - infobar:
       title: Announcement for 2024 Sec 1 students taking MSP
       id: infobar
