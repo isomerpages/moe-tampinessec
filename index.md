@@ -20,9 +20,9 @@ sections:
       background: /images/animated-hero-banner.gif
   - infobar:
       title: Release of N level results
-      subtitle: "2023 N level students "
+      subtitle: 2023 N level students
       id: infobar
-      description: The release of the N level results
+      description: "N level results will be released on the 18 December, Monday. "
       button: More details
       url: Placeholder
   - infobar:
