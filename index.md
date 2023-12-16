@@ -22,11 +22,11 @@ sections:
       title: 2023 N level results release
       subtitle: N level students and parents
       id: infobar
-      description: "The N level are released on 18 December! We have provided some
+      description: The N level are released on 18 December! We have provided some
         resources on navigating this milestone, available through the link
-        below. "
+        below.
       button: More details
-      url: /others/students/examresults/
+      url: /others/parents/examresults/
   - infobar:
       title: Announcement for 2024 Sec 1 students taking MSP
       id: infobar
