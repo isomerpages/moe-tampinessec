@@ -20,7 +20,7 @@ sections:
       background: /images/animated-hero-banner.gif
   - infobar:
       title: 2023 N-level Results Release
-      subtitle: N-level student and parents
+      subtitle: N-level students and parents
       id: infobar
       description: The N-level results are released on 18 December. We have provided
         some resources on navigating this milestone, available through the link
