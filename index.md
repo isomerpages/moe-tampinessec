@@ -28,12 +28,13 @@ sections:
       button: More details
       url: /others/parents/examresults/
   - infobar:
-      title: Announcement for 2024 Sec 1 students taking MSP
+      title: Registration for Malay Special Programme
       id: infobar
-      description: Registration is open from 21 December 2023 (from 7 am) to 4 January
-        2024 (5 pm). Please click on the link below for more information.
+      description: "Registration is open from 21 December 2023 (from 7 am) to 4
+        January 2024 (5 pm) for students taking MSP in 2024. "
       button: Registration details
-      url: /others/students/msp2024/
+      url: /others/students/msp/
+      subtitle: 2024 Secondary 1 students
   - infopic:
       title: Open House 2023
       subtitle: announcement
