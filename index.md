@@ -18,6 +18,23 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
+  - infobar:
+      title: 2023 N-level Results Release
+      subtitle: N-level students and parents
+      id: infobar
+      description: The N-level results are released on 18 December. We have provided
+        some resources on navigating this milestone, available through the link
+        below.
+      button: More details
+      url: /others/parents/examresults/
+  - infobar:
+      title: Registration for Malay Special Programme
+      id: infobar
+      description: Registration is open from 21 December 2023 (from 7 am) to 4 January
+        2024 (5 pm) for students taking MSP in 2024.
+      button: More details
+      url: /others/students/msp/
+      subtitle: 2024 Secondary 1 students
   - infopic:
       title: Open House 2023
       subtitle: announcement
