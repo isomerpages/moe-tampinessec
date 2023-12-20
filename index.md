@@ -22,7 +22,7 @@ sections:
       title: Sec 1 Registration Information
       subtitle: Sec 1 parents and students
       id: infobar
-      description: "Please follow the link to access the welcome letter and booklist. "
+      description: Please follow the link to access the welcome letter and booklist.
       button: More details
       url: /sec1students/
   - infobar:
