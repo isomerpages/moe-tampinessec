@@ -19,6 +19,13 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infobar:
+      title: Sec 1 Registration Information
+      subtitle: Sec 1 parents and students
+      id: infobar
+      description: "Please follow the link to access the welcome letter and booklist. "
+      button: More details
+      url: /sec1students/
+  - infobar:
       title: 2023 N-level Results Release
       subtitle: N-level students and parents
       id: infobar
