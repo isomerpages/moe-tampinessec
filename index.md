@@ -19,6 +19,14 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infobar:
+      title: 21 December FSBB briefing
+      subtitle: Parents of G1/G2 students
+      id: infobar
+      description: Slides from the FSBB Briefing for parents of students in Posting
+        Group 1 (G1) and Posting Group 2 (G2) are now available.
+      button: Link to slides
+      url: /files/FSBB_Briefing_slides_for_parents_21_Dec_2023.pdf
+  - infobar:
       title: Sec 1 Registration Information
       subtitle: Sec 1 parents and students
       id: infobar
