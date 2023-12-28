@@ -2,6 +2,7 @@
 title: Teachers' Portal
 permalink: /others/teachers-portal/
 description: ""
+variant: markdown
 ---
 ### Corporate Communications
 [Website Updating Portal](https://nebulous-crawdad-f32.notion.site/Welcome-to-Website-Updating-Portal-by-Corporate-Communications-Committee-392cdc06a76a49b0aecdf51702b98823)
