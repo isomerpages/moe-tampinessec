@@ -2,6 +2,7 @@
 title: Information & Communications Technology
 permalink: /our-curriculum/information-technology-department/
 description: ""
+variant: markdown
 ---
 ![](/images/2023tpss16ict.jpg)
 
@@ -38,6 +39,8 @@ The device will facilitate an environment that encourages personalised learn
 **Following is the deck of slides which had been shared during the Parents’ Engagement Session:**
 
 [Parents Engagement Slides](https://www.tampinessec.moe.edu.sg/files/TPSS%20Parents%20Meeting%20Slides.pdf)
+
+[Parent Engagement Slides](/files/2024_TPSS_Parents_Meeting_Slides_V1.pdf)
 
 ### Enrichment Modules
 
