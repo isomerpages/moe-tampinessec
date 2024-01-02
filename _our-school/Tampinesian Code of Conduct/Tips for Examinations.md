@@ -3,10 +3,11 @@ title: Tips for Examinations
 permalink: /our-school/Tampinesian-Code-of-Conduct/tips-for-examinations/
 description: ""
 third_nav_title: Tampinesian Code of Conduct
+variant: markdown
 ---
 ### BEFORE EXAMS
 
-**SET REALISTIC GOALS**
+**Set realistic goals**
 
 *   Develop good study habit   
     
@@ -19,12 +20,12 @@ third_nav_title: Tampinesian Code of Conduct
 *   Consult your teacher/ friend on topics that you don’t understand.  
     
 
-**SLEEP, EAT, EXERCISE, DRINK PLENTY OF WATER**
+**Sleep, eat, exercise and drink plenty of water**
 
 *   A healthy body makes for an alert mind.  
     
 
-**STUDY SMART**
+**Study smart**
 
 *   Know your learning strategies.  
     
@@ -41,7 +42,7 @@ third_nav_title: Tampinesian Code of Conduct
 
 ### DURING EXAMS 
 
-**STAY CALM AND CONCENTRATE**
+**Stay calm and concentrate.**
 
 *   Read all instructions carefully.  
     
@@ -54,13 +55,13 @@ third_nav_title: Tampinesian Code of Conduct
 *   Check all your answers before submitting your paper. Catch your mistakes before they catch you!  
     
 
-**BELIEVE IN YOURSELF, DO YOUR BEST AND DON’T WORRY**
+**Believe in yourself, don't worry and try your best.**
 
 #### AFTER EXAMS 
 
 Celebrate! You deserve it.
 
-**IF YOU RE NOT HAPPY WITH YOUR RESULTS**
+**If you're not happy with your results,**
 
 *   Talk to your parents. Tell them how you feel.  
     
@@ -69,4 +70,4 @@ Celebrate! You deserve it.
 *   Work out better ways to succeed.  
     
 
-#### BE PATIENT WITH YOURSELF.THERE WILL BE ANOTHER CHANCE TO DO BETTER.
+#### Be patient with yourself. There will be another chance to do better.
