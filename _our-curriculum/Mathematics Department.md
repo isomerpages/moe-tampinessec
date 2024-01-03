@@ -2,6 +2,7 @@
 title: Mathematics Department
 permalink: /our-curriculum/mathematics-department/
 description: ""
+variant: markdown
 ---
 ![](/images/math%20dept%202023.jpeg)
 
@@ -20,11 +21,8 @@ description: ""
 |  | Mdm Ho Sam Hong |
 |  | Mr Ong Chih Faah |
 |  | Mdm Ng Liang Jeah |
-|  | Mdm Chan Wan Yin |
-|  | Mr Chen Changjin Zac |
 |  | Mr Teo Shao Hao |
 |  | Ms Sun Yu |
-|  | Mr Tep Shao Hao |
 |  | Mdm Krystal Lee Shen Yee |
 |  | Mr Mohd Ariff |
 |  | Ms Choo Weilin |
