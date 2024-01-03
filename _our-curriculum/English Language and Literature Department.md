@@ -2,6 +2,7 @@
 title: English Language and Literature Department
 permalink: /our-curriculum/english-language-and-literature-department/
 description: ""
+variant: markdown
 ---
 ![](/images/2023_tpss_31_english.JPG)
 		 
@@ -17,11 +18,9 @@ description: ""
 |  | Mr Ezekiel Goh Zhuang Yuan (EL / Math) |
 |  | Ms Hernie Binte Salleh |
 |  | Mdm Lee Whye Gwan (EL) |
-|  | Ms Li Sijie (EL / Lit) |
 |  | Mr Mohamad Imran B AB Malek (EL) |
 |  | Mr Ng Woon Bing Kevin (EL / Geography) |
 |  | Ms Nurasyikin Hapet (EL) |
-|  | Ms Pek Jia Hui (EL) |
 |  | Ms Sarinah Mohamed |
 
 ### Vision
