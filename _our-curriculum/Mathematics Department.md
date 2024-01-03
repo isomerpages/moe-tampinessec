@@ -21,8 +21,6 @@ variant: markdown
 |  | Mdm Ho Sam Hong |
 |  | Mr Ong Chih Faah |
 |  | Mdm Ng Liang Jeah |
-|  | Mdm Chan Wan Yin |
-|  | Mr Chen Changjin Zac |
 |  | Mr Teo Shao Hao |
 |  | Ms Sun Yu |
 |  | Mdm Krystal Lee Shen Yee |
