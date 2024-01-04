@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCAs).md
-      - CCA SCHEDULE 2023.md
+      - CCA schedules.md
       - ATTAINMENT Scheme.md
       - Sports/.keep
       - Sports/Badminton.md
