@@ -27,10 +27,11 @@ sections:
       button: Link to slides
       url: /files/FSBB_Briefing_slides_for_parents_21_Dec_2023.pdf
   - infobar:
-      title: Sec 1 Registration Information
+      title: Sec 1 Information
       subtitle: Sec 1 parents and students
       id: infobar
-      description: Please follow the link to access the welcome letter and booklist.
+      description: "Please follow the link to access information about Sec 1
+        registration and orientation. "
       button: More details
       url: /sec1students/
   - infobar:
