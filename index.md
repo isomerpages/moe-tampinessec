@@ -30,8 +30,8 @@ sections:
       title: Sec 1 Information
       subtitle: Sec 1 parents and students
       id: infobar
-      description: "Please follow the link to access information about Sec 1
-        registration and orientation. "
+      description: Please follow the link to access information about Sec 1
+        registration and orientation.
       button: More details
       url: /sec1students/
   - infobar:
@@ -137,4 +137,12 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: Semester 1 Timetable
+      subtitle: Announcement
+      id: infobar
+      description: Dear Tampinesians, please visit the Students' Portal to download
+        the Semester 1 Timetable.
+      button: Students' Portal
+      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
 ---
