@@ -19,6 +19,14 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infobar:
+      title: Semester 1 Timetable
+      subtitle: Announcement
+      id: infobar
+      description: Dear Tampinesians, please visit the Students' Portal to download
+        the Semester 1 Timetable.
+      button: Students' Portal
+      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
+  - infobar:
       title: 21 December FSBB briefing
       subtitle: Parents of G1/G2 students
       id: infobar
@@ -137,12 +145,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: Semester 1 Timetable
-      subtitle: Announcement
-      id: infobar
-      description: Dear Tampinesians, please visit the Students' Portal to download
-        the Semester 1 Timetable.
-      button: Students' Portal
-      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
 ---
