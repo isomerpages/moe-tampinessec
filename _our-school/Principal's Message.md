@@ -19,7 +19,7 @@ A warm welcome to the Tampines Secondary School (TPSS) website!&nbsp; In this se
 
 With the National School Games and Singapore Youth Festival in full swing, we were pleased to see many of our student representatives put in their best effort in the various sports and performances.&nbsp; Their endeavours enhanced our school’s celebratory spirit as we did very well overall, including clinching a national runners-up position for our B division football (girls).&nbsp; We ended 2023 with Graduation Night, something which our S4/5s were looking forward to after their National Examinations.&nbsp; I am sure it was an event that has become part of their fond memories at TPSS.
 
-![](/images/Picture3.png)
+![](/images/pic4.jpg)
 
 During our school’s Speech Day, I also took the opportunity to renew our school’s commitment to develop our students as learners, thinkers and leaders who are future-ready and who have the heart to serve.&nbsp; So, in 2024, we will continue our mission to provide a well-rounded education in a nurturing environment to prepare Tampinesians for the future.
 
