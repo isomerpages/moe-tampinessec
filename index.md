@@ -19,6 +19,12 @@ sections:
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
   - infobar:
+      title: 2023 O Level Results Release
+      subtitle: 2023 4ENA5N Cohort
+      id: infobar
+      description: Students are to report punctually on Thu, 11 Jan 2024 at 2pm to our
+        Multi-Purpose Hall (MPH) in school-based attire or ITE Uniform.
+  - infobar:
       title: Semester 1 Timetable
       subtitle: Announcement
       id: infobar
