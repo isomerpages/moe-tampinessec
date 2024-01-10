@@ -22,8 +22,11 @@ sections:
       title: 2023 O Level Results Release
       subtitle: 2023 4ENA5N Cohort
       id: infobar
-      description: Students are to report punctually on Thu, 11 Jan 2024 at 2pm to our
-        Multi-Purpose Hall (MPH) in school-based attire or ITE Uniform.
+      description: "Students are to report punctually on 11/1/24 at 2pm to the Hall in
+        school attire/ITE uniform. We have provided resources on this milestone,
+        through this link:"
+      button: more details
+      url: https://www.tampinessec.moe.edu.sg/others/parents/examresults/
   - infobar:
       title: Semester 1 Timetable
       subtitle: Announcement
