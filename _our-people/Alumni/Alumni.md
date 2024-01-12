@@ -28,4 +28,4 @@ We want to stay connected and engaged with you, our alumni. Please take a minute
 
 Thank you.
 
-[https://sites.google.com/view/tpss-alumni/home](https://sites.google.com/view/tpss-alumni/home)
+[Alumni contact details form](https://go.gov.sg/tpssalumni)
