@@ -32,8 +32,10 @@ links:
         url: /our-gallery/social-media
       - title: Media Coverage
         url: /our-gallery/media-coverage
-      - title: Tampines Connection 2022
-        url: https://drive.google.com/file/d/1gg8L6SQis1ZZ2tK0B0ERc7ShT24Flt8D/view
+      - title: Publications
+        url: /our-gallery/publications
+      - title: Photos
+        url: /our-gallery/photos
   - title: Contact Us
     url: /contact-us
   - title: ECG
