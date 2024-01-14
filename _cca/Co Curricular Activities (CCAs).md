@@ -2,6 +2,7 @@
 title: Co Curricular Activities (CCAs)
 permalink: /our-co-curriculum/co-curricular-activities-ccas/
 description: ""
+variant: markdown
 ---
 ### Purpose
 - The CCA Programme provides students with a platform to discover their interest and talents and thus, playing a key role in the holistic development of our students.
@@ -45,7 +46,7 @@ At the end of the graduating year, students’ co-curricular attainment will be 
 
 | Sports | Visual &amp; Performing Arts |
 |---|---|
-| Badminton (B/G)<br>Basketball (B/G)<br>Football (B/G)<br>Wushu (B/G)<br>Netball | Art Club<br>Photo Media Club <br> Show Choir<br>English Drama<br>Dance Dynamics<br>Malay Dance<br>Modern Chinese Dance<br>Concert Band  |
+| Badminton (B/G)<br>Basketball (B/G)<br>Football (B/G)<br>Netball | Art Club<br>Photo Media Club <br> Show Choir<br>English Drama<br>Dance Dynamics<br>Malay Dance<br>Modern Chinese Dance<br>Concert Band  |
 
 | Clubs | Uniformed Groups |
 |---|---|
