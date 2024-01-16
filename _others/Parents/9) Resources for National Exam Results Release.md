@@ -1,5 +1,5 @@
 ---
-title: 10) Resources for National Exam Results Release
+title: 9) Resources for National Exam Results Release
 permalink: /others/parents/examresults/
 variant: tiptap
 description: ""
