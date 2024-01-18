@@ -2,10 +2,9 @@
 title: Executive and Administrative Staff
 permalink: /our-people/eas/
 description: ""
+variant: markdown
 ---
-
-
- <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -26,9 +25,17 @@ description: ""
     <td class="tg-0pky">Administration Manager</td>
     <td class="tg-0pky">Mdm Angeline Hong</td>
   </tr>
+	  <tr>
+    <td class="tg-0pky">Administration Manager</td>
+    <td class="tg-0pky">Mr Joshua Chua</td>
+  </tr>
   <tr>
     <td class="tg-0pky">Operations Manager</td>
     <td class="tg-0pky">Mr Michael Toh</td>
+  </tr>
+	  <tr>
+    <td class="tg-0pky">ECG Counsellor</td>
+    <td class="tg-0pky">Mr Mohammed Syahril</td>
   </tr>
   <tr>
     <td class="tg-0pky">ICT Manager</td>
