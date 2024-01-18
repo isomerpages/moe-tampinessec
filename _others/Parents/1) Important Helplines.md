@@ -3,6 +3,7 @@ title: 1) Important Helplines
 permalink: /others/parents-portal/1-important-helplines/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ### CALL OR APPROACH FOR COUNSELLING MATTERS:
 
@@ -61,7 +62,7 @@ third_nav_title: Parents
     <td class="tg-52n0">EXT 865</td>
   </tr>
   <tr>
-    <td class="tg-52n0">MS SALINA AW BINTE FAIRUZ</td>
+    <td class="tg-52n0">MS NUR HADHINAH</td>
     <td class="tg-52n0"> 67835423</td>
     <td class="tg-52n0">EXT 879</td>
   </tr>
@@ -74,7 +75,7 @@ SOCIAL SERVICE AGENCIES ARE BASED IN THE COMMUNITY TO PROVIDE SUPPORT TO INDIVID
 
 TO SEEK ASSISTANCE FROM A SOCIAL SERVICE AGENCY, YOU MAY CONTACT THEM DIRECTLY AT THE FOLLOWING PHONE NUMBERS AND HOTLINES.
 
-### FAMILY SERVICE CENTRES IN THE EAST
+### FAMILY&nbsp;SERVICE&nbsp;CENTRES&nbsp;IN&nbsp;THE&nbsp;EAST
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
