@@ -2,6 +2,7 @@
 title: Humanities Department
 permalink: /our-curriculum/humanities-department/
 description: ""
+variant: markdown
 ---
 ![](/images/humanities.jpg)
 
@@ -19,6 +20,8 @@ description: ""
 |                     | Ms Chia Yu Ru              |
 |                     | Mr Ivan Lee Jia Xiang      |
 |                     | Mr Nicholas Seow Wei Ming |
+|                     | Ms Nur Sufriena Suhaini |
+|                     | Mr Ricky Reuben David John |
 
 ## Vision
 Learners who embrace their role as global citizens who are able to manage complexity, ambiguities and diverse perspectives in an increasingly globalized world through being able to think critically and flexibly when faced with issues and challenges  
