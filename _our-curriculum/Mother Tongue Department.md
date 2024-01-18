@@ -2,6 +2,7 @@
 title: Mother Tongue Department
 permalink: /our-curriculum/mother-tongue-department/
 description: ""
+variant: markdown
 ---
 ![](/images/2023_tpss_41_mother_tongue.jpg)
 
@@ -9,16 +10,16 @@ description: ""
 
 | Designation | Name |
 |---|---|
-| SH Chinese Language | Ms Li Kaiying |
-| SH Malay Language | Mr Esfan Rizal Bin Rahwom |
+| HOD Mother Tongue Languages | Ms Li Kaiying |
+| Senior Teacher Malay Language | Mr Esfan Rizal Bin Rahwom |
 | HOD Discipline | Ms Ho Lian Shi |
 |  | Mr Abdul Jalil Ali |
 |  | Mdm Chew Poh Kim |
 |  | Mdm Mazni Abu Bakar |
 |  | Mr Muhammad Atiqullah Ismail |
 |  | Ms Nuraisyah Razali |
+|  | Ms Nur Fatin Atikah (UT) |
 |  | Mdm Nurliyana Hassan |
-|  | Ms Nur Sakinah Abdul Ghani (UT) |
 |  | Ms Sri Nur Amanina Kamil |
 |  | Mr Tan Sing Hwa |
 |  | Mdm Teo Ah Tiok (FAJT) |
