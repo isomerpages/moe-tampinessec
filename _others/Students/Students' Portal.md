@@ -6,10 +6,10 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>Semester 1 Timetable</h3>
-<p><a href="/files/2024_Sec_1_SEM_1_TT_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Classes</a>
-    <br><a href="/files/2024_SEM_1_TT_SEC_2_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Classes</a>
-    <br><a href="/files/2024_SEM_1_TT_SEC_3_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Classes</a>
-    <br><a href="/files/2024_SEM_1_TT_SEC_4_5_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Classes</a>
+<p><a href="/files/2024_Sec_1_SEM_1_TT_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Classes</a> 
+    <br><a href="/files/2024_SEM_1_TT_SEC_2_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Classes</a> 
+    <br><a href="/files/2024_SEM_1_TT_SEC_3_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Classes</a> 
+    <br><a href="/files/2024_SEM_1_TT_SEC_4_5_CLASSES__website__25_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Classes</a> 
     <br>
 </p>
 <p></p>
@@ -43,9 +43,9 @@ variant: tiptap
 <h3>2023 Mid-Year Holiday Homework</h3>
 <p>Please refer the tab corresponding to your subject group / stream to check
     the homework assigned for the June holidays.
-    <br><a href="https://docs.google.com/spreadsheets/d/1wpUVmyn85qp0zN1yAJZYZjLmhNXRKIUQ3noTOBCebJ8/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-    <br><a href="https://docs.google.com/spreadsheets/d/1IpFdB5GkmNJ_bWK44OcWquiXXfaPDaCaGapgovH9IJs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-    <br><a href="https://docs.google.com/spreadsheets/d/16dWJ6W0g27deLNFz01pg-eT6uPJr8gvrFuAd3I4n0o8/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+    <br><a href="https://docs.google.com/spreadsheets/d/1wpUVmyn85qp0zN1yAJZYZjLmhNXRKIUQ3noTOBCebJ8/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> 
+    <br><a href="https://docs.google.com/spreadsheets/d/1IpFdB5GkmNJ_bWK44OcWquiXXfaPDaCaGapgovH9IJs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a> 
+    <br><a href="https://docs.google.com/spreadsheets/d/16dWJ6W0g27deLNFz01pg-eT6uPJr8gvrFuAd3I4n0o8/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
     <br><a href="https://docs.google.com/spreadsheets/d/1xzr-kWIyglamNplOuJzUttvILHO9uzqIBshoQsMr15w/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a>
 </p>
 <h3>Sec 3 Subject Combination Exercise</h3>
