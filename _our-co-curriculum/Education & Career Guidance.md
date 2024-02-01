@@ -2,6 +2,7 @@
 title: Education & Career Guidance
 permalink: /our-co-curriculum/educationcareerguidance/
 description: ""
+variant: markdown
 ---
 #### What is Education and Career Guidance (ECG)?
 
@@ -65,4 +66,3 @@ Sec 4/5 on Education and career **decision** **making**.
 | JAE website ([www.moe.gov.sg/jae](www.moe.gov.sg/jae)) | Contains essential information on JAE, such as an overview of the JAE process and timeline (the key stages and respective dates/periods). |
 | Course Finder ([www.moe.gov.sg/coursefinder](www.moe.gov.sg/coursefinder)): | Explore courses offered by the polytechnics and Institute of Technical Education, based on aggregate type and area of interest. Interactive filters allow students to explore courses based on aggregate type, score and field of study and shortlist courses. Students can also access the course’s minimum entry requirements, details about the course (modules and career prospects), etc. |
 | School Finder ([www.moe.gov.sg/schoolfinder](www.moe.gov.sg/schoolfinder)) | Find school information such as contact details, JAE aggregate score range, subjects offered, CCAs and programmes offered by the junior colleges and Millennia Institute. Interactive filters allow students to shortlist schools based on their considerations, such as electives and programmes, subjects. |
-
