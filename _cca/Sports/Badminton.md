@@ -3,6 +3,7 @@ title: Badminton
 permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/badminton%20cca%20photo%202023.jpg)
 
@@ -11,7 +12,7 @@ third_nav_title: Sports
 | Role | Teacher |
 |---|---|
 | OIC | Mr Mohd Faaiz Bin Ishar |
-| Teacher | Mr Teo Shao Hao |
+| 2IC | Mr Teo Shao Hao |
 | Teacher | Ms Sarinah Mohamed |
 | Teacher | Ms Krystal Lee Shen Yee |
 
