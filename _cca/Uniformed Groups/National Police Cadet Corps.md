@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /our-co-curriculum/co-curricular-activities-ccas/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/Squadnpap.png)
 
@@ -11,7 +12,9 @@ third_nav_title: Uniformed Groups
 | Role | Teacher | 
 | -------- | -------- | 
 | OIC     | Mr Ong Chih Faah     | 
-| 2IC     | Mr Lee Jia Xiang Ivan    | 
+| 2IC     | Mr Nicholas Seow Wei Ming    |
+|            | Mr Ricky Rueban David John    |
+|            | Mdm Lim Chu Toh
  
 
 ### Training Schedule

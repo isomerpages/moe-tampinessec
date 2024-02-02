@@ -3,6 +3,7 @@ title: St John Brigade
 permalink: /our-co-curriculum/co-curricular-activities-ccas/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/2023_sjb_01.jpg)
 
@@ -11,7 +12,8 @@ third_nav_title: Uniformed Groups
 | Role | Teacher | 
 | -------- | -------- | 
 | OIC     | Mr Lim Choy Kee James     | 
-| 2IC     | Ms Jasmine Tan Jie Min     | 
+| 2IC     | Ms Jasmine Tan Jie Min     |
+|            | Mr Goh Zhuang Yuan Ezekiel     |
 
 
 ### Training Schedule
