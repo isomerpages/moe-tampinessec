@@ -3,6 +3,7 @@ title: English Drama
 permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/english-drama/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/2023_drama_03.jpg)
 
@@ -11,7 +12,7 @@ third_nav_title: Visual & Performing Arts
 | Role | Teacher |
 |---|---|
 | OIC | Ms Hernie Binte Salleh |
-| 2IC | Mr Goh Zhuang Yuan Ezekiel |
+| 2IC | Mdm Shen Simin Nicole |
 
 ### Training Schedule
 Tuesdays: 2.30pm to 5.00pm <br>Fridays: 2.30pm to 5.00pm
