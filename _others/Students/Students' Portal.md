@@ -5,19 +5,17 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p></p>
-<p></p>
+<h3>Term 1 Weighted Assessment</h3>
+<p><a href="/files/2024_Term_1_WA_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
+</p>
+<p><a href="/files/2024_Term_1_WA_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Assessment Format</a>
+</p>
 <h3>Semester 1 Timetable</h3>
 <p><a href="/files/2024_Sec_1_SEM_1_TT_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Classes</a> 
 <br><a href="/files/2024_SEM_1_TT_SEC_2_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Classes</a> 
 <br><a href="/files/2024_SEM_1_TT_SEC_3_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Classes</a> 
 <br><a href="/files/2024_SEM_1_TT_SEC_4_5_CLASSES__website__25_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Classes</a> 
 <br>
-</p>
-<h3>Term 1 Weighted Assessment </h3>
-<p><a href="/files/2024_Term_1_WA_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment schedule</a>
-</p>
-<p><a href="/files/2024_Term_1_WA_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment assessment format</a>
 </p>
 <p></p>
 <h3>2024 Booklists (Sec 2 to 5)</h3>
