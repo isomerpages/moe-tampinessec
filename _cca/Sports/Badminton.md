@@ -14,7 +14,7 @@ variant: markdown
 | OIC | Mr Mohd Faaiz Bin Ishar |
 | 2IC | Mr Teo Shao Hao |
 | Teacher | Ms Sarinah Mohamed |
-| Teacher | Ms Krystal Lee Shen Yee |
+| Teacher | Mr Esfan Rizal Rahwom |
 
 ### Training Schedule
 Mon, Tue &amp; Fri: 3.30–6.15 p.m. 
