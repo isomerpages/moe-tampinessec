@@ -7,7 +7,7 @@ variant: markdown
 ### Corporate Communications
 [Website Updating Portal](https://nebulous-crawdad-f32.notion.site/Welcome-to-Website-Updating-Portal-by-Corporate-Communications-Committee-392cdc06a76a49b0aecdf51702b98823)
 
-### ADMINISTRATION
+### Administration
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -29,7 +29,7 @@ variant: markdown
     <td class="tg-0pky"><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank" rel="noopener noreferrer">MIMS Portal</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href="https://ecareers.sg/" target="_blank" rel="noopener noreferrer">ECareers Portal</a></td>
+    <td class="tg-0pky"><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" target="_blank" rel="noopener noreferrer">MySkillsFuture</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://hrms.moe.gov.sg/irj/portal/" target="_blank" rel="noopener noreferrer">HRMS</a></td>
@@ -38,7 +38,7 @@ variant: markdown
     <td class="tg-0pky"><a href="https://www.hrp.gov.sg/hrp/#/" target="_blank" rel="noopener noreferrer">HRP</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" target="_blank" rel="noopener noreferrer">iExams</a></td>
+    <td class="tg-0pky"><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" target="_blank" rel="noopener noreferrer">iExams2</a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="https://workspace.google.com/dashboard?pli=1" target="_blank" rel="noopener noreferrer">Google Workspace</a></td>
@@ -61,9 +61,6 @@ variant: markdown
   <tr>
     <td class="tg-0lax"><a href="https://scmobile.moe.edu.sg/login" target="_blank" rel="noopener noreferrer">SCMobile</a></td>
   </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer">Student Learning Space (SLS)</a></td>
-  </tr>
 </tbody>
 </table>
 
@@ -73,7 +70,7 @@ variant: markdown
 
 **[TPSS ICT Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdUB7RgLJ0oCl2XpQE4TlDzHN1Hz4xIBzlwi1gyuJw_ZqJWqA/viewform)**
 
-### TEACHING AND LEARNING
+### Teaching and Learning
 
 * [ELiS (English Language Institute of Singapore](https://academyofsingaporeteachers.moe.edu.sg/elis))  
 
