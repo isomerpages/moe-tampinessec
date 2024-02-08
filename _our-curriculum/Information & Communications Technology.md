@@ -12,11 +12,10 @@ variant: markdown
 |---|---|
 | HOD ICT   | Neo Shufen |
 | SH ICT (Internal) | Zhang Simin |
-| CPA Coordinator  | Chen Changjin |
+| CPA Coordinator  | Veni Thavasagayan |
 | Teachers  | Ong Chih Faah |
 |  | Chan Choe Seng Gerard |
 |  | Tan Lee Hock James |
-|  | Veni Thavasagayan |
 | IT Manager  | Ahmad Lutfi Bin Abdul Rashid |
 | Desktop Engineer | Chua Kai Ern |
 
