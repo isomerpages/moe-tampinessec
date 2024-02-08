@@ -2,6 +2,7 @@
 title: Science Department
 permalink: /our-curriculum/science-department/
 description: ""
+variant: markdown
 ---
 ![](/images/2023_tpss_26_science.jpg)
 
@@ -17,7 +18,7 @@ description: ""
 |  | Mdm Zarinah Begum (School Staff Developer) |
 |  | Mrs Amy De Cruz |
 |  | Ms Amy Lui |
-|  | Mr Gerard Chan Choe Seng |
+|  | Mr Gerard Chan Choe Seng (ST/Learning Needs - Educational Support) |
 |  | Mr James Lim Choy Kee |
 |  | Mr Joel Chew Chong Wei |
 |  | Mr Khyrul Anwar |
