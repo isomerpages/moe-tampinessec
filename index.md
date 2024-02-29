@@ -22,10 +22,10 @@ sections:
       title: 38th Awards Day and Speech Day 2024
       subtitle: Event
       id: infobar
-      description: "Our 38th Awards Day and Speech Day will take place on April 9th
-        and April 12th respectively. "
+      description: Our 38th Awards Day and Speech Day will take place on April 9th and
+        April 12th respectively.
       button: More details
-      url: https://www.tampinessec.moe.edu.sg/others/parents/examresults/
+      url: https://tampinessec.moe.edu.sg/38-speech-day/
   - infobar:
       title: 2023 O Level Results Release
       subtitle: 2023 4ENA5N Cohort
