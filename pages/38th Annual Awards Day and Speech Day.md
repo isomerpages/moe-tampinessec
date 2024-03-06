@@ -17,3 +17,8 @@ ceremony, honouring the hard work and commitment of Tampinesians. These
 moments serve to recognise the perseverance, talent and spirit of excellence
 in our school community.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_day_38th_final_design.png">
+</div>
+<p></p>
