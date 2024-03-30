@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>Term 2 Weighted Assessment</h3>
+<p><a href="/files/2024_Term_2_WA_Schedule__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
+</p>
+<p><a href="/files/2024_Term_2_WA_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Assessment Format</a>
+</p>
 <h3>Term 1 Weighted Assessment</h3>
 <p><a href="/files/2024_Term_1_WA_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
 </p>
