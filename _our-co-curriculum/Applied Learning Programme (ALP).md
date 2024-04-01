@@ -66,11 +66,16 @@ Highly passionate students identified through Direct School Admissions (DSA), CC
 
 | Teachers | Designation |
 |---|---|
-| Benjamin Low | HOD Craft &amp; Technology |
 | Victor Ng | HOD Science |
-| James Lim | Science teacher |
 | Koh Gim Koon | D&amp;T Teacher / Maker Faire OIC |
 | Zulkifli mohamed | D&amp;T Teacher / Maker Faire Teacher |
+| Mohd Faaiz Ishar | PE Teacher / Science Teacher |
+| Ong Chih Faah | Mathematics Teacher |
+| Ho Sam Hong | Mathematics Teacher |
+| Warda Mohamed Shariff | FCE Teacher |
+| Krystal Lee Shen Yee | EBS Teacher |
+
+
 
 | Support Staff | Designation |
 |---|---|
