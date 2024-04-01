@@ -59,7 +59,8 @@ Highly passionate students identified through Direct School Admissions (DSA), CC
 | 4 | 2022 | Science Center NExplorers Competition | Certificate of Achievement |
 | 5 | 2023 | MOE Innergy Award | Certificate of Commendation |
 | 6 | 2023 | NIE STEM Hackathon | Ongoing |
-| 7 | 2024 | Temasek Engineering Olympiad 2024 | ![](/images/ss_.png)
+| 7 | 2023 | Temasek Engineering Olympiad 2023 | ![](/images/ss1.png)
+| 8 | 2024 | Temasek Engineering Olympiad 2024 | ![](/images/ss_.png)
 
 ### MEMBERS OF THE DEPARTMENT
 
