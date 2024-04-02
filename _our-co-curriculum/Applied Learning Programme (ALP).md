@@ -2,6 +2,7 @@
 title: Applied Learning Programme (ALP)
 permalink: /our-co-curriculum/applied-learning-programme-alp/
 description: ""
+variant: markdown
 ---
 ### WHAT IS ALP?
 
@@ -48,36 +49,33 @@ Highly passionate students identified through Direct School Admissions (DSA), CC
 <figcaption> <strong> Figure 2: QR Code of ALP Tier 2 – Maker Hub Resource Site</strong> </figcaption>
 </figure>
 
-### Our Achievements &amp; Accolades:
+### Our Recent Achievements &amp; Accolades:
 
 | S/N | Year | Description | Achievements &amp; Accolades |
 |---|---|---|---|
-| 1 | 2017 | MOE EXCEL Fest | Invited by MOE to showcase |
-| 2 | 2017 | SHELL “Make the Future Challenge” &amp; STEM Bright Ideas Challenge | Finalists |
-| 3 | 2018 | Singapore Polytechnic Young Engineer Award | Gold Award for three students.All three students were conferred a letter of offer to ANY engineering course in Singapore Polytechnic |
-| 4 | 2018 | Foss Asia Summit | Invited to showcase the use of open-technology in education |
-| 5 | 2019 | The Schools Challenge “Live Smart @ The East 2019” | 1st place2nd PlaceInnovation award |
-| 6 | 2019 | G!nnovation Challenge | 3rd Place |
-| 7 | 2017 to 2023 | Singapore Amazing Flying Machine Competition | Certificate of Participation |
-| 8 | 2019 | Design Faire @ Ping Yi Sec Sch | 1st Place2nd Place |
-| 9 | 2019 | Drones Odyssey Challenge | 6th Place |
-| 10 | 20182019 | Maker Faire Extravaganza @OTHMaker Faire Extravaganza @SCS | Invited by Science Centre Singapore to showcase |
-| 11 | 20202020 | Maker Education Education Lead School (East Zone)Swift Accelerator Programme 2020 | Awarded by MOE- Education Technology DivisionRecipely app created by our student was successfully published on Apple App Store |
-| 12 | 2021 2022 | ETD Hackathon Competition | Certificate of Participation |
-| 13 | 2022 | Host for TPPS Drone Coding Competition | Collaboration with Tampines Primary School Coding activities |
-| 14 | 2022 | Science Center NExplorers Competition | Certificate of Achievement |
-| 15 | 2023 | MOE Innergy Award | Certificate of Commendation |
-| 16 | 2023 | NIE STEM Hackathon | Ongoing |
+| 1 | 2020 | Maker Education Education Lead School (East Zone)Swift Accelerator Programme 2020 | Awarded by MOE- Education Technology DivisionRecipely app created by our student was successfully published on Apple App Store |
+| 2 | 2021 2022 | ETD Hackathon Competition | Certificate of Participation |
+| 3 | 2022 | Host for TPPS Drone Coding Competition | Collaboration with Tampines Primary School Coding activities |
+| 4 | 2022 | Science Center NExplorers Competition | Certificate of Achievement |
+| 5 | 2023 | MOE Innergy Award | Certificate of Commendation |
+| 6 | 2023 | NIE STEM Hackathon | Ongoing |
+| 7 | 2023 | Temasek Engineering Olympiad 2023 | ![](/images/ss1.png)
+| 8 | 2024 | Temasek Engineering Olympiad 2024 | ![](/images/ss_.png)
 
 ### MEMBERS OF THE DEPARTMENT
 
 | Teachers | Designation |
 |---|---|
-| Benjamin Low | HOD Craft &amp; Technology |
 | Victor Ng | HOD Science |
-| James Lim | Science teacher |
 | Koh Gim Koon | D&amp;T Teacher / Maker Faire OIC |
 | Zulkifli mohamed | D&amp;T Teacher / Maker Faire Teacher |
+| Mohd Faaiz Ishar | PE Teacher / Science Teacher |
+| Ong Chih Faah | Mathematics Teacher |
+| Ho Sam Hong | Mathematics Teacher |
+| Warda Mohamed Shariff | FCE Teacher |
+| Krystal Lee Shen Yee | EBS Teacher |
+
+
 
 | Support Staff | Designation |
 |---|---|
