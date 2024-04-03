@@ -3,6 +3,7 @@ title: Show Choir
 permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/show-choir/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/showchoir2023.jpg)
 
@@ -12,6 +13,7 @@ third_nav_title: Visual & Performing Arts
 |---|---|
 | OIC | Mdm Nurasyikin Binte Hapet |
 | 2IC | Mdm Veni Thavasagayan |
+| Teacher | Mr Ivan Lee Jia Xiang |
 
 ### Training Schedule
 Tuesdays 3.30-5.30pm &amp; Fridays: 1.30-4pm
