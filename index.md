@@ -22,8 +22,8 @@ sections:
       title: 38th Awards Day and Speech Day 2024
       subtitle: Event
       id: infobar
-      description: "Our 38th Awards Day and Speech Day took place on April 9th and
-        April 12th respectively. Photos of award recipients are now available. "
+      description: Our 38th Awards Day and Speech Day took place on April 9th and
+        April 12th respectively. Photos of award recipients are now available.
       button: More details
       url: https://tampinessec.moe.edu.sg/38-speech-day/
   - infobar:
