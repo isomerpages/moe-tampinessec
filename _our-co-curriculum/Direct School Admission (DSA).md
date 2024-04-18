@@ -14,16 +14,16 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Performing Arts:</strong> 
+<p><strong>Performing Arts:</strong>
 </p>
-<p><a href="https://www.tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/dance-dynamics/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
-<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/malay-dance" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
-<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/modern-chinese-dance" rel="noopener noreferrer nofollow" target="_blank">Chinese and Modern Dance</a>
-<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/concert-band" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
-<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/drama-club" rel="noopener noreferrer nofollow" target="_blank">English Drama</a>
-<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/show-choir" rel="noopener noreferrer nofollow" target="_blank">Choir </a>
+<p><a href="https://www.tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/dance-dynamics/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a> 
+<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/malay-dance" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a> 
+<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/modern-chinese-dance" rel="noopener noreferrer nofollow" target="_blank">Chinese and Modern Dance</a> 
+<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/concert-band" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a> 
+<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/drama-club" rel="noopener noreferrer nofollow" target="_blank">English Drama</a> 
+<br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/show-choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
-<p><strong>Visual Arts:</strong>
+<p><strong>Visual Arts:</strong> 
 <br><strong><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/art-club" rel="noopener noreferrer nofollow" target="_blank">Drawing and Painting</a></strong>
 </p>
 </th>
@@ -95,13 +95,12 @@ Website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nof
 <br>Head of Department PE and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>s_elangovan@moe.edu.sg
-<br>ng_lee_wei_john@moe.edu.sg</p>
+<p>s_elangovan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Thank you.</p>
-<p><strong>DSA Coordination Team</strong>
+<p><strong>DSA Coordination Team</strong> 
 <br><strong>Tampines Secondary School</strong>
 </p>
