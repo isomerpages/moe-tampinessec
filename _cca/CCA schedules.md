@@ -2,8 +2,8 @@
 title: CCA schedules
 permalink: /our-co-curriculum/co-curricular-activities-ccas/cca-schedule/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Please refer below&nbsp;for the CCA schedule.&nbsp;
-
-[2024 CCA Schedule (Updated 12 Jan 2024)](/files/FINAL_2024_CCA_Schedule_Updated_12012024.pdf)
+<p>Please refer below&nbsp;for the CCA schedule.&nbsp;</p>
+<p><a href="/files/2024_CCA_Schedule__dtd_16April2024.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA schedule</a>
+</p>
