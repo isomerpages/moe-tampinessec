@@ -3,7 +3,7 @@ title: Students' Portal
 permalink: /others/students-portal/
 description: ""
 third_nav_title: Students
-variant: markdown
+variant: tiptap
 ---
 <h3>Term 2 Weighted Assessment</h3>
 <p><a href="/files/2024_Term_2_WA_Schedule__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
@@ -35,7 +35,7 @@ variant: markdown
 <p><a href="/files/Booklists/Sec_5NA_Booklist_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal (Academic)</a>
 </p>
 <h3>Student Handbook 2024</h3>
-<p><a href="/files/Tampines_Companion__updated_for_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Downloadable PDF version</a> |
+<p><a href="/files/Tampines_Companion_4_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">Downloadable PDF version</a> |
 <a href="https://sites.google.com/moe.edu.sg/tpsscompanion/home" rel="noopener noreferrer nofollow" target="_blank">Microsite</a>
 </p>
 <h3>Student's Suggestion Platform</h3>
