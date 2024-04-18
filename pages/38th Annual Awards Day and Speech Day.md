@@ -15,8 +15,6 @@ all facets of school life. By fostering a culture of support and encouragement,
 Tampinesians can leverage their combined strengths to overcome challenges
 and achieve success together.</p>
 <p></p>
-<p><strong><a href="https://drive.google.com/drive/folders/1Ig50KnctIJiqFjg39C0Q2uYwQHfu6AmT" rel="noopener noreferrer nofollow" target="_blank">Photos of 2024 Awards Day and Speech Day awards recipients</a></strong>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Speech_day_1.jpg">
