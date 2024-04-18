@@ -25,7 +25,7 @@ sections:
       description: Our 38th Awards Day and Speech Day took place on April 9th and
         April 12th respectively. Photos of award recipients are now available.
       button: More details
-      url: https://tampinessec.moe.edu.sg/38-speech-day/
+      url: https://www.tampinessec.moe.edu.sg/38-speech-day/
   - infobar:
       title: 2023 O Level Results Release
       subtitle: 2023 4ENA5N Cohort
