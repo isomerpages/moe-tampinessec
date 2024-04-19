@@ -4,8 +4,7 @@ permalink: /our-school/principals-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/mr lan profile pic.jpeg" style="width:60%">
-		 
+ 
 
 
 A warm welcome to the Tampines Secondary School (TPSS) website!&nbsp; In this section, I wish to share with you our school’s experiences in the past year and some of the things we hope to achieve in 2024.
