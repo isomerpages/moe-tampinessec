@@ -16,9 +16,6 @@ Tampinesians can leverage their combined strengths to overcome challenges
 and achieve success together.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Speech_day_1.jpg">
-</div>
 <p>The Awards Day ceremony on April 9th was a moment of pride as more than
 150 Tampinesians were recognised for their outstanding performances in
 academics achievement and character development. Students received prestigious
