@@ -23,10 +23,13 @@ variant: tiptap
 <br><a href="https://www.tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/english-drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a> 
 <br><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/show-choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
-<p><strong>Visual Arts:</strong> 
-<br><strong><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/art-club" rel="noopener noreferrer nofollow" target="_blank">Drawing and Painting</a></strong>
-</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/art-club" rel="noopener noreferrer nofollow" target="_blank">Visual Arts</a></strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
