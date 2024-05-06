@@ -102,13 +102,190 @@ learnt in school (e.g. CCA, LLP) or self-choreographed pieces and should
 be in suitable dance or PE attire.</p>
 </li>
 </ul>
-<p>For Drama - English</p>
+<p><strong>b) For Drama - English</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A prepared 1-2min solo performance (e.g. a monologue). Students may perform
 something scripted, devised or improvised, and this can be something learnt
-in school (e.g. class or CCA)</p>
+in school (e.g. class or CCA).</p>
 </li>
 </ul>
-<h4></h4>
+<p><strong>c) For Music-related Talent Areas</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a 2-5min performance on voice/instrument in your Talent Area (if student
+has access to the necessary instrument and if solo performance is possible,
+or</p>
+</li>
+<li>
+<p>A 1-2min performance of pieces/songs learnt in primary school Music lessons,
+CCA or self-learnt songs/pieces, using voice or instruments available.</p>
+</li>
+</ul>
+<p><strong>d) For Visual arts</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create impromptu artworks with supplied materials using a theme or a set
+of instructions in the given duration.</p>
+</li>
+</ul>
+<p><strong>e) For STEM - Creative Engineering and Modelling</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Open-ended challenges, using accessible materials, to assess aptitude
+for design thinking and creativity.</p>
+</li>
+</ul>
+<p><strong>f) For Football</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstration of individual skills and movements that showcase agility.</p>
+</li>
+</ul>
+<h4><strong>Key dates</strong></h4>
+<p>The table below contains a summary of key dates for the application and
+selection stages of the DSA-Sec process. More information can be found
+at MOE's website: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec.</a>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Application Stage</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11am on Tuesday, 7 May 2024 to
+<br>3pm on Monday, 3 Jun 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Once you have explored and shortlisted the schools of your choice, submit
+your application online through the DSA-Sec portal by 3pm on the final
+day.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Selection Stage&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By Monday, 9 September 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted students will be invited to attend an interview and/or audition
+at Tampines Secondary School’s campus, depending on their selected talent
+area.
+<br>
+<br>
+</p>
+<p>Selected students will receive DSA-Sec offers from schools by 9 September
+2024.
+<br>
+<br>
+</p>
+<p>‘Wait Listed’ and ‘Unsuccessful’ applicants will also be notified by 9
+September 2024.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please note that successful DSA-Sec candidates who took the PSLE are NOT
+allowed to participate in the S1 Posting. . However, if they are eligible
+for third language and/or Posting Group options, they may enter these options
+during the School Choice Submission period via the S1 Posting. Successful
+DSA-Sec candidates are also NOT allowed to transfer to another school after
+the release of the PSLE results.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
+<p>Unsuccessful DSA-Sec candidates will be notified of the outcome and to
+participate in the S1 Posting to submit school choices.</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p><strong>Contact Details</strong>
+</p>
+<p>For clarification, please contact:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Area</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>In-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Visual and Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Christopher Tan
+<br>Head of Department English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_ming_quan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM – Creative Engineering and Modelling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Ng Vic Meng
+<br>Head of Department Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_vic_meng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr S Elangovan</p>
+<p>Head of Department PE/CCA</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">s_elangovan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Thank you.</p>
+<p>&nbsp;</p>
 <p></p>
