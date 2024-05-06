@@ -190,14 +190,11 @@ day.</p>
 at Tampines Secondary School’s campus, depending on their selected talent
 area.
 <br>
-<br>
 </p>
 <p>Selected students will receive DSA-Sec offers from schools by 9 September
 2024.
 <br>
-<br>
-</p>
-<p>‘Wait Listed’ and ‘Unsuccessful’ applicants will also be notified by 9
+<br>‘Wait Listed’ and ‘Unsuccessful’ applicants will also be notified by 9
 September 2024.</p>
 </td>
 </tr>
@@ -218,8 +215,7 @@ participate in the S1 Posting to submit school choices.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p><strong>Contact Details</strong>
-</p>
+<h4><strong>Contact Details</strong></h4>
 <p>For clarification, please contact:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -248,7 +244,7 @@ the area of talent.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Christopher Tan
-<br>Head of Department English Language and Literature</p>
+<br>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_ming_quan@moe.edu.sg</a>
