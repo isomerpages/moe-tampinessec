@@ -20,4 +20,3 @@ The School Advisory Committee is a key partner of Tampines Secondary School. Mem
 | Member 	| Mr Roland Teo 	|
 | Member 	| Ms Felice Low 	|
 | Member 	| Mr Terrence Tang 	|
-
