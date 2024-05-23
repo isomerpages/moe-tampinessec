@@ -5,6 +5,15 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>Mid-year Holiday Homework</h3>
+<p><a href="https://docs.google.com/spreadsheets/d/1gm5xrF3TvcPr1pBo63SWhAsx0XKtcI34XaVeZYLblBU/edit#gid=1627309313" rel="noopener noreferrer nofollow" target="_blank">Sec 1 </a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/10bErNCJpWbbl3dfgxXhacyvLV-A7IWjpoSstdTs6_Uc/edit#gid=1528940723" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1aO5JKlkkmW_Z116-NdYAORD3b119BZyVeKNRdGLtNQE/edit#gid=769335278" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1_z4nTWZbfo2WbLpmaoKAkT9Lu9CPDF3oLz4dvHZwfDQ/edit#gid=1419135120" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5</a>
+</p>
 <h3>Term 2 Weighted Assessment</h3>
 <p><a href="/files/2024_Term_2_WA_Schedule__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
 </p>
