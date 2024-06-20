@@ -6,7 +6,7 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>Mid-year Holiday Homework</h3>
-<p><a href="https://docs.google.com/spreadsheets/d/1gm5xrF3TvcPr1pBo63SWhAsx0XKtcI34XaVeZYLblBU/edit#gid=1627309313" rel="noopener noreferrer nofollow" target="_blank">Sec 1 </a>
+<p><a href="https://docs.google.com/spreadsheets/d/1gm5xrF3TvcPr1pBo63SWhAsx0XKtcI34XaVeZYLblBU/edit#gid=1627309313" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
 <p><a href="https://docs.google.com/spreadsheets/d/10bErNCJpWbbl3dfgxXhacyvLV-A7IWjpoSstdTs6_Uc/edit#gid=1528940723" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
@@ -24,13 +24,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_Term_1_WA_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Assessment Format</a>
 </p>
-<h3>Semester 1 Timetable</h3>
-<p><a href="/files/2024_Sec_1_SEM_1_TT_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Classes</a> 
-<br><a href="/files/2024_SEM_1_TT_SEC_2_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Classes</a> 
-<br><a href="/files/2024_SEM_1_TT_SEC_3_CLASSES__website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Classes</a> 
-<br><a href="/files/2024_SEM_1_TT_SEC_4_5_CLASSES__website__25_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Classes</a> 
-<br>
-</p>
+<p></p>
 <p></p>
 <h3>2024 Booklists (Sec 2 to 5)</h3>
 <p><a href="/files/Booklists/Sec_2_Booklist_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 booklists</a>
