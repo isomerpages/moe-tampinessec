@@ -5,5 +5,5 @@ description: ""
 variant: tiptap
 ---
 <p>Please refer below&nbsp;for the CCA schedule.&nbsp;</p>
-<p><a href="/files/2024_CCA_Schedule__dtd_16April2024.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA schedule</a>
+<p><a href="/files/2024_CCA_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA schedule</a>
 </p>
