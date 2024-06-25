@@ -14,7 +14,7 @@ variant: markdown
 | OIC     | Mr Lim Soo Kian John     | 
 | 2IC     | Ms Choo Weilin     | 
 |      | Mr Chan Choe Seng Gerard     | 
-|      | Mr Chew Chong Wei Joel     | 
+|      | Mr Joel Chew Chong Wei     | 
 |      | Mr Ahmad Kamarudin Masudi     |
 
 
