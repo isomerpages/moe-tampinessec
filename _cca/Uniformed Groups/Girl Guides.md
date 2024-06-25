@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /our-co-curriculum/co-curricular-activities-ccas/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/2023_girl%20guides_03.jpg)
 
@@ -12,6 +13,9 @@ third_nav_title: Uniformed Groups
 |---|---|
 | OIC | CPT Chia Yu Ru |
 | 2IC | LT Sri Nur Amanina Kamil |
+|        | Ms Chew Poh Kim  |
+|        | Mdm Nur Sufriena Binti Suhaini |
+|        | Ms Nur Fatin Atikah |
 
 ### Training Schedule 
 Fridays: 2.30–5.30 p.m.
