@@ -3,6 +3,7 @@ title: Maker Faire
 permalink: /our-co-curriculum/co-curricular-activities-ccas/clubs/maker-faire/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 ![](/images/makerfaire%20cca%20photo%202023.jpeg)
 
@@ -13,6 +14,7 @@ third_nav_title: Clubs
 | OIC     | Mr Koh Gim Koon     | 
 | 2IC     | Mr Zulkifli Bin Mohamed     | 
 | 3IC     | Mdm Warda Mohammed Shariff     | 
+|            | Mr Yusoff
 
 ### Training Schedule
 Tuesdays: 2.30–5 p.m.<br>
