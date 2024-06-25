@@ -3,6 +3,7 @@ title: Netball
 permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023_netball_02.jpg)
 
@@ -11,8 +12,8 @@ third_nav_title: Sports
 
 | Role | Teacher | 
 | -------- | -------- | 
-| OIC     | Mdm Ho Sam Hong     | 
-| 2IC     | Joel Chew Chong Wei     | 
+| OIC     | Joel Chew Chong Wei     | 
+| 2IC     | Alena     | 
 
 
 ### Training Schedule
