@@ -2,6 +2,7 @@
 title: Craft & Technology
 permalink: /our-curriculum/craft-n-technology-department/
 description: ""
+variant: markdown
 ---
 ![](/images/2023_tpss_49_c&amp;t.jpg)
 ### Teachers
@@ -25,7 +26,9 @@ description: ""
 | D&amp;T TSO | Abdul Nadzir |
 | D&amp;T TSO | Chow Siew Leong |
 | D&amp;T TSO / Maker Faire Support Staff | Mohd Yusoff Rahamattula Sahib |
-
+|                                          | Grace Ling
+|                                          | Nur Aisyah Binte Suhaimi 
+|                                          | Koh Yong Lee [Kitchen Attendant]
 ### Vision 
 Every student a creative creator
 
