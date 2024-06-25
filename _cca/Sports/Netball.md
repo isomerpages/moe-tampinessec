@@ -12,8 +12,8 @@ variant: markdown
 
 | Role | Teacher | 
 | -------- | -------- | 
-| OIC     | Joel Chew Chong Wei     | 
-| 2IC     | Alena     | 
+| OIC     | Mr Joel Chew Chong Wei     | 
+| 2IC     | Ms Alena Bte Puhari     | 
 
 
 ### Training Schedule
