@@ -16,7 +16,6 @@ variant: markdown
 |  | Mr Abdul Jalil Ali |
 |  | Mdm Chew Poh Kim |
 |  | Mdm Mazni Abu Bakar |
-|  | Mr Muhammad Atiqullah Ismail |
 |  | Ms Nuraisyah Razali |
 |  | Ms Nur Fatin Atikah (UT) |
 |  | Mdm Nurliyana Hassan |
