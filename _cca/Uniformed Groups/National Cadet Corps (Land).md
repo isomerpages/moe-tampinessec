@@ -3,6 +3,7 @@ title: National Cadet Corps (Land)
 permalink: /our-co-curriculum/co-curricular-activities-ccas/uniformed-groups/national-cadet-corps-land/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/2023_ncc_01.JPG)
 
@@ -13,7 +14,8 @@ third_nav_title: Uniformed Groups
 | OIC     | Mr Lim Soo Kian John     | 
 | 2IC     | Ms Choo Weilin     | 
 |      | Mr Chan Choe Seng Gerard     | 
-|      | Mr Chew Chong Wei Joel     | 
+|      | Mr Joel Chew Chong Wei     | 
+|      | Mr Ahmad Kamarudin Masudi     |
 
 
 ### Training Schedule

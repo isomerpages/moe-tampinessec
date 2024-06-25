@@ -3,6 +3,7 @@ title: Basketball
 permalink: /our-co-curriculum/co-curricular-activities-ccas/sports/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcCjUNeXjg3kE-dX4x4BMkQkBIrroXkd0432OWBNcVdlwto4Lp2YJygyDMcT5KMh7G59p3AAtqrIdI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
@@ -14,7 +15,6 @@ third_nav_title: Sports
 | 2IC | Ms Yu Hsin Ju |
 |  | Mdm Lim Chu Toh |
 |  | Mr Bryan Ee Sien Ming |
-|  | Mr Ridzafir Syah Abdul Rahim |
 
 ### Training Schedule 
 #### C Boys 

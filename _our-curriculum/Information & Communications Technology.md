@@ -11,13 +11,16 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | HOD ICT   | Neo Shufen |
-| SH ICT (Internal) | Zhang Simin |
+| SH ICT | Zhang Simin |
 | CPA Coordinator  | Veni Thavasagayan |
 | Teachers  | Ong Chih Faah |
 |  | Chan Choe Seng Gerard |
 |  | Tan Lee Hock James |
 | IT Manager  | Ahmad Lutfi Bin Abdul Rashid |
-| Desktop Engineer | Chua Kai Ern |
+| Desktop Engineer  | Muhammad Afiq Bin Hassan |
+| ICT Exec    |  A R Nifnul Safana |
+| ICT Trainer  | Cheryl Tan
+
 
 ### NATIONAL DIGITAL LEARNING PROGRAMME ( NDLP)
 

@@ -12,6 +12,7 @@ variant: markdown
 |---|---|
 | Head of Department | Mr Victor Ng Vic Meng |
 | Subject Head(Chemistry) | Mdm Liy Lee Ping |
+| Master Teacher (Physics) | Mr Yap Boon Chien |
 | Lead Teacher (Chemistry) | Miss Julie Koh Joo Koew |
 | Senior Teacher (Biology) | Mr Hafiz Ahmad |
 | Subject Teachers | Mr Joshua Foo (SH/Student Management) |
@@ -22,12 +23,12 @@ variant: markdown
 |  | Mr James Lim Choy Kee |
 |  | Mr Joel Chew Chong Wei |
 |  | Mr Khyrul Anwar |
-|  | Mrs Kwan Simin |
+|  | Mrs Kwan Simin (SH/ICT) |
 |  | Mdm Lim Chu Toh |
 |  | Ms Peh Hui Ling (SH/Student Leadership & Student Well-Being) |
 |  | Mdm Veni Thavasagayan |
 | Technical support Officer | Mdm Ruhaida Mohamad |
-|  | Mdm Koh Moi Kia |
+|  | Mdm Poh Siok Peng Doreen |
 |  |  |
 
 ### Vision

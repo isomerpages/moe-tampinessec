@@ -3,6 +3,7 @@ title: InfoComm Club
 permalink: /our-co-curriculum/co-curricular-activities-ccas/clubs/infocomm-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 ![](/images/2023_icc_02.jpg)
 
@@ -11,7 +12,7 @@ third_nav_title: Clubs
 | Role | Teacher |
 |---|---|
 | OIC | Mdm Mazni Abu Bakar |
-| 2IC | Ms Pek Jia Hui |
+| 2IC | Mrs Kwan Simin |
 
 ### Training Schedule
 Fridays: 2.30–5.30 p.m.

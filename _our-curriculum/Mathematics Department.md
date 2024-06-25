@@ -11,24 +11,23 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department | Mr Thomas Wan Chee Wai |
-|  | Mr Lee Kah Wai (Year Head) |
 |  | Mdm Winnie Koh Mei Ling (Student Development) |
 |  | Ms Neo Shufen (ICT) |
 | Subject Head | Mdm Wei Yihui Jene (Mrs Jene Tay) |
 | Senior Teacher | Mr Yip Wai Kit Charles |
-| Teachers | Mr John Lim |
+| Teachers | Mr John Lim Soo Kian |
 |  | Mdm Loh Ming Woon |
 |  | Mdm Ho Sam Hong |
 |  | Mr Ong Chih Faah |
 |  | Mdm Ng Liang Jeah |
 |  | Mr Teo Shao Hao |
 |  | Ms Sun Yu |
+|  | Mr Simon Lee Keng Ping
 |  | Mdm Krystal Lee Shen Yee |
 |  | Mr Mohd Ariff |
 |  | Ms Choo Weilin |
 |  | Mr Goh Zhuang Yuan Ezekiel |
 |  | Mdm Goh Siok Tin (FAJT) |
-|  | Mdm Foo Lee Lee (FAJT) |
 | AED (T&amp;L) | Mr Ahmad Kamarudin Masudi |
 |  | Ms Nur Sahilah Rasid |
 |  | Mr Ridzafir Syah Abdul Rahim |

@@ -12,7 +12,7 @@ variant: markdown
 | Role | Teacher |
 |---|---|
 | OIC | Mdm Tan Yoke Leng |
-| 2IC | Mdm Nurlina Binte Ibrahim |
+| 2IC | Mdm Tan Shin Shin |
 
 ### Training Schedule
 Tuesdays: 2.30 – 5.30 p.m.
