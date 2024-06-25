@@ -23,9 +23,11 @@ variant: markdown
 |  | Ms Sri Nur Amanina Kamil |
 |  | Mr Tan Sing Hwa |
 |  | Mdm Teo Ah Tiok (FAJT) |
+|  | Mdm Alimah Lob (FAJT)  |
 |  | Ms Xiao Min |
 |  | Mrs Yip-Leong Jia En |
 |  | Ms Yu Hsin-Ju |
+|  | Ms Alena Bte Puhari |
 
 ### Vision
 All students will love their Mother Tongue language. 
