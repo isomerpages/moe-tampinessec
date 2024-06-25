@@ -14,7 +14,7 @@ variant: markdown
 | -------- | -------- | 
 | OIC     | Ms Lui Amy     | 
 | 2IC     | Mrs Kwan Simin     | 
-| 2IC     | Mr Muhammad Atiqullah Ismail     | 
+| 2IC     | Mdm Ho Sam Hong     | 
 
 
 ### Training Schedule
