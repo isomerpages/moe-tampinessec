@@ -2,6 +2,7 @@
 title: Physical Education Department
 permalink: /our-curriculum/physical-education-department/
 description: ""
+variant: markdown
 ---
 ![](/images/2023_tpss_61_pe.JPG)
 ### TEACHERS
@@ -9,12 +10,12 @@ description: ""
 | Designation | Name |
 |---|---|
 | HOD PE/CCA | Mr S Elangovan |
-| SH PE/CCA | Mr John Ng |
 | Asst Year Head | Mr Ong Eng Kia Aloysius |
 | Teachers | Mr Tan Lee Hock James |
 |  | Mr Faaiz Ishar |
 |  | Mr Mohammed Ariff B Mohtar |
 |  | Mr Lum Mun Kit Joseph |
+|  | Mdm Rosnita Ismail (SHA)
 
 ### Vision
 A department that develops the whole person.
