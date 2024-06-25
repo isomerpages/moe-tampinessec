@@ -11,9 +11,9 @@ variant: markdown
 
 | Role | Teacher | 
 | --------- | --------- | 
-| OIC     | Mr Chen ChangJjn     | 
-| 2IC     | Mr Abdul Jalil     | 
-|      | Mdm Chew Poh Kim     |
+| OIC     | Mr Abdul Jalil     | 
+| 2IC     | Mdm Nurlina Ibrahim     | 
+|            | Mr Charles Yip Wai Kit     |
 | Teacher Support     | Mdm Nur Sahilah Rasid     | 
 
 
