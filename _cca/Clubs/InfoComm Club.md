@@ -12,7 +12,7 @@ variant: markdown
 | Role | Teacher |
 |---|---|
 | OIC | Mdm Mazni Abu Bakar |
-| 2IC | Ms Zhang Simin |
+| 2IC | Mrs Kwan Simin |
 
 ### Training Schedule
 Fridays: 2.30–5.30 p.m.
