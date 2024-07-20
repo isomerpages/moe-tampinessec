@@ -35,7 +35,7 @@ variant: tiptap
 <p>SH Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kwee Wei</p>
+<p>Mr Lee Kwee Wei</p>
 </td>
 </tr>
 <tr>
@@ -176,10 +176,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kitchen Attendant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Letcheemy [Kitchen Attendant]</p>
+<p>Mdm Letcheemy</p>
 </td>
 </tr>
 </tbody>
