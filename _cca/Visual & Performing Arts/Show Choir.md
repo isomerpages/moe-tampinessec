@@ -13,7 +13,7 @@ variant: markdown
 |---|---|
 | OIC | Mdm Nurasyikin Binte Hapet |
 | 2IC | Mdm Veni Thavasagayan |
-| Teacher | Mr Ivan Lee Jia Xiang |
+| Teacher | Mr Lee Jia Xiang, Ivan |
 
 ### Training Schedule
 Tuesdays 3.30-5.30pm &amp; Fridays: 1.30-4pm
