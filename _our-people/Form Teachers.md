@@ -1244,7 +1244,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Derrick Tan Eng Tee</p>
+<p>Tan Eng Tee, Derrick</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>831</p>
