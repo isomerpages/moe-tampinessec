@@ -9,26 +9,26 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| HOD Craft &amp; Technology   | Benjamin Low   |
-| SH Design &amp; Technology | Lee Kwee Wei |
-| ST Art | Tan Shin Shin |
-| D&amp;T Teacher | Sng Ah Soon |
-| D&amp;T Teacher | Koh Gim Koon |
-| D&amp;T Teacher | Zulkifli Mohamed |
-| Art Teacher | Nurlina Ibrahim |
-| Art Teacher | Choo Weilin |
-| Art Teacher | Jasmine Tan Jie Min |
-| NFS Teacher | Warda Mohamed Shariff |
-| NFS Teacher | Norfatihah Hanim Norazian |
-| Music Teacher | Tan Yoke Leng |
-| Music Teacher | Jamalullail Salim |
-| EBS Teacher | Krystal Lee Shen Yee |
-| D&amp;T TSO | Abdul Nadzir |
-| D&amp;T TSO | Chow Siew Leong |
-| D&amp;T TSO / Maker Faire Support Staff | Mohd Yusoff Rahamattula Sahib |
-|                                          | Grace Ling
-|                                          | Nur Aisyah Binte Suhaimi 
-|                                          | Koh Yong Lee [Kitchen Attendant]
+| HOD Craft &amp; Technology|Mr Benjamin Low|
+| SH Design &amp; Technology|Lee Kwee Wei|
+| ST Art | Mdm Tan Shin Shin |
+| D&amp;T Teacher | Mr Sng Ah Soon |
+| D&amp;T Teacher | Mr Koh Gim Koon |
+| D&amp;T Teacher | Mr Zulkifli Mohamed |
+| Art Teacher | Mdm Nurlina Ibrahim |
+| Art Teacher | Ms Choo Weilin |
+| Art Teacher | Ms Jasmine Tan Jie Min |
+| NFS Teacher | Mdm Warda Mohamed Shariff |
+| NFS Teacher | Mdm Norfatihah Hanim Norazian |
+| Music Teacher | Mdm Tan Yoke Leng |
+| Music Teacher | Mr Jamalullail Salim |
+| EBS Teacher | Mdm Krystal Lee Shen Yee |
+| D&amp;T TSO | Mr Abdul Nadzir |
+| D&amp;T TSO | Mr Chow Siew Leong |
+| D&amp;T TSO / Maker Faire Support Staff | Mr Mohd Yusoff Rahamattula Sahib |
+|                                          | Mdm Grace Ling
+|                                          | Ms Nur Aisyah Binte Suhaimi 
+|                                          | Mdm Letcheemy [Kitchen Attendant]
 ### Vision 
 Every student a creative creator
 
