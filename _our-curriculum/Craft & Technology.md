@@ -26,9 +26,10 @@ variant: markdown
 | D&amp;T TSO | Mr Abdul Nadzir |
 | D&amp;T TSO | Mr Chow Siew Leong |
 | D&amp;T TSO / Maker Faire Support Staff | Mr Mohd Yusoff Rahamattula Sahib |
-|                                          | Mdm Grace Ling
-|                                          | Ms Nur Aisyah Binte Suhaimi 
-|                                          | Mdm Letcheemy [Kitchen Attendant]
+|  | Mdm Grace Ling
+|  | Ms Nur Aisyah Binte Suhaimi 
+|  | Mdm Letcheemy [Kitchen Attendant]
+
 ### Vision 
 Every student a creative creator
 
