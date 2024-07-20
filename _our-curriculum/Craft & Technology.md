@@ -9,7 +9,7 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| HOD Craft &amp; Technology | Benjamin Low |
+| HOD Craft &amp; Technology   | Benjamin Low   |
 | SH Design &amp; Technology | Lee Kwee Wei |
 | ST Art | Tan Shin Shin |
 | D&amp;T Teacher | Sng Ah Soon |
