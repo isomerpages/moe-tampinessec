@@ -11,7 +11,7 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department | Mr Victor Ng Vic Meng |
-| Subject Head(Chemistry) | Mdm Liy Lee Ping |
+| Subject Head (Chemistry) | Mdm Liy Lee Ping |
 | Master Teacher (Physics) | Mr Yap Boon Chien |
 | Lead Teacher (Chemistry) | Miss Julie Koh Joo Koew |
 | Senior Teacher (Biology) | Mr Hafiz Ahmad |

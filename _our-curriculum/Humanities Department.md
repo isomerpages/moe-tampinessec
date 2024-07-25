@@ -18,7 +18,7 @@ variant: markdown
 | Teachers            | Mr Shahril Bin Mohd Shah   |
 |                     | Mr Tan Eng Tee, Derrick    |
 |                     | Ms Chia Yu Ru              |
-|                     | Mr Ivan Lee Jia Xiang      |
+|                     | Mr Lee Jia Xiang, Ivan      |
 |                     | Mr Nicholas Seow Wei Ming |
 |                     | Ms Nur Sufriena Suhaini |
 |                     | Mr Ricky Rueban David John |

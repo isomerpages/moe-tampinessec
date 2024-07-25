@@ -5,7 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Secondary 1</strong></h3>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -334,7 +341,14 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Secondary 2</strong></h3>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -663,7 +677,14 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Secondary 3</strong></h3>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -955,7 +976,14 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Secondary 4 &amp; 5</strong></h3>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1216,7 +1244,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Derrick Tan Eng Tee</p>
+<p>Tan Eng Tee, Derrick</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>831</p>
@@ -1252,7 +1280,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ivan Lee Jia Xiang</p>
+<p>Lee Jia Xiang, Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>834</p>
