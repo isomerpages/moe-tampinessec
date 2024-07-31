@@ -16,7 +16,7 @@ variant: markdown
 | Teacher | Mr Lee Jia Xiang, Ivan |
 
 ### Training Schedule
-Tuesdays 3.30-5.30pm &amp; Fridays: 1.30-4pm
+Tuesdays 3.15-5.30pm &amp; Fridays: 1.30-5pm
 
 ### Social Media 
 Check out our [Instagram page](https://www.instagram.com/tpsspulse/)! 
