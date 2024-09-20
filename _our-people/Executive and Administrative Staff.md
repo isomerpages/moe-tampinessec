@@ -23,11 +23,11 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky">Administration Manager</td>
-    <td class="tg-0pky">Mdm Angeline Hong</td>
+    <td class="tg-0pky">Mr Joshua Chua</td>
   </tr>
 	  <tr>
     <td class="tg-0pky">Administration Manager</td>
-    <td class="tg-0pky">Mr Joshua Chua</td>
+    <td class="tg-0pky">Mdm Chow Shin Ye</td>
   </tr>
   <tr>
     <td class="tg-0pky">Operations Manager</td>
@@ -38,12 +38,12 @@ variant: markdown
     <td class="tg-0pky">Mr Mohammed Syahril</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ICT Manager</td>
-    <td class="tg-0pky">Mr Ahmad Lutfi</td>
-  </tr>
-  <tr>
     <td class="tg-0pky">Administrative Executive</td>
     <td class="tg-0pky">Mdm Siti Radziah</td>
+  </tr>
+	 <tr>
+    <td class="tg-0pky">Administrative Executive</td>
+    <td class="tg-0pky">Mdm Nirain Mustafa</td>
   </tr>
   <tr>
     <td class="tg-0pky">Corporate Service Officer</td>
@@ -52,10 +52,6 @@ variant: markdown
   <tr>
     <td class="tg-0pky">Corporate Service Officer</td>
     <td class="tg-0pky">Ms Habiba Jainulabdeen</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">School Laboratory Technician</td>
-    <td class="tg-0pky">Mdm Koh Moi Kia</td>
   </tr>
   <tr>
     <td class="tg-0pky">School Laboratory Technician</td>
