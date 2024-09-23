@@ -37,6 +37,10 @@ variant: markdown
     <td class="tg-0pky">ECG Counsellor</td>
     <td class="tg-0pky">Mr Mohammed Syahril</td>
   </tr>
+	  <tr>
+    <td class="tg-0pky">ICT Manager</td>
+    <td class="tg-0pky">Mr Marcus Loh</td>
+  </tr>
   <tr>
     <td class="tg-0pky">Administrative Executive</td>
     <td class="tg-0pky">Mdm Siti Radziah</td>
