@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Parents/10) Sec 3 Subject Combination Exercise.md
       - Parents/.keep
       - Parents/Parents Gateway.md
       - Parents/1) Important Helplines.md
