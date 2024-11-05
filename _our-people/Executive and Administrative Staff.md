@@ -38,7 +38,7 @@ variant: markdown
     <td class="tg-0pky">Mr Mohammed Syahril</td>
   </tr>
 	  <tr>
-    <td class="tg-0pky">ICT Manager</td>
+    <td class="tg-0pky">IT Manager</td>
     <td class="tg-0pky">Mr Marcus Loh</td>
   </tr>
   <tr>
