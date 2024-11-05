@@ -27,7 +27,7 @@ variant: markdown
 |  | Mdm Lim Chu Toh |
 |  | Ms Peh Hui Ling (SH/Student Leadership & Student Well-Being) |
 |  | Mdm Veni Thavasagayan |
-| Technical support Officer | Mdm Ruhaida Mohamad |
+| Technical Support Officer | Mdm Ruhaida Mohamad |
 |  | Mdm Poh Siok Peng Doreen |
 |  |  |
 
