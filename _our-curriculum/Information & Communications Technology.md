@@ -16,7 +16,7 @@ variant: markdown
 | Teachers  | Ong Chih Faah |
 |  | Chan Choe Seng Gerard |
 |  | Tan Lee Hock James |
-| IT Manager  | Ahmad Lutfi Bin Abdul Rashid |
+| IT Manager  | Marcus Loh |
 | Desktop Engineer  | Muhammad Afiq Bin Hassan |
 | ICT Exec    |  A R Nifnul Safana |
 | ICT Trainer  | Cheryl Tan
