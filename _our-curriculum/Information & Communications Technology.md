@@ -10,16 +10,15 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| HOD ICT   | Neo Shufen |
-| SH ICT | Zhang Simin |
-| CPA Coordinator  | Veni Thavasagayan |
-| Teachers  | Ong Chih Faah |
-|  | Chan Choe Seng Gerard |
-|  | Tan Lee Hock James |
-| IT Manager  | Marcus Loh |
-| Desktop Engineer  | Muhammad Afiq Bin Hassan |
-| ICT Exec    |  A R Nifnul Safana |
-| ICT Trainer  | Cheryl Tan
+| HOD ICT   | Ms Neo Shufen |
+| SH ICT | Mrs Kwan Simin |
+| CPA Coordinator  | Mdm Veni Thavasagayan |
+| Teachers  | Mr Ong Chih Faah |
+|  | Mr Chan Choe Seng Gerard |
+|  | Mr Tan Lee Hock James |
+| IT Manager  | Mr Marcus Loh |
+| Desktop Engineer  | Mr Muhammad Afiq Bin Hassan |
+| ICT Exec    |  Ms A R Nifnul Safana |
 
 
 ### NATIONAL DIGITAL LEARNING PROGRAMME ( NDLP)
