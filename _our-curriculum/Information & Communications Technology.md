@@ -19,7 +19,6 @@ variant: markdown
 | IT Manager  | Mr Marcus Loh |
 | Desktop Engineer  | Mr Muhammad Afiq Bin Hassan |
 | ICT Exec    |  Ms A R Nifnul Safana |
-| ICT Trainer  | Ms Cheryl Tan
 
 
 ### NATIONAL DIGITAL LEARNING PROGRAMME ( NDLP)
