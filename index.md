@@ -18,6 +18,14 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/animated-hero-banner.gif
+  - infopic:
+      title: TPSS OPEN HOUSE 2024
+      subtitle: Welcome P6 students & parents
+      id: infopic
+      button: Click here for our open house welcome booklet
+      url: https://drive.google.com/drive/mobile/folders/1jGbfa4Wk9kJfmpercK8bnav7kmefaaaB?usp=sharing
+      image: /images/2024_TPSS_Open_House_Publicity_Poster_.png
+      alt: Image alt text
   - infobar:
       title: Direct School Admission (DSA)
       subtitle: Application for DSA now open!
