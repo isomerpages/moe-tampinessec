@@ -17,7 +17,7 @@ sections:
         - title: For teachers
           description: ""
           url: /others/teachers-portal/
-      background: /images/animated-hero-banner.gif
+      background: /images/Homepage_Banner_4.gif
   - infopic:
       title: TPSS OPEN HOUSE 2024
       subtitle: Welcome P6 students & parents
