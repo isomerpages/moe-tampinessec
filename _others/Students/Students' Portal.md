@@ -8,8 +8,10 @@ variant: tiptap
 <h3>Sales of Uniform for 2025</h3>
 <p><a href="/files/Information_for_Sale_of_Uniforms_in_2024_for_2025_TPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for sale of uniform</a>
 </p>
-<h3>2025 Booklists (Sec 2 to 5)</h3>
-<p><a href="/files/Booklist_2025_TPS__Final_Draft__S2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 </a>
+<h3>2025 Booklists (Sec 1 to 5)</h3>
+<p><a href="/files/Booklist_2025_TPS__Final_Draft__S1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
+<p><a href="/files/Booklist_2025_TPS__Final_Draft__S2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
 <p><a href="/files/Booklist_2025_TPS__Final_Draft__S3E.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Express</a> |
 <a href="/files/Booklist_2025_TPS__Final_Draft__S3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Academic)</a>| <a href="/files/Booklist_2025_TPS__Final_Draft__S3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Technical)</a>
