@@ -18,6 +18,13 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
+  - infobar:
+      title: 2025 Secondary 1 Appeal to Tampines Secondary School
+      id: infobar
+      description: Parents who wish to appeal may submit the online form available
+        from 18 Dec 2024.
+      button: click here for Appeal form
+      url: https://go.gov.sg/2025sec1appealtpss
   - infopic:
       title: TPSS OPEN HOUSE 2024
       subtitle: Welcome P6 students & parents
@@ -41,39 +48,6 @@ sections:
         April 12th respectively.
       button: More details
       url: https://www.tampinessec.moe.edu.sg/38-speech-day/
-  - infobar:
-      title: 2023 O Level Results Release
-      subtitle: 2023 4ENA5N Cohort
-      id: infobar
-      description: "Students are to report punctually on 11/1/24 at 2pm to the Hall in
-        school attire/ITE uniform. We have provided resources on this milestone,
-        through this link:"
-      button: more details
-      url: https://www.tampinessec.moe.edu.sg/others/parents/examresults/
-  - infobar:
-      title: Semester 1 Timetable
-      subtitle: Announcement
-      id: infobar
-      description: Dear Tampinesians, please visit the Students' Portal to download
-        the Semester 1 Timetable.
-      button: Students' Portal
-      url: https://www.tampinessec.moe.edu.sg/others/students-portal/
-  - infobar:
-      title: 21 December FSBB briefing
-      subtitle: Parents of G1/G2 students
-      id: infobar
-      description: Slides from the FSBB Briefing for parents of students in Posting
-        Group 1 (G1) and Posting Group 2 (G2) are now available.
-      button: Link to slides
-      url: /files/FSBB_Briefing_slides_for_parents_21_Dec_2023.pdf
-  - infobar:
-      title: Sec 1 Information
-      subtitle: Sec 1 parents and students
-      id: infobar
-      description: Please follow the link to access information about Sec 1
-        registration and orientation.
-      button: More details
-      url: /sec1students/
   - infopic:
       title: Follow TPSS on Facebook and Instagram!
       subtitle: Announcement
