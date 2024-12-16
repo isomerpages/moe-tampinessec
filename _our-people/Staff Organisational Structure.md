@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>SCHOOL EXECUTIVE COMMITTEE</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,7 +24,7 @@ variant: tiptap
 <p>PRINCIPAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lan Mingjun</p>
+<p>Mrs Tay Yang Fern</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +40,7 @@ variant: tiptap
 <p>VICE PRINCIPAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cheong Tien Beng</p>
+<p>Mrs Lee Peck Wen Amanda</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +64,7 @@ variant: tiptap
 <p>ADMINISTRATION MANAGER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Angeline Hong</p>
+<p>Mr Joshua Chua Jack Seng</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +72,7 @@ variant: tiptap
 <p>ADMINISTRATION MANAGER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Chua Jack Seng</p>
+<p>Mdm Chow Shin Ye</p>
 </td>
 </tr>
 <tr>
