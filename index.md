@@ -57,4 +57,11 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: 2025 Online Registration for Sec 1 Malay (Special Programme)
+      id: infobar
+      description: Successful students selected for M(SP) studies at TPSS should
+        register via the online form from 18 Dec 2024.
+      button: MORE DETAILS
+      url: https://www.tampinessec.moe.edu.sg/others/students/msp/
 ---
