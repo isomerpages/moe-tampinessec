@@ -25,6 +25,13 @@ sections:
         from 18 Dec 2024.
       button: click here for Appeal form
       url: https://go.gov.sg/2025sec1appealtpss
+  - infobar:
+      title: 2025 Online Registration for Sec 1 Malay (Special Programme)
+      id: infobar
+      description: Successful students selected for M(SP) studies at TPSS should
+        register via the online form from 18 Dec 2024.
+      button: MORE DETAILS
+      url: https://www.tampinessec.moe.edu.sg/others/students/msp/
   - infopic:
       title: TPSS OPEN HOUSE 2024
       subtitle: Welcome P6 students & parents
@@ -57,11 +64,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: 2025 Online Registration for Sec 1 Malay (Special Programme)
-      id: infobar
-      description: Successful students selected for M(SP) studies at TPSS should
-        register via the online form from 18 Dec 2024.
-      button: MORE DETAILS
-      url: https://www.tampinessec.moe.edu.sg/others/students/msp/
 ---
