@@ -8,10 +8,10 @@ third_nav_title: Students
 <p>Dear 2025 Secondary 1 MSP students</p>
 <p></p>
 <p>Please register using the link or QR Code provided below.&nbsp; Registration
-is open from <strong>18 December 2024 (7am)</strong> to <strong>6 January 2025 (5pm)</strong>.</p>
+is open from <strong>18 December 2024 (7am)</strong> to <strong>2 January 2025 (5pm)</strong>.</p>
 <p></p>
 <p>Kindly note the following information:</p>
-<p>(i)&nbsp;&nbsp;&nbsp; If successful applicants do not register by 6 January
+<p>(i)&nbsp;&nbsp;&nbsp; If successful applicants do not register by 2 January
 2025, the offer will lapse, and the place will be offered to another applicant.</p>
 <p>(ii)&nbsp;&nbsp; Secondary 1 MSP lesson will begin on 16 January 2025.
 Lesson will be on every <strong><u>Thursday</u></strong> from <strong><u>3.00 pm to 6.00 pm</u></strong>.</p>
