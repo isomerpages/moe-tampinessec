@@ -19,17 +19,23 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
+      title: Information for 2025 Secondary 1 Registration
+      subtitle: Sec 1 Parents and Students
+      id: infobar
+      description: Please click on the link to access information about Sec 1 registration.
+      button: more details
+      url: https://tampinessec.moe.edu.sg/sec1students/
+  - infobar:
       title: 2025 Secondary 1 Appeal to Tampines Secondary School
       id: infobar
-      description: Parents who wish to appeal may submit the online form available
-        from 18 Dec 2024.
+      description: Parents who wish to appeal may submit the online appeal form.
       button: click here for Appeal form
       url: https://go.gov.sg/2025sec1appealtpss
   - infobar:
       title: 2025 Online Registration for Sec 1 Malay (Special Programme)
       id: infobar
       description: Successful students selected for M(SP) studies at TPSS should
-        register via the online form from 18 Dec 2024.
+        register via the online form.
       button: MORE DETAILS
       url: https://www.tampinessec.moe.edu.sg/others/students/msp/
   - infopic:
