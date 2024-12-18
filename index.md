@@ -19,6 +19,13 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
+      title: Information for Secondary One Registration
+      subtitle: Sec one Parents and Students
+      id: infobar
+      description: Please click on the link to access information about Sec 1 registration.
+      button: more details
+      url: https://tampinessec.moe.edu.sg/sec1students/
+  - infobar:
       title: 2025 Secondary 1 Appeal to Tampines Secondary School
       id: infobar
       description: Parents who wish to appeal may submit the online form available
