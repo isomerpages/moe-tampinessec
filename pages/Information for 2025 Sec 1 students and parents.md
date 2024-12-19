@@ -15,4 +15,9 @@ and parents.</p>
 <p>These will also be sent via Parents Gateway to all parents. Thank you
 and we look forward to seeing your child/ward in Tampines Secondary.</p>
 <p></p>
+<p>The slides below are for parents of students in Posting Group (PG1) and
+Posting Group 2 (PG2) only.</p>
+<p><a href="/files/FSBB_Briefing_slides_for_parents_19_Dec_2024_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">FSBB briefing slides</a>
+</p>
+<p></p>
 <p></p>
