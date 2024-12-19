@@ -40,7 +40,7 @@ variant: tiptap
 <p>VICE PRINCIPAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Peck Wen Amanda</p>
+<p>Mdm Lee Peck Wen Amanda</p>
 </td>
 </tr>
 <tr>
