@@ -22,7 +22,9 @@ sections:
       title: Information for 2025 Secondary 1 Registration
       subtitle: Sec 1 Parents and Students
       id: infobar
-      description: Please click on the link to access information about Sec 1 registration.
+      description: Please click on the link to access information about Sec 1
+        registration. Slides from 19 Dec FSBB sharing for G2 and G1 parents are
+        now available!
       button: more details
       url: https://tampinessec.moe.edu.sg/sec1students/
   - infobar:
