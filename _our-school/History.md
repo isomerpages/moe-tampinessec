@@ -2,6 +2,7 @@
 title: History
 permalink: /our-school/history/
 description: ""
+variant: markdown
 ---
 ### OUR HUMBLE BEGINNINGS
 
@@ -11,6 +12,6 @@ TPSS underwent infrastructural upgrading towards the 1990s to stay relevant in t
 
 TPSS underwent PRIME in 2008. In tandem with physical change was also a fresh vision towards a more pervasive culture of exploring imagined possibilities. Mr. Balamurugan Krishnasamy, our fifth Principal, turned the campus into a vibrant and energetic space for students to express themselves innovatively. It was during this period when the school put in place building blocks to create a niche in visual and performing arts and creative engineering, supported by our Life Long Learning Programme and Applied Learning Programme respectively.
 
-In 2016, Mr. Shane Kwok, took up the leadership of TPSS, seeking to guide the next generation of students towards future-readiness. Recognising the need to build resilience and excellence to face challenges of the future, we adopted a fresh vision of: A caring community of Learners, Thinkers and Leaders. This vision carries on with our new principal, Mr. Lan Mingjun, whom we welcomed in 2021.
+In 2016, Mr. Shane Kwok, took up the leadership of TPSS, seeking to guide the next generation of students towards future-readiness. Recognising the need to build resilience and excellence to face challenges of the future, we adopted a fresh vision of: A caring community of Learners, Thinkers and Leaders. This vision carries on with our new principal, Mrs Tay Yang Fern, whom we welcomed in 2024.
 
-In the years ahead, TPSS will continue to provide a well-rounded education in a nurturing environment to prepare Tampinesians to make full use of the opportunities given to them. To develop our students into concerned citizens and confident learners, we aspire to champion engaging learning experiences to enhance their critical thinking, communication, and collaborative skills. For more details, please read Mr. Lan’s Message: [Principal's Message](https://staging.d1fihgd2ht15r5.amplifyapp.com/our-school/principals-message/)
+In the years ahead, TPSS will continue to provide a well-rounded education in a nurturing environment to prepare Tampinesians to make full use of the opportunities given to them. To develop our students into concerned citizens and confident learners, we aspire to champion engaging learning experiences to enhance their critical thinking, communication, and collaborative skills. For more details, please read Mrs Tay’s [message](https://www.tampinessec.moe.edu.sg/our-school/principals-message/).

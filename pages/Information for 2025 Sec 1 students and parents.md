@@ -11,8 +11,11 @@ and parents.</p>
 </p>
 <p><a href="/files/Booklist_2025_TPS__Final_Draft__S1.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Booklist</a>
 </p>
+<p><em><a href="/files/Sec_1_Orientation.pdf" rel="noopener noreferrer nofollow" target="_blank">*NEW </a></em>
+<a href="/files/Sec_1_Orientation.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Orientation Letter</a>
+</p>
 <p></p>
-<p>These will also be sent via Parents Gateway to all parents. Thank you
+<p>These have also been sent via Parents Gateway to all parents. Thank you
 and we look forward to seeing your child/ward in Tampines Secondary.</p>
 <p></p>
 <p>The slides below are for parents of students in Posting Group (PG1) and
