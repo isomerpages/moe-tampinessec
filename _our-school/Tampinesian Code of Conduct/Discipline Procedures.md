@@ -92,6 +92,12 @@ The following items are not to be brought to school:
 
 *   Relevant authorities such the police and HSA will be informed of these restricted items.
 
+#### 7.  ACADEMIC DISCIPLINE
+
+**Learning in a Blended Learning Environment**
+
+* Students will be taken to task
+
   
 
 _The above list of procedures is not exhaustive. Students who contravene the rules and procedures will be subjected to disciplinary action. The school reserves the right to review the consequences periodically and to impose the consequences as deemed fit._
