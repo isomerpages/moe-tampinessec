@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Tampinesian Code of Conduct
 variant: markdown
 ---
-**All Tampinesians are to comply with the following procedures. Failure to comply may result in disciplinary action taken against them.**
+fo**All Tampinesians are to comply with the following procedures. Failure to comply may result in disciplinary action taken against them.**
 
 #### 1. ATTENDANCE AND ABSENCE FROM SCHOOL
 
@@ -96,7 +96,9 @@ The following items are not to be brought to school:
 
 **Learning in a Blended Learning Environment**
 
-* Students will be taken to task
+* Students will be taken to task for non-adherence to academic discipline by committing academic misdemeanors which include the following:
+	* Non-submission of quality student work (both in-class and HBL assignments)
+	* Not following PLD routines
 
   
 
