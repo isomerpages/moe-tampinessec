@@ -3,8 +3,9 @@ title: Minor and Major Offences
 permalink: /our-school/Tampinesian-Code-of-Conduct/minor-and-major-offences/
 description: ""
 third_nav_title: Tampinesian Code of Conduct
+variant: markdown
 ---
-**Tampinesians are capable of responsible and respectful behaviour towards themselves, peers and teachers. Consequences for misbehaviours are imposed to ensure a safe and secure environment for all members of the school community.**  
+**Tampinesians are capable of responsible and respectful&nbsp;behaviour&nbsp;towards themselves, peers and teachers. Consequences for&nbsp;misbehaviours&nbsp;are imposed to ensure a safe and secure environment for all members of the school community.** &nbsp;
 
 Consequences for committing minor offences include detention and/or school service. Repeat offences will be treated as major offences and will be escalated to higher authorities. Consequences for committing major offences include suspension from class, caning (for boys), involvement of the police and other relevant authorities. Recalcitrant offenders may be placed on prolonged suspension from class and may eventually be expelled from school.
 
@@ -73,4 +74,3 @@ Consequences for committing minor offences include detention and/or school servi
 ^ Includes vaping and other tobacco products. HSA will be informed
 
 @ The police may be involved
-
