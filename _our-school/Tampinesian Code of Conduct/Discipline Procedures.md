@@ -3,44 +3,43 @@ title: Discipline Procedures
 permalink: /our-school/Tampinesian-Code-of-Conduct/discipline-procedures/
 description: ""
 third_nav_title: Tampinesian Code of Conduct
+variant: markdown
 ---
 **All Tampinesians are to comply with the following procedures. Failure to comply may result in disciplinary action taken against them.**
 
 #### 1. ATTENDANCE AND ABSENCE FROM SCHOOL
 
-*   Attendance in school is compulsory. Students are also required to attend all activities planned for them (e.g. lessons after school, CCA training sessions, enrichment courses, learning journeys, school events) unless certified medically unfit for school or excused due to valid reasons.  
-  
-*   Parents/guardians of students must inform the General Office at Tel: 67835423 when their child/ward is not able to report to school by 7.30am  
+•  Attendance in school is compulsory. Students are also required to attend all activities planned for them (e.g. lessons after school, CCA training sessions, enrichment courses, learning journeys, school events) unless certified medically unfit for school or excused due to valid reasons.
 
-*   Students must submit a medical certificate (MC) to the form teacher upon his/her return to school.  
-   
-*   The school will take into consideration letters from parents/guardians for non-medical emergencies / urgent family matters. **Only five letters per semester will be accepted.**   
-    
+•  Parents/guardians of students must inform the General Office at Tel: 67835423 when their child/ward is not able to report to school by 7:30 AM (or 8:55 AM on Wednesdays).
 
-*   Absence without a valid reason is deemed as Truancy and students will face due consequences.  
-    
+•  Students must submit a medical certificate (MC) to the form teacher upon his/her return to school.
 
-  
+•  The school will take into consideration letters from parents/guardians for non-medical emergencies / urgent family matters. **A maximum of** **4 letters per semester** will be accepted.
+
+•  Absence without a valid reason is deemed as Truancy and students will face due consequences.
 
 #### 2. PUNCTUALITY
 
-*   Students must be punctual for school and all school activities.
+•   Students are required to attend school every day, as well as all activities planned for them including CCAs, school events etc. Regular attendance is important to support their learning and progression to the next level. 
 
-*   Morning assembly will start promptly at 7.30 am each day.
+•   If students are certified medically unfit, they are required to submit a medical certificate (MC) to the Form Teacher upon their return to school. The school will take into consideration letters from parents/guardians for non-medical emergencies/urgent family matters. Please note that a maximum of **4** letters per semester may be accepted.
 
-*   A student who is not with the class at the flag-raising ceremony at 7.30 am is considered late for school.
+•   Absence without a valid reason is deemed as truancy and students will face disciplinary consequences.
 
-*   Students who are late are to report to the discipline teacher on duty at the - LC station Level 2 outside the staff room or General Office. Their names will be recorded and they will be issued a blue permission slip stamped and signed granting them permission to report to class for lessons. The blue permission slip must be submitted to the subject teacher in the classroom.
+•   Students are also required to be punctual for morning assembly. 
 
-*   Latecomers who do not report their late coming as required and thus do not have a blue slip in their possession will not be admitted to class and will face disciplinary consequences.
+•   Reporting Times for Students:
 
-*   Students who are late to school 3 times or more will serve disciplinary consequences.
+- Wednesdays: Students should report by 8:55 AM.
 
-*   Students who report after 8.00 am should have their names recorded at the Guard House and will be issued a blue permission slip. They must then report to the General Office and have the blue permission slip stamped and signed. Students who report after 8.00 am will have to serve detention after school or suspension from class immediately on the day itself.
+- All Other Days: Students should report by 7:30 AM 
 
-*   Students who are persistently late may be suspended from class and parents/guardians must see the Principal/DM before they are allowed to return to class.
+•   A student who is not with his or her class by then is considered late for school. Students who are late 3 times or more will face disciplinary consequences. Students may refer to the school website for details of each week’s assembly venues: [https://www.tampinessec.moe.edu.sg/others/students/weeklyassemblyvenues/](https://www.tampinessec.moe.edu.sg/others/students/weeklyassemblyvenues/)
 
-  
+•  Students who report after 9:10 AM on Wednesdays, or after 8:00 AM on all other days, should have their names recorded at the Guard House and will be issued a blue permission slip. They must then report to the General Office and have the blue permission slip stamped and signed. Students who report late will have to serve detention after school or suspension from class immediately on the day itself.
+
+•  Students who are persistently late may be suspended from class and parents/guardians must see the Principal/ HOD (SM) before they are allowed to return to class.
 
 #### 3. LEAVING THE CLASSROOM DURING CURRICULUM TIME
 
