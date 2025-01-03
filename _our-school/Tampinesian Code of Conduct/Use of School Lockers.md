@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Tampinesian Code of Conduct
 ---
-<p><strong>All students will be provided with lockers located along the corridors outside their classroom. </strong>
+<p><strong>All students will be provided with lockers located along the corridors outside their classroom.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Locker Allocation:</strong> Each student will be assigned a locker
-corresponding to their class register number. <u>No swapping is allowed. </u>
+corresponding to their class register number. <u>No swapping is allowed.</u>
 </p>
 <p></p>
 </li>
