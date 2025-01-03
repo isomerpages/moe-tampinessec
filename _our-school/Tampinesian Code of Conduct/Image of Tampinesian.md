@@ -11,33 +11,47 @@ variant: markdown
 
 ### School Uniform
 
-*   Students are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
-*   Students are allowed to wear the school polo T-shirt, approved CCA or House T-shirt on prescribed days of the week.
-*   Students must wear the school uniform and be properly attired when coming for school activities during term break or school holidays. Students who do not conform will not be allowed into the school compound.
-*   Students are allowed to wear only white or predominantly white school shoes.
-*   Students must wear white socks which are visible above the ankles.
-*   Slippers are not allowed at all times. Sandals with straps can be worn ONLY in cases of foot injury.
-*   The security officers stationed at the school gate reserve the right to refuse entry to students who are not properly attired.
+•  The image of a Tampinesian is important to the school and reflects school pride and upbringing. Students must conform to the dress code to uphold this image in terms of both attire and grooming. Students are to wear the prescribed school uniform on each day of the week as follows:
+
+- Mondays: Full uniform. (Students with PE for the first lesson may wear PE attire inside, but they should not report in PE attire for flag raising.)
+- Tuesday – Friday: Full uniform or Half uniform, which means:
+
+	o   Sec 1 & 2 – Green PE T-shirt and Green Skirt / Shorts
+	o   Sec 3 – Green PE T-shirt or White Polo and Green Skirt / Pants
+	o   Sec 4 & 5 – Green PE T-shirt or House T-shirt and Green Skirt / Pants
+
+
+•  The wearing of class/ CCA/ camp-based T-shirts is not allowed, except for after-school activities or special occasions as advised.
+
+•  Modification of the school uniform is not allowed.
+
+•  Students must wear the school uniform and be properly attired when coming for school activities during term break or school holidays. Students who do not conform will not be allowed into the school compound.
+
+•  Students are allowed to wear only white or predominantly white school shoes.
+
+•  Students must wear white socks which are visible above the ankles.
+
+•  Slippers are not allowed at all times. Sandals with straps can be worn ONLY in cases of foot injury.
+
+•  The security officers stationed at the school gate reserve the right to refuse entry to students who are not properly attired.
 
 #### Boys
 
-*   Lower Sec Uniform: beige shirt and green shorts. Shorts must be of knee-length.
-*   Upper Sec Uniform: beige shirt and green trousers.
-*   Name tag is sewn just above the pocket.
+*   Lower Sec Uniform: Beige shirt and green shorts. Shorts must be of knee-length.
+*   Upper Sec Uniform: Beige shirt and green trousers.
 
 #### Girls
 
-*   Uniform: Beige shirt and green skirt. Skirt must be of knee-length.
-*   Name tag is sewn above the school badge.
+*   Uniform: Beige shirt and green skirt. Skirt must be knee-length.
 
 #### PE Attire
 
 *   Students are to wear the approved PE attire during PE lessons.
-*   Students must change out of their PE attire within the next two periods. 
+*   Students must change out of their PE attire by the end of recess. 
 
 #### During Examination Periods
 
-*   All students are expected to be in full uniform during examinations.
+*   Students should follow the same general guidelines above and wear the prescribed uniform for each day of the week.
 
 ### Hairstyle and Appearance
 
