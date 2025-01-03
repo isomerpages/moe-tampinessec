@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>Counselling Self-referral</h3>
+<p>Dear students, if you wish to speak to the school counsellors, please
+fill in the following <a href="https://go.gov.sg/tpss-counselling-request" rel="noopener nofollow" target="_blank">counselling self-referral form</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/counselling.png">
+</div>
 <h3>Sales of Uniform for 2025</h3>
 <p><a href="/files/Information_for_Sale_of_Uniforms_in_2024_for_2025_TPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for sale of uniform</a>
 </p>
