@@ -19,6 +19,12 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
+      title: 2024 O Level Results Release
+      subtitle: 2024 4E4NA5NA cohort
+      id: infobar
+      description: Students are to report punctually to the school hall on 10 Jan 2025
+        at 2.30PM in TPSS school uniform/school-based attire/ITE uniform.
+  - infobar:
       title: Information for 2025 Secondary 1 Parents
       subtitle: Sec 1 Parents and Students
       id: infobar
