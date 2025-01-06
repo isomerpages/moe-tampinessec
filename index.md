@@ -19,11 +19,11 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
-      title: Information for 2025 Secondary 1 Registration
+      title: Information for 2025 Secondary 1 Parents
       subtitle: Sec 1 Parents and Students
       id: infobar
-      description: Please click on the link to access information about Sec 1
-        registration. Letter on Sec 1 Orientation now available!
+      description: Please click here for slides shared during Sec 1 Parent Engagement
+        on 3 Jan.
       button: more details
       url: https://tampinessec.moe.edu.sg/sec1students/
   - infobar:
