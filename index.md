@@ -18,6 +18,15 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
+  - infopic:
+      title: "Support TPSS Team: Virtual Visionaries in N.E.mation!"
+      id: infopic
+      description: Voting runs from 18 January to 9 February. Your support is crucial
+        in helping our team shine even brighter!
+      button: Click here to vote now
+      url: nemation.animagine.com
+      image: /images/NEmation_voting.png
+      alt: Image alt text
   - infobar:
       title: 2024 O Level Results Release
       subtitle: 2024 4E4NA5NA cohort
