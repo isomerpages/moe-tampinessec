@@ -147,13 +147,8 @@ variant: tiptap
 <h3>Vision</h3>
 <p>To nurture empathetic communicators, discerning readers and creative inquirers.</p>
 <h3>Mission</h3>
-<p>At Tampines Secondary School's English Language and Literature Department,
-we cultivate a passion for language and storytelling. Through rigorous
-exploration and thoughtful discourse, we empower students to connect with
-diverse perspectives, critically engage with texts, and express themselves
-with authenticity and flair. Together, we build a community of lifelong
-learners who embrace language as a tool for understanding, empathy, and
-innovation.</p>
+<p>To empower students to connect with diverse perspectives, critically engage
+with texts, and express themselves with authenticity and flair.</p>
 <h3>KEY PROGRAMMES&nbsp;</h3>
 <h5>As Learners...</h5>
 <p><strong>English Language</strong>
