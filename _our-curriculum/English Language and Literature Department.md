@@ -32,10 +32,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Subject Head/English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Tan Ming Quan (EL)</p>
+<p>Ms Nurkhalisah Bte Kassim (EL/Lit)</p>
 </td>
 </tr>
 <tr>
@@ -48,63 +48,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Liwen (EL/Lit)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ee Sien Ming Bryan (EL)</p>
+<p>Mr Christopher Tan Ming Quan (EL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ezekiel Goh Zhuang Yuan (EL/Math)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hernie Binte Salleh (EL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Florence Lim (EL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Whye Gwan (EL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Imran B AB Malek (EL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Character and Citizenship Education</p>
+<p>Subject Head/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nallu Dhinakaran (EL/Geog)</p>
@@ -112,15 +64,55 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Head of Department/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Woon Bing Kevin (EL)</p>
+<p>Mdm Roziana Bte Ibrahim (EL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head/21st Century Competencies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Bao Fang (EL/SS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Zhuo Min, Rachel (EL/Music)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Coordinator (Sec 1 EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bryan Ee Sien Ming (EL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Coordinator (Sec 1 Lit)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Liwen (EL/Lit)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Coordinator (Sec 2 Lit)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sarinah Mohamed (EL/Lit)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Coordinator (Sec 3 EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurasyikin Hapet (EL)</p>
@@ -128,18 +120,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Level Coordinator (Sec 4/5 EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Royston (EL)</p>
+<p>Mr Mohamad Imran B AB Malek (EL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarinah Mohamed (EL/Lit)</p>
+<p>Ms Lee Whye Gwan (EL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Philip Royston (EL)</p>
 </td>
 </tr>
 </tbody>
