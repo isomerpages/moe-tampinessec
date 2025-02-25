@@ -35,7 +35,7 @@ variant: tiptap
 <p>Subject Head/English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurkhalisah Bte Kassim (EL/Lit)</p>
+<p>Ms Nurkhalisah Kassim (EL/Lit)</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ variant: tiptap
 <p>Subject Head/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nallu Dhinakaran (EL/Geog)</p>
+<p>Mr Nallu Dhinakaran (Geog/EL)</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Head of Department/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Roziana Bte Ibrahim (EL)</p>
+<p>Mdm Roziana Ibrahim (EL)</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Subject Head/21st Century Competencies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Bao Fang (EL/SS)</p>
+<p>Ms Tan Bao Fang (SS/EL)</p>
 </td>
 </tr>
 <tr>
@@ -83,15 +83,23 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Zhuo Min, Rachel (EL/Music)</p>
+<p>Ms Tang Zhuo Min, Rachel (Music/EL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Coordinator (Sec 1 EL)</p>
+<p>Level Coordinators (Sec 1 EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Bryan Ee Sien Ming (EL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hernie Salleh (EL)</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT</p>
+<p>Flexi Adjunct Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Whye Gwan (EL)</p>
@@ -136,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Philip (EL)</p>
