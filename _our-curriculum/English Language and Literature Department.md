@@ -139,7 +139,7 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Royston (EL)</p>
+<p>Mr Philip (EL)</p>
 </td>
 </tr>
 </tbody>
