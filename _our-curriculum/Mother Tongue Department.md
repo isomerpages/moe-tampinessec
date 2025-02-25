@@ -12,21 +12,17 @@ variant: markdown
 |---|---|
 | HOD Mother Tongue Languages | Ms Li Kaiying |
 | Senior Teacher Malay Language | Mr Esfan Rizal Bin Rahwom |
-| HOD Discipline | Ms Ho Lian Shi |
-|  | Mr Abdul Jalil Ali |
+| Teachers| Ms Ho Lian Shi |
+|  | Mdm Alena Puhari
 |  | Mdm Chew Poh Kim |
 |  | Mdm Mazni Abu Bakar |
 |  | Ms Nuraisyah Razali |
-|  | Ms Nur Fatin Atikah (UT) |
 |  | Mdm Nurliyana Hassan |
-|  | Ms Sri Nur Amanina Kamil |
-|  | Mr Tan Sing Hwa |
-|  | Mdm Teo Ah Tiok (FAJT) |
 |  | Mdm Alimah Lob (FAJT)  |
 |  | Ms Xiao Min |
 |  | Mrs Yip-Leong Jia En |
 |  | Ms Yu Hsin-Ju |
-|  | Ms Alena Bte Puhari |
+|  | Mr Ngoi Kah Teck
 
 ### Vision
 All students will love their Mother Tongue language. 
