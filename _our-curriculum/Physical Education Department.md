@@ -10,7 +10,7 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | HOD PE/CCA | Mr S Elangovan |
-| Asst Year Head | Mr Ong Eng Kia Aloysius |
+| Assistant Year Head | Mr Ong Eng Kia Aloysius |
 | Teachers | Mr Tan Lee Hock James |
 |  | Mr Faaiz Ishar |
 |  | Mr Mohammed Ariff B Mohtar |
