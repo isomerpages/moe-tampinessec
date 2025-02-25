@@ -17,8 +17,6 @@ variant: markdown
 |  | Mr Chan Choe Seng Gerard |
 |  | Mr Tan Lee Hock James |
 | IT Manager  | Mr Marcus Loh |
-| Desktop Engineer  | Mr Muhammad Afiq Bin Hassan |
-| ICT Exec    |  Ms A R Nifnul Safana |
 
 
 ### NATIONAL DIGITAL LEARNING PROGRAMME ( NDLP)
