@@ -15,8 +15,7 @@ variant: markdown
 |  | Ms Neo Shufen (ICT) |
 | Subject Head | Mdm Wei Yihui Jene (Mrs Jene Tay) |
 | Senior Teacher | Mr Yip Wai Kit Charles |
-| Teachers | Mr John Lim Soo Kian |
-|  | Mdm Loh Ming Woon |
+| Teachers | Mdm Loh Ming Woon |
 |  | Mdm Ho Sam Hong |
 |  | Mr Ong Chih Faah |
 |  | Mdm Ng Liang Jeah |
@@ -25,8 +24,6 @@ variant: markdown
 |  | Mr Simon Lee Keng Ping
 |  | Mdm Krystal Lee Shen Yee |
 |  | Mr Mohd Ariff |
-|  | Ms Choo Weilin |
-|  | Mr Goh Zhuang Yuan Ezekiel |
 |  | Mdm Goh Siok Tin (FAJT) |
 | AED (T&amp;L) | Mr Ahmad Kamarudin Masudi |
 |  | Ms Nur Sahilah Rasid |

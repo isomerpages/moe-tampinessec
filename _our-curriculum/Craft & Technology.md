@@ -48,15 +48,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Ah Soon</p>
+<p>Ms Tang Zhuo Min, Rachel</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Gim Koon</p>
@@ -75,6 +75,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Sng Ah Soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Nurlina Ibrahim</p>
 </td>
 </tr>
@@ -83,15 +91,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Weilin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jasmine Tan Jie Min</p>
+<p>Mdm Noor Fadilah Wahab</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yoke Leng</p>
+<p>Ms Suriyana Jum'ani</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jamalullail Salim</p>
+<p>Mdm Tan Yoke Leng</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Aisyah Binte Suhaimi</p>
+<p>Ms Nur Aisyah Suhaimi</p>
 </td>
 </tr>
 <tr>

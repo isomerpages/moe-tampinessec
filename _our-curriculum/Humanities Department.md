@@ -12,16 +12,15 @@ variant: markdown
 |---------------------|----------------------------|
 | HOD Humanities      | Mdm Lena Yeo               |
 | HOD CCE             | Mrs Preeti Sheri           |
-| Assistant Year Head | Mrs Ong-Yip Wan Wei Nicole |
 | SH CCE              | Mr Nallu Dhinakharan       |
 | SH History          | Ms Lim Zhi Ying            |
+| SH 21st Century CC  | Ms Tan Bao Fang |
 | Teachers            | Mr Shahril Bin Mohd Shah   |
 |                     | Mr Tan Eng Tee, Derrick    |
 |                     | Ms Chia Yu Ru              |
 |                     | Mr Lee Jia Xiang, Ivan      |
 |                     | Mr Nicholas Seow Wei Ming |
 |                     | Ms Nur Sufriena Suhaini |
-|                     | Mr Ricky Rueban David John |
 
 ## Vision
 Learners who embrace their role as global citizens who are able to manage complexity, ambiguities and diverse perspectives in an increasingly globalized world through being able to think critically and flexibly when faced with issues and challenges  

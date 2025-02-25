@@ -18,10 +18,8 @@ variant: markdown
 | Subject Teachers | Mr Joshua Foo (SH/Student Management) |
 |  | Mdm Zarinah Begum (School Staff Developer) |
 |  | Mrs Amy De Cruz |
-|  | Ms Amy Lui |
 |  | Mr Gerard Chan Choe Seng (ST/Learning Needs - Educational Support) |
 |  | Mr James Lim Choy Kee |
-|  | Mr Joel Chew Chong Wei |
 |  | Mr Khyrul Anwar |
 |  | Mrs Kwan Simin (SH/ICT) |
 |  | Mdm Lim Chu Toh |
