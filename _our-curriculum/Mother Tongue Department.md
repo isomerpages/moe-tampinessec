@@ -11,6 +11,7 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | HOD Mother Tongue Languages | Ms Li Kaiying |
+| SH Malay Language | Ms Halimah Mohmad |
 | Senior Teacher Malay Language | Mr Esfan Rizal Bin Rahwom |
 | Teachers| Ms Ho Lian Shi |
 |  | Mdm Alena Puhari
@@ -22,6 +23,7 @@ variant: markdown
 |  | Ms Xiao Min |
 |  | Mrs Yip-Leong Jia En |
 |  | Ms Yu Hsin-Ju |
+|  | Ms Chen Jiao
 |  | Mr Ngoi Kah Teck
 
 ### Vision
