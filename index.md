@@ -77,4 +77,13 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infopic:
+      title: Overseas Student Trips 2025
+      subtitle: for SEcondary 2 & 3 students
+      id: infopic
+      description: Please click on the link below to read more and register if keen!
+      button: Briefing on Overseas Student Trips 2025
+      url: https://docs.google.com/presentation/d/1uq79XtS5wI1NSLcjlnzYIfzf2DLL1BQM1Fu2aalqZQA/edit#slide=id.g33fa031816a_0_0
+      image: /images/WhatsApp_Image_2025_03_14_at_2_04_25_PM.jpg
+      alt: Image alt text
 ---
