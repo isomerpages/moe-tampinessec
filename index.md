@@ -18,6 +18,15 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
+  - infopic:
+      title: Overseas Student Trips 2025
+      subtitle: for SEcondary 2 & 3 students
+      id: infopic
+      description: Please click on the link below to read more and register if keen!
+      button: Briefing on Overseas Student Trips 2025
+      url: https://docs.google.com/presentation/d/1uq79XtS5wI1NSLcjlnzYIfzf2DLL1BQM1Fu2aalqZQA/edit#slide=id.g33fa031816a_0_0
+      image: /images/WhatsApp_Image_2025_03_14_at_2_04_25_PM.jpg
+      alt: Image alt text
   - infobar:
       title: 2024 O Level Results Release
       subtitle: 2024 4E4NA5NA cohort
@@ -76,14 +85,5 @@ sections:
       button: Click here
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
-      alt: Image alt text
-  - infopic:
-      title: Overseas Student Trips 2025
-      subtitle: for SEcondary 2 & 3 students
-      id: infopic
-      description: Please click on the link below to read more and register if keen!
-      button: Briefing on Overseas Student Trips 2025
-      url: https://docs.google.com/presentation/d/1uq79XtS5wI1NSLcjlnzYIfzf2DLL1BQM1Fu2aalqZQA/edit#slide=id.g33fa031816a_0_0
-      image: /images/WhatsApp_Image_2025_03_14_at_2_04_25_PM.jpg
       alt: Image alt text
 ---
