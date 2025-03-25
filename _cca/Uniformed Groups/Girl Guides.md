@@ -12,13 +12,11 @@ variant: markdown
 | Role | Teacher |
 |---|---|
 | OIC | CPT Chia Yu Ru |
-| 2IC | LT Sri Nur Amanina Kamil |
-|        | Mdm Chew Poh Kim  |
-|        | Mdm Nur Sufriena Binti Suhaini |
-|        | Ms Nur Fatin Atikah |
+| 2IC | LT Tan Yoke Leng |
+|        | Ms Chen Jiao |
 
 ### Training Schedule 
-Fridays: 2.30–5.30 p.m.
+Fridays: 2.00–5.30 p.m.
 
 ### Vision 
 All Guides are valued and take action to change the world.
@@ -59,25 +57,27 @@ Honoured with the Unit Puan Noor Aishah Award (Gold), we continually strive to f
 ### Highlights &amp; Achievements
 #### TPGG Exciting Events
 *   World Thinking Day Celebrations
-*   East Division Day
-*   East Division Learning Day
-*   Outdoor Steward Fest
+*   East Division Fest
+*   Wee Kim Wee Cooking Challenge
 *   Let’s Go Camping
 *   International Camp
 *   Girl Guides Cookie Sales for Charity
-*   Camping at Camp Christine under canvas
 *   Leaders’ Training Course (organised by GGS HQ)
 *   PUB Water Challenge Badge
-*   Smoke-Free Advocacy Badge with Singapore Cancer Society
+*   Gardens by the Bay Ambassador Programme
+*   Smoke-Free Ambassador Programme with Singapore Cancer Society
 *   SANA Badge Course
 *   Mental Health Advocacy Badge with Temasek Foundation and Institute of Mental Health
+*   Advocacy Mentorship Programme (AMP)
 *   BP Eco-Challenge (Water and Land Obstacle Course) at Camp Christine
-*   1-Star Kayaking Course
-*   First-Aid Course
-*   Orienteering and hikes
 *   Company bonding events through excursions
 *   Collaboration with St. John’s Home for the elderly for VIA
 #### Achievements
+**2024:**<br>
+World Thinking Day Talent Show Competition 2024 -&nbsp;**Bronze** <br>
+East Division Day Recycled Fashion Competition 2024 -&nbsp;**Silver**<br>
+Baden Powell Award (BPA) - Teo Hwee Qi (4E1)
+
 **2023:**<br>
 East Division Day Skit Competition 2023 -&nbsp;**Silver** <br>
 East Division Day Poster Design Competition 2023 -&nbsp;**Silver**
