@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/2023_girl%20guides_03.jpg)
+![](/images/TPGG2024.jpg)
 
 ### Teachers
 
