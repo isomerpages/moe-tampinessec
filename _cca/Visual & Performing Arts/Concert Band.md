@@ -11,23 +11,22 @@ variant: markdown
 
 | Role | Teacher | 
 | --------- | --------- | 
-| OIC     | Mr Abdul Jalil     | 
-| 2IC     | Mdm Nurlina Ibrahim     | 
-|            | Mr Charles Yip Wai Kit     |
-| Teacher Support     | Mdm Nur Sahilah Rasid     | 
+| OIC     |  Mdm Nur Sufriena Suhaini    | 
+| 2IC     | Mdm Warda Mohamed Shariff     | 
+
 
 
 ### Training Schedule
 
-Tuesdays: 2.45–5.40 p.m. <br>
-Fridays: 1.30–4.40 p.m. 
+Tuesdays: 3.15–6 p.m. <br>
+Fridays: 2.30–5.45 p.m. 
 
 
 ### Introduction
  
-Under the baton of Mr. Chris Goh and assistant conductor, Mr. Alvin Quek and Mr. Lee Chong Fong, Tampines Concert Band (TPCB) was formed by a group of dedicated musicians from all levels who are committed to achieving excellence in music. With the support of the alumni, instructors and school community, TPCB clinched the Certificate of Accomplishment in the Singapore Youth Festival (SYF) Arts Presentations 2023.
+Under the dynamic baton of Mr. Hendrik Kwek, together with assistant conductors Mr. Alan Kartik and Ms. Kee Rui Han, Tampines Concert Band (TPCB) is a passionate community of musicians striving for excellence and growth. Thanks to the unwavering support of our alumni, instructors, and school community, TPCB proudly achieved the Certificate of Accomplishment at the Singapore Youth Festival (SYF) Arts Presentation 2025.
 
-TPCB has gone to many places and countries to perform, which has enhanced our global awareness and cross-cultural skills.
+Through performances both at home and abroad, TPCB continues to build global connections and foster a spirit of cultural appreciation through the power of music.
 
 ### Photo Gallery
 
