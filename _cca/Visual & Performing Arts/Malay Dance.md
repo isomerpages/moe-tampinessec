@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/malay-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/2023_malay_dance_03.jpg)
 
@@ -64,6 +65,8 @@ Singapore Youth Festival Arts Presentation (Malay Dance category):
 **2021: Certificate of Distinction**
 
 **2023: Certificate of Accomplishment**
+
+**2025: Certificate of Distinction**
 
 P3NTAS: Gelanggang Tari 2022:
 
