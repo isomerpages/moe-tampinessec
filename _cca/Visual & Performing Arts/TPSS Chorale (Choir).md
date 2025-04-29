@@ -65,5 +65,5 @@ Beyond refining their technical skills in singing a repertoire of songs from dif
 #### Masterclasses/Choir Exchange
 2023: Exchange at Whitley Secondary School
 <br>2024: ‘Magical Voices’ workshop by Ms Susanna Saw
-<br>2025: Hosted an exchange with Chung Cheng High (Yishun), Canberra Secondary School, Riverside Secondary School and Bartley Secondary School.
+<br>2025: Hosted an exchange with Chung Cheng High (Yishun), Canberra Secondary School, Riverside Secondary School and Bartley Secondary School
 <br>2025: Exchange at Chung Cheng High (Yishun)
