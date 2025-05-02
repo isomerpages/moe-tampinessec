@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Tampinesian Code of Conduct
 variant: markdown
 ---
-fo**All Tampinesians are to comply with the following procedures. Failure to comply may result in disciplinary action taken against them.**
+**All Tampinesians are to comply with the following procedures. Failure to comply may result in disciplinary action taken against them.**
 
 #### 1. ATTENDANCE AND ABSENCE FROM SCHOOL
 
@@ -15,7 +15,7 @@ fo**All Tampinesians are to comply with the following procedures. Failur
 
 •  Students must submit a medical certificate (MC) to the form teacher upon his/her return to school.
 
-•  The school will take into consideration letters from parents/guardians for non-medical emergencies / urgent family matters. **A maximum of** **4 letters per semester** will be accepted.
+•  The school will take into consideration letters from parents/guardians for non-medical emergencies / urgent family matters. **A maximum of** **5 letters per semester** will be accepted.
 
 •  Absence without a valid reason is deemed as Truancy and students will face due consequences.
 
@@ -23,7 +23,7 @@ fo**All Tampinesians are to comply with the following procedures. Failur
 
 •   Students are required to attend school every day, as well as all activities planned for them including CCAs, school events etc. Regular attendance is important to support their learning and progression to the next level. 
 
-•   If students are certified medically unfit, they are required to submit a medical certificate (MC) to the Form Teacher upon their return to school. The school will take into consideration letters from parents/guardians for non-medical emergencies/urgent family matters. Please note that a maximum of **4** letters per semester may be accepted.
+•   If students are certified medically unfit, they are required to submit a medical certificate (MC) to the Form Teacher upon their return to school. The school will take into consideration letters from parents/guardians for non-medical emergencies/urgent family matters. Please note that a maximum of **5** letters per semester may be accepted.
 
 •   Absence without a valid reason is deemed as truancy and students will face disciplinary consequences.
 
