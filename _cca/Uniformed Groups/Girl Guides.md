@@ -74,11 +74,13 @@ Honoured with the Unit Puan Noor Aishah Award (Gold), we continually strive to f
 *   Collaboration with St. John’s Home for the elderly for VIA
 #### Achievements
 **2024:**<br>
+Puan Noor Aishah Unit Award -&nbsp;**Gold** <br>
 World Thinking Day Talent Show Competition 2024 -&nbsp;**Bronze** <br>
 East Division Day Recycled Fashion Competition 2024 -&nbsp;**Silver**<br>
 Baden Powell Award (BPA) - Teo Hwee Qi (4E1)
 
 **2023:**<br>
+Puan Noor Aishah Unit Award -&nbsp;**Gold** <br>
 East Division Day Skit Competition 2023 -&nbsp;**Silver** <br>
 East Division Day Poster Design Competition 2023 -&nbsp;**Silver**
 

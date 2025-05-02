@@ -87,8 +87,8 @@ videos of past projects</p>
 <p>Candidates should meet at least one of the following criteria:
 <br>1.For boys: Prior experience as a member of Football CCA or equivalent
 (e.g. external football training programme)&nbsp;</p>
-<p>For girls: Prior experience as a member of a sports CCA (for Girls) or
-equivalent (e.g. external football training programme)&nbsp; OR</p>
+<p>For girls: Prior experience as a member of a sports CCA or equivalent
+(e.g. external football training programme)&nbsp; OR</p>
 <p>
 <br>2. Past participation in football competitions/events.</p>
 <p></p>
@@ -111,7 +111,7 @@ assessing the potential of the applicants</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from Wed 7 May 2025,
 11am to Tue 3 Jun 2025, 3pm. For more details, please refer to MOE website
-– <a href="https://www.tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/dance-dynamics/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>
+– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
@@ -211,9 +211,7 @@ at MOE’s website&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noop
 <td rowspan="1" colspan="1">
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="https://www.tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/dance-dynamics/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>
-</p>
-<p>.</p>
+to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
 </td>
 </tr>
 <tr>
