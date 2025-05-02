@@ -6,7 +6,7 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>Tampines Companion (Student Handbook) 2025</h3>
-<p><a href="/files/Tampines_Companion_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Downloadable PDF version</a> |
+<p><a href="/files/Tampines_Companion_2025__29_Apr_.pdf" rel="noopener nofollow" target="_blank">Downloadable PDF version</a> |
 <a href="https://sites.google.com/moe.edu.sg/tpsscompanion/home" rel="noopener noreferrer nofollow" target="_blank">Microsite</a>
 </p>
 <p></p>
