@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-![](/images/2023_DRAMA_03_JPG.jpg)
+![](/images/2025_DRAMA.jpg)
 
 ### CCA Teachers
 
@@ -160,4 +160,3 @@ The EL Drama Club aims to nurture confident, independent young individuals who a
     
 *   **Drama CCA Open House Performance and Display Day**<br>
     → _Open House: A Vibrant Showcase of Drama Performances and Creative Exhibitions_
-		
