@@ -21,4 +21,3 @@ Mondays ― Fridays:<br>
 
 Saturdays: 9:00 am ― 3:00 pm  <br>
 *Closed on Sundays &amp; Public Holidays
-
