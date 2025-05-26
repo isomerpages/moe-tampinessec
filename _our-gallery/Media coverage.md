@@ -2,6 +2,7 @@
 title: Media coverage
 permalink: /our-gallery/media-coverage/
 description: ""
+variant: markdown
 ---
 ### SCHOOL CONVERSATIONS ON RACE AND RELIGION SHOULD CONTINUE TO EVOLVE, SAYS EDUCATION MINISTER ONG YE KUNG [16 JULY 2020, STRAITS TIMES]
 
@@ -60,7 +61,6 @@ Given the safe management measures in place in schools, this year's commemorativ
 * [Conversations about race & religion should happen not just on Racial Harmony Day: Ong Ye Kung [Mothership]](https://mothership.sg/2020/07/race-religion-conversations-schools-moe/?fbclid=IwAR34x5owmKChxG0SdCeN2HNSt-nNyYY-CK7rTFSKg5uacHsjbLY37KATR98)  
 * [Ong Ye Kung bimbing generasi muda bincang mengenai kaum agama [Berita Harian]](https://www.beritaharian.sg/setempat/ye-kung-bimbing-generasi-muda-bincang-mengenai-kaum-agama?fbclid=IwAR34x5owmKChxG0SdCeN2HNSt-nNyYY-CK7rTFSKg5uacHsjbLY37KATR98)   
 * [Bahas isu kaum baik bagi pelajar, tapi perlu saling hormati: Ong Ye Kung [Berita Harian]](https://berita.mediacorp.sg/mobilem/singapura/bahas-isu-kaum-baik-bagi-pelajar-tapi-perlu-saling-hormati-ong/4479092.html)  
-* [王乙康：年轻一代种族宗教看法不同 希望对话 [8world]](https://www.8world.com/news/singapore/article/student-conversation-on-race-and-religion-1193766?fbclid=IwAR34x5owmKChxG0SdCeN2HNSt-nNyYY-CK7rTFSKg5uacHsjbLY37KATR98)  
 * [王乙康：培训更多教师 引导学生坦诚探讨种族宗教课题 [Zaobao]](https://www.zaobao.com.sg/znews/singapore/story20200717-1069713?fbclid=IwAR34x5owmKChxG0SdCeN2HNSt-nNyYY-CK7rTFSKg5uacHsjbLY37KATR98)  
 * [மாணவர்களை வழிநடத்திச் செல்ல வேண்டியது அவசியம் [Tamil Murasu]](https://www.tamilmurasu.com.sg/singapore/story20200717-47984.html?fbclid=IwAR34x5owmKChxG0SdCeN2HNSt-nNyYY-CK7rTFSKg5uacHsjbLY37KATR98)   
 * [இனம் சார்ந்த அம்சங்களைப் பற்றி வெளிப்படையாகப் பேச இளம் தலைமுறையினர் தயாராய் இருக்கின்றனர்: அமைச்சர் ஓங் [Seithi]](https://seithi.mediacorp.sg/mobilet/singapore/racial-harmony/4478986.html)
