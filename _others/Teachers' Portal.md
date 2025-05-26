@@ -9,7 +9,6 @@ variant: markdown
 [Resource Booking System](https://rbs.avero-tech.com) <br>
 [MIMS portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) <br>
 [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html) <br>
-[HRMS](https://hrms.moe.gov.sg/irj/portal) <br>
 [HRP](https://www.hrp.gov.sg/hrp/#/) <br>
 [iExams2](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient") <br>
 [Google Workspace](https://workspace.google.com/dashboard?pli=1) <br>
