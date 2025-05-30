@@ -36,12 +36,14 @@ fill in the following <a href="https://go.gov.sg/tpss-counselling-request" rel="
 <p><a href="/files/Booklist_2025_TPS__Final_Draft__S5NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal (Academic)</a>
 </p>
 <h3></h3>
-<h3>Year-End Holiday Homework</h3>
-<p><a href="https://docs.google.com/spreadsheets/d/1bVwAvxtnDTiYhGT3kS2yxIXQmwO8nB_8alGqMEBw74k/edit?gid=1627309313#gid=1627309313" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<h3>2025 June Holiday Homework</h3>
+<p><a href="https://docs.google.com/spreadsheets/d/1pU7Tn7R0jls5Vm3TRE_s-6V8DQmZ5Ek4MqUa1IbKJ0s/edit?gid=802052808#gid=802052808" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
-<p><a href="https://docs.google.com/spreadsheets/d/1H-1vBZwam934b7j8BXaDhEd-7r70p-6NeamoSH20jOw/edit?gid=1689322780#gid=1689322780" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1liLfcEt6yEDKYCHsjBTaYV71gOYi9nhFGuhrdSXJgdQ/edit?gid=802052808#gid=802052808" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
-<p><a href="https://docs.google.com/spreadsheets/d/1dNkR0PQEgZg7xHCFtWC2hJrkCypSoFhhhZR3veEbgGI/edit?gid=769335278#gid=769335278" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+<p><a href="https://docs.google.com/spreadsheets/d/17Cdow4qZFDDoLfB4BsaDL00HgyIYFq8xsqGQZ-AFFpY/edit?gid=802052808#gid=802052808" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1Yleha9bkrl5rV_IgruNFvMOfQPLbYEehs04WAs5Lfo8/edit?gid=802052808#gid=802052808" rel="noopener nofollow" target="_blank">Sec 4/5</a>
 </p>
 <p></p>
 <h3></h3>
