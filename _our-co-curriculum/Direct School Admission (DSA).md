@@ -226,11 +226,11 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="h
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By Tue 15 Jul 2025</p>
+<p>By Wed 16 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents and students will receive notification from the school by&nbsp;
-Tue 15 Jul 2025 &nbsp; if the child has been shortlisted to undergo Direct
+Wed 16 Jul 2025 &nbsp; if the child has been shortlisted to undergo Direct
 School Admission (DSA) selection.&nbsp;</p>
 </td>
 </tr>
