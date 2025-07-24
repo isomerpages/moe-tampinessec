@@ -6,9 +6,10 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>Sec 4 &amp; 5 Preliminary Examination Timetable</h3>
-<p>Click <a href="/files/PRELIM_EXAM_TIMETABLE_2025_22_Jul_25.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/PRELIM_EXAM_TIMETABLE_2025_24_Jul_25.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Sec 4&amp;5 Preliminary Examination Timetable. All the best for your
 examinations!</p>
+<p></p>
 <h3>2025 June Holiday Homework</h3>
 <p><a href="https://docs.google.com/spreadsheets/d/1pU7Tn7R0jls5Vm3TRE_s-6V8DQmZ5Ek4MqUa1IbKJ0s/edit?gid=802052808#gid=802052808" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
