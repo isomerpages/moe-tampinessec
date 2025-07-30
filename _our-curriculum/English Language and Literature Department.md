@@ -4,9 +4,9 @@ permalink: /our-curriculum/english-language-and-literature-department/
 description: ""
 variant: tiptap
 ---
-<h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ellnew" src="/images/ell_dept_photo_final_3_0.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELL_DEPT_UPDATED.jpg">
 </div>
 <h3>TEACHERS</h3>
 <table style="minWidth: 50px">
