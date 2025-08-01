@@ -2,100 +2,174 @@
 title: Executive and Administrative Staff
 permalink: /our-people/eas/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7btt">Designation</th>
-    <th class="tg-7btt">Name</th>
-  </tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0pky">Administration Manager</td>
-    <td class="tg-0pky">Mr Joshua Chua</td>
-  </tr>
-	  <tr>
-    <td class="tg-0pky">Administration Manager</td>
-    <td class="tg-0pky">Mdm Chow Shin Ye</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Operations Manager</td>
-    <td class="tg-0pky">Mr Michael Toh</td>
-  </tr>
-	  <tr>
-    <td class="tg-0pky">ECG Counsellor</td>
-    <td class="tg-0pky">Mr Mohammed Syahril</td>
-  </tr>
-	  <tr>
-    <td class="tg-0pky">IT Manager</td>
-    <td class="tg-0pky">Mr Marcus Loh</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Administrative Executive</td>
-    <td class="tg-0pky">Mdm Siti Radziah</td>
-  </tr>
-	 <tr>
-    <td class="tg-0pky">Administrative Executive</td>
-    <td class="tg-0pky">Mdm Nirain Mustafa</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Corporate Service Officer</td>
-    <td class="tg-0pky">Ms Koh Wan Kheng</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Corporate Service Officer</td>
-    <td class="tg-0pky">Ms Habiba Jainulabdeen</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">School Laboratory Technician</td>
-    <td class="tg-0pky">Mdm Ruhaida Mohamad</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Education Workshop Instructor</td>
-    <td class="tg-0pky">Mr Abdul Nadzir</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Education Workshop Instructor</td>
-    <td class="tg-0pky">Mr Chow Siew Leong</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Education Workshop Instructor</td>
-    <td class="tg-0pky">Mr Mohd Yusoff</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Operations Support Officer</td>
-    <td class="tg-0pky">Mdm Sutinah Ibrahim</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Operations Support Officer</td>
-    <td class="tg-0pky">Mdm Sarah Abubakar</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Operations Support Officer</td>
-    <td class="tg-0pky">Mdm Masni Hassan</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Operations Support Officer</td>
-    <td class="tg-0pky">Mr Ni Wei</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Operations Support Officer</td>
-    <td class="tg-0pky">Mdm Hasnah Mansor</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Operations Support Officer</td>
-    <td class="tg-0pky">Mr Tan Chai Hock</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Chua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chow Shin Ye</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Michael Toh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Syahril</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus Loh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Radziah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nirain Mustafa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Service Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Wan Kheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Service Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Habiba Jainulabdeen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Laboratory Technician</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruhaida Mohamad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education Workshop Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Nadzir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education Workshop Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Siew Leong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education Workshop Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Yusoff</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sutinah Ibrahim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarah Abubakar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Masni Hassan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ni Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hasnah Mansor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chai Hock</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
