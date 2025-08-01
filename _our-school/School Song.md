@@ -2,8 +2,10 @@
 title: School Song
 permalink: /our-school/school-song/
 description: ""
+variant: markdown
 ---
 ### THE TAMPINESIAN SCHOOL SONG
+
 
 _(Lyrics and music score written in 1986 by Mr John De Souza)_
 

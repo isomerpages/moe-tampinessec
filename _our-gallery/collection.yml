@@ -3,6 +3,4 @@ collections:
     output: true
     order:
       - Social Media.md
-      - Media coverage.md
       - Publications.md
-      - Photos.md
