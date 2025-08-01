@@ -6,7 +6,6 @@ variant: markdown
 ---
 ### THE TAMPINESIAN SCHOOL SONG
 
-<audio preload="none" controls=""> <source type="audio/mpeg" src="[https://res.cloudinary.com/duadcuueg/video/upload/v1754034235/School\_Song\_sung\_q4jdlc.mp3](https://res.cloudinary.com/duadcuueg/video/upload/v1754034235/School_Song_sung_q4jdlc.mp3)"> </audio>
 
 _(Lyrics and music score written in 1986 by Mr John De Souza)_
 
