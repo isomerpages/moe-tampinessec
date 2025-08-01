@@ -4,8 +4,6 @@ permalink: /our-school/school-information/
 description: ""
 variant: markdown
 ---
-
-
 | Office | 67835423 
 | -------- | -------- | 
 | Fax     | 67843059  |
