@@ -2,6 +2,7 @@
 title: School Song
 permalink: /our-school/school-song/
 description: ""
+variant: markdown
 ---
 ### THE TAMPINESIAN SCHOOL SONG
 
@@ -25,3 +26,7 @@ It’s not easy but we’ll try <br>
 We will give our best to Tampines <br>
 ‘tis here our future lies <br>
 Here our future lies
+
+<audio preload="none" controls="" class="player">
+
+</audio>
