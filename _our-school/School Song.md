@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### THE TAMPINESIAN SCHOOL SONG
 
+<audio preload="none" controls=""> <source type="audio/mpeg" src="[https://res.cloudinary.com/duadcuueg/video/upload/v1754034235/School\_Song\_sung\_q4jdlc.mp3](https://res.cloudinary.com/duadcuueg/video/upload/v1754034235/School_Song_sung_q4jdlc.mp3)"> </audio>
+
 _(Lyrics and music score written in 1986 by Mr John De Souza)_
 
 Green and Gold, Green and Gold <br>
@@ -26,7 +28,3 @@ It’s not easy but we’ll try <br>
 We will give our best to Tampines <br>
 ‘tis here our future lies <br>
 Here our future lies
-
-<audio preload="none" controls="" class="player">
-	    <source type="audio/mp3" src="https://docs.google.com/uc?export=open&amp;id=1cRLajftv6U5vTFNHnznNF5cLdOMLuVfA">
-</audio>
