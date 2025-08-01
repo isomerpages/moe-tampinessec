@@ -73,10 +73,7 @@ variant: tiptap
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/5296499_fb_facebook_facebook logo_icon.png">
 </div>
 </th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/5296765_camera_instagram_instagram logo_icon.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/tampinessec/?hl=en"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/5296765_camera_instagram_instagram logo_icon.png"></a>
 </td>
 </tr>
 </tbody>
