@@ -104,7 +104,7 @@ variant: tiptap
 <p>HOD MATHEMATICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Wan Chee Wai</p>
+<p>Mr Mohd Salim B Ramli</p>
 </td>
 </tr>
 <tr>
