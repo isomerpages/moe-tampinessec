@@ -86,4 +86,11 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: Straits Times School Pocket Money Fund
+      subtitle: applications now open!
+      id: infobar
+      description: Find out more about eligibility criteria and application process.
+      button: more details
+      url: https://tampinessec.moe.edu.sg/straits-times-school-pocket-money-fund/
 ---
