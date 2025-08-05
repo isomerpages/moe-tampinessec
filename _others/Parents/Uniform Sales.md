@@ -1,8 +1,9 @@
 ---
-title: 6) Uniform Sales
+title: Uniform Sales
 permalink: /others/parents-portal/6-uniform-sales/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
 Operating Hours for Thursdays during school term:&nbsp;**9:00 AM to 02:00 PM** <br>
 No sales during RHBL days <br>
