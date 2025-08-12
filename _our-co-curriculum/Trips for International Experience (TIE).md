@@ -2,6 +2,7 @@
 title: Trips for International Experience (TIE)
 permalink: /our-co-curriculum/trips-for-international-experience-tie/
 description: ""
+variant: markdown
 ---
 **Overseas Learning Experiences for Intercultural Understanding**  
 
@@ -11,15 +12,15 @@ Overseas learning journey are valuable school experiences in which students have
 
   
 
-In 2019, our school organized 3 such learning journeys for our Secondary Two and Three students. They are
+In 2025, our school is organizing 4 such learning journeys for our Secondary Two and Three students. They are
 
-* **5 Days 4 Nights CULTURAL IMMERSION TRIP TO GUANGZHOU, CHINA**
+* **4 Days 3 Nights TRIP TO KOTA KINABALU, SABAH (English, Literature, Art & Ecostewardship)**  --  completed
+* **4 Days 3 Nights TRIP TO KUALA LUMPUR, MALAYSIA (Malay)** -- completed
 
-* **4 days 3 Nights CULTURAL IMMERSION TRIP TO HO CHI MINH, VIETNAM**
+* **5 Days 4 Nights TRIP TO HO CHI MINH, VIETNAM (Humanities)**
+* **5 Days 4 Nights TRIP TO BANGKOK, THAILAND (Student Leadership)**
 
-* **5 days 4 Nights CULTURAL AND AESTHETIC IMMERSION TRIP TO TAIPEI, TAIWAN**
 
-![](/images/TIE.png)
 
 The trips encourage students to value their own cultures and beliefs and those of others from diverse cultures.
 
