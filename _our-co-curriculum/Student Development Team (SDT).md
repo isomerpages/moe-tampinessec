@@ -8,14 +8,16 @@ variant: markdown
 
 | Designation | Teacher |
 |---|---|
-| Year Head/Upper Secondary & Sec 4 SDT Level Coordinator | Mdm Winnie Koh |
-| Year Head/Lower Secondary & Sec 2 SDT Level Coordinator | Mr Christopher Tan Ming Quan |
-| Asst Year Head & Sec 1 SDT Level Coordinator | Mr Aloysius Ong Eng Kia |
-| Asst Year Head & Sec 3 SDT Level Coordinator | Mrs Nicole Ong-Yip Wan Wei |
+| Year Head/ Sec 1 SDT Level Coordinator | Mdm Winnie Koh |
+| Year Head/ Sec 3 SDT Level Coordinator | Mr Christopher Tan Ming Quan |
+| Asst Year Head & Sec 2 SDT Level Coordinator | Mr Aloysius Ong Eng Kia |
+| Asst Year Head & Sec 4&5 SDT Level Coordinator | Ms Rachel Tang |
 | HOD CCE | Mrs Preeti Sheri |
-| HOD Student Management | Ms Ho Lian Shi |
+| HOD Student Management | Mdm Roziana |
 | SH CCE | Mr Nallu Dhinakharan |
 | SH Student Management | Mr Foo Chuan Teck Joshua |
+| SH Student Leadership & Well-Being | Ms Peh Hui Ling |
+| ST Educational Support | Mr Gerard Chan |
 | Teachers | Mr Mohammed Ariff Mohtar,  Mdm Lim Chu Toh & Mdm Tan Yoke Leng                                                         |
 | Special Needs Officer | Ms Chua Wan Ling |
 | School Counsellor | Mr Jonathan Yuen Yee Chuck & Ms S Manjushree |
