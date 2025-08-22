@@ -16,7 +16,7 @@ variant: markdown
 |        | Ms Chen Jiao |
 
 ### Training Schedule 
-Fridays: 2.00–5.30 p.m.
+Fridays: 2.00 pm – 5.30 pm
 
 ### Vision 
 All Guides are valued and take action to change the world.
@@ -24,38 +24,7 @@ All Guides are valued and take action to change the world.
 ### Mission 
 To enable girls and young women to develop to their fullest potential as responsible citizens of the world
 
-### Introduction 
-#### Motto
-Be Prepared
-#### The Promise
-I promise to do my best;
-To do my duty to God;
-To serve my country and help other people
-And to keep the Guide Law
-#### Guide Laws
-*   A Guide is loyal and can be trusted
-*   A Guide is useful and helps others
-*   A Guide is polite, considerate and respects her elders
-*   A Guide is friendly and a sister to all Guides
-*   A Guide is kind to all living things
-*   A Guide is obedient
-*   A Guide has courage and is cheerful in all difficulties
-*   A Guide takes care of her own possessions and those of other people
-*   A Guide is thrifty and diligent
-*   A Guide is self-disciplined in what she thinks, says and does
-
-#### Overview
-Founded in 2015, Tampines Girl Guides (TPGG) is a Uniformed Group committed to empowering young women through values-based, non-formal education. We focus on life skills, leadership, and decision-making across five key areas: Personal, Home, Outdoors, Community, and International. Our diverse activities range from outdoor cooking and kayaking to crafts and dance.
-
-Aligned with 21st Century Competencies, TPGG actively participates in community and national outreach. We've partnered with organisations like the Singapore Cancer Society and Institute of Mental Health, and engage in international events such as World Thinking Day.
-
-Honoured with the Unit Puan Noor Aishah Award (Gold), we continually strive to fulfil our motto, 'Be Prepared', shaping resilient, confident, and caring citizens. #ForTheGirl!
-
-### Photo Gallery 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFMv1A8HrUmWOS3dhK7558vjr8T3FvsUPZ0--n1KqT3l764bzu2Ar8Y12O2CpN1CaMSSpQFXXeSfxD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-### Highlights &amp; Achievements
-#### TPGG Exciting Events
+### Key Programmes
 *   World Thinking Day Celebrations
 *   East Division Fest
 *   Wee Kim Wee Cooking Challenge
@@ -72,7 +41,8 @@ Honoured with the Unit Puan Noor Aishah Award (Gold), we continually strive to f
 *   BP Eco-Challenge (Water and Land Obstacle Course) at Camp Christine
 *   Company bonding events through excursions
 *   Collaboration with St. John’s Home for the elderly for VIA
-#### Achievements
+
+### Recent Achievements
 **2024:**<br>
 Puan Noor Aishah Unit Award -&nbsp;**Gold** <br>
 World Thinking Day Talent Show Competition 2024 -&nbsp;**Bronze** <br>
@@ -116,3 +86,6 @@ Smoke Free Advocacy Badge Competition 2017 (Painting) –&nbsp;**Third place**
 Puan Noor Aishah Unit Award -&nbsp;**Gold**<br>
 Smoke Free Advocacy Badge Competition 2016 (Video) -&nbsp;**First place**<br>
 Pioneer Skills Competition (East Division) -&nbsp;**Second place**
+
+### Photo Gallery 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFMv1A8HrUmWOS3dhK7558vjr8T3FvsUPZ0--n1KqT3l764bzu2Ar8Y12O2CpN1CaMSSpQFXXeSfxD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
