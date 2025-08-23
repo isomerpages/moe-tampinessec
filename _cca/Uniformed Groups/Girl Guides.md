@@ -22,7 +22,7 @@ Fridays: 2.00 pm – 5.30 pm
 All Guides are valued and take action to change the world.
 
 ### Mission 
-To enable girls and young women to develop to their fullest potential as responsible citizens of the world
+To enable girls and young women to develop to their fullest potential as responsible citizens of the world.
 
 ### Key Programmes
 *   World Thinking Day Celebrations
