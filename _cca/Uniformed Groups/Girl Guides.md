@@ -37,8 +37,6 @@ To enable girls and young women to develop to their fullest potential as respons
 *   Mental Health Advocacy Badge with Temasek Foundation and Institute of Mental Health
 *   Advocacy Mentorship Programme (AMP)
 *   BP Eco-Challenge (Water and Land Obstacle Course) at Camp Christine
-*   Company bonding events through excursions
-*   Collaboration with St. John’s Home for the elderly for VIA
 
 ### Recent Achievements
 * East Division Fest Newsletter Making Competition -&nbsp;**Merit** (2025)<br>
