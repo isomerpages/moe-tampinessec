@@ -205,8 +205,8 @@ within a Malay-speaking environment.</p>
 <h3>Highlights &amp; Achievements</h3>
 <ul>
 <li>
-<p>3rd Place in the Lower Secondary Category - Xin Lei Chinese Writing Competition
-(2025) - He Zimo (2-1)</p>
+<p>3rd Prize (Lower Secondary Category) - 23rd National Secondary School
+Chinese Creative Writing Competition (2025) - He Zimo (2-1)</p>
 </li>
 <li>
 <p>Top 10 finalist in the National “Orang Singapura 2025” Short Story Writing
