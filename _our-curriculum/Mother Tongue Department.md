@@ -221,10 +221,6 @@ Yuhan (3-2)</p>
 (2025) - Ong Kai Xin (3-1)</p>
 </li>
 <li>
-<p>“Xin Lei Jiang” National Secondary School Chinese Creative Writing Competition
-(2025) - He Zimo (2-1)</p>
-</li>
-<li>
 <p>Malay Language Debate Competition Best Speaker (Preliminary Round) (2024)
 - Muhd Nur Firdhaus Bin Zulkefli (3E1)</p>
 </li>
