@@ -101,7 +101,7 @@ in using technology effectively and responsibly. Each level from Secondary
 1 to 5 is equipped with targeted digital skills to support their learning
 journey and prepare them for future challenges.</p>
 <p></p>
-<p><u>Secondary 1 -  Microsoft OneNote for Note-Taking</u>
+<p><u>Secondary 1 - Microsoft OneNote for Note-Taking</u>
 <br>Students are introduced to structured digital note-taking to help them
 organise information efficiently and enhance their learning.</p>
 <p><u>Secondary 2 – Video Editing with Clipchamp</u>
@@ -184,10 +184,8 @@ within the student body.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT2.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGPetz3hdhkW1sunJwIw8zwFvdwA-MJqiXEzD-iAmNi7kvf-zZNv4VtBScQE5nlrwgw-Ie1N5_J-wV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="1109" width="1920" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGPetz3hdhkW1sunJwIw8zwFvdwA-MJqiXEzD-iAmNi7kvf-zZNv4VtBScQE5nlrwgw-Ie1N5_J-wV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
