@@ -195,8 +195,5 @@ igniting a love for learning, and the development of inquiry skills.</p>
 <p>26th International Elementz Fair 2025 - 4 Commendation Awards</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6KG0wv1Wf25QMxiNzqWlLKCT1QE2lplxn9_65WKSGgDnZO7ipyDpeCtv9Ywx7EqCuJfIVmp4_U3YS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <p></p>
