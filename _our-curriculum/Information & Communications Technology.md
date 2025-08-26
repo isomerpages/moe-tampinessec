@@ -186,6 +186,6 @@ within the student body.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGPetz3hdhkW1sunJwIw8zwFvdwA-MJqiXEzD-iAmNi7kvf-zZNv4VtBScQE5nlrwgw-Ie1N5_J-wV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGPetz3hdhkW1sunJwIw8zwFvdwA-MJqiXEzD-iAmNi7kvf-zZNv4VtBScQE5nlrwgw-Ie1N5_J-wV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
