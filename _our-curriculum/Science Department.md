@@ -2,66 +2,201 @@
 title: Science Department
 permalink: /our-curriculum/science-department/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/2023_tpss_26_science.jpg)
-
-### Teachers
-
-| Designation | Name |
-|---|---|
-| Head of Department | Mr Victor Ng Vic Meng |
-| Subject Head (Chemistry) | Mdm Liy Lee Ping |
-| Master Teacher (Physics) | Mr Yap Boon Chien |
-| Lead Teacher (Chemistry) | Ms Julie Koh Joo Koew |
-| Senior Teacher (Biology) | Mr Hafiz Ahmad |
-| Subject Teachers | Mr Joshua Foo (SH/Student Management) |
-|  | Mdm Zarinah Begum (School Staff Developer) |
-|  | Mrs Amy De Cruz |
-|  | Mr Gerard Chan Choe Seng (ST/Learning Needs - Educational Support) |
-|  | Mr James Lim Choy Kee |
-|  | Mr Khyrul Anwar |
-|  | Mrs Kwan Simin (SH/ICT) |
-|  | Mdm Lim Chu Toh |
-|  | Ms Peh Hui Ling (SH/Student Leadership & Student Well-Being) |
-|  | Mdm Veni Thavasagayan |
-| Technical Support Officer | Mdm Ruhaida Mohamad |
-|  | Mdm Poh Siok Peng Doreen |
-|  |  |
-
-### Vision
-Understanding Science, Appreciating Life
-
-### Mission
-In Tampines Secondary School, we aim to
-*   enthuse and nurture students to be scientifically literate
-*   provide strong fundamentals in science knowledge and skills to innovate and purse STEM for future learning and work
-
-We provide students with Authentic, Constructivist and Experiential Science learning experiences to do so. We envision our students to be
-*   inspired by science
-*   inquire like scientists
-*   innovate using science
-
-### Key Programmes
-#### Secondary 1
-The LSS at Sec 1 employs a thematic, inquiry-based approach to science education. Under the Diversity theme, students explore variety and commonalities to deepen their understanding of the world. In the Models theme, they learn how physical and conceptual frameworks aid in understanding unobservable phenomena. All Sec 1 students engage in an end-of-year in-house experiential learning programme.
-#### Secondary 2
-The LSS at Sec 2 likewise utilises a thematic, inquiry-based approach to science education. In the Systems theme, students explore how system components and inputs influence outputs. The Interactions theme covers energy transfer, force application, and their effects on system stability or change. All Sec 2 students partake in a mid-year in-house experiential learning programme.
-#### Upper Secondary (3-5)
-We offer a myriad of subject combinations to our upper secondary students, which include all three Pure Sciences (Chemistry, Physics, Biology) and Combined Sciences (Chemistry/Physics or Chemistry/Biology).
-
-Note: Secondary 3 Students will get the chance to participate in engaging experiential learning programmes offered by the Science Center or Temasek Polytechnic.
-
-#### Stretch Programme
-Selected Sec 1 to 3 students who show an aptitude for Science are selected for a science stretch program. They will be exposed to more scientific phenomena to broaden their knowledge and skills.
-
-### Highlights & Achievements
-#### Science Stretch Programme
-The Science Stretch programme serves as a platform for students who exhibit aptitude and interest in science to explore their scientific passions, develop experimental skills, and lay a strong foundation for future academic and professional success in the field of science. This year, selected Sec 3 students participated actively in an educational program focused on the study of biodegradable bag, bioplastics and soap making.
-![](/images/sci%20stretch%20prog%201.jpg)
-
-#### Science Experiential Learning Programme
-Offering a dynamic and engaging approach to science education, the science experiential learning programme immerses students in hands-on experiences, igniting a love for learning, and the development of inquiry skills. 
-![](/images/sci%20experiential%20learning%201.jpg)
-![](/images/picture2.jpg)
-![](/images/untitled%20(3).png)
+<h3>Teachers</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Ng Vic Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liy Lee Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Master Teacher/Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yap Boon Chien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zarinah Begum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Julie Koh Joo Koew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Foo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Student Leadership &amp; Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Peh Hui Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Education Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kwan Simin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hafiz Ahmad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Learning Needs - Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Choe Seng Gerard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Amy De Cruz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr James Lim Choy Kee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khyrul Anwar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Chu Toh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Veni Thavasagayan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruhaida Mohamad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poh Siok Peng Doreen</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Vision</h3>
+<p>Understanding Science, Appreciating Life</p>
+<h3>Mission</h3>
+<p>Our mission is to ignite curiosity, foster critical and creative thinking,
+and build a strong foundation in scientific knowledge and skills. We aim
+to nurture students who are curious learners, analytical thinkers, and
+innovative problem-solvers, empowered to apply science meaningfully in
+real-world contexts. Through authentic and experiential learning, we prepare
+our students to confidently pursue STEM pathways and to contribute as responsible,
+future-ready individuals.</p>
+<h3>Key Programmes</h3>
+<h4>Science Stretch Programme</h4>
+<p>The Science Stretch Programme provides the students with opportunities
+to generate and refine ideas to address real-world problems while exploring
+sustainable solutions. Through the process, they learn to persevere by
+viewing failures as opportunities for growth. They also discover the importance
+of staying open-minded, creative, and imaginative when considering different
+possibilities to solve problems.</p>
+<p>The Science Stretch programme serves as a platform for students who exhibit
+aptitude and interest in science to explore their scientific passions,
+develop experimental skills, and lay a strong foundation for future academic
+and professional success in the field of science. Selected Sec 3 students
+participated in the International Elementz Fair organised by Anderson Serangoon
+JC in 2024 and 2025.</p>
+<p></p>
+<h4>Science Experiential Learning Programme</h4>
+<p>Offering a dynamic and engaging approach to science education, the science
+experiential learning programme immerses students in hands-on experiences,
+igniting a love for learning, and the development of inquiry skills.</p>
+<h3>Recent Achievements</h3>
+<ul>
+<li>
+<p>25th International Elementz Fair 2024 - 2 Bronze and 1 Commendation Awards</p>
+</li>
+<li>
+<p>26th International Elementz Fair 2025 - 4 Commendation Awards</p>
+</li>
+</ul>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6KG0wv1Wf25QMxiNzqWlLKCT1QE2lplxn9_65WKSGgDnZO7ipyDpeCtv9Ywx7EqCuJfIVmp4_U3YS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
