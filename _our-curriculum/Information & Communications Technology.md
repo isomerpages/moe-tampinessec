@@ -2,72 +2,190 @@
 title: Information & Communications Technology
 permalink: /our-curriculum/information-technology-department/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/2023tpss16ict.jpg)
-
-### Staff
-
-| Designation | Name |
-|---|---|
-| HOD ICT   | Ms Neo Shufen |
-| SH ICT | Mrs Kwan Simin |
-| CPA Coordinator  | Mdm Veni Thavasagayan |
-| Teachers  | Mr Ong Chih Faah |
-|  | Mr Chan Choe Seng Gerard |
-|  | Mr Tan Lee Hock James |
-| IT Manager  | Mr Marcus Loh |
-
-
-### NATIONAL DIGITAL LEARNING PROGRAMME ( NDLP)
-
-The NDLP was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready.
-
-Through the NDLP, all secondary school students will own a school-prescribed personal learning device (PLD) by end 2021. Singapore Citizen students can use their Edusave Account to pay for the PLD.
-
-The device will facilitate an environment that encourages personalised learning.
-
-**At Tampines Secondary School, we hope to develop your child to be**
-
-*   responsible online users who use the online resources to reflect and advance on his/ her learning.
-*   able to make use of online information to infer and make informed decisions to problem solve issues in real world context.
-*   well versed in the use of technology to choose the right tools for learning and communication.
-
-**Please refer to the Parents’ Letter which has been sent through Parents’ Gateway for more details on this programme.**
-
-**Following is the deck of slides which had been shared during the Parents’ Engagement Session:**
-
-[Parents' Engagement Slides](/files/2024_TPSS_Parents_Meeting_Slides_V1.pdf)
-
-### Enrichment Modules
-
-To prepare our students for the 21st Core Competencies, we work closely with the various departments in upgrading the ICT skills and knowledge of staff and students progressively.
-
-ICT Enrichment modules have been carefully selected to ensure students remain relevant in the ICT domain.
-
-|  | Secondary 1 | Secondary 2 | Secondary 3 |
-|---|---|---|---|
-| Objective | Pupils will be able to communicate and collaborate in an interactive media environment. | Pupils will be able to produce simple multimedia elements | Pupils will be able to manipulate multimedia elements and create a range of media products such as animations. |
-| ICT Enrichment Tools | LMS & Google Apps Microsoft Office Tools Popplet | iMovie Garage Band Comic Life | Scratch |
-
-### Staff Training and Cluster/ National/ International Sharings
-Staff are trained in tools which they can use to design packages for student centred lessons.
-
-They also attended external sharings to learn from teachers of other schools.
-
-### Equipping students and staff with a wider range of ICT resources
-The school provides our students and staff with opportunities to experiment and interact on various ICT platforms. Besides the Windows laptops, other ICT resources available includes our iMacs, iPads and the Interactive Whiteboard.
-
-![](/images/ict%203.png)
-
-### Providing our students with authentic learning experiences
-ICT is infused into daily curriculum through the use of SLS or online interactive tools. In addition to this, ICT is also infused into learning tasks or experiences such as Authentic Problem Solving tasks or ‘Learning on The Move \[LOTM\] trail.
-
-![](/images/ict%204.png)
-
-### Developing responsible and discerning users of ICT
-In collaboration with the Arts Department, a Cyberwellness Art Competition is also organised to bring about greater Cyberwellness awareness. At the same time, the department works closely with the Infocomm Club to provide students with opportunties to research and then share with their peers on the topic of Cyberwellness during assembly programme.
-
-To encourage intergeneration bonding, IT bootcamps were also conducted in parternership with IMDA. During this bootcamp, our students share with elderly community members on how to make use of social media platforms such as Facebook and some online safety knowledge
-
-![](/images/ict%205.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023tpss16ict.jpg">
+</div>
+<h3>Staff</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Education Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Shufen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Education Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kwan Simin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Learning Needs - Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Choe Seng Gerard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Chih Faah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Lee Hock James</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Veni Thavasagayan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus Loh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IT Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jerry Ng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Vision</h3>
+<p>Future-ready, Responsible, Empowered and Effective (F.R.E.E.) digital
+collaborators in a technology transformed learning environment.</p>
+<h3>Mission</h3>
+<p>To equip students with the awareness and skills to embrace technology
+as a capability multiplier to bring the world to our classroom.</p>
+<h3>Key Programmes</h3>
+<h4>After-School Digital Literacy Programme</h4>
+<p>This programme is designed to build our students’ confidence and competency
+in using technology effectively and responsibly. Each level from Secondary
+1 to 5 is equipped with targeted digital skills to support their learning
+journey and prepare them for future challenges.</p>
+<p></p>
+<p><u>Secondary 1 - Microsoft OneNote for Note-Taking</u>
+<br>Students are introduced to structured digital note-taking to help them
+organise information efficiently and enhance their learning.</p>
+<p><u>Secondary 2 – Video Editing with Clipchamp</u>
+<br>Students learn the basics of video editing, developing creativity and
+technical proficiency.</p>
+<p><u>Secondary 3 – Microsoft Excel</u>
+<br>Students are trained in data organisation, analysis and presentation,
+building skills essential for higher-level studies and future workplace
+demands.
+<br>
+<br><u>Secondary 4 &amp; 5 – Effective Use of ChatGPT</u>
+<br>Students explore how generative AI tools can be applied meaningfully for
+research, ideation and learning support, while emphasising ethical and
+responsible usage.</p>
+<h4>Student IT Advocates Programme</h4>
+<p>Our student leaders are trained in key aspects of cyber wellness, digital
+literacy and productivity tools. These student leaders then share their
+learning with peers, promoting a culture of responsible and effective technology
+use within the school. Through these programmes, our IT Advocates become
+role models and peer mentors, championing digital responsibility and literacy
+within the student body.</p>
+<p>Training is progressive and tailored to each level:</p>
+<p><u>Secondary 1</u>
+</p>
+<ul>
+<li>
+<p>Netiquette and responsible online behaviour</p>
+</li>
+<li>
+<p>Creating strong passwords</p>
+</li>
+<li>
+<p>Chromebook functions and navigation</p>
+</li>
+<li>
+<p>Digital housekeeping and data backup</p>
+</li>
+</ul>
+<p><u>Secondary 2</u>
+</p>
+<ul>
+<li>
+<p>Social media privacy settings and safe online sharing</p>
+</li>
+<li>
+<p>Productivity tool: Google Keep</p>
+</li>
+<li>
+<p>Digital housekeeping and data backup</p>
+</li>
+</ul>
+<p><u>Secondary 3</u>
+</p>
+<ul>
+<li>
+<p>Social engineering awareness, 2FA and MFA</p>
+</li>
+<li>
+<p>AI study tool: Flashka</p>
+</li>
+<li>
+<p>Digital housekeeping and data backup</p>
+</li>
+</ul>
+<p><u>Secondary 4 &amp; 5</u>
+</p>
+<ul>
+<li>
+<p>Understanding AI and deepfake technology</p>
+</li>
+<li>
+<p>Digital housekeeping and data backup</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT2.png">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGPetz3hdhkW1sunJwIw8zwFvdwA-MJqiXEzD-iAmNi7kvf-zZNv4VtBScQE5nlrwgw-Ie1N5_J-wV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
