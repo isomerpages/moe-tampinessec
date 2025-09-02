@@ -5,6 +5,18 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>Sec 1 to 3 End-of-Year Examination Timetable</h3>
+<p><a href="/files/Students_Sec_1_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
+<p><a href="/files/Students_Sec_2_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
+<p><a href="/files/Students_Sec_3G1_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G1</a>
+</p>
+<p><a href="/files/Students_Sec_3G2_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G2</a>
+</p>
+<p><a href="/files/Students_Sec_3G3_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G3</a>
+</p>
+<p></p>
 <h3>Sec 4 &amp; 5 Preliminary Examination</h3>
 <p>Please click <a href="/files/For_Students_PRELIM_EXAM_TIMETABLE_2025_24_Jul_25.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the examination timetable. All the best for your examinations.</p>

@@ -2,5 +2,6 @@ collections:
   archived-pages:
     output: true
     order:
+      - Full Subject Based Banding.md
       - 9) Resources for National Exam Results Release.md
       - Media coverage.md
