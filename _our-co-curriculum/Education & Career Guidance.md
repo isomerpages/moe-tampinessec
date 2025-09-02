@@ -251,9 +251,29 @@ can also explore various education and career pathways.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Day in the Life</p>
+<p>(<a href="https://discover.nyc.gov.sg/omw/Day-in-the-Life" rel="noopener noreferrer nofollow" target="_blank"><u>https://discover.nyc.gov.sg/omw/Day-in-the-Life</u></a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A website to check out bite-sized videos and information about the day
+in the life of more than 80 professionals.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>On my way, Know it all</p>
+<p>(<a href="https://www.nyc.gov.sg/programmes-grants/programmes/discover-on-my-way" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nyc.gov.sg/programmes-grants/programmes/discover-on-my-wayl</u></a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lesser known facts, handy tips and answers to common questions about Careers
+in Singapore. This is a chance to explore the growing list of job roles
+in Singapore, to get an in-depth idea of what different jobs entail.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>JAE website</p>
-<p>(<a href="http://www.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg</a> )</p>
-<p></p>
+<p>(<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/post-secondary/admissions/jae</u></a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contains essential information on JAE, such as an overview of the JAE
@@ -277,13 +297,25 @@ etc.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>School Finder</p>
-<p><a href="http://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">(www.moe.gov.sg/schoolfinder</a> )</p>
+<p>(<a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school</u></a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find school information such as contact details, JAE aggregate score range,
 subjects offered, CCAs and programmes offered by the junior colleges and
 Millennia Institute. Interactive filters allow students to shortlist schools
 based on their considerations, such as electives and programmes, subjects.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TPSS ECG Chatbot</p>
+<p>(<a href="https://app.schoolai.com/student-space?code=KDWX&amp;amp;authuser=2" rel="noopener noreferrer nofollow" target="_blank"><u>https://app.schoolai.com/student-space?code=KDWX&amp;authuser=2</u></a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This bot has been designed by the TPSS ECG Team to communicate with you
+as you would do with a buddy who can guide your child in their future aspirations.
+Think of it as a knowledgeable friend whom you can talk to to help guide
+your child in their future education pathways and career aspirations.</p>
 </td>
 </tr>
 </tbody>
