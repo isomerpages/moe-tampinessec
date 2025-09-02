@@ -252,7 +252,8 @@ can also explore various education and career pathways.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>JAE website</p>
-<p>(<a href="www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+<p>(<a href="http://www.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg</a> )</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contains essential information on JAE, such as an overview of the JAE
@@ -261,7 +262,8 @@ process and timeline (the key stages and respective dates/periods).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Course Finder (<a href="www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
+<p>Course Finder</p>
+<p>(<a href="http://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a> )</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Explore courses offered by the polytechnics and Institute of Technical
@@ -274,7 +276,8 @@ etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Finder (<a href="www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
+<p>School Finder</p>
+<p><a href="http://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">(www.moe.gov.sg/schoolfinder</a> )</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find school information such as contact details, JAE aggregate score range,
