@@ -57,7 +57,7 @@ or vigorous activities such as hip-hop dance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP1.jpg">
 </div>
-<p><em>Mosaic art is just like piecing together a jigsaw puzzle - it engages students both cognitively and aesthetically. </em>
+<p><em>Mosaic art is just like piecing together a jigsaw puzzle - it engages students both cognitively and aesthetically.</em>
 </p>
 <p>As part of Tampines Secondary School’s Creative Expression LLP, Secondary
 Two students undergo a 14-week Devised Drama Workshop where they take on
