@@ -171,38 +171,77 @@ explore their individual strengths which can be matched to plausible careers,</p
 these strengths and exercise sound reasoning in their Sec 3 Subject choices,</p>
 <p>Sec 3 will focus on Education and career <strong>planning</strong> and</p>
 <p>Sec 4/5 on Education and career <strong>decision</strong>  <strong>making</strong>.</p>
-<h4>Careers Day for Secondary 4 and 5 Tampinesians</h4>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCraKiLPLxEbB4rmY_yfK1n9BocrobHECFsCpyN6a-XrW3wXO7ZER6Cj_tzMBXT5FJ1i2Y_pbPkkUJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Day X Programme (Day of Career Exploration) for Secondary 2 and 3 Tampinesians</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_8894.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bzop8595.jpg">
-</div>
-<h4>Experience ITE Programme for Secondary 2, 3 and 4 Tampinesians</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hcsu6037.jpg">
-</div>
+<h4>Careers Day for all Upper Secondary Tampinesians</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/twbu1686.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__6_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__11_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__1_.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<h4>Experience ITE Programme for Secondary 2 and 3 Tampinesians</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__10_.jpg">
 </div>
 <h4>APLM (Applied Learning Modules) at TPSS for Secondary 3 Tampinesians</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRVg-RKOjq381coS43y2mvkAj595gR-GUeTHpNHrrVXVsqN4lqxVZGTqYpZAxUogSTZc-OiarA9X0Wx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Visit to WorldSkills ASEAN ECG Fair at Suntec City for Secondary 2 Tampinesians</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_e0814.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__3_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tjxt1349.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__8_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__5_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__1_.jpg">
+</div>
+<h4>Visit to WorldSkills ASEAN ECG Fair at Suntec City for Secondary 2 Tampinesians</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__4_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__7_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__9_.jpg">
 </div>
 <h3>Useful Links</h3>
 <table style="minWidth: 50px">
@@ -221,7 +260,8 @@ these strengths and exercise sound reasoning in their Sec 3 Subject choices,</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>My Skillsfuture Portal:(<a href="https://go.gov.sg/tpssecglinks" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tpssecglinks</a>)</p>
+<p>My Skillsfuture Portal:(<a href="https://go.gov.sg/tpssecglinks" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tpssecglinks)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A one-stop platform to understand yourself, interests and strengths. You
@@ -230,26 +270,8 @@ can also explore various education and career pathways.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day in the Life (<a href="https://www.nyc.gov.sg/omw/dayinthelife" rel="noopener noreferrer nofollow" target="_blank">https://www.nyc.gov.sg/omw/dayinthelife</a>)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A website to check out bite-sized videos and information about the day
-in the life of more than 80 professionals.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>On my way, Know it all (<a href="https://www.nyc.gov.sg/omw/knowitall" rel="noopener noreferrer nofollow" target="_blank">https://www.nyc.gov.sg/omw/knowitall</a>)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lesser known facts, handy tips and answers to common questions about Careers
-in Singapore. This is a chance to explore the growing list of job roles
-in Singapore, to get an in-depth idea of what different jobs entail.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JAE website (<a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+<p>JAE website</p>
+<p>(<a href="www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contains essential information on JAE, such as an overview of the JAE
@@ -258,7 +280,7 @@ process and timeline (the key stages and respective dates/periods).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Course Finder (<a href="www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>):</p>
+<p>Course Finder (<a href="www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Explore courses offered by the polytechnics and Institute of Technical
@@ -271,7 +293,7 @@ etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Finder (<a href="www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
+<p>School Finder (<a href="www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find school information such as contact details, JAE aggregate score range,
