@@ -172,36 +172,17 @@ these strengths and exercise sound reasoning in their Sec 3 Subject choices,</p>
 <p>Sec 3 will focus on Education and career <strong>planning</strong> and</p>
 <p>Sec 4/5 on Education and career <strong>decision</strong>  <strong>making</strong>.</p>
 <h4>Careers Day for all Upper Secondary Tampinesians</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__6_.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__11_.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG__1_.png">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <h4>Experience ITE Programme for Secondary 2 and 3 Tampinesians</h4>
