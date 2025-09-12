@@ -182,10 +182,36 @@ and professional success in the field of science. Selected Sec 3 students
 participated in the International Elementz Fair organised by Anderson Serangoon
 JC in 2024 and 2025.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2.png">
+</div>
+<p></p>
 <h4>Science Experiential Learning Programme</h4>
 <p>Offering a dynamic and engaging approach to science education, the science
 experiential learning programme immerses students in hands-on experiences,
 igniting a love for learning, and the development of inquiry skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science5.png">
+</div>
+<h4>Eco-Stewardship: Building Tomorrow's Stewards</h4>
+<p>The Science Department aims to empower students to tackle one of today's
+most pressing challenges in Singapore: achieving energy sustainability
+whilst maintaining economic growth and energy security. Lessons are incorporated
+for students to explore Singapore's energy trilemma - the complex balance
+between energy security, energy equity, and environmental sustainability.
+Our students examine how Singapore navigates this challenge through solar
+energy deployment and emerging technologies like hydrogen and carbon capture,
+developing critical thinking skills through real-world case studies.</p>
+<p>Our curriculum is designed to nurture students as eco-stewards, taking
+active responsibility for the care and future of our environment. Beyond
+understanding environmental challenges, students are empowered to lead
+in shaping solutions that matter. Through rigorous scientific learning,
+hands-on application, and exploration of future career pathways, they grow
+into individuals equipped with the knowledge, critical thinking, and conviction
+to champion sustainability. In doing so, they not only prepare for Singapore’s
+sustainable energy transformation, but also embody the spirit of stewardship—caring
+for our shared world and safeguarding it for generations to come.</p>
 <h3>Recent Achievements</h3>
 <ul>
 <li>
@@ -193,6 +219,10 @@ igniting a love for learning, and the development of inquiry skills.</p>
 </li>
 <li>
 <p>26th International Elementz Fair 2025 - 4 Commendation Awards</p>
+</li>
+<li>
+<p>2025 Singapore Junior Biology Olympiad (SJBO) - 1 Bronze and 1 Honourable
+Mention Award</p>
 </li>
 </ul>
 <p></p>
