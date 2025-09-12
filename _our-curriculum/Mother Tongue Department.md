@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Mother Tongue Languages</p>
+<p>Head of Department/Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Kaiying</p>
@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Malay Language</p>
+<p>Subject Head/Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Halimah Mohmad</p>
