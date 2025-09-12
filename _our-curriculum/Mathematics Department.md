@@ -242,6 +242,7 @@ Mentions</p>
 6 Distinctions</p>
 </li>
 </ul>
+<h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuaKlvkiXDm-bt7TauihXSA-rRnshy4Da9rDUtjSBi--4P1_sCbVIs9HNz2XPWefGj1wD-RH7pcvHn/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
