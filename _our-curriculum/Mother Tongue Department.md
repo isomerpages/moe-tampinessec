@@ -230,6 +230,7 @@ Yuhan (3-2)</p>
 (2023) - Goh Shi Hao (4E2)</p>
 </li>
 </ul>
+<h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrP7Hb2D-uybZ96nxhcLKZcxTCh1P4odE0okaOmyXsfpmGxeoasfFFgjHcpwFWTAKtDCrnGVwGwxmc/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
