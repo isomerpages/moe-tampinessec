@@ -4,8 +4,9 @@ permalink: /our-curriculum/mother-tongue-department/
 description: ""
 variant: tiptap
 ---
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_tpss_41_mother_tongue.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_photo.jpg">
 </div>
 <h3>Teachers</h3>
 <table style="minWidth: 50px">
