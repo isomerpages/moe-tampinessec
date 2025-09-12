@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE/CCA</p>
+<p>Head of Department/PE/CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr S Elangovan</p>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH PE/CCA (Internal)</p>
+<p>Subject Head/PE/CCA (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Ariff Mohtar</p>
