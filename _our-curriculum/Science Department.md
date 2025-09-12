@@ -212,7 +212,7 @@ into individuals equipped with the knowledge, critical thinking, and conviction
 to champion sustainability. In doing so, they not only prepare for Singapore’s
 sustainable energy transformation, but also embody the spirit of stewardship—caring
 for our shared world and safeguarding it for generations to come.</p>
-<h3>Recent Achievements</h3>
+<h3>Highlights &amp; Achievements</h3>
 <ul>
 <li>
 <p>25th International Elementz Fair 2024 - 2 Bronze and 1 Commendation Awards</p>
@@ -225,7 +225,7 @@ for our shared world and safeguarding it for generations to come.</p>
 Mention Award</p>
 </li>
 </ul>
-<p></p>
+<h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6KG0wv1Wf25QMxiNzqWlLKCT1QE2lplxn9_65WKSGgDnZO7ipyDpeCtv9Ywx7EqCuJfIVmp4_U3YS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
