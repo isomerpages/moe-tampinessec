@@ -13,8 +13,8 @@ variant: markdown
 | -------- | -------- | 
 | OIC    | DSP (NPCC) Ong Chih Faah     | 
 | 2IC     | INSP (NPCC) Nicholas Seow Wei Ming    |
-| TO      | INSP (NPCC) Lee Jia Xiang Ivan   |
-| TO      | INSP (NPCC) Lim Chu Toh
+|       | INSP (NPCC) Lee Jia Xiang Ivan   |
+|       | INSP (NPCC) Lim Chu Toh
  
 
 ### Training Schedule
