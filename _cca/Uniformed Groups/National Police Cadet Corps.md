@@ -5,44 +5,42 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/Squadnpap.png)
+![](/images/National_Police_Cadet_Corps.jpg)
 
 ### CCA Teachers
 
 | Role | Teacher | 
 | -------- | -------- | 
-| OIC     | Mr Ong Chih Faah     | 
-| 2IC     | Mr Nicholas Seow Wei Ming    |
-|            | Mr Ricky Rueban David John    |
-|            | Mdm Lim Chu Toh
+| OIC    | DSP (NPCC) Ong Chih Faah     | 
+| 2IC     | INSP (NPCC) Nicholas Seow Wei Ming    |
+| TO      | INSP (NPCC) Lee Jia Xiang Ivan   |
+| TO      | INSP (NPCC) Lim Chu Toh
  
 
 ### Training Schedule
-Fridays: 2.30–6 p.m.
+Fridays: 2.30 pm – 6.00 pm
 
 ### Vision
-To mould the builders of a safe and secure home.
+To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
 
 ### Mission
-To develop its cadets into caring and responsible citizens.
+To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
 
-### Introduction
-NPCC has grown in number and substance. Its popularity amongst our youths is largely attributed to its stature as the only uniformed youth organisation to enjoy a close affiliation with the Singapore Police Force. Our cadets are given unique opportunities to gain exposure to and be familiar with Singapore’s crime prevention efforts to build a Safe and Secure Home. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated in our cadets to develop them into Caring and Responsible Citizens.
+### Key Programmes
+* .22 Live firing
+* .22 shooting competition
+* Adventure training camp in Pulau Ubin (Secondary Two cadets)
+* Campcraft competition
+* Crime Scene Investigation competition
+* Enhanced Crime Scene Investigation at the Home Team Academy training village
+* Police Youth Ambassador course which connects students to Tampines West Neighbourhood Police to raise awareness on anti scams
+
+### Recent Achievements
+*   Unit Overall Proficiency Award - **Distinction** (2025)
+*   Campcraft competition finalist (2025)
+*   Unit Overall Proficiency Award - **Distinction** (2024)
+*   Unit Overall Proficiency Award - **Distinction** (2023)
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYUfAgPoYqOt1VCSnLEtvhsvqduWiAGe3Xw3Bi8GY_Uwm0KUET5t9uRdvM9bcJ6JFO8U7EecyacDCX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-### ACHIEVEMENTS
-2021: UOPA Gold <br>
-2020: UOPA suspended due to Covid-19 <br>
-2019: UOPA Gold <br>
-2018: UOPA Gold <br>
-2017: UOPA Gold <br>
-2016: UOPA Bronze <br>
-2015: UOPA Silver <br>
-2014 : UOPA Bronze&nbsp; <br>
-2013 : Area 9 Games Day: Soccer Runner-Up <br>
-2012 : UOPA Silver <br>
-2011 : UOPA Gold <br>
-2005 – 2010: UOPA Silver
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/114E5La6sLkW6eg2JHMKzMGSBJjY2aiXYRlJTWCwx8Ug/embed?slide=id.p#slide=id.p"></iframe>

@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE/CCA</p>
+<p>Head of Department/PE/CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr S Elangovan</p>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH PE/CCA (Internal)</p>
+<p>Subject Head/PE/CCA (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Ariff Mohtar</p>
@@ -163,7 +163,7 @@ the project with the rest of the school staff who agreed that the board
 game was fun and engaging. The department also subsequently shared the
 project as one of the presentations during the TCEF 2023 Conference and
 was well received by its attendees.</p>
-<p></p>
+<h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSPThFS8dMhQq6l1gbndBQ_PjdYqRkQ4Eyhz03FGpclco_E9-ECmOcvV2zXDS0SxPf4UAkZtYMJnT1u/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

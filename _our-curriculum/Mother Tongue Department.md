@@ -4,8 +4,9 @@ permalink: /our-curriculum/mother-tongue-department/
 description: ""
 variant: tiptap
 ---
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_tpss_41_mother_tongue.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_photo.jpg">
 </div>
 <h3>Teachers</h3>
 <table style="minWidth: 50px">
@@ -24,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages</p>
+<p>Head of Department/Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Kaiying</p>
@@ -32,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language</p>
+<p>Subject Head/Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Halimah Mohmad</p>
@@ -40,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Malay Language</p>
+<p>Senior Teacher/Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Esfan Rizal Bin Rahwom</p>
@@ -229,6 +230,7 @@ Yuhan (3-2)</p>
 (2023) - Goh Shi Hao (4E2)</p>
 </li>
 </ul>
+<h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrP7Hb2D-uybZ96nxhcLKZcxTCh1P4odE0okaOmyXsfpmGxeoasfFFgjHcpwFWTAKtDCrnGVwGwxmc/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

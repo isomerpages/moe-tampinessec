@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Education Technology</p>
+<p>Head of Department/Education Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Neo Shufen</p>
@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Education Technology</p>
+<p>Subject Head/Education Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kwan Simin</p>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Learning Needs - Educational Support</p>
+<p>Senior Teacher/Learning Needs - Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Choe Seng Gerard</p>
