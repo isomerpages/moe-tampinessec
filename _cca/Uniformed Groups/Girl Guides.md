@@ -53,4 +53,4 @@ To enable girls and young women to develop to their fullest potential as respons
 * East Division Day Poster Design Competition -&nbsp;**Silver** (2023)
 
 ### Photo Gallery 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFMv1A8HrUmWOS3dhK7558vjr8T3FvsUPZ0--n1KqT3l764bzu2Ar8Y12O2CpN1CaMSSpQFXXeSfxD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1gR78KNsfh--oWBLSjovT-pdz_hjzNPaTUc4DGm5MaNA/embed?slide=id.g3724fab6e3d_0_4#slide=id.g3724fab6e3d_0_4" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
