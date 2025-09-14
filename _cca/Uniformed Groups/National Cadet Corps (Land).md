@@ -28,7 +28,7 @@ We are a thinking and learning team driven by our Core Values.
 Tampines NCC (LAND) aims to maximise the potential in every cadet by providing them the discipline and opportunities to hone their leadership potential for their future contribution to nation building.
 
 ### Key Programmes
-*   HQ camps (Camp FORGE / Camp STEEL)
+*   HQ camps (Camp FORGE/ Camp STEEL)
 *   Orienteering competition
 *   Total Defence
 *   Community outreach project initiative
@@ -38,9 +38,11 @@ Tampines NCC (LAND) aims to maximise the potential in every cadet by providing t
 *   Kayaking/ dragon boat experience
 
 ### Recent Achievements
-*   Cluster Sports Competition (Futsal) - Champions (2025) 
-*   Cluster Sports Competition (Captain’s Ball) - Third Place (2025)
-*   Cluster Sports Competition (Frisbee) - Third Place (2025)
-*   NCC Unit Recognition Award - Distinction (2024) 
-*   NCC Unit Recognition Award - Distinction (2023)
+*   Cluster Sports Competition (Futsal) - **Champions** (2025)&nbsp;
+*   Cluster Sports Competition (Captain’s Ball) - **Third Place** (2025)
+*   Cluster Sports Competition (Frisbee) - **Third Place** (2025)
+*   NCC Unit Recognition Award - **Distinction** (2024)&nbsp;
+*   NCC Unit Recognition Award - **Distinction** (2023)
 
+### Photo Gallery
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1t5wgZS7xS6RBw_SoLtHWA7UbR6hEi8A4EZ0uHAQR_4Y/embed?slide=id.g3724fab6e3d_0_4#slide=id.g3724fab6e3d_0_4"></iframe>
