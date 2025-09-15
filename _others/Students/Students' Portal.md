@@ -37,7 +37,7 @@ the examination timetable. All the best for your examinations.</p>
 <p></p>
 <h3>Counselling Self-referral</h3>
 <p>Dear students, if you wish to speak to the school counsellors, please
-fill in the following <a href="https://go.gov.sg/tpss-counselling-request" rel="noopener nofollow" target="_blank">counselling self-referral form</a>.</p>
+fill in the following <a href="https://form.gov.sg/68c793793572fbabf76ec5c2" rel="noopener nofollow" target="_blank">counselling self-referral form</a>.</p>
 <h3></h3>
 <p></p>
 <div class="isomer-image-wrapper">
