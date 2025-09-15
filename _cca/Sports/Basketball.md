@@ -37,9 +37,9 @@ To create a strong team and culture that instills discipline, teamwork, and exce
 Through dedicated practice, teamwork, and sportsmanship, we strive to nurture disciplined student athletes who learn, grow, and inspire others towards excellence within and beyond the game
 
 ### Key Programmes
-*   Basketball Teambonding Camp
 *   National School Games
 *   Tampines Invitational Tournament
+*   Basketball teambonding camp
 
 ### Recent Achievements
 <strong> (‘B’ Division Girls) </strong>
