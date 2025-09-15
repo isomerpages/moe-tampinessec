@@ -44,4 +44,4 @@ To learn new skills through the developing of real life applications and solving
 <iframe src="https://docs.google.com/presentation/d/13tAkV8aUlSpQ41tmUCdoi1PSZFFjuZ0fSlNUfCGDxng/embed?slide=id.p#slide=id.p" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### Microsite
-Visit [Maker Faire's microsite here](https://sites.google.com/moe.edu.sg/tpss-maker-hub/eventsthe-maker-hub?authuser=0)! 
+Visit [Maker Faire's microsite here](https://sites.google.com/moe.edu.sg/tpss-maker-hub/eventsthe-maker-hub?authuser=0)!
