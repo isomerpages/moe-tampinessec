@@ -37,7 +37,7 @@ To develop our members to be active citizens and community leaders, by working i
 
 ### Recent Achievements
 *   Unit Overall Proficiency Award - **Distinction** (2025)
-*   Campcraft competition finalist (2025)
+*   Campcraft Competition  - Finalist (2025)
 *   Unit Overall Proficiency Award - **Distinction** (2024)
 *   Unit Overall Proficiency Award - **Distinction** (2023)
 
