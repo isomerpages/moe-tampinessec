@@ -58,4 +58,4 @@ A team that is not only recognised for its sporting excellence, but also for imp
 *   National School Games - <strong>Top 16</strong> (2025)
 
 ### Photo Gallery
-<iframe src="https://docs.google.com/presentation/d/1nzNUG7zpNNZ0ZXp-3cNv_pTOaVzigoFrEDJijg-bQh8/embed?slide=id.g3724fab6e3d_0_4#slide=id.g3724fab6e3d_0_4" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1nzNUG7zpNNZ0ZXp-3cNv_pTOaVzigoFrEDJijg-bQh8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
