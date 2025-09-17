@@ -39,6 +39,7 @@ To enable girls and young women to develop to their fullest potential as respons
 *   BP Eco-Challenge (Water and Land Obstacle Course) at Camp Christine
 
 ### Recent Achievements
+* Online Advocacy Video Competition - **Second Place** (2025)<br>
 * East Division Fest Newsletter Making Competition -&nbsp;**Merit** (2025)<br>
 * Smoke-Free Ambassador Programme Competition -&nbsp;**Third Place** (2025)<br>
 * Baden Powell Award (BPA) (2025) - Mellisa Chan Min Ming (4E2)<br>
