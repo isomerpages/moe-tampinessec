@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities1.jpg">
 </div>
-<h2>Teachers</h2>
+<h3>Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -113,15 +113,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Vision</h2>
+<h3>Vision</h3>
 <p>Moulding Critical thinkers, creative problem-solvers, and responsible
 global citizens.</p>
-<h2>Mission</h2>
+<h3>Mission</h3>
 <p>Nurture and inspire Tampinesians to be civic-literate global citizens
 who are empathetic and contributing individuals that contribute to the
 betterment of society</p>
-<h2>Key Programmes</h2>
-<h3><strong>Geographical Investigation Field Trips for Sec 1 and Sec 3 students</strong></h3>
+<h3>Key Programmes</h3>
+<h4>Humanities Trip to Vietnam for Secondary 3 Students </h4>
 <p>The Sec 1 and 3 students visited the Sengkang Floating Wetland and Little
 India Arcade respectively. They collected primary data which enabled them
 to draw conclusions on the notions of water conservation and the local
