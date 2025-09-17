@@ -13,8 +13,8 @@ variant: markdown
 | -------- | -------- | 
 | OIC    | DSP (NPCC) Ong Chih Faah     | 
 | 2IC     | INSP (NPCC) Nicholas Seow Wei Ming    |
-| TO      | INSP (NPCC) Lee Jia Xiang Ivan   |
-| TO      | INSP (NPCC) Lim Chu Toh
+|       | INSP (NPCC) Lee Jia Xiang Ivan   |
+|       | INSP (NPCC) Lim Chu Toh
  
 
 ### Training Schedule
@@ -37,10 +37,10 @@ To develop our members to be active citizens and community leaders, by working i
 
 ### Recent Achievements
 *   Unit Overall Proficiency Award - **Distinction** (2025)
-*   Campcraft competition finalist (2025)
+*   Campcraft Competition  - Finalist (2025)
 *   Unit Overall Proficiency Award - **Distinction** (2024)
 *   Unit Overall Proficiency Award - **Distinction** (2023)
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/114E5La6sLkW6eg2JHMKzMGSBJjY2aiXYRlJTWCwx8Ug/embed?slide=id.p#slide=id.p"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/114E5La6sLkW6eg2JHMKzMGSBJjY2aiXYRlJTWCwx8Ug/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
