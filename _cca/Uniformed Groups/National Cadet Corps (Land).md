@@ -45,4 +45,4 @@ Tampines NCC (LAND) aims to maximise the potential in every cadet by providing t
 *   NCC Unit Recognition Award - **Distinction** (2023)
 
 ### Photo Gallery
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1t5wgZS7xS6RBw_SoLtHWA7UbR6hEi8A4EZ0uHAQR_4Y/embed?slide=id.g3724fab6e3d_0_4#slide=id.g3724fab6e3d_0_4"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1t5wgZS7xS6RBw_SoLtHWA7UbR6hEi8A4EZ0uHAQR_4Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
