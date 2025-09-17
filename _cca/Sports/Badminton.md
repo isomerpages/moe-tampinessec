@@ -54,4 +54,4 @@ To provide a conducive platform for our members to enjoy, learn and excel at the
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/11dTTdoEyeF9y8Gr0DruxnkpvlU2ZtFgTBvijzP4erJ8/embed?slide=id.g211175c80b3_0_1#slide=id.g211175c80b3_0_1"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/11dTTdoEyeF9y8Gr0DruxnkpvlU2ZtFgTBvijzP4erJ8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
