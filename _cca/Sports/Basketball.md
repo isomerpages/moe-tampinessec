@@ -18,7 +18,7 @@ variant: markdown
 
 ### Training Schedule 
 <strong> (‘C’ Division Boys) </strong> <br>
-Mondays and Fridays: 3.30 pm - 6pm
+Mondays and Fridays: 3.30 pm - 6.00 pm
 
 <strong> (‘B’ Division Boys) </strong> <br>
 Tuesdays: 3.00 pm - 5pm <br>
