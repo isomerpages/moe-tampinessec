@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-![Concert Band 2023](/images/concertband.jpeg)
+![](/images/Concert_Band1.jpg)
 
 ### CCA Teachers
 
@@ -13,20 +13,18 @@ variant: markdown
 | --------- | --------- | 
 | OIC     |  Mdm Nur Sufriena Suhaini    | 
 | 2IC     | Mdm Warda Mohamed Shariff     | 
+| Teachers | Mr Charles Yip |
+|                  |Mdm Sahilah Rasid
 
 
 
 ### Training Schedule
 
-Tuesdays: 3.15–6 p.m. <br>
-Fridays: 2.30–5.45 p.m. 
+Tuesdays: 3.15 p.m. – 6.00 p.m. <br>
+Fridays: 2.30 p.m. – 5.45 p.m. 
 
 
-### Introduction
- 
-Under the dynamic baton of Mr. Hendrik Kwek, together with assistant conductors Mr. Alan Kartik and Ms. Kee Rui Han, Tampines Concert Band (TPCB) is a passionate community of musicians striving for excellence and growth. Thanks to the unwavering support of our alumni, instructors, and school community, TPCB proudly achieved the Certificate of Accomplishment at the Singapore Youth Festival (SYF) Arts Presentation 2025.
 
-Through performances both at home and abroad, TPCB continues to build global connections and foster a spirit of cultural appreciation through the power of music.
 
 ### Photo Gallery
 
