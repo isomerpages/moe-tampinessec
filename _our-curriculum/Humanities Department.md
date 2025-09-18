@@ -121,7 +121,7 @@ global citizens.</p>
 who are empathetic and contributing individuals that contribute to the
 betterment of society</p>
 <h3>Key Programmes</h3>
-<h4>Humanities Trip to Vietnam for Secondary 3 Students </h4>
+<h3><strong>Humanities Trip to Vietnam for Secondary 3 Students</strong></h3>
 <p>The Sec 1 and 3 students visited the Sengkang Floating Wetland and Little
 India Arcade respectively. They collected primary data which enabled them
 to draw conclusions on the notions of water conservation and the local
