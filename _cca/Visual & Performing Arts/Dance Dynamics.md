@@ -5,16 +5,14 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-![](/images/image%201%20dare%20to%20dream%20dare%20to%20dance.JPG)
+![](/images/Dance_Dynamics.jpg)
 
 
 ### CCA Teachers
 
 | Role | Teacher | 
 | -------- | -------- | 
-| OIC     | Ms Lui Amy     | 
-| 2IC     | Mrs Kwan Simin     | 
-| 2IC     | Mdm Ho Sam Hong     | 
+| OIC     | Mdm Ho Sam Hong     | 
 
 
 ### Training Schedule
