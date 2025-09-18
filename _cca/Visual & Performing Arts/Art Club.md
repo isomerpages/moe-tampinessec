@@ -18,15 +18,19 @@ variant: markdown
 Tuesdays: 3.30 – 6.00 p.m.
 
 ### Vision
-To develop and nurture a love for visual art
+Cultivating curious minds to create, enjoy, and connect through art.
 
 ### Mission
-To create artworks from traditional arts to design concepts
+To provide opportunities for students to explore and experiment with diverse art forms.  
+  
+
+To nurture skills in creating, presenting, and appreciating art across cultures and contexts.  
+  
+
+To foster collaboration and community connection through meaningful art experiences.
 
 
 
-### Introduction
-Art Club aims to instill in students an appreciation and love for visual art. Art Club students&nbsp;are exposed to varied art forms, ranging from traditional arts to digital designs. Through engaging in drawing, design and craft activities, Art Club students tap on their boundless creativity to create original works through fun art-making experiences with their peers. Art enrichment workshops and competitions further enable students to gain exposure to a wide repertoire of artistic experiences. Such workshops include marbling art, embroidery, water colouring and digital fashion illustration designs.
 
 ### Photo Gallery
 
