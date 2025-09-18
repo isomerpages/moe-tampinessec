@@ -13,10 +13,12 @@ variant: markdown
 | Role | Teacher | 
 | -------- | -------- | 
 | OIC     | Mdm Ho Sam Hong     | 
+| 2IC | Mdm Fadilah
 
 
 ### Training Schedule
-Tuesdays &amp; Fridays: 2.30–5.30 p.m.
+Tuesday: 3.15 - 6.00 p.m.
+<br>Friday: 2.15 – 5.30 p.m.
 
 ### Vision
 
