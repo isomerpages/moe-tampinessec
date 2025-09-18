@@ -5,17 +5,17 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-![](/images/2023_art_05.jpg)
+![](/images/Art_Club.jpg)
 
 ### CCA Teachers
 
 | Role | Teacher |
 |---|---|
-| OIC | Mdm Tan Yoke Leng |
-| 2IC | Mdm Tan Shin Shin |
+| OIC | Ms Tan Shin Shin |
+| 2IC | Ms Nur Aisyah |
 
 ### Training Schedule
-Tuesdays: 2.30 – 5.30 p.m.
+Tuesdays: 3.30 – 6.00 p.m.
 
 ### Vision
 To develop and nurture a love for visual art
