@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-![](/images/2025_DRAMA.jpg)
+![](/images/English_Drama.jpg)
 
 ### CCA Teachers
 
