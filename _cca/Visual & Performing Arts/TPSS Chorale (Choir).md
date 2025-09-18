@@ -97,5 +97,5 @@ Masterclasses / Choir Exchange:
 ### Photo Gallery 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2-DW6GnLfNcyuu7dzNBqpD447gnuDmnUuB5am-3DIHpyDZZ0KWj6-wvqViLfnvzWI8TS7EgrTnpFv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-### Link to external page
-Check out our [Instagram page](https://www.instagram.com/tpsspulse/)! 
+### Link(s) to external pages
+Check out our [Instagram page](https://www.instagram.com/tpsspulse/)!
