@@ -58,4 +58,3 @@ To promote appreciation and awareness of the Chinese Culture and instill the lov
 
 ### Photo Gallery 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNlvldZVThEEEca38IJT6wj6JNzTzg0JSqf53-9-NLqc_nCzL3lB5S6htOZAQ7OikDvlUt11I9xagW/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
