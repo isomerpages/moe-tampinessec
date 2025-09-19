@@ -20,8 +20,8 @@ variant: markdown
 
 ### Training Schedule
 
-Tuesdays: 3.15 – 6.00 p.m. <br>
-Fridays: 2.30 – 5.45 p.m. 
+Tuesdays: 3.15 pm – 6.00 pm <br>
+Fridays: 2.30 pm – 5.45 pm 
 
 ### Vision
 
@@ -51,4 +51,3 @@ To cultivate a community of passionate, confident musicians who grow through pra
 ### Photo Gallery
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFlUzzhWaafohE6DFUznkcsOyMv7L0LFk4OlySYN5yqwi3WiYa3nPm6LlBxzoOIaOUoihd9m02bVcO/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
