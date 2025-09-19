@@ -9,6 +9,7 @@ variant: markdown
 ![](/images/Football__Girls_.jpg)
 
 ### CCA Teachers
+
 | Role | Teacher | 
 | -------- | -------- | 
 | OIC     | Mr Khyrul Anwar Jamil   | 
@@ -58,4 +59,4 @@ A team that is not only recognised for its sporting excellence, but also for imp
 *   National School Games - <strong>Top 16</strong> (2025)
 
 ### Photo Gallery
-<iframe src="https://docs.google.com/presentation/d/1nzNUG7zpNNZ0ZXp-3cNv_pTOaVzigoFrEDJijg-bQh8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtgp0BN00XtahPFTBx8oRrBvB09HnEpTXfK_rYpYEz_L1GotHuP9EKJKPkKNDpAPe8FyGGXPtUM2oW/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
