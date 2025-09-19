@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/2025_Girl_Guides.jpg) ![]
+![](/images/2025_Girl_Guides.jpg)
 
 ### Teachers
 
@@ -54,4 +54,4 @@ To enable girls and young women to develop to their fullest potential as respons
 * East Division Day Poster Design Competition -&nbsp;**Silver** (2023)
 
 ### Photo Gallery 
-<iframe src="https://docs.google.com/presentation/d/1gR78KNsfh--oWBLSjovT-pdz_hjzNPaTUc4DGm5MaNA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPlip4Ng8hieUXneQ7PkEXE3LRFRbkIhClirRjLstzK5nlkGrhkmHiQ-xqvKMvt9Plw_sBdthZwLAL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
