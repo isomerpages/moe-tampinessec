@@ -15,7 +15,7 @@ variant: markdown
 | 2IC | Mdm Veni Thavasagayan |
 
 ### Training Schedule
-Tuesdays 3.30 - 5.45 p.m.<br>Fridays: 1.30 - 5.00 p.m.
+Tuesdays 3.30 pm - 5.45 pm<br>Fridays: 1.30 pm - 5.00 pm
 
 ### Vision 
 To inspire a lifelong passion for the Arts and cultivate excellence in musical expression through the pursuit of harmony in singing.

@@ -17,8 +17,8 @@ variant: markdown
 
 
 ### Training Schedule
-Tuesdays: 3.30 – 5.30 p.m. 
-<br>Fridays: 2.30 – 5.00 p.m. 
+Tuesdays: 3.30 pm – 5.30 pm 
+<br>Fridays: 2.30 pm – 5.00 pm 
 
 ### Vision
 Capturing moments, creating memories, and telling stories through the lens of a new generation.
@@ -49,4 +49,3 @@ To develop passionate student photographers and videographers who document schoo
 ### Photo Gallery
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQv_3SV478MBPrKKIHR1cEToPdvSSwL2dOnfxoTzzi_WA8f3ydTu8lBLZyvfUQ31LxiMaoqq-VtCknf/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-

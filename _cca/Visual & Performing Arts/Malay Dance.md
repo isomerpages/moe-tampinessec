@@ -15,7 +15,7 @@ variant: markdown
 | 2IC | Ms Chen Liwen |
 
 ### Training Schedule 
-Tuesdays: 3.15 - 6.00 p.m. (AVA Room) <br>Fridays: 2.15 - 5.30 p.m. (Music Room)
+Tuesdays: 3.15 pm - 6.00 pm (AVA Room) <br>Fridays: 2.15 pm - 5.30 pm (Music Room)
 
 
 

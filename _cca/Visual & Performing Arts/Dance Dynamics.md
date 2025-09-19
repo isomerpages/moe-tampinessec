@@ -17,8 +17,8 @@ variant: markdown
 
 
 ### Training Schedule
-Tuesdays: 3.15 - 6.00 p.m.
-<br>Fridays: 2.15 – 5.30 p.m.
+Tuesdays: 3.15 pm - 6.00 pm
+<br>Fridays: 2.15 pm – 5.30 pm
 
 ### Vision
 
@@ -55,4 +55,3 @@ Providing a holistic aesthetic experience with opportunities to perform and deve
 ### Photo Gallery
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTxu-SeZG8dXbGb7hLTLNdp-RMsvPkVfwMTmBDoFIAgsS3sEc8h_BOH9KkNjJhxe0xzIiWiOlXIbcq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-

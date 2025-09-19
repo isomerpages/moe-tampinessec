@@ -17,7 +17,7 @@ variant: markdown
 
 
 ### Training Schedule 
-Tuesdays: 3.30 – 6.00 p.m.<br>Fridays: 1.30 – 5.00 p.m.
+Tuesdays: 3.30 pm – 6.00 pm<br>Fridays: 1.30 pm – 5.00 pm
 
 
 

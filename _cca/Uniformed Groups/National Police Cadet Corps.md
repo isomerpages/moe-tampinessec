@@ -43,4 +43,4 @@ To develop our members to be active citizens and community leaders, by working i
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/114E5La6sLkW6eg2JHMKzMGSBJjY2aiXYRlJTWCwx8Ug/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHpXUcc-E12et_OeRx_6V-JFPcHFsYVOTheMsbqq9ERuuuG3GwQhhEhwkh4JCbM-wv0ihJhgZQnQQC/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

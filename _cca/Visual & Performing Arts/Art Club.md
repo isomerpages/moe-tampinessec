@@ -15,7 +15,7 @@ variant: markdown
 | 2IC | Ms Nur Aisyah |
 
 ### Training Schedule
-Tuesdays: 3.30 – 6.00 p.m.
+Tuesdays: 3.30 pm – 6.00 pm
 
 ### Vision
 Cultivating curious minds to create, enjoy, and connect through art.
