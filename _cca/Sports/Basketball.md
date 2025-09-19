@@ -57,4 +57,4 @@ Through dedicated practice, teamwork, and sportsmanship, we strive to nurture di
 
 ### Photo Gallery
 
-<iframe src="https://docs.google.com/presentation/d/1NZSImgCAaqG65TWm4G2pzIJbRuT6XHcvUJL6K7bYoG0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwGhzllD8abYrfDHc3JgOvaK_Qic7kcvG5kDrVLTxeuDxQ21uMpnEnEBIJNszPiV9HcQM1lArWeOJB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
