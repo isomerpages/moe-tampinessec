@@ -44,4 +44,4 @@ Together everyone achieves more
 *   National School Games - participation (2023)
 
 ### Photo Gallery
-<iframe src="https://docs.google.com/presentation/d/1Cy8d-WZaZzRtvSMo_bdDyoKUnUqeiEtVXxSBjKNDpXI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7u--xG-DsWoLqhleBUdZYWfhObfduqrtXVvd8UsBbENnHKSkbx27qDDsyaRwRKrbnET9LdbBl55MY/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
