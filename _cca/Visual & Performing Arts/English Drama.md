@@ -15,7 +15,7 @@ variant: markdown
 | 2IC | Ms Shen Simin Nicole |
 
 ### Training Schedule
-Tuesdays: 3.30 - 6.00 p.m. <br>Fridays: 2.30 - 5.00 p.m.
+Tuesdays: 3.30 pm - 6.00 pm <br>Fridays: 2.30 pm - 5.00 pm
 
 ### Vision
 To be a vibrant and inspiring performing arts group that cultivates students’ passion for self-expression and growth through dynamic and creative experiences.
@@ -48,4 +48,3 @@ To develop members who think critically, create boldly, and work collaboratively
 
 ### Photo Gallery
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYRE0ZF8V_xdiuoOVaz_7Kjn8UlgXAstMFXVzT8QtPsqmIK5nheFu4L61KbJtlLgyP2dDWNuF8bnFX/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
