@@ -67,5 +67,5 @@ To promote appreciation and awareness of the Malay culture and practices through
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR8vv6yC0iA5XrjvZqDHGInc1DL6ez6t6a-VPAK_IlDHLX_mVQ7qRG6-wW492wViaOfSGfqknhOQkb/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
-### Link(s) to external pages
+### Link to External Page
 [Click on this link](https://www.instagram.com/tpss.malaydance/?igshid=MzRlODBiNWFlZA%3D%3D) to visit our Instagram page!
