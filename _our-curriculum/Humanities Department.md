@@ -163,7 +163,7 @@ global awareness, and a passion for learning about the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities5.jpg">
 </div>
-<h4>Social Studies Learning Journeys for Secondary 3 Students </h4>
+<h4>Social Studies Learning Journeys for Secondary 3 Students</h4>
 <p>Our Secondary 3 students embarked on Social Studies Learning Journeys
 to explore real-world issues beyond the classroom. Through visits to places
 such as the NEA Hawker Trail @ Geylang Serai Market, Harmony in Diversity
@@ -274,4 +274,8 @@ Mae Lim Xuan (3E4)</p>
 (2024) - Raynard Lew Yee Hong (Liao Yihong) (3E3)</p>
 </li>
 </ul>
+<h3>Gallery</h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEv3968J6hy2cVfe5OQcmJaoNCtnh_pxzd9YmP5bQtPNQe8PaSfxi3mxzKl_3ojS8QBxZNGobxLBdV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
