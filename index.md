@@ -18,6 +18,12 @@ sections:
           description: ""
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
+  - infopic:
+      title: TPSS OPEN HOUSE 2025
+      subtitle: Welcome P6 students & parents
+      id: infopic
+      image: /images/2025_Open_House_MOTD_1.png
+      alt: Image alt text
   - infobar:
       title: Straits Times School Pocket Money Fund
       subtitle: applications now open!
@@ -61,14 +67,6 @@ sections:
         register via the online form.
       button: MORE DETAILS
       url: https://www.tampinessec.moe.edu.sg/others/students/msp/
-  - infopic:
-      title: TPSS OPEN HOUSE 2024
-      subtitle: Welcome P6 students & parents
-      id: infopic
-      button: Click here for our open house welcome booklet
-      url: https://drive.google.com/drive/mobile/folders/1jGbfa4Wk9kJfmpercK8bnav7kmefaaaB?usp=sharing
-      image: /images/2024_TPSS_Open_House_Publicity_Poster_.png
-      alt: Image alt text
   - infobar:
       title: Direct School Admission (DSA)
       subtitle: Application for DSA now open!
