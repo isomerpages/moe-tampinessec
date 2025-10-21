@@ -2,86 +2,76 @@
 title: Character and Citizenship Education (CCE)
 permalink: /our-co-curriculum/character-and-citizenship-education-cce/
 description: ""
+variant: tiptap
 ---
-<img style="max-width: 70%" src="/images/cce%20logo.png">
-
-### OBJECTIVES
-
-**Nurturing a caring community of Learners, Thinkers and Leaders**
-
-Tampinesians who are:
-
-1.  &nbsp;**Good character -**&nbsp;**Socially conscious &amp; Environmentally aware**&nbsp;
-2.  &nbsp;**Resilient**&nbsp;**and competent socially &amp; emotionally**
-3.  &nbsp;**Future ready**
-
-###  #I-Care(VIA)
-
-**Learner:**&nbsp;Students who do primary and secondary research to obtain qualitative and quantitative data on society needs.
-
-**Thinker:**&nbsp;Students who think about how they can meaningfully contribute to the society.
-
-**Leader:**&nbsp;Students who carry out advocacy projects in the various communities to promote a caring and inclusive society.
-
-VIA Curriculum includes: VIA Lessons, VIA Talks by external partneres, VIA Ambassadors Training and assembly sharing of reflections of VIA Journey.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeOqsChKhBpAj6UKVoe0iWUFnBgQVOb4F8cn-1JppelV6QA55QKsNxedS0S04DF0ClltjRJJk9_AtW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-### Cyberwellness
-
-**Learner:**&nbsp;Students learn about adopting good cyber ethics and a positive online presence.
-
-**Thinker:**&nbsp;Students think how to contribute to good cyber relationships.
-
-**Leader:**&nbsp;Students&nbsp;who advocate for responsible digital citizenship
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsetsQcQrOaIoki1BZq_roaMvLhSi9YIoi7k31Qf6kr2qWuBgjWqFKigyt1_qJArkXJoRmN5vCI5A0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-### National Education
-
-*Objective: Designing experiences to strengthen our students’ and fellow educators’&nbsp;citizenship dispositions,&nbsp;to inspire all to take collective ownership of our future as a nation*
-
-![](/images/ne%20key%20dispositions.png)
-
-
-**Activities:**
-
-- NE Commemorative events
-- NRIC Issuance Ceremony
-- NS Engagement talk
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwC6l9g5B96OBN0SNLuemg7ZOx5JUTPqYFYYBDu1CBVGHN9Xs_lKMOf9gZzzkUGOuf98jddvkcRMTw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-### I-Care Environment
-
-**Learner:**&nbsp;Students learn about the challenges and opportunities to contribute to a clean, green and caring school, Singapore and world.
-
-**Thinker:**&nbsp;Students think how to contribute to a green mindset and culture.
-
-**Leader:**&nbsp;Students to carry out advocacy projects to promote sustainable living and city in nature.
-
-**Level Theme**
-
-Sec 1: Sustainability
-
-Sec 2: Food waste
-
-Sec 3: E-waste
-
-Sec 4/5: Global Efforts in Eco Stewardship
-
-**Activities:**
-
-1. Green Week in conjunction with earth Day
-2. E-waste Drive
-3. Caterpillar adoption Programme
-4. Sustainable - Fashion Booth
-5. Sec 2 Music lessons
-6. Sec 2 &amp; 3 Eco - Amazing race
-7. Assembly talks by Horticulturists,
-8. Community outreach activities
-
-**Partnerships**
-Temasek Polytechnic, Alba, Tampines West , NEA, Singapore Green Council, Tampines Community.
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTt-asdipRMgvhf3cC6Wa-52QhsWz8x65M8I94tjRTYUu96bvDcgAGOp2qoKFtp8HqLSncIvSB3y9jR/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<div class="isomer-image-wrapper">
+<img style="max-width: 70%" height="auto" width="100%" src="/images/cce%20logo.png">
+</div>
+<h3>OBJECTIVES</h3>
+<p><strong>Nurturing a caring community of Learners, Thinkers and Leaders</strong>
+</p>
+<p>Tampinesians who are:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>&nbsp;<strong>Good character -</strong>&nbsp;<strong>Socially Conscious &amp; Environmentally Aware</strong>&nbsp;</p>
+</li>
+<li>
+<p>&nbsp;<strong>Resilient</strong>&nbsp;<strong>and Competent Socially &amp; Emotionally</strong>
+</p>
+</li>
+<li>
+<p>&nbsp;<strong>Future Ready</strong>
+</p>
+</li>
+</ol>
+<h3>#I-Care(VIA)</h3>
+<p><strong>Learner:</strong>&nbsp;Students who do primary and secondary research
+to obtain qualitative and quantitative data on society needs.</p>
+<p><strong>Thinker:</strong>&nbsp;Students who think about how they can meaningfully
+contribute to the society.</p>
+<p><strong>Leader:</strong>&nbsp;Students who carry out advocacy projects
+in the various communities to promote a caring and inclusive society.</p>
+<p><strong>VIA Curriculum includes:</strong> VIA Lessons, VIA Talks by external
+partners, VIA Ambassadors Training and assembly sharing of reflections
+of VIA Journey.</p>
+<h3>Cyberwellness and Mental Health</h3>
+<p><strong>Learner:</strong>&nbsp;Students learn about adopting good cyber
+ethics and a positive online presence.</p>
+<p><strong>Thinker:</strong>&nbsp;Students think how to contribute to good
+cyber relationships.</p>
+<p><strong>Leader:</strong>&nbsp;Students&nbsp;who advocate for responsible
+digital citizenship.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaSo0fxp6lz3mONCHLlgNPQrFh6j0KCXmocEefKwQFe-_pbH421BUKgQcr4LIMpwGHfCRRx1oYErPF/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>National Education</h3>
+<p><em>Objective: Designing experiences to strengthen our students’ and fellow educators’&nbsp;citizenship dispositions,&nbsp;to inspire all to take collective ownership of our future as a nation</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ne%20key%20dispositions.png">
+</div>
+<p><strong>Activities:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NE Commemorative events</p>
+</li>
+<li>
+<p>Food Resilience Preparedness Programme in commemoration of Total Defence
+Day 2025</p>
+</li>
+<li>
+<p>NRIC Issuance Ceremony</p>
+</li>
+<li>
+<p>NS Engagement talk</p>
+</li>
+<li>
+<p>SG60@TPSS Celebrations</p>
+</li>
+</ul>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQar_Sp80FRs18gjQAw0RxtHEsmKRupghM3bscZsJHCH9uyXLag1CrWl7mdOCH7qFyn2htiDEfjuyRC/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3></h3>
+<p></p>
