@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/National_Cadet_Corps.jpg)
+![](/images/National_Cadet_Corps_2025.jpg)
 
 ### CCA Teachers
 
