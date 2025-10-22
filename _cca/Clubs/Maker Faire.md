@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-![](/images/Maker_Faire.jpg)
+![](/images/Maker_Faire_2025.jpg)
 
 ### CCA Teachers
 

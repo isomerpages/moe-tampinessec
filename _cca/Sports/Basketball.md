@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-![](/images/Basketball.jpg)
+![](/images/Basketball_2025.jpg)
 
 ### CCA Teachers 
 
@@ -13,8 +13,8 @@ variant: markdown
 |---|---|
 | OIC | Mr Joseph Lum Mum Kit |
 | 2IC | Ms Yu Hsin-Ju |
-| Communications IC | Mr Bryan Ee Sien Ming |
-| Student Welfare IC | Mdm Suriyana Jumani |
+|  | Mr Bryan Ee Sien Ming |
+|  | Mdm Suriyana Jumani |
 
 ### Training Schedule 
 <strong> (‘C’ Division Boys) </strong> <br>
