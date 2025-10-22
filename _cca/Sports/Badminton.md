@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-![](/images/Badminton.jpg)
+![](/images/Badminton_2025.jpg)
 
 ### CCA Teachers
 
