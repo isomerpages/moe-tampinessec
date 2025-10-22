@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-![](/images/Football__Boys_.jpg) <br>
-![](/images/Football__Girls_.jpg)
+![](/images/Football__Boys___2025_.jpg)<br>
+![](/images/Football__Girls___2025_.jpg)
 
 ### CCA Teachers
 
