@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>2025 Year-End Holiday Homework</h3>
+<p><a href="https://docs.google.com/spreadsheets/d/1ryd-QipZtsWi1a1Pp0_rZUtj36nCMsSgzrzP7-9fda4/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1jGrlupPYsNM0IAUghzoMW5XPlrwykCyy8wLWaZbzL6k/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
 <h3>Sec 1 to 3 End-of-Year Examination Timetable</h3>
 <p><a href="/files/Students_Sec_1_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
@@ -20,16 +25,6 @@ variant: tiptap
 <h3>Sec 4 &amp; 5 Preliminary Examination</h3>
 <p>Please click <a href="/files/For_Students_PRELIM_EXAM_TIMETABLE_2025_24_Jul_25.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the examination timetable. All the best for your examinations.</p>
-<p></p>
-<h3>2025 June Holiday Homework</h3>
-<p><a href="https://docs.google.com/spreadsheets/d/1pU7Tn7R0jls5Vm3TRE_s-6V8DQmZ5Ek4MqUa1IbKJ0s/edit?gid=802052808#gid=802052808" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-</p>
-<p><a href="https://docs.google.com/spreadsheets/d/1liLfcEt6yEDKYCHsjBTaYV71gOYi9nhFGuhrdSXJgdQ/edit?gid=802052808#gid=802052808" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-</p>
-<p><a href="https://docs.google.com/spreadsheets/d/17Cdow4qZFDDoLfB4BsaDL00HgyIYFq8xsqGQZ-AFFpY/edit?gid=802052808#gid=802052808" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
-</p>
-<p><a href="https://docs.google.com/spreadsheets/d/1Yleha9bkrl5rV_IgruNFvMOfQPLbYEehs04WAs5Lfo8/edit?gid=802052808#gid=802052808" rel="noopener nofollow" target="_blank">Sec 4/5</a>
-</p>
 <h3>Tampines Companion (Student Handbook) 2025</h3>
 <p><a href="/files/Tampines_Companion_2025__29_Apr_.pdf" rel="noopener nofollow" target="_blank">Downloadable PDF version</a> |
 <a href="https://sites.google.com/moe.edu.sg/tpsscompanion/home" rel="noopener noreferrer nofollow" target="_blank">Microsite</a>
