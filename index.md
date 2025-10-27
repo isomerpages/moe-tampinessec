@@ -25,6 +25,11 @@ sections:
       image: /images/2025_Open_House_MOTD_1.png
       alt: Image alt text
   - infobar:
+      title: Canteen Stall Application
+      id: infobar
+      button: More details
+      url: https://tampinessec.moe.edu.sg/canteen-advertisement/
+  - infobar:
       title: Straits Times School Pocket Money Fund
       subtitle: applications now open!
       id: infobar

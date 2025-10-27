@@ -210,7 +210,9 @@ College Oldham Cup (2025) - Tian Yayun (4E2)</p>
 </li>
 </ul>
 <h3>Gallery</h3>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHRB0Q8NY4RfDH6HvSIBfiG0uf08UbPAgqOwKrqM2GvjdqtUSenkz0mn-p-VFI6-N8BeOfjdpVvUz1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4>exc<strong>ELL</strong>ence@TPSS 2024</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8yGBrDGH5WkCb2eeh_-iNbBKKspAkkgw7_DJB-QSFDzKpTPcsfuGq9Aazn2Yol_i0M2jzSCshkFS_/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
