@@ -43,7 +43,7 @@ description: ""
 hardcopy of the Application Form from the School's General Office.</p>
 </li>
 </ol>
-<p><em>Download the Application Form for individual stallholder here. </em>
+<p><em>Download the Application Form for individual stallholder <a href="/files/Application_Form_for_Individual_Stallholder.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -150,7 +150,7 @@ approved training providers.</p>
 Singapore Food Agency (SFA) to operate the stall.</p>
 </li>
 </ul>
-<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. </em>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
 <p></p>
 <p></p>
