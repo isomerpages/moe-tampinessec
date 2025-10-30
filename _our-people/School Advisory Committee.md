@@ -11,9 +11,6 @@ The committee provides advice on the strategic direction of the school
 and fosters school-community partnerships to promote students’ welfare,
 character development and overall growth.</p>
 <h3>SAC MEMBERS</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_photo_on_website_final.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,6 +19,10 @@ character development and overall growth.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_2026.png">
+</div>
 <p>SAC Member</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -74,6 +75,14 @@ character development and overall growth.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Terrence Tang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Kok Chiang Liang</p>
 </td>
 </tr>
 </tbody>
