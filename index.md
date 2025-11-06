@@ -22,7 +22,7 @@ sections:
       title: TPSS OPEN HOUSE 2025
       subtitle: Welcome P6 students & parents
       id: infopic
-      image: /images/2025_Open_House_MOTD_1.png
+      image: /images/2025_MOTD.jpg
       alt: Image alt text
   - infobar:
       title: Canteen Stall Application
