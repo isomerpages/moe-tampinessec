@@ -10,6 +10,8 @@ variant: tiptap
 </p>
 <p><a href="https://docs.google.com/spreadsheets/d/1jGrlupPYsNM0IAUghzoMW5XPlrwykCyy8wLWaZbzL6k/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
+<p><a href="https://docs.google.com/spreadsheets/d/106HN0mMCoLDKeqp0eT_JTMmgU7Ea8zFWMvWSGVSlQN0/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
 <h3>Sec 1 to 3 End-of-Year Examination Timetable</h3>
 <p><a href="/files/Students_Sec_1_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
