@@ -135,6 +135,9 @@ their sense of commitment and rootedness to Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities2.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vietnam_2025.jpg">
+</div>
 <h4>Hosting of Minh Duc School (Vietnam)</h4>
 <p>In May 2025, Tampines Secondary School hosted students and teachers from
 Minh Duc Secondary School, Vietnam, as part of our Humanities Exchange
@@ -187,7 +190,7 @@ journey.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HDB.jpg">
 </div>
 <h4>Geographical Investigation Fieldwork to Bishan-Ang Mo Kio Park for Secondary 1 Students</h4>
 <p>Our Secondary 1 students went to Bishan-Ang Mo Kio Park to investigate
@@ -200,11 +203,13 @@ methods.</p>
 <h4>Learning on the Move Programme for Secondary 2 Students</h4>
 <p>Our Secondary 2 students took part in the Learning on the Move programme,
 where they engaged in experiential activities outside the classroom, e.g.
-at the Changi Airport. Through real-world tasks, they were introduced to
-key Upper Secondary Social Studies concepts and gained a deeper appreciation
-of how these ideas connect to everyday life in Singapore.</p>
+at the Singapore River, Singapore City Gallery and Changi Airport. Through
+real-world tasks, they were introduced to key Upper Secondary Social Studies
+concepts and gained a deeper appreciation of how these ideas connect to
+everyday life in Singapore.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_River.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -217,12 +222,22 @@ of how these ideas connect to everyday life in Singapore.</p>
 Tenebroso (4E3)</p>
 </li>
 <li>
-<p>Bronze Award (individual component) for NUS Geography Challenge (2025)
-- Jovan Ong Kai De (4E2)</p>
+<p>Silver Award for Historical Scene Investigation (2025) - Cherlyn Yuen
+Chih Shan (2-5), Tan Ee Jia (2-5), Maximus Loh Guanchen (2-5), Yu Zewen
+(2-6)</p>
+</li>
+<li>
+<p>Bronze Award for Historical Scene Investigation (2025) - Kylie Low (2-1),
+Janelle Ong Mae Joy (2-1), Israel Shannen Louise Betco (2-3), ⁠Huang Sihan
+(2-8)</p>
 </li>
 <li>
 <p>Silver Award (individual component) for NUS Geography Challenge (2025)
 - Wayne Tan Jia An (4E2)</p>
+</li>
+<li>
+<p>Bronze Award (individual component) for NUS Geography Challenge (2025)
+- Jovan Ong Kai De (4E2)</p>
 </li>
 <li>
 <p>Best Position Paper for River Valley Model United Nations (2025) - Tian
@@ -233,15 +248,12 @@ Yayun (4E2)</p>
 Phone Thawtar (4E2)</p>
 </li>
 <li>
-<p>Best Position Paper for River Valley Model United Nations (2025) - May
-Phone Thawtar (4E2)</p>
+<p>Best Delegate (Honourable Mention) for Ngee Ann Model United Nations (2025)
+- Sor Yan Ci (3-1)</p>
 </li>
 <li>
-<p>Best Delegate for Ngee Ann Model United Nations (2025) - Sor Yan Ci (3-1)</p>
-</li>
-<li>
-<p>Best Delegate for Ngee Ann Model United Nations (2025) - Alliance Koh
-(3-1)</p>
+<p>Best Delegate (Honourable Mention) for Ngee Ann Model United Nations (2025)
+- Alliance Koh (3-1)</p>
 </li>
 <li>
 <p>Finalist for MOE History Challenge (2024) - Safia Sarah Ally Tenebroso
@@ -252,22 +264,22 @@ Phone Thawtar (4E2)</p>
 Ghazali (4E2)</p>
 </li>
 <li>
-<p>Bronze Award for Historical Scene Investigation (2024) - Andrew Teo Zhi
-Kai (2-4), Fiona Yeo (2-2), Muhammad Eddrie Aqhil Bin Mohammad Ramadan
-(2-8), Tee Jing Ru (2-2)</p>
-</li>
-<li>
 <p>Silver Award for Historical Scene Investigation (2024) - Lian Yi Xuan
 Phoebe (2-3), Zenn Wong Si Yan (2-5), Sor Yan Ci (2-7), Rianne Chan Yu
 Xuan (2-6)</p>
 </li>
 <li>
-<p>Best Position Paper for Ngee Ann Model United Nations (2024) - Jordan
-Mae Lim Xuan (3E4)</p>
+<p>Bronze Award for Historical Scene Investigation (2024) - Andrew Teo Zhi
+Kai (2-4), Fiona Yeo (2-2), Muhammad Eddrie Aqhil Bin Mohammad Ramadan
+(2-8), Tee Jing Ru (2-2)</p>
 </li>
 <li>
 <p>Silver Award (individual component) for NUS Geography Challenge (2024)
 - Muhammad Taufiq Bin Hidayat (4E2)</p>
+</li>
+<li>
+<p>Best Position Paper for Ngee Ann Model United Nations (2024) - Jordan
+Mae Lim Xuan (3E4)</p>
 </li>
 <li>
 <p>Best Position Paper (Honourable Mention) for Ngee Ann Model United Nations
