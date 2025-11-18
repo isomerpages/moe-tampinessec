@@ -5,6 +5,16 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>2026 Booklists (Sec 2 to 5)</h3>
+<p><a href="/files/Booklist_2026_TPS_S2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
+<p><a href="/files/Booklist_2026_TPS_S3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+</p>
+<p><a href="/files/Booklist_2026_TPS_S4G3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express(G3)</a> |
+<a href="/files/Booklist_2026_TPS_S4G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)(G2)</a>| <a href="/files/Booklist_2026_TPS_S4G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)(G1)</a>
+</p>
+<p><a href="/files/Booklist_2026_TPS_S5NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal (Academic)</a>
+</p>
 <h3>2025 Year-End Holiday Homework</h3>
 <p><a href="https://docs.google.com/spreadsheets/d/1ryd-QipZtsWi1a1Pp0_rZUtj36nCMsSgzrzP7-9fda4/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
@@ -43,19 +53,6 @@ fill in the following <a href="https://form.gov.sg/68c793793572fbabf76ec5c2" rel
 <h3></h3>
 <h3>Sales of Uniform for 2025</h3>
 <p><a href="/files/Information_for_Sale_of_Uniforms_in_2024_for_2025_TPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for sale of uniform</a>
-</p>
-<h3>2025 Booklists (Sec 1 to 5)</h3>
-<p><a href="/files/Booklist_2025_TPS__Final_Draft__S1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-</p>
-<p><a href="/files/Booklist_2025_TPS__Final_Draft__S2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-</p>
-<p><a href="/files/Booklist_2025_TPS__Final_Draft__S3E.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Express</a> |
-<a href="/files/Booklist_2025_TPS__Final_Draft__S3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Academic)</a>| <a href="/files/Booklist_2025_TPS__Final_Draft__S3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Technical)</a>
-</p>
-<p><a href="/files/Booklist_2025_TPS__Final_Draft__S4E.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a> |
-<a href="/files/Booklist_2025_TPS__Final_Draft__S4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)</a>| <a href="/files/Booklist_2025_TPS__Final_Draft__S4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)</a>
-</p>
-<p><a href="/files/Booklist_2025_TPS__Final_Draft__S5NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal (Academic)</a>
 </p>
 <h3>Student's Suggestion Platform</h3>
 <p>Dear students, if you would like to submit a suggestion, please click&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd0DVbapkQ1kSpGcwO3ws9aBsnvS2le1xz7iSTZ17LJTgWRJQ/viewform?usp=sf_link" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
