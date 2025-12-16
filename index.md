@@ -19,6 +19,22 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
+      title: 2026 Sec 1 Malay (Special Programme) Online Registration
+      id: infobar
+      description: Successful M(SP) applicants are required to register for the
+        programme at TPSS via the online form from 26 December 2025 (7am) to 7
+        January 2026 (5pm).
+      button: More details
+      url: https://tampinessec.moe.edu.sg/others/students/msp/
+  - infobar:
+      title: Appeal for Transfer after Secondary One Posting
+      subtitle: 2026 Sec 1 Parents
+      id: infobar
+      description: The Secondary 1 Appeal Exercise is conducted for all PSLE
+        candidates after the release of the Secondary 1 Posting results.
+      button: Sec 1 Appeal Form
+      url: https://tampinessec.moe.edu.sg/appeal-for-transfer-after-secondary-one-posting/
+  - infobar:
       title: 2025 N Level Results Release
       subtitle: 2025 4NANT COHORT
       id: infobar
@@ -73,19 +89,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: Appeal for Transfer after Secondary One Posting
-      subtitle: 2026 Sec 1 Parents
-      id: infobar
-      description: The Secondary 1 Appeal Exercise is conducted for all PSLE
-        candidates after the release of the Secondary 1 Posting results.
-      button: Sec 1 Appeal Form
-      url: https://tampinessec.moe.edu.sg/appeal-for-transfer-after-secondary-one-posting/
-  - infobar:
-      title: 2026 Sec 1 Malay (Special Programme) Online Registration
-      id: infobar
-      description: Successful M(SP) applicants are required to register for the
-        programme at TPSS via the online form.
-      button: More details
-      url: https://tampinessec.moe.edu.sg/others/students/msp/
 ---
