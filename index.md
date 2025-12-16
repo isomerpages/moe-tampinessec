@@ -89,4 +89,12 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: 2026 Sec 1 Posting Results
+      id: infobar
+      description: Please note the 2026 Sec 1 Posting Results will be out on Fri, 19
+        Dec at 9am.   We look forward to welcoming this next generation of
+        Tampinesians.
+      button: More details
+      url: https://tampinessec.moe.edu.sg/2026-sec-1-posting-results/
 ---
