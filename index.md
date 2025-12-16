@@ -81,4 +81,11 @@ sections:
         candidates after the release of the Secondary 1 Posting results.
       button: Sec 1 Appeal Form
       url: https://tampinessec.moe.edu.sg/appeal-for-transfer-after-secondary-one-posting/
+  - infobar:
+      title: 2026 Sec 1 Malay (Special Programme) Online Registration
+      id: infobar
+      description: Successful M(SP) applicants are required to register for the
+        programme at TPSS via the online form.
+      button: More details
+      url: https://tampinessec.moe.edu.sg/others/students/msp/
 ---
