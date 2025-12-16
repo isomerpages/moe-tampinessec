@@ -73,4 +73,12 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: Appeal for Transfer after Secondary One Posting
+      subtitle: 2026 Sec 1 Parents
+      id: infobar
+      description: The Secondary 1 Appeal Exercise is conducted for all PSLE
+        candidates after the release of the Secondary 1 Posting results.
+      button: Sec 1 Appeal Form
+      url: https://tampinessec.moe.edu.sg/appeal-for-transfer-after-secondary-one-posting/
 ---
