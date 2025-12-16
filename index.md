@@ -91,4 +91,13 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
+  - infobar:
+      title: 2025 N Level Results Release
+      subtitle: 2025 4NANT COHORT
+      id: infobar
+      description: Students are to report punctually to the school hall on 18 December
+        2025 at 2pm in TPSS full/half school uniform and appropriate hair
+        style/colour.
+      button: Button Text
+      url: https://tampinessec.moe.edu.sg/2025-n-level-results-release/
 ---
