@@ -19,13 +19,11 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
-      title: 2026 Sec 1 Posting Results
+      title: Information for 2026 Sec 1 Parents
       id: infobar
-      description: Please note the 2026 Sec 1 Posting Results will be out on Fri, 19
-        Dec at 9am.   We look forward to welcoming this next generation of
-        Tampinesians.
       button: More details
       url: https://tampinessec.moe.edu.sg/2026-sec-1-posting-results/
+      subtitle: Sec 1 parents and students
   - infobar:
       title: 2026 Sec 1 Malay (Special Programme) Online Registration
       id: infobar
