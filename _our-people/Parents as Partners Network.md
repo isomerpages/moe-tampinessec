@@ -4,14 +4,11 @@ permalink: /our-people/parents-as-partners-network/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/ppn.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PPN_alumni_2025.jpg">
 </div>
-<h4>PPN EXECUTIVE COMMITTEE ( 2025-2026)</h4>
+<h4>PSG EXECUTIVE COMMITTEE ( 2025-2026)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -156,17 +153,17 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>PPN @ TPSS</h3>
+<h3>PSG @ TPSS</h3>
 <p>Our school values home-school partnerships and strongly believes that
 parents’ support is essential for students to thrive in school.</p>
-<p>In 2003, the school established our parent support group named Parents
-as Partners Network (PPN) to engage parents who wish to contribute to the
-school’s efforts. These parents contribute their time and effort in collaboration
-with us on their children’s educational experience.</p>
-<p>Our strong PPN Executive Committee consists of many passionate and committed
+<p>In 2003, the school established our parent support group to engage parents
+who wish to contribute to the school’s efforts. These parents contribute
+their time and effort in collaboration with us on their children’s educational
+experience.</p>
+<p>Our strong PSG Executive Committee consists of many passionate and committed
 parents who meet regularly and work with the school on various programmes
 and projects that benefit both parents and students.</p>
-<p>PPN Executive Committee also collaborated with us and supported several
+<p>PSG Executive Committee also collaborated with us and supported several
 school events such as Mass Run, Teachers’ Day celebration, NE events, ECG
 talks and Parent-Teen bonding activities. Their efforts to encourage parent
 participation at these school events helps to make the school a welcoming
