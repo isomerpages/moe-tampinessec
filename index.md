@@ -22,7 +22,7 @@ sections:
       title: Information for 2026 Sec 1 Parents
       id: infobar
       button: More details
-      url: https://tampinessec.moe.edu.sg/2026-sec-1-posting-results/
+      url: https://tampinessec.moe.edu.sg/sec1students/
       subtitle: Sec 1 parents and students
   - infobar:
       title: 2026 Sec 1 Malay (Special Programme) Online Registration
