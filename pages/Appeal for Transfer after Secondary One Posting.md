@@ -12,7 +12,7 @@ detailed information and procedures.</p>
 Appeals from applicants who do not meet the cut-off score <strong>will not be considered</strong>.</p>
 <p></p>
 <p>Please submit the&nbsp;<a href="https://form.gov.sg/693bd0b31ac134b7bce1f280" rel="noopener noreferrer nofollow" target="_blank">S1 Appeal Form</a> with
-supporting documents <strong>by 23 December 2025, 5pm</strong>. Late submissions <strong>will not be accepted</strong>.</p>
+supporting documents <strong>by 23 December 2025</strong>. Late submissions <strong>will not be accepted</strong>.</p>
 <p>Please note that <strong>only successful applicants will be notified</strong>
 </p>
 <p>Thank you.</p>
