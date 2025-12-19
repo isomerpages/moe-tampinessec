@@ -7,7 +7,7 @@ description: Information for 2026 sec 1 start of school
 <p>A warm welcome to our Tampinesian family!</p>
 <p>Please find below some important information for Secondary 1 students
 and parents.</p>
-<p><a href="/files/Secondary_1_Welcome_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Welcome Letter</a>
+<p><a href="/files/Secondary_1_Welcome_Letter_2026_19_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Welcome Letter</a>
 </p>
 <p><a href="/files/Booklist_2026_TPS_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Booklist</a>
 </p>
