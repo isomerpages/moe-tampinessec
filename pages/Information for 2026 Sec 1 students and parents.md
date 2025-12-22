@@ -12,8 +12,13 @@ and parents.</p>
 <p><a href="/files/Booklist_2026_TPS_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Booklist</a>
 </p>
 <p></p>
-<p>The above information will also be sent via Parents Gateway to all parents.
-Thank you and we look forward to seeing your child/ward in Tampines Secondary.</p>
+<p>The above information have been sent via Parents Gateway to all parents.</p>
+<p></p>
+<p>The slides below are for parents of students taking predominantly G2 and
+G1 subjects.</p>
+<p><a href="https://docs.google.com/presentation/d/15rOctTLKTlbRoR7R-Tbcv9cMxZxc6EXUmt5gXykT54g/edit?slide=id.p1#slide=id.p1" rel="noopener nofollow" target="_blank">FSBB Briefing Slides</a>
+</p>
+<p>Thank you and we look forward to seeing your child/ward in Tampines Secondary.</p>
 <p>Please contact us after reading this notification if there are any pending
 queries.</p>
 <p>At TPSS, we are committed to partnering you to develop our Tampinesians
