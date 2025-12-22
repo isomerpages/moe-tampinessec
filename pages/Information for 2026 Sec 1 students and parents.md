@@ -16,7 +16,7 @@ and parents.</p>
 <p></p>
 <p>The slides below are for parents of students taking predominantly G2 and
 G1 subjects.</p>
-<p><a href="https://docs.google.com/presentation/d/15rOctTLKTlbRoR7R-Tbcv9cMxZxc6EXUmt5gXykT54g/edit?slide=id.p1#slide=id.p1" rel="noopener nofollow" target="_blank">FSBB briefing slides</a>
+<p><a href="https://docs.google.com/presentation/d/15rOctTLKTlbRoR7R-Tbcv9cMxZxc6EXUmt5gXykT54g/edit?slide=id.p1#slide=id.p1" rel="noopener nofollow" target="_blank">FSBB Briefing Slides</a>
 </p>
 <p>Thank you and we look forward to seeing your child/ward in Tampines Secondary.</p>
 <p>Please contact us after reading this notification if there are any pending
