@@ -39,12 +39,20 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Toh</p>
+<p>Mr Michael Toh Pee Huat</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Sufian Amir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Syahril</p>
@@ -76,6 +84,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Sahilah Rasid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Service Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,6 +112,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ruhaida Mohamad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Laboratory Technician</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poh Siok Peng Doreen</p>
 </td>
 </tr>
 <tr>
@@ -168,6 +192,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Chai Hock</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frontdesk Reception</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zainab Hj Said</p>
 </td>
 </tr>
 </tbody>
