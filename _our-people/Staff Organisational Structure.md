@@ -45,14 +45,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MASTER TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yap Boon Chien</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>OPERATIONS MANAGER</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,14 +69,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD CRAFT &amp; TECHNOLOGY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Benjamin Low Yick Loong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD ENGLISH LANGUAGE &amp; LITERATURE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +88,7 @@ variant: tiptap
 <p>HOD MATHEMATICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Salim B Ramli</p>
+<p>Mdm Yap Wei Ling, Evelynn</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +96,7 @@ variant: tiptap
 <p>HOD MOTHER TONGUE LANGUAGES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Kaiying</p>
+<p>Mdm Li Kaiying</p>
 </td>
 </tr>
 <tr>
@@ -125,18 +109,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
+<p>HOD EDTECH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Preeti Bhart Sheri</p>
+<p>Mdm Neo Shufen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE/CCA</p>
+<p>HOD CCE (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr S Elangovan</p>
+<p>Ms Pei Hui Ling</p>
 </td>
 </tr>
 <tr>
@@ -149,10 +133,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD EDTECH</p>
+<p>SCHOOL STAFF DEVELOPER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Shufen</p>
+<p>Mdm Zarinah Begum D/O Karam Din</p>
 </td>
 </tr>
 <tr>
@@ -165,18 +149,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR HEAD</p>
+<p>YEAR HEAD (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Tan Ming Quan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SCHOOL STAFF DEVELOPER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zarinah Begum D/O Karam Din</p>
+<p>Mr Nallu Dhinakharan</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +165,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. YEAR HEAD</p>
+<p>LT MATHEMATICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Charles Yip Wai Kit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LT CCE (internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Preeti Bhart Sheri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst. YEAR HEAD / PE (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aloysius Ong Eng Kia</p>
@@ -201,6 +193,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Zhuo Min, Rachel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH CHEMISTRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liy Lee Ping</p>
 </td>
 </tr>
 <tr>
@@ -237,10 +237,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCE</p>
+<p>SH SCIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nallu Dhinakaran</p>
+<p>Ms Shahirah Bibi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH STUDENT LEADERSHIP &amp; WELL-BEING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Bao Fang</p>
 </td>
 </tr>
 <tr>
@@ -249,14 +257,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joshua Foo Chuan Teck</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH STUDENT LEADERSHIP &amp; WELL-BEING</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Peh Hui Ling</p>
 </td>
 </tr>
 <tr>
@@ -281,14 +281,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Halimah Bte Mohmad</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH 21CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Bao Fang</p>
 </td>
 </tr>
 <tr>
@@ -321,14 +313,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Esfan Rizal Rahwom</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST MATHEMATICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Charles Yip Wai Kit</p>
 </td>
 </tr>
 <tr>
