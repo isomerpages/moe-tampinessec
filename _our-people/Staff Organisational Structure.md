@@ -109,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD EDTECH</p>
+<p>HOD ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Neo Shufen</p>
@@ -281,6 +281,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Halimah Bte Mohmad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Ariff Mohtar</p>
 </td>
 </tr>
 <tr>
