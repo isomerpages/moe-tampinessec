@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>Tampines Companion (Student Handbook) 2026</h3>
+<p> <a href="https://sites.google.com/moe.edu.sg/tpsscompanion/home" rel="noopener noreferrer nofollow" target="_blank">Microsite</a>
+</p>
 <h3>2026 Booklists (Sec 1 to 5)</h3>
 <p><a href="/files/Booklist_2026_TPS_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
@@ -39,10 +42,6 @@ variant: tiptap
 <h3>Sec 4 &amp; 5 Preliminary Examination</h3>
 <p>Please click <a href="/files/For_Students_PRELIM_EXAM_TIMETABLE_2025_24_Jul_25.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the examination timetable. All the best for your examinations.</p>
-<h3>Tampines Companion (Student Handbook) 2025</h3>
-<p><a href="/files/Tampines_Companion_2025__29_Apr_.pdf" rel="noopener nofollow" target="_blank">Downloadable PDF version</a> |
-<a href="https://sites.google.com/moe.edu.sg/tpsscompanion/home" rel="noopener noreferrer nofollow" target="_blank">Microsite</a>
-</p>
 <p></p>
 <h3>Counselling Self-referral</h3>
 <p>Dear students, if you wish to speak to the school counsellors, please
