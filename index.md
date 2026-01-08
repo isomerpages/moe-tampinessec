@@ -19,6 +19,15 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
+      title: 2025 O Level Results Release
+      subtitle: 2025 4E5N cohort
+      id: infobar
+      description: Students are to report punctually to the school hall on 14 January
+        at 2pm in TPSS full/half school uniform and appropriate hair
+        style/colour.
+      button: More details
+      url: https://tampinessec.moe.edu.sg/2026-o-level-results-release/
+  - infobar:
       title: Information for 2026 Sec 1 Parents
       id: infobar
       button: More details
@@ -95,13 +104,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: 2025 O Level Results Release
-      subtitle: 2025 4E5N cohort
-      id: infobar
-      description: Students are to report punctually to the school hall on 14 January
-        at 2pm in TPSS full/half school uniform and appropriate hair
-        style/colour.
-      button: More details
-      url: https://tampinessec.moe.edu.sg/2026-o-level-results-release/
 ---
