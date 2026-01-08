@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELL_DEPT_UPDATED.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELL_2026.jpg">
 </div>
 <h3>TEACHERS</h3>
 <table style="minWidth: 50px">
