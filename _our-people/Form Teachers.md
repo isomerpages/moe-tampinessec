@@ -771,7 +771,7 @@ variant: tiptap
 <p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gerard Chan Choe Seng</p>
@@ -789,7 +789,7 @@ variant: tiptap
 <p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nuraisyah Razali</p>
