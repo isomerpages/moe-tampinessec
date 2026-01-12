@@ -36,21 +36,21 @@ variant: markdown
 
 **At Tampines Secondary School, **the following Sexuality Education lessons will be taught in 2026:****
 
-[](/files/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE.pdf)[Please click this link to view the Sexuality Education Lessons by level.](/files/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE.pdf)
+[Please click this link to view the Sexuality Education Lessons by level.](/files/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE.pdf)
 
 
 #### eTeens Programme
 
-8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA's Training and Education Division instead of HPB. _eTeens_ is conducted in two segments - a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At Tampines Secondary School, the _eTeens_ programme will be implemented as follows in 2025:**
+**At Tampines Secondary School, the _eTeens_ programme will be implemented as follows in 2026:**
 
 
 | Topics/Lessons | Programme Learning Objectives | Time Period|
 | -------- | -------- | -------- |
-|Mass Talk delivered through a pre-recorded video     | Raise awareness and provide knowledge on: <br>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use). <br>b) Managing relationships and risky situations in a healthy way.| Term 3 Week 8     |
+|Mass Talk delivered through a pre-recorded video     | Raise awareness and provide knowledge on: <br>a) Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use). <br>b) Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say 'no' to peer pressure) <br>c) Managing relationships and risky situations in a healthy way, inclusing avenues for help-seeking.| Term 3 Week 8     |
 | Classroom-based Lesson | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 9 |
 
 
@@ -58,6 +58,8 @@ variant: markdown
 
 #### Information for Parents
 10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
-11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. You may click [here](https://form.gov.sg/678490d502210403bd967649). The completed form is to be submitted by 24/01/2025. 
-12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. You may click [here](https://form.gov.sg/678490af0f96076a430a5009).  The completed form is to be submitted by 24/01/2025.
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. You may click [here](https://form.gov.sg/69631f4af2170fd29c710514). The completed form is to be submitted by 23/01/2026. 
+
+12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. You may click [here](https://form.gov.sg/69632178227aad1c92d55c09).  The completed form is to be submitted by 23/01/2026.
+
 13. Parents can contact the school at 67835423 or tpss@moe.edu.sg for discussion or to seek clarification about the school's Sexuality Education programme.
