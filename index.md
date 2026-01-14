@@ -23,7 +23,7 @@ sections:
       subtitle: 2025 4E5N cohort
       id: infobar
       description: Information on ECG available here.
-      button: Click here
+      button: More details
       url: https://tampinessec.moe.edu.sg/2026-o-level-results-release/
   - infobar:
       title: Information for 2026 Sec 1 Parents
@@ -31,6 +31,7 @@ sections:
       button: More details
       url: https://tampinessec.moe.edu.sg/sec1students/
       subtitle: Sec 1 parents and students
+      description: Slides from the PET are now available.
   - infobar:
       title: 2026 Sec 1 Malay (Special Programme) Online Registration
       id: infobar
