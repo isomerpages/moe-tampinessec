@@ -4,28 +4,18 @@ permalink: /sec1students/
 variant: tiptap
 description: Information for 2026 sec 1 start of school
 ---
-<p>A warm welcome to our Tampinesian family!</p>
-<p>Please find below some important information for Secondary 1 students
-and parents.</p>
-<p><a href="/files/Secondary_1_Welcome_Letter_2026_19_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Welcome Letter</a>
-</p>
-<p><a href="/files/Booklist_2026_TPS_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Booklist</a>
-</p>
+<p>Thank you for joining us at the Sec 1 Parent Engagement Talk.</p>
 <p></p>
-<p>The above information have been sent via Parents Gateway to all parents.</p>
-<p></p>
-<p>The slides below are for parents of students taking predominantly G2 and
-G1 subjects.</p>
-<p><a href="https://docs.google.com/presentation/d/15rOctTLKTlbRoR7R-Tbcv9cMxZxc6EXUmt5gXykT54g/edit?slide=id.p1#slide=id.p1" rel="noopener nofollow" target="_blank">FSBB Briefing Slides</a>
+<p>Please find below useful information which have also been shared via Parents
+Gateway.</p>
+<p><a href="/files/Sec_1_PET_Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Sec 1 PET Principal's Address</a>
 </p>
-<p>Thank you and we look forward to seeing your child/ward in Tampines Secondary.</p>
-<p>Please contact us after reading this notification if there are any pending
-queries.</p>
-<p>At TPSS, we are committed to partnering you to develop our Tampinesians
-holistically to provide the best possible schooling experience. We eagerly
-anticipate your support in achieving our school’s mission of nurturing
-well-rounded Tampinesians ready for the future.</p>
-<p></p>
+<p><a href="/files/AYH_Sharing_on_School_Experience__Support_Structures__and_Home_School_Partnership.pdf" rel="noopener nofollow" target="_blank">AYH Sharing on School Experience, Support Structures and Home-School Partnership</a>
+</p>
+<p><a href="/files/VP_engagement_deck_on_cyberwellness.pdf" rel="noopener nofollow" target="_blank">VP Engagement Deck on Cyberwellness</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1um6pKPW7Pf_IxvQ88LK_qdM80txfm5_y/view?usp=drive_link" rel="noopener nofollow" target="_blank">PDLP Parent Briefing Video</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
