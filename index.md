@@ -22,9 +22,7 @@ sections:
       title: 2025 O Level Results Release
       subtitle: 2025 4E5N cohort
       id: infobar
-      description: Students are to report punctually to the school hall on 14 January
-        at 2pm in TPSS full/half school uniform and appropriate hair
-        style/colour.
+      description: Information on ECG available here.
       button: More details
       url: https://tampinessec.moe.edu.sg/2026-o-level-results-release/
   - infobar:
@@ -33,6 +31,7 @@ sections:
       button: More details
       url: https://tampinessec.moe.edu.sg/sec1students/
       subtitle: Sec 1 parents and students
+      description: Slides from the PET are now available.
   - infobar:
       title: 2026 Sec 1 Malay (Special Programme) Online Registration
       id: infobar
