@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h3>Term 1 WA Assessment Schedule and Format </h3>
+<h3>2026 Term 1 WA Assessment Schedule and Format</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
