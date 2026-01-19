@@ -5,8 +5,65 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>2026 Term 1 WA Assessment Schedule and Format</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_1_Sec_1_WA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_1_Sec_1_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Format</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_1_Sec_2_WA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_1_Sec_2_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Format</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_1_Sec_3_WA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_1_Sec_3_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Format</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_1_Sec_4_5_WA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_1_Sec_4_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Assessment Format</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Tampines Companion (Student Handbook) 2026</h3>
-<p> <a href="https://sites.google.com/moe.edu.sg/tpsscompanion/home" rel="noopener noreferrer nofollow" target="_blank">Microsite</a>
+<p><a href="https://sites.google.com/moe.edu.sg/tpsscompanion/home" rel="noopener noreferrer nofollow" target="_blank">Microsite</a>
 </p>
 <h3>2026 Booklists (Sec 1 to 5)</h3>
 <p><a href="/files/Booklist_2026_TPS_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
