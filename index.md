@@ -19,6 +19,13 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
+      title: Straits Times School Pocket Money Fund
+      subtitle: applications now open (Sec 1)
+      id: infobar
+      description: Find out more about eligibility criteria and application process.
+      button: more details
+      url: https://tampinessec.moe.edu.sg/straits-times-school-pocket-money-fund/
+  - infobar:
       title: 2025 O Level Results Release
       subtitle: 2025 4E5N cohort
       id: infobar
@@ -63,13 +70,6 @@ sections:
       id: infopic
       image: /images/2025_MOTD.jpg
       alt: Image alt text
-  - infobar:
-      title: Straits Times School Pocket Money Fund
-      subtitle: applications now open!
-      id: infobar
-      description: Find out more about eligibility criteria and application process.
-      button: more details
-      url: https://tampinessec.moe.edu.sg/straits-times-school-pocket-money-fund/
   - infopic:
       title: Overseas Student Trips 2025
       subtitle: for SEcondary 2 & 3 students
