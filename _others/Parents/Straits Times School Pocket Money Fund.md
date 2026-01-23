@@ -8,10 +8,10 @@ third_nav_title: Parents
 <h3><strong>Application for Straits Times School Pocket Money Fund</strong></h3>
 <p>&nbsp;Dear Parents/Guardians,</p>
 <p>&nbsp;We are pleased to inform you that applications for The Straits Times
-School Pocket Money Fund will be opened from&nbsp;<strong>5 August to 11 September 2025</strong>.</p>
+School Pocket Money Fund will be opened from&nbsp;<strong>20 January to 13 February 2026 (for Sec 1 pupils only)</strong>.</p>
 <p>&nbsp;This fund aims to support students from families in needs.</p>
 <p>&nbsp;Successful applicants will receive a monthly allowance of $100,
-disbursed through the school starting from January 2026.</p>
+disbursed through the school starting from June 2026.</p>
 <p>&nbsp;Eligibility criteria for the fund are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -19,7 +19,7 @@ disbursed through the school starting from January 2026.</p>
 (SPR)</p>
 </li>
 <li>
-<p>Family has a gross per capita income (PCI) of $750/ month or less.</p>
+<p>Family has a gross per capita income (PCI) of $1000/ month or less.</p>
 </li>
 <li>
 <p>Student is receiving full-time formal education in a mainstream primary
@@ -43,19 +43,19 @@ ComCare Assistance, student will only need to submit completed Annex A
 (Application form) with ComCare Assistance letter indicating period of
 assistance (Submission will be accepted as long as the Applicant/student
 is under assistance at the point of STSPMF application).&nbsp;</p>
-<p>&nbsp;<strong>Students currently receiving the allowance would need to re-apply for 2026. MOE FAS beneficiaries are eligible to apply as well.</strong>
+<p>&nbsp;<strong>Students currently receiving the allowance would need to re-apply for 2027. MOE FAS beneficiaries are eligible to apply as well.</strong>
 </p>
 <p>&nbsp;<strong>Applications must be submitted together with the supporting documents.</strong>
 </p>
 <p>&nbsp;To apply, please submit the completed application forms to the General
-Office&nbsp;<strong>no later than Thursday, 11 September 2025</strong>.</p>
+Office&nbsp;<strong>no later than Friday, 13 February 2026</strong>.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools__5Aug2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 STSPMF Application Form</a>
+<p><a href="/files/2026_STSPMF_Application_Form_2nd_cycle.pdf" rel="noopener nofollow" target="_blank">2026 STSPMF Application Form (2nd cycle)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Declaration Form</a>
+<p><a href="/files/2026_Income_declaration_form.pdf" rel="noopener nofollow" target="_blank">Income Declaration Form</a>
 </p>
 </li>
 </ol>
