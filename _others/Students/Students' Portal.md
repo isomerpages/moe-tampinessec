@@ -32,7 +32,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Term_1_Sec_2_WA_Schedule_2026_dated_26_Jan.pdf" rel="noopener nofollow" target="_blank">Sec 2 Schedule</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Term_1_Sec_2_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Format</a>
