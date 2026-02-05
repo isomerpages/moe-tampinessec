@@ -3,17 +3,8 @@ title: Achievements
 permalink: /our-people/alumni/achievements/
 description: ""
 third_nav_title: Alumni
+variant: markdown
 ---
-![](/images/Jocelyn%20Kelly.jpg)
-
-### JOCELLYN KELLY
-
-**Recipient of Singapore Polytechnic Scholarship Award**  
-
-The award recognises students with excellent academic achievements, outstanding leadership qualities and significant accomplishments in co-curricular activities.
-
-![](/images/TP%20Alumnus%20-%20Guo%20Xiaoting.png)
-
 ### CUASAY CHRISTIAN ALLEN E
 
 **Recipient of Temasek Polytechnic engineering Scholarship Award**
