@@ -2,7 +2,6 @@
 title: Discipline Procedures
 permalink: /our-school/Tampinesian-Code-of-Conduct/discipline-procedures/
 description: ""
-third_nav_title: Tampinesian Code of Conduct
 variant: markdown
 ---
 **All Tampinesians are to comply with the following procedures. Failure to comply may result in disciplinary action taken against them.**

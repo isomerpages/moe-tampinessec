@@ -2,7 +2,6 @@
 title: Image of Tampinesian
 permalink: /our-school/Tampinesian-Code-of-Conduct/image-of-tampinesian/
 description: ""
-third_nav_title: Tampinesian Code of Conduct
 variant: markdown
 ---
 **The image of a Tampinesian is important to the school. Students must conform to the dress code to uphold the image. Students who do not conform will be asked to correct themselves. Parents will also be informed and the school seeks the parents’ cooperation in ensuring that their child conforms to the dress code.**    

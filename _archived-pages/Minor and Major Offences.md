@@ -2,7 +2,6 @@
 title: Minor and Major Offences
 permalink: /our-school/Tampinesian-Code-of-Conduct/minor-and-major-offences/
 description: ""
-third_nav_title: Tampinesian Code of Conduct
 variant: markdown
 ---
 **Tampinesians are capable of responsible and respectful&nbsp;behaviour&nbsp;towards themselves, peers and teachers. Consequences for&nbsp;misbehaviours&nbsp;are imposed to ensure a safe and secure environment for all members of the school community.** &nbsp;
