@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Use of School Lockers.md
       - Conduct Grading Rubrics.md
       - Mobile Phone Policy.md
       - Minor and Major Offences.md
