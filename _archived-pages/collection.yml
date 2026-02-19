@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Discipline Procedures.md
       - Image of Tampinesian.md
       - Canteen Advertisement.md
       - Full Subject Based Banding.md
