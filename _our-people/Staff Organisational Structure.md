@@ -221,14 +221,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CHEMISTRY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liy Lee Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH MATHEMATICS</p>
 </td>
 <td rowspan="1" colspan="1">
