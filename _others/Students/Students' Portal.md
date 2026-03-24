@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h3>2026 Term 1 WA Assessment Schedule and Format</h3>
+<h3>2026 Term 2 WA Assessment Schedule and Format</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,41 +22,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_1_Sec_1_WA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Schedule</a>
+<p><a href="/files/Term_2_Sec_1_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_1_Sec_1_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Format</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Term_1_Sec_2_WA_Schedule_2026_dated_26_Jan.pdf" rel="noopener nofollow" target="_blank">Sec 2 Schedule</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Term_1_Sec_2_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Format</a>
+<p><a href="/files/Term_2_Sec_1_WA2_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Format</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_1_Sec_3_WA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Schedule</a>
+<p><a href="/files/Term_2_Sec_2_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_1_Sec_3_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Format</a>
+<p><a href="/files/Term_2_Sec_2_WA2_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Format</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_1_Sec_4_5_WA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Schedule</a>
+<p><a href="/files/Term_2_Sec_3_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_1_Sec_4_WA_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Assessment Format</a>
+<p><a href="/files/Term_2_Sec_3_WA2_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Format</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_2_Sec_4_5_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Term_2_Sec_4_5_WA2_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Assessment Format</a>
 </p>
 </td>
 </tr>
