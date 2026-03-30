@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_2_Sec_1_WA2_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Format</a>
+<p><a href="/files/Term_2_Sec_1_WA2_Assessment_Format_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Format</a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_2_Sec_2_WA2_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Format</a>
+<p><a href="/files/Term_2_Sec_2_WA2_Assessment_Format_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Format</a>
 </p>
 </td>
 </tr>
@@ -46,7 +46,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_2_edited_Sec_3_WA2_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Format</a>
+<p><a href="/files/Term_2_Sec_3_WA2_Assessment_Format_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Format</a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Term_2_Sec_4_5_WA2_Assessment_Format_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Assessment Format</a>
+<p><a href="/files/Term_2_Sec_4_5_WA2_Assessment_Format_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Assessment Format</a>
 </p>
 </td>
 </tr>
