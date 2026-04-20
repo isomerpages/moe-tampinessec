@@ -327,22 +327,30 @@ the area of talent.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Visual and Performing Arts</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Mr Ong Eng Kia Aloysius</p>
-<p></p>
 <p>Asst. Year Head</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:ong_eng_kia_aloysius@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_kia_aloysius@moe.edu.sg</a> 
+<p><a href="mailto:ong_eng_kia_aloysius@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_kia_aloysius@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
