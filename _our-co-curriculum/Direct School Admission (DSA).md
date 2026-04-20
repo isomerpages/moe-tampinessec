@@ -4,12 +4,12 @@ permalink: /our-co-curriculum/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h3>2025 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE</h3>
+<h3>2026 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE</h3>
 <p><strong>Introduction</strong>
 </p>
 <p>Tampines Secondary School (TPSS) extends a warm invitation to Primary
 6 students to apply for direct admission into the school for academic year
-2026, before the Secondary One Posting Exercise.</p>
+2027, before the Secondary One Posting Exercise.</p>
 <p></p>
 <p>We welcome students who are talented in any of the following areas:</p>
 <h3><strong>Admission Criteria&nbsp;</strong></h3>
@@ -44,11 +44,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Candidates should meet at least two of the following criteria:
 <br>1. Prior experience in the talent area
-<br>2. Participation in national performance and/or competition with attainment
-(e.g. Certificate of Accomplishment at SYF AP)
-<br>3. Attained at least Grade 5 (or equivalent) in the relevant talent area
-<br>4. Possess a personal portfolio (e.g. comprising student’s own drawings
-or paintings; at least 5, not more than 10)</p>
+<br>2. Evidence of participation in Art competitions or exhibition
+<br>3. Possess a personal Art portfolio (e.g. comprising student’s own artwork
+and reflection of at least 2 different Art Forms); the Art portfolio should
+have up to 8 pieces of the students' artworks.</p>
+<p></p>
+<p>The portfolio can be compiled using basic computing software, e.g., images
+on PowerPoint slides or Word documents (1 work per slide/page).</p>
+<p>Selected artwork should reflect applicant’s interests, experiences, and
+abilities.</p>
+<p>2D, 3D and time-based artwork can be included (videos can be hosted online
+with links provided).</p>
+<p>Artwork should be completed in the last 3 years and can include work done
+in Primary school Art lessons, CCA or as part of applicant’s leisure time.
+The date of completion for each artwork should be indicated.</p>
 </td>
 </tr>
 <tr>
@@ -85,10 +94,10 @@ videos of past projects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Candidates should meet at least one of the following criteria:
-<br>1.For boys: Prior experience as a member of Football CCA or equivalent
+<br>1. For boys: Prior experience as a member of Football CCA or equivalent
 (e.g. external football training programme)&nbsp;</p>
 <p>For girls: Prior experience as a member of a sports CCA or equivalent
-(e.g. external football training programme)&nbsp; OR</p>
+(e.g. external football training programme) OR</p>
 <p>
 <br>2. Past participation in football competitions/events.</p>
 <p></p>
@@ -99,8 +108,8 @@ videos of past projects</p>
 <p>
 <br>
 </p>
-<p>Please note that meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer.&nbsp;</p>
+<p>Please note that meeting all the criteria does not guarantee that the
+student will be shortlisted/given an offer.&nbsp;</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants</p>
@@ -109,24 +118,30 @@ assessing the potential of the applicants</p>
 </p>
 <h3><strong>Selection Process</strong></h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from Wed 7 May 2025,
-11am to Tue 3 Jun 2025, 3pm. For more details, please refer to MOE website
+The application is free-of-charge and will be open from Wed 6 May 2026,
+11am to Tue 3 Jun 2026, 4.30pm. For more details, please refer to MOE website
 – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
+the students' aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>Unless otherwise stated, DSA selection interviews are conducted in-person
-at Tampines Secondary School. Details for each selection interview will
-be shared with shortlisted students in due course.</p>
+<p>Unless otherwise stated, DSA selection trial and interviews are conducted
+in-person at Tampines Secondary School. Details will be shared with shortlisted
+students in due course.</p>
+<p>The interview trial panel will include TPSS DSA coordinator and teacher
+I/Cs or instructors (where relevant).</p>
 <p>The interview panel will include a School Leader, a TPSS DSA coordinator
-and teacher I/Cs or instructors (where relevant). Thereafter, all applicants
-will be informed of the outcome (i.e. ‘Confirmed Offer’, ‘Wait List’ or
-‘Unsuccessful’), via email or phone call by Thu 4 Sep 2025.</p>
+and teacher I/Cs.</p>
+<p>You will receive a notification from the school by Fri 17 Jul 2026, if
+your child has been shortlisted to undergo Direct School Admission (DSA)
+selection. All applicants will receive their application outcomes between
+Mon 17 and Fri 28 Aug 2026.</p>
+<p>Thereafter, all applicants will be informed of the outcome (i.e. ‘Confirmed
+Offer’, ‘Wait List’ or ‘Unsuccessful’), via email or phone call between
+17 and 28 Aug 2026.</p>
 <p>In addition to a 10-minute interview (group/individual) for each shortlisted
-applicant&nbsp; , the following modes of selection are also used.</p>
-<p></p>
+applicant, the following modes of selection will also used.</p>
 <p><strong>a) For Dance-related Talent Areas</strong>
 </p>
 <ul>
@@ -205,13 +220,14 @@ at MOE’s website&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noop
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>11am</u> on Wed 7 May 2025 to
-<br><u>3pm</u> on Tues, 3 Jun 2025.</p>
+<p><u>11 am</u> on Wed 6 May 2026 to
+<br><u>4.30 pm</u> on Tues, 2 Jun 2026.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
+The application is free of charge and will be open from Wed 6 May 2026,
+11am to 2 Jun 2026, 4.30 pm. For more details, please refer to MOE website
+– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
 </td>
 </tr>
 <tr>
@@ -226,17 +242,16 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="h
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By Thu 17 Jul 2025</p>
+<p>By Fri 17 Jul 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents and students will receive notification from the school by&nbsp;
-Thu 17 Jul 2025 if the child has been shortlisted to undergo Direct School
-Admission (DSA) selection.&nbsp;</p>
+<p>Parents and students will receive notification from the school if the
+child has been shortlisted to undergo Direct School Admission (DSA) selection.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 21 Jul to Fri 22 Aug 2025</p>
+<p>Mon 20 Jul to Fri 21 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted students will be invited to attend an interview and/or audition
@@ -246,29 +261,28 @@ area.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 25 Aug to 4 Thu Sep 2025</p>
+<p>Mon 17 Aug to Fri 28 Sep 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will receive their application outcomes between 25 Aug
-and 4 Sep 2025.</p>
+<p>All applicants will receive their application outcomes.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p>Please note that successful DSA-Sec candidates who took the PSLE are NOT
-allowed to participate in the S1 Posting. . However, if they are eligible
+allowed to participate in the S1 Posting. However, if they are eligible
 for third language and/or Posting Group options, they may enter these options
-during the School Choice Submission period via the S1 Posting Portal. Successful
-DSA-Sec candidates are also NOT allowed to transfer to another school after
-the release of the PSLE results.</p>
+during the School Choice Submission period via the S1 Posting Portal.</p>
+<p>Successful DSA-Sec candidates are also NOT allowed to transfer to another
+school after the release of the PSLE results.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
+to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.&nbsp;</p>
-<p>Unsuccessful DSA-Sec candidates will be notified of the outcome and to
-participate in the S1 Posting to submit school choices.</p>
+<p>Unsuccessful DSA-Sec candidates will be notified of the outcome and are
+to participate in the S1 Posting to submit school choices.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
+the students' aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p><strong>Contact Details</strong>
