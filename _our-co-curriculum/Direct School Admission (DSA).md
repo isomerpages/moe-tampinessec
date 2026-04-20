@@ -315,7 +315,9 @@ the area of talent.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Victor Ng Vic Meng
-<br>Head of Department Science</p>
+<br>
+</p>
+<p>Head of Department Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/dance-dynamics/" rel="noopener noreferrer nofollow" target="_blank">ng_vic_meng@moe.edu.sg</a>
@@ -325,31 +327,22 @@ the area of talent.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Visual and Performing Arts</p>
+<p></p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Ming Quan</p>
-<p>Year Head</p>
+<td rowspan="2" colspan="1">
+<p>Mr Ong Eng Kia Aloysius</p>
+<p></p>
+<p>Asst. Year Head</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/dance-dynamics/" rel="noopener noreferrer nofollow" target="_blank">tan_ming_quan@moe.edu.sg</a>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:ong_eng_kia_aloysius@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_kia_aloysius@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr S Elangovan&nbsp;</p>
-<p>Head of Department PE/CCA</p>
-<p>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tampinessec.moe.edu.sg/our-co-curriculum/co-curricular-activities-ccas/visual-n-performing-arts/dance-dynamics/" rel="noopener noreferrer nofollow" target="_blank">s_elangovan@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
