@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Canteen Advertisement.md
       - Principal's Message.md
       - Vision Mission Motto Values.md
       - School Song.md
@@ -11,3 +10,4 @@ collections:
       - Tampinesian Code of Conduct/.keep
       - Tampinesian Code of Conduct/Tampinesian Code of Conduct.md
       - School Information.md
+      - Canteen Advertisement.md
