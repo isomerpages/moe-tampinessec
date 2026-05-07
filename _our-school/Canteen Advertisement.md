@@ -27,10 +27,10 @@ description: ""
 <p>Hot Drink and Snack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 November 2025</p>
+<p>25 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>E.g. coffee, cappuccino, latte, tea, milo, sandwiches, waffle, pastries</p>
+<p>E.g. hot coffee, hot tea, hot milo, sandwiches, waffle, pastries</p>
 </td>
 </tr>
 </tbody>
@@ -62,10 +62,18 @@ hardcopy of the Application Form from the School's General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
 <p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
 <p>Photocopy of relevant certificates such as Food Safety Course Level 1
 etc.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
