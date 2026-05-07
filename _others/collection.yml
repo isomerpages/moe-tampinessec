@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Canteen Advertisement.md
       - Parents/Straits Times School Pocket Money Fund.md
       - Parents/.keep
       - Parents/Parents Gateway.md
