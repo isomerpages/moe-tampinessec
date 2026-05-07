@@ -19,6 +19,11 @@ sections:
           url: /others/teachers-portal/
       background: /images/Homepage_Banner_4.gif
   - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: More details
+      url: https://tampinessec.moe.edu.sg/canteen-advertisement/
+  - infobar:
       title: Direct School Admission (DSA)
       subtitle: Application for DSA now open!
       id: infobar
@@ -86,9 +91,4 @@ sections:
       url: https://www.facebook.com/TampinesSec/
       image: /images/Social media annoucement.gif
       alt: Image alt text
-  - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      button: More details
-      url: https://tampinessec.moe.edu.sg/canteen-advertisement/
 ---
