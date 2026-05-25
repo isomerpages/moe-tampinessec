@@ -5,6 +5,15 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>2026 Mid-Year Holiday Homework</h3>
+<p><a href="https://docs.google.com/spreadsheets/d/1WA-_ttn8TcZPD1Co2gv8xgdecgAHbFFyNswfu2NnVM4/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1A-6V_SDfBMsYUy8e7IHi1KFAEi2FsgwiZQjbDK46rlk/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1rBuMZRegj--gdhyGGtOCFv7XlzaSvr2RZn1mDieb7cA/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1zHePWfVdjS0DYqIs4nErSbus21QSpFAWI_T6ZMQbSW4/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a>
+</p>
 <h3>2026 Term 2 WA Assessment Schedule and Format</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,13 +85,6 @@ variant: tiptap
 <a href="/files/Booklist_2026_TPS_S4G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)(G2)</a>| <a href="/files/Booklist_2026_TPS_S4G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)(G1)</a>
 </p>
 <p><a href="/files/Booklist_2026_TPS_S5NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal (Academic)</a>
-</p>
-<h3>2025 Year-End Holiday Homework</h3>
-<p><a href="https://docs.google.com/spreadsheets/d/1ryd-QipZtsWi1a1Pp0_rZUtj36nCMsSgzrzP7-9fda4/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-</p>
-<p><a href="https://docs.google.com/spreadsheets/d/1jGrlupPYsNM0IAUghzoMW5XPlrwykCyy8wLWaZbzL6k/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-</p>
-<p><a href="https://docs.google.com/spreadsheets/d/106HN0mMCoLDKeqp0eT_JTMmgU7Ea8zFWMvWSGVSlQN0/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 <h3>Sec 1 to 3 End-of-Year Examination Timetable</h3>
 <p><a href="/files/Students_Sec_1_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
