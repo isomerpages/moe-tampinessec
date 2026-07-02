@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>2026 Sec 4 Prelim Schedule and Assessment Format</h3>
+<p><a href="/files/Prelim_Timetable_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1dW2W8fK5YIWOZcGkspWqblDdaLG8Y3pNFlLscDUaFko/edit?gid=240452486#gid=240452486" rel="noopener nofollow" target="_blank">Assessment Format</a>
+</p>
 <h3>2026 Mid-Year Holiday Homework</h3>
 <p><a href="https://docs.google.com/spreadsheets/d/1WA-_ttn8TcZPD1Co2gv8xgdecgAHbFFyNswfu2NnVM4/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
@@ -86,21 +91,6 @@ variant: tiptap
 </p>
 <p><a href="/files/Booklist_2026_TPS_S5NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal (Academic)</a>
 </p>
-<h3>Sec 1 to 3 End-of-Year Examination Timetable</h3>
-<p><a href="/files/Students_Sec_1_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-</p>
-<p><a href="/files/Students_Sec_2_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-</p>
-<p><a href="/files/Students_Sec_3G1_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G1</a>
-</p>
-<p><a href="/files/Students_Sec_3G2_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G2</a>
-</p>
-<p><a href="/files/Students_Sec_3G3_Term_4_EYE_TIMETABLE_2025_1_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G3</a>
-</p>
-<p></p>
-<h3>Sec 4 &amp; 5 Preliminary Examination</h3>
-<p>Please click <a href="/files/For_Students_PRELIM_EXAM_TIMETABLE_2025_24_Jul_25.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the examination timetable. All the best for your examinations.</p>
 <p></p>
 <h3>Counselling Self-referral</h3>
 <p>Dear students, if you wish to speak to the school counsellors, please
