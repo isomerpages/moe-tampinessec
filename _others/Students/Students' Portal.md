@@ -11,7 +11,7 @@ variant: tiptap
 <h3>2026 Sec 4 Prelim Schedule and Assessment Format</h3>
 <p><a href="/files/Prelim_Timetable_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
 </p>
-<p><a href="https://docs.google.com/spreadsheets/d/1dW2W8fK5YIWOZcGkspWqblDdaLG8Y3pNFlLscDUaFko/edit?gid=240452486#gid=240452486" rel="noopener nofollow" target="_blank">Assessment Format</a>
+<p><a href="/files/Prelim_Timetable_2026_final_8_Jul.pdf" rel="noopener nofollow" target="_blank">Assessment Format</a>
 </p>
 <h3>2026 Mid-Year Holiday Homework</h3>
 <p><a href="https://docs.google.com/spreadsheets/d/1WA-_ttn8TcZPD1Co2gv8xgdecgAHbFFyNswfu2NnVM4/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
