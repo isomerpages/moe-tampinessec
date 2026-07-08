@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3>2026 Term 3 WA Assessment Schedule and Format</h3>
+<p><a href="https://docs.google.com/spreadsheets/d/1SUhzplNhO-f6vgJjbhoGmMlEBOaV9P5XgXD3DzFbpW8/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 - 3 WA3 Assessment Schedule and Format</a>
+</p>
 <h3>2026 Sec 4 Prelim Schedule and Assessment Format</h3>
 <p><a href="/files/Prelim_Timetable_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
 </p>
