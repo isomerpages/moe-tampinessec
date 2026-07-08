@@ -60,30 +60,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Marcus Loh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Radziah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nirain Mustafa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +80,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Habiba Jainulabdeen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Service Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Yee Koon</p>
 </td>
 </tr>
 <tr>
@@ -176,14 +160,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ni Wei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hasnah Mansor</p>
 </td>
 </tr>
 <tr>
