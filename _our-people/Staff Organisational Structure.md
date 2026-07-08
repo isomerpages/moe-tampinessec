@@ -85,6 +85,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD HUMANITIES / YH SUPPORTING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Mui Tian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD MATHEMATICS</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,6 +113,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Victor Ng Vic Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aloysius Ong Eng Kia</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +165,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR HEAD (internal)</p>
+<p>YEAR HEAD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nallu Dhinakharan</p>
@@ -181,7 +197,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. YEAR HEAD / PE (covering)</p>
+<p>Asst. YEAR HEAD (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aloysius Ong Eng Kia</p>
