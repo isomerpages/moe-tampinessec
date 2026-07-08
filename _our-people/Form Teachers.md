@@ -435,7 +435,7 @@ variant: tiptap
 <p>848</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_gim_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_gim_koon@moe.edu.sg</a> 
+<p><a href="mailto:koh_gim_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_gim_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -522,7 +522,7 @@ variant: tiptap
 <p>831</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jalessa_law_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jalessa_law_xin_yi@moe.edu.sg</a> 
+<p><a href="mailto:jalessa_law_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jalessa_law_xin_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -574,7 +574,7 @@ variant: tiptap
 <p>830</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_xuan_min_shermyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xuan_min_shermyn@moe.edu.sg</a> 
+<p><a href="mailto:lee_xuan_min_shermyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xuan_min_shermyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1180,7 +1180,7 @@ variant: tiptap
 <p>834</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_wen_see_glenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wen_see_glenda@moe.edu.sg</a> 
+<p><a href="mailto:koh_wen_see_glenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wen_see_glenda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
